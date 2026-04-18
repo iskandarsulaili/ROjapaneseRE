@@ -2,9 +2,207 @@
 -- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
 -- This file can be distributed, used and modified freely
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
--- Last updated: 20250416
+-- Last updated: 20251008
 
 mapTbl = {
+	["ch1fild1.rsw"] = {
+		displayName = "Twisted Dark Land - 1 Erosion",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Northern Midgard",
+			mainTitle = "Twisted Dark Land - 1 Erosion"
+		},
+		backgroundBmp = "noname"
+	},
+	["ch1zero1.rsw"] = {
+		displayName = "Zerocell Sector, Abandoned Research Institute in the Second World - Lux",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Second World, Abandoned Research Institute",
+			mainTitle = "Zerocell Sector - Lux"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["ch1zero2.rsw"] = {
+		displayName = "Zerocell Sector, Abandoned Research Institute in the Second World - Nox",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Second World, Abandoned Research Institute",
+			mainTitle = "Zerocell Sector - Nox"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["ch1zero3.rsw"] = {
+		displayName = "Zerocell Sector, Abandoned Research Institute in the Second World - Vita",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Second World, Abandoned Research Institute",
+			mainTitle = "Zerocell Sector - Vita"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["ch1zero4.rsw"] = {
+		displayName = "Zerocell Sector, Abandoned Research Institute in the Second World - Arc",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Second World, Abandoned Research Institute",
+			mainTitle = "Zerocell Sector - Arc"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["starhall.rsw"] = {
+		displayName = "Hall of Stars",
+		notifyEnter = true,
+		signName = {
+			subTitle = "ROS Memorial Hall",
+			mainTitle = "Hall of Stars"
+		},
+		backgroundBmp = "village"
+	},
+	["25ros03_01.rsw"] = {
+		displayName = "Arena Nightmare Toy Factory",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Arena",
+			mainTitle = "Nightmare Toy Factory"
+		},
+		backgroundBmp = "noname"
+	},
+	["2025arena1.rsw"] = {
+		displayName = "Arena Forgotten GlastHeim",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Arena",
+			mainTitle = "Forgotten GlastHeim"
+		},
+		backgroundBmp = "noname"
+	},
+	["2025arena2.rsw"] = {
+		displayName = "Arena NiflHeim, Banquet hall for the dead",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Arena",
+			mainTitle = "Banquet hall for the dead"
+		},
+		backgroundBmp = "noname"
+	},
+	["2025arena3.rsw"] = {
+		displayName = "Arena Nightfall of Brazilis",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Arena",
+			mainTitle = "Nightfall of Brazilis"
+		},
+		backgroundBmp = "noname"
+	},
+	["2025arena4.rsw"] = {
+		displayName = "Arena Sunset of Ayothaya",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Arena",
+			mainTitle = "Sunset of Ayothaya"
+		},
+		backgroundBmp = "noname"
+	},
+	["2025arena5.rsw"] = {
+		displayName = "Arena Somatology Laboratory",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Arena",
+			mainTitle = "Somatology Laboratory"
+		},
+		backgroundBmp = "noname"
+	},
+	["vr_cas.rsw"] = {
+		displayName = "Fantasy Series - Lilium Palace",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Fantasy Series-001",
+			mainTitle = "Lilium Palace"
+		},
+		backgroundBmp = "village"
+	},
+	["vr_gen.rsw"] = {
+		displayName = "Fantasy Series - Generic Research Institute",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Fantasy Series-004",
+			mainTitle = "Generic Research Institute"
+		},
+		backgroundBmp = "noname"
+	},
+	["vr_clo1.rsw"] = {
+		displayName = "Fantasy Series - Mirror Monastery",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Fantasy Series-005",
+			mainTitle = "Mirror Monastery"
+		},
+		backgroundBmp = "noname"
+	},
+	["vr_clo2.rsw"] = {
+		displayName = "Fantasy Series - All Those Moments",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Fantasy Series-005",
+			mainTitle = "All Those Moments"
+		},
+		backgroundBmp = "noname"
+	},
+	["vr_po.rsw"] = {
+		displayName = "Fantasy Series - Poringtera",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Fantasy Series-007",
+			mainTitle = "Poringtera"
+		},
+		backgroundBmp = "noname"
+	},
+	["vr_pop1.rsw"] = {
+		displayName = "Fantasy Series - Rainbow Road",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Fantasy Series-012",
+			mainTitle = "Rainbow Road"
+		},
+		backgroundBmp = "field"
+	},
+	["vr_pop2.rsw"] = {
+		displayName = "Fantasy Series - Rainbow Road",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Fantasy Series-012",
+			mainTitle = "Rainbow Road"
+		},
+		backgroundBmp = "field"
+	},
+	["vr_pop3.rsw"] = {
+		displayName = "Fantasy Series - Rainbow Lake",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Fantasy Series-012",
+			mainTitle = "Rainbow Lake"
+		},
+		backgroundBmp = "field"
+	},
+	["httyd_01.rsw"] = {
+		displayName = "The Serene Abyss Lake",
+		notifyEnter = true,
+		signName = {
+			subTitle = "How to Train Your Dragon",
+			mainTitle = "The Serene Abyss Lake"
+		},
+		backgroundBmp = "field_s2"
+	},
+	["httyd_02.rsw"] = {
+		displayName = "The Serene Abyss Lake Underground Cave",
+		notifyEnter = true,
+		signName = {
+			subTitle = "How to Train Your Dragon",
+			mainTitle = "The Serene Abyss Lake Underground Cave"
+		},
+		backgroundBmp = "dungeon"
+	},
 	["ygg_roots.rsw"] = {
 		displayName = "Twisted Dark Land",
 		notifyEnter = true,
@@ -178,20 +376,20 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["ch1_gfn01.rsw"] = {
-		displayName = "East of the Encroached Geffenia",
+		displayName = "Devoured Geffenia - East",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Second World",
-			mainTitle = "East of the Encroached Geffenia"
+			mainTitle = "Devoured Geffenia - East"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["ch1_gfn03.rsw"] = {
-		displayName = "West of the Encroached Geffenia",
+		displayName = "Devoured Geffenia - West",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Second World",
-			mainTitle = "West of the Encroached Geffenia"
+			mainTitle = "Devoured Geffenia - West"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -1903,10 +2101,10 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["mag_dun03.rsw"] = {
-		displayName = "Nogg Road F3",
+		displayName = "Nogg Road Dungeon F3",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "Nogg Road F3"
+			mainTitle = "Nogg Road Dungeon F3"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -1944,19 +2142,19 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@rgsr.rsw"] = {
-		displayName = "Regenshir",
+		displayName = "Regenschirm",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "Research Institute",
-			mainTitle = "Regenshir"
+			subTitle = "Corporate Research Institute",
+			mainTitle = "Regenschirm"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["rgsr_in.rsw"] = {
-		displayName = "Reckenberg Research Institute",
+		displayName = "Rekenber Research Institute",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "Reckenberg Research Institute"
+			mainTitle = "Rekenber Research Institute"
 		},
 		backgroundBmp = "village_s2"
 	},
@@ -2047,34 +2245,34 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["vis_h01.rsw"] = {
-		displayName = "Investigation Corridor F1",
+		displayName = "Illusion Corridor F1",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "Investigation Corridor F1"
+			mainTitle = "Illusion Corridor F1"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["vis_h02.rsw"] = {
-		displayName = "Investigation Corridor F2",
+		displayName = "Illusion Corridor F2",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "Investigation Corridor F2"
+			mainTitle = "Illusion Corridor F2"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["vis_h03.rsw"] = {
-		displayName = "Investigation Corridor F3",
+		displayName = "Illusion Corridor F3",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "Investigation Corridor F3"
+			mainTitle = "Illusion Corridor F3"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["vis_h04.rsw"] = {
-		displayName = "Investigation Corridor F4",
+		displayName = "Illusion Corridor F4",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "Investigation Corridor F4"
+			mainTitle = "Illusion Corridor F4"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -2946,10 +3144,10 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@tnm3.rsw"] = {
-		displayName = "Morocc Castle - Basement",
+		displayName = "Morroc Castle - Basement",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "Morocc Castle - Basement"
+			mainTitle = "Morroc Castle - Basement"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -3340,7 +3538,7 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["moc_prydn1.rsw"] = {
-		displayName = "Morocc Pyramid B1 - Nightmare",
+		displayName = "Morroc Pyramid B1 - Nightmare",
 		notifyEnter = true, 
 		signName = {
 			mainTitle = "Pyramid B1"
@@ -3348,7 +3546,7 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["moc_prydn2.rsw"] = {
-		displayName = "Morocc Pyramid B2 - Nightmare",
+		displayName = "Morroc Pyramid B2 - Nightmare",
 		notifyEnter = true, 
 		signName = {
 			mainTitle = "Pyramid B2"
@@ -3911,7 +4109,7 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["moc_para01.rsw"] = {
-		displayName = "Inside of Morocc Eden Group",
+		displayName = "Inside of Morroc Eden Group",
 		notifyEnter = true, 
 		signName = {
 			mainTitle = "Paradise"
@@ -6126,18 +6324,18 @@ mapTbl = {
 		displayName = "Inside the Rogue Guild"
 	},
 	["mag_dun02.rsw"] = {
-		displayName = "Nogg Road F2",
+		displayName = "Nogg Road Dungeon F2",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "Nogg Road F2"
+			mainTitle = "Nogg Road Dungeon F2"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["mag_dun01.rsw"] = {
-		displayName = "Nogg Road F1",
+		displayName = "Nogg Road Dungeon F1",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "Nogg Road F1"
+			mainTitle = "Nogg Road Dungeon F1"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -7434,47 +7632,47 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["in_sphinx1.rsw"] = {
-		displayName = "Morocc Sphinx B1",
+		displayName = "Morroc Sphinx B1",
 		notifyEnter = true, 
 		signName = {
 			subTitle = "Sograt Desert",
-			mainTitle = "Morocc Sphinx B1"
+			mainTitle = "Morroc Sphinx B1"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["in_sphinx2.rsw"] = {
-		displayName = "Morocc Sphinx B2",
+		displayName = "Morroc Sphinx B2",
 		notifyEnter = true, 
 		signName = {
 			subTitle = "Sograt Desert",
-			mainTitle = "Morocc Sphinx B2"
+			mainTitle = "Morroc Sphinx B2"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["in_sphinx3.rsw"] = {
-		displayName = "Morocc Sphinx B3",
+		displayName = "Morroc Sphinx B3",
 		notifyEnter = true, 
 		signName = {
 			subTitle = "Sograt Desert",
-			mainTitle = "Morocc Sphinx B3"
+			mainTitle = "Morroc Sphinx B3"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["in_sphinx4.rsw"] = {
-		displayName = "Morocc Sphinx B4",
+		displayName = "Morroc Sphinx B4",
 		notifyEnter = true, 
 		signName = {
 			subTitle = "Sograt Desert",
-			mainTitle = "Morocc Sphinx B4"
+			mainTitle = "Morroc Sphinx B4"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["in_sphinx5.rsw"] = {
-		displayName = "Morocc Sphinx B5",
+		displayName = "Morroc Sphinx B5",
 		notifyEnter = true, 
 		signName = {
 			subTitle = "Sograt Desert",
-			mainTitle = "Morocc Sphinx B5"
+			mainTitle = "Morroc Sphinx B5"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -7883,10 +8081,10 @@ mapTbl = {
 		displayName = "Inside Geffen"
 	},
 	["moc_ruins.rsw"] = {
-		displayName = "Morocc Ruins",
+		displayName = "Morroc Ruins",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "Morocc Ruins"
+			mainTitle = "Morroc Ruins"
 		},
 		backgroundBmp = "village_s2"
 	},
@@ -7900,7 +8098,7 @@ mapTbl = {
 		backgroundBmp = "village"
 	},
 	["morocc_in.rsw"] = {
-		displayName = "Inside Morocc"
+		displayName = "Inside Morroc"
 	},
 	["pay_arche.rsw"] = {
 		displayName = "Payon Archer Village",
@@ -8843,66 +9041,66 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_y_1-5.rsw"] = {
-		displayName = "PvP : Room Morocc",
+		displayName = "PvP : Room Morroc",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "PvP Room Morocc"
+			mainTitle = "PvP Room Morroc"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_y_2-5.rsw"] = {
-		displayName = "PvP : Room Morocc",
+		displayName = "PvP : Room Morroc",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "PvP Room Morocc"
+			mainTitle = "PvP Room Morroc"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_y_3-5.rsw"] = {
-		displayName = "PvP : Room Morocc",
+		displayName = "PvP : Room Morroc",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "PvP Room Morocc"
+			mainTitle = "PvP Room Morroc"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_y_4-5.rsw"] = {
-		displayName = "PvP : Room Morocc",
+		displayName = "PvP : Room Morroc",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "PvP Room Morocc"
+			mainTitle = "PvP Room Morroc"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_y_5-5.rsw"] = {
-		displayName = "PvP : Room Morocc",
+		displayName = "PvP : Room Morroc",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "PvP Room Morocc"
+			mainTitle = "PvP Room Morroc"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_y_6-5.rsw"] = {
-		displayName = "PvP : Room Morocc",
+		displayName = "PvP : Room Morroc",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "PvP Room Morocc"
+			mainTitle = "PvP Room Morroc"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_y_7-5.rsw"] = {
-		displayName = "PvP : Room Morocc",
+		displayName = "PvP : Room Morroc",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "PvP Room Morocc"
+			mainTitle = "PvP Room Morroc"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_y_8-5.rsw"] = {
-		displayName = "PvP : Room Morocc",
+		displayName = "PvP : Room Morroc",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "PvP Room Morocc"
+			mainTitle = "PvP Room Morroc"
 		},
 		backgroundBmp = "noname_s2"
 	},

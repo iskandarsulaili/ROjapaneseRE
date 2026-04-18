@@ -2,13 +2,20 @@
 -- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
 -- This file can be distributed, used and modified freely
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
--- Last updated: 20250416
+-- Last updated: 20250716
 
 TB_Layer_Priority = {
 	Default_Mid = 100,
 	Default_Top = 200,
 	Default_Bottom = 300,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_C_Neon_Half_Long] = { Default = 143, Direction = {} },
+		[ACCESSORY_IDs.ACCESSORY_C_CLB_DT_TS_Hat] = { Default = 143, Direction = {} },
+		[ACCESSORY_IDs.ACCESSORY_C_S_Two_Side_Up_SV] = { Default = 143, Direction = {} },
+		[ACCESSORY_IDs.ACCESSORY_C_Experiment_Mind] = { Default = 403, Direction = {} },
+		[ACCESSORY_IDs.ACCESSORY_C_Commentary_Booth] = { Default = 403, isIgnoreRiding = true },
+		[ACCESSORY_IDs.ACCESSORY_C_CLB_DT_TS_Mini] = { Default = 404, isIgnoreRiding = true },
+		[ACCESSORY_IDs.ACCESSORY_BRAZIL_RIBBON] = { Default = 301, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_C_B_Shiba_Inu_TW] = { Default = 304, isIgnoreRiding = true },
 		[ACCESSORY_IDs.ACCESSORY_CitrusRibbon] = { Default = 301, Direction = {} },
 		[ACCESSORY_IDs.ACCESSORY_C_Chewy_Low_Twin] = { Default = 143, Direction = {} },

@@ -2,7 +2,7 @@
 -- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
 -- This file can be distributed, used and modified freely
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
--- Last updated: 20250416
+-- Last updated: 20250716
 
 SPRITE_ROBE_IDs = {
 	ROBE_WINGS = 1,
@@ -269,5 +269,9 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_Resurrection_Bow = 263,
 	ROBE_C_CLB_HM_Noni = 264,
 	ROBE_C_I_Samurai_Sword = 265,
-	ROBE_C_3color_dumplings_P = 266
+	ROBE_C_3color_dumplings_P = 266,
+	ROBE_Glutton_Cerberus = 267,
+	ROBE_C_CLB_DT_TS_Wing = 268,
+	ROBE_Giant_Mad_Bunny_TW_LT = 269,
+	ROBE_C_Starrysky_Fountainpen = 270
 }

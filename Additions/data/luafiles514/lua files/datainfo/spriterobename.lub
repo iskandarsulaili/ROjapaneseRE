@@ -2,7 +2,7 @@
 -- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
 -- This file can be distributed, used and modified freely
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
--- Last updated: 20250416
+-- Last updated: 20250716
 
 RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "천사날개",
@@ -269,10 +269,13 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Resurrection_Bow] = "C_Resurrection_Bow",
 	[SPRITE_ROBE_IDs.ROBE_C_CLB_HM_Noni] = "C_CLB_HM_Noni",
 	[SPRITE_ROBE_IDs.ROBE_C_I_Samurai_Sword] = "C_I_Samurai_Sword",
-	[SPRITE_ROBE_IDs.ROBE_C_3color_dumplings_P] = "C_3color_dumplings_P"
+	[SPRITE_ROBE_IDs.ROBE_C_3color_dumplings_P] = "C_3color_dumplings_P",
+	[SPRITE_ROBE_IDs.ROBE_Glutton_Cerberus] = "Glutton_Cerberus",
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_DT_TS_Wing] = "C_CLB_DT_TS_Wing",
+	[SPRITE_ROBE_IDs.ROBE_Giant_Mad_Bunny_TW_LT] = "Giant_Mad_Bunny_TW_LT",
+	[SPRITE_ROBE_IDs.ROBE_C_Starrysky_Fountainpen] = "C_Starrysky_Fountainpen"
 }
-RobeNameTable_Eng = {
-	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
+RobeNameTable_Eng = {[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
 	[SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER] = "BAG_OF_ADVENTURER",
 	[SPRITE_ROBE_IDs.ROBE_WINGS_OF_FALLEN_ANGEL] = "WINGS_OF_FALLEN_ANGEL",
 	[SPRITE_ROBE_IDs.ROBE_AMISTR_BAG] = "AMISTR_BAG",
@@ -536,7 +539,11 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Resurrection_Bow] = "C_Resurrection_Bow",
 	[SPRITE_ROBE_IDs.ROBE_C_CLB_HM_Noni] = "C_CLB_HM_Noni",
 	[SPRITE_ROBE_IDs.ROBE_C_I_Samurai_Sword] = "C_I_Samurai_Sword",
-	[SPRITE_ROBE_IDs.ROBE_C_3color_dumplings_P] = "C_3color_dumplings_P"
+	[SPRITE_ROBE_IDs.ROBE_C_3color_dumplings_P] = "C_3color_dumplings_P",
+	[SPRITE_ROBE_IDs.ROBE_Glutton_Cerberus] = "Glutton_Cerberus",
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_DT_TS_Wing] = "C_CLB_DT_TS_Wing",
+	[SPRITE_ROBE_IDs.ROBE_Giant_Mad_Bunny_TW_LT] = "Giant_Mad_Bunny_TW_LT",
+	[SPRITE_ROBE_IDs.ROBE_C_Starrysky_Fountainpen] = "C_Starrysky_Fountainpen"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -699,5 +706,8 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Resurrection_Bow,
 	SPRITE_ROBE_IDs.ROBE_C_CLB_HM_Noni,
 	SPRITE_ROBE_IDs.ROBE_C_I_Samurai_Sword,
-	SPRITE_ROBE_IDs.ROBE_C_3color_dumplings_P
+	SPRITE_ROBE_IDs.ROBE_C_3color_dumplings_P,
+	SPRITE_ROBE_IDs.ROBE_Glutton_Cerberus,
+	SPRITE_ROBE_IDs.ROBE_Giant_Mad_Bunny_TW_LT,
+	SPRITE_ROBE_IDs.ROBE_C_Starrysky_Fountainpen
 }

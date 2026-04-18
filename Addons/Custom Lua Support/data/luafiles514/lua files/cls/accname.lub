@@ -9,5 +9,5 @@ AccNameTable_CLS = {
 }
 -----------     DON'T TOUCH THESE LINES AT ALL     -----------
 require('SystemEN/LuaFiles514/rotp_f')
-F_LuaTableMerge(AccNameTable_CLS,AccNameTable,false)
+F_ROTP(AccNameTable_CLS,AccNameTable)
 --------------------------------------------------------------

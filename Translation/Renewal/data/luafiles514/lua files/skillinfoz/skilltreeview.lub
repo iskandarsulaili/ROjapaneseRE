@@ -2,7 +2,7 @@
 -- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
 -- This file can be distributed, used and modified freely
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
--- Last updated: 20230919
+-- Last updated: 20251116
 
 SKILL_TREEVIEW_FOR_JOB = {
 	[JOBID.JT_NOVICE] = { 
@@ -324,7 +324,7 @@ SKILL_TREEVIEW_FOR_JOB = {
 		[10] = SKID.BA_ASSASSINCROSS,
 		[11] = SKID.BA_POEMBRAGI,
 		[12] = SKID.BA_APPLEIDUN,
-		[14] = SKID.BA_FROSTJOKE,
+		[14] = SKID.BA_FROSTJOKER,
 		[16] = SKID.BD_LULLABY,
 		[17] = SKID.BD_ROKISWEIL,
 		[18] = SKID.BD_SIEGFRIED,

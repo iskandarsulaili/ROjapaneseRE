@@ -2,7 +2,7 @@
 -- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
 -- This file can be distributed, used and modified freely
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
--- Last updated: 20250416
+-- Last updated: 20250716
 
 jobtbl = {
 	JT_MON_BEGIN = 1000,
@@ -5281,5 +5281,16 @@ jobtbl = {
 	JT_4_HM_NONI = 10624,
 	JT_4_HM_TARONG = 10622,
 	JT_4_HM_UZAGI = 10621,
-	JT_4_HM_YOBBY = 10626
+	JT_4_HM_YOBBY = 10626,
+	JT_4_F_VACATION_MIRIAM = 10628,
+	JT_C_TOWER_MANAGER2 = 22504,
+	JT_ANGELGOLT3 = 22505,
+	JT_1_CLB_DT_HICCUP = 10629,
+	JT_1_CLB_DT_ASTRID = 10630,
+	JT_1_CLB_DT_RUFFNUT = 10631,
+	JT_1_CLB_DT_TUFFNUT = 10632,
+	JT_1_CLB_DT_TOOTHLESS = 10633,
+	JT_1_CLB_DT_STORMFLY = 10634,
+	JT_1_CLB_DT_BARF_BELCH = 10635,
+	JT_4_POINT_PURPLE = 10636
 }

@@ -2,7 +2,7 @@
 -- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
 -- This file can be distributed, used and modified freely
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
--- Last updated: 20250416
+-- Last updated: 20250716
 
 ACCESSORY_IDs = {
 	ACCESSORY_GOGGLES = 1,
@@ -2676,5 +2676,25 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Majestic_Helmet_BL = 2686,
 	ACCESSORY_C_Frog_Cap_BW = 2687,
 	ACCESSORY_Eclipse_Muffler = 2688,
-	ACCESSORY_Evil_Druid_Hat_Blue = 2689
+	ACCESSORY_Evil_Druid_Hat_Blue = 2689,
+	ACCESSORY_Variant_Devils_Horn = 2690,
+	ACCESSORY_Midgard_Insignia = 2691,
+	ACCESSORY_Midgard_Diadem_JP = 2692,
+	ACCESSORY_C_CLB_DT_TS_Hat = 2693,
+	ACCESSORY_C_CLB_DT_TS_Mini = 2694,
+	ACCESSORY_C_CLB_DT_TS_Drooping = 2695,
+	ACCESSORY_C_CLB_DT_TS_Hood = 2696,
+	ACCESSORY_C_Wonderful_Long_N = 2697,
+	ACCESSORY_C_Wonderful_Long = 2698,
+	ACCESSORY_C_Forest_Friends = 2699,
+	ACCESSORY_C_Petal_Hood = 2700,
+	ACCESSORY_C_N_Forest_Cat = 2701,
+	ACCESSORY_C_Chick_Hat_BU = 2702,
+	ACCESSORY_C_Ear_Of_Puppy_OM = 2703,
+	ACCESSORY_Orange_Rear_Ribbon = 2704,
+	ACCESSORY_Snow_Aura_LT = 2705,
+	ACCESSORY_C_Twin_Milkyway_N = 2706,
+	ACCESSORY_C_Twin_Milkyway = 2707,
+	ACCESSORY_C_Blink_Eyes_Cosmic = 2708,
+	ACCESSORY_C_Stardust_Hairband_BU = 2709
 }

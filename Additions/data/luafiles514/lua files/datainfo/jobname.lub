@@ -2,7 +2,7 @@
 -- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
 -- This file can be distributed, used and modified freely
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
--- Last updated: 20250416
+-- Last updated: 20250716
 
 JobNameTable = {
 	[jobtbl.JT_WARPNPC] = "1_ETC_01",
@@ -5267,5 +5267,16 @@ JobNameTable = {
 	[jobtbl.JT_4_HM_NONI] = "4_hm_noni",
 	[jobtbl.JT_4_HM_TARONG] = "4_hm_tarong",
 	[jobtbl.JT_4_HM_UZAGI] = "4_hm_uzagi",
-	[jobtbl.JT_4_HM_YOBBY] = "4_hm_yobby"
+	[jobtbl.JT_4_HM_YOBBY] = "4_hm_yobby",
+	[jobtbl.JT_4_F_VACATION_MIRIAM] = "4_F_VACATION_MIRIAM",
+	[jobtbl.JT_C_TOWER_MANAGER2] = "C_TOWER_MANAGER",
+	[jobtbl.JT_ANGELGOLT3] = "ANGELGOLT",
+	[jobtbl.JT_1_CLB_DT_HICCUP] = "1_CLB_DT_HICCUP",
+	[jobtbl.JT_1_CLB_DT_ASTRID] = "1_CLB_DT_ASTRID",
+	[jobtbl.JT_1_CLB_DT_RUFFNUT] = "1_CLB_DT_RUFFNUT",
+	[jobtbl.JT_1_CLB_DT_TUFFNUT] = "1_CLB_DT_TUFFNUT",
+	[jobtbl.JT_1_CLB_DT_TOOTHLESS] = "1_CLB_DT_TOOTHLESS",
+	[jobtbl.JT_1_CLB_DT_STORMFLY] = "1_CLB_DT_STORMFLY",
+	[jobtbl.JT_1_CLB_DT_BARF_BELCH] = "1_CLB_DT_BARF_BELCH",
+	[jobtbl.JT_4_POINT_PURPLE] = "4_point_purple"
 }

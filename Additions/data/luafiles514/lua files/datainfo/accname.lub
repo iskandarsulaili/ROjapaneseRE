@@ -2,7 +2,7 @@
 -- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
 -- This file can be distributed, used and modified freely
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
--- Last updated: 20250416
+-- Last updated: 20250716
 
 AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_GOGGLES] = "_°í±Û",
@@ -2676,5 +2676,25 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Majestic_Helmet_BL] = "_C_Majestic_Helmet_BL",
 	[ACCESSORY_IDs.ACCESSORY_C_Frog_Cap_BW] = "_C_Frog_Cap_BW",
 	[ACCESSORY_IDs.ACCESSORY_Eclipse_Muffler] = "_Eclipse_Muffler",
-	[ACCESSORY_IDs.ACCESSORY_Evil_Druid_Hat_Blue] = "_Evil_Druid_Hat_Blue"
+	[ACCESSORY_IDs.ACCESSORY_Evil_Druid_Hat_Blue] = "_Evil_Druid_Hat_Blue",
+	[ACCESSORY_IDs.ACCESSORY_Variant_Devils_Horn] = "_Variant_Devils_Horn",
+	[ACCESSORY_IDs.ACCESSORY_Midgard_Insignia] = "_Midgard_Insignia",
+	[ACCESSORY_IDs.ACCESSORY_Midgard_Diadem_JP] = "_Midgard_Diadem_JP",
+	[ACCESSORY_IDs.ACCESSORY_C_CLB_DT_TS_Hat] = "_C_CLB_DT_TS_Hat",
+	[ACCESSORY_IDs.ACCESSORY_C_CLB_DT_TS_Mini] = "_C_CLB_DT_TS_Mini",
+	[ACCESSORY_IDs.ACCESSORY_C_CLB_DT_TS_Drooping] = "_C_CLB_DT_TS_Drooping",
+	[ACCESSORY_IDs.ACCESSORY_C_CLB_DT_TS_Hood] = "_C_CLB_DT_TS_Hood",
+	[ACCESSORY_IDs.ACCESSORY_C_Wonderful_Long_N] = "_C_Wonderful_Long_N",
+	[ACCESSORY_IDs.ACCESSORY_C_Wonderful_Long] = "_C_Wonderful_Long",
+	[ACCESSORY_IDs.ACCESSORY_C_Forest_Friends] = "_C_Forest_Friends",
+	[ACCESSORY_IDs.ACCESSORY_C_Petal_Hood] = "_C_Petal_Hood",
+	[ACCESSORY_IDs.ACCESSORY_C_N_Forest_Cat] = "_C_N_Forest_Cat",
+	[ACCESSORY_IDs.ACCESSORY_C_Chick_Hat_BU] = "_C_Chick_Hat_BU",
+	[ACCESSORY_IDs.ACCESSORY_C_Ear_Of_Puppy_OM] = "_C_Ear_Of_Puppy_OM",
+	[ACCESSORY_IDs.ACCESSORY_Orange_Rear_Ribbon] = "_Orange_Rear_Ribbon",
+	[ACCESSORY_IDs.ACCESSORY_Snow_Aura_LT] = "_Snow_Aura_LT",
+	[ACCESSORY_IDs.ACCESSORY_C_Twin_Milkyway_N] = "_C_Twin_Milkyway_N",
+	[ACCESSORY_IDs.ACCESSORY_C_Twin_Milkyway] = "_C_Twin_Milkyway",
+	[ACCESSORY_IDs.ACCESSORY_C_Blink_Eyes_Cosmic] = "_C_Blink_Eyes_Cosmic",
+	[ACCESSORY_IDs.ACCESSORY_C_Stardust_Hairband_BU] = "_C_Stardust_Hairband_BU"
 }

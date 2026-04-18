@@ -1,0 +1,27 @@
+-- Original translation works of zackdreaver: https://github.com/zackdreaver/ROenglishRE
+-- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
+-- This file can be distributed, used and modified freely
+-- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
+-- This file only works if used in combination with the `Custom Lua Support`
+
+ItemDBNameTbl_CLS = {
+	--[[ Format:
+	Constant = ItemID,
+	
+	A constant is a shortcut pointing towards a value
+	These are used in:
+	* ItemReformSystem for BaseItem, Material and ResultItem fields/tables
+	* EnchantList for AddTargetItem, SetReset, SetRequire, SetEnchant and AddPerfectEnchant fields/tables
+	 
+	So if you use a constant not declared here, you'll recieve lua errors.
+	Examples:
+	TestBox = 1000000,
+	TestItem1 = 1000001,
+	TestItem2 = 1000002
+	]]
+}
+
+-----------     DON'T TOUCH THESE LINES AT ALL     -----------
+require('SystemEN/LuaFiles514/rotp_f')
+F_ROTP(ItemDBNameTbl_CLS,ItemDBNameTbl)
+--------------------------------------------------------------

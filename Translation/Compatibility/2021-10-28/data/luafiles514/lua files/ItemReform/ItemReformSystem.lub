@@ -2,7 +2,7 @@
 -- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
 -- This file can be distributed, used and modified freely
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
--- Last updated: 20250416
+-- Last updated: 20250716
 
 ReformInfo = {
 	[1] = {
@@ -33085,6 +33085,726 @@ ReformInfo = {
 			"1) Refine Level: Deleted",
 			"2) Random Options: Deleted",
 			"3) Cards: Deleted"
+		}
+	},
+	[1743] = {
+		BaseItem = "S_MT_TL_Earring",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_MT_TL_Earring",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1744] = {
+		BaseItem = "S_MT_TL_Pendant",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_MT_TL_Pendant",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1745] = {
+		BaseItem = "S_MT_SC_Armor",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_MT_SC_Armor",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1746] = {
+		BaseItem = "S_MT_SC_Shoes",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_MT_SC_Shoes",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1747] = {
+		BaseItem = "S_IG_RS_Earring",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_IG_RS_Earring",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1748] = {
+		BaseItem = "S_IG_RS_Pendant",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_IG_RS_Pendant",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1749] = {
+		BaseItem = "S_IG_SS_Armor",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_IG_SS_Armor",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1750] = {
+		BaseItem = "S_IG_SS_Shoes",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_IG_SS_Shoes",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1751] = {
+		BaseItem = "S_SOA_TS_Earring",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_SOA_TS_Earring",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1752] = {
+		BaseItem = "S_SOA_TS_Pendant",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_SOA_TS_Pendant",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1753] = {
+		BaseItem = "S_SOA_MS_Armor",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_SOA_MS_Armor",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1754] = {
+		BaseItem = "S_SOA_MS_Shoes",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_SOA_MS_Shoes",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1755] = {
+		BaseItem = "S_SHC_CR_Earring",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_SHC_CR_Earring",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1756] = {
+		BaseItem = "S_SHC_CR_Pendant",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_SHC_CR_Pendant",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1757] = {
+		BaseItem = "S_SHC_ST_Armor",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_SHC_ST_Armor",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1758] = {
+		BaseItem = "S_SHC_ST_Shoes",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_SHC_ST_Shoes",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1759] = {
+		BaseItem = "S_IQ_TP_Earring",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_IQ_TP_Earring",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1760] = {
+		BaseItem = "S_IQ_TP_Pendant",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_IQ_TP_Pendant",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1761] = {
+		BaseItem = "S_IQ_FB_Armor",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_IQ_FB_Armor",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1762] = {
+		BaseItem = "S_IQ_FB_Shoes",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_IQ_FB_Shoes",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1763] = {
+		BaseItem = "S_HN_MC_Earring",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_HN_MC_Earring",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1764] = {
+		BaseItem = "S_HN_MC_Pendant",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_HN_MC_Pendant",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1765] = {
+		BaseItem = "S_HN_DB_Armor",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_HN_DB_Armor",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1766] = {
+		BaseItem = "S_HN_DB_Shoes",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_HN_DB_Shoes",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1778] = {
+		BaseItem = "S_AG_CI_Earring",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_AG_CI_Earring",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1779] = {
+		BaseItem = "S_AG_CI_Pendant",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_AG_CI_Pendant",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1780] = {
+		BaseItem = "S_AG_VST_Armor",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_AG_VST_Armor",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1781] = {
+		BaseItem = "S_AG_VST_Shoes",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_AG_VST_Shoes",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1782] = {
+		BaseItem = "S_ABC_DB_Earring",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_ABC_DB_Earring",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1783] = {
+		BaseItem = "S_ABC_DB_Pendant",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_ABC_DB_Pendant",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1784] = {
+		BaseItem = "S_ABC_FR_Armor",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_ABC_FR_Armor",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1785] = {
+		BaseItem = "S_ABC_FR_Shoes",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_ABC_FR_Shoes",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1786] = {
+		BaseItem = "S_SKE_MS_Earring",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_SKE_MS_Earring",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1787] = {
+		BaseItem = "S_SKE_MS_Pendant",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_SKE_MS_Pendant",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1788] = {
+		BaseItem = "S_SKE_DB_Armor",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_SKE_DB_Armor",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
+		}
+	},
+	[1789] = {
+		BaseItem = "S_SKE_DB_Shoes",
+		Material = { S_Enchant_Essence = 2 },
+		ResultItem = "S_SKE_DB_Shoes",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "NSU",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Combination Result</B>",
+			"1) Refine Level: Transfered",
+			"2) Cards: Transfered",
+			"3) Random Options: 1~2 types granted",
+			"4) Grade Rating: Transfered"
 		}
 	}
 }
