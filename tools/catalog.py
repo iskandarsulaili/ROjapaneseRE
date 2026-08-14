@@ -181,12 +181,60 @@ def extract_plain(path, relpath):
     return entries
 
 
+# Hash-delimited tables: key#Display Name# (mapnametable, cardprefix, questid2display)
+HASH_DELIMITED_TABLES = {
+    "mapnametable.txt", "cardprefixnametable.txt", "cardpostfixnametable.txt",
+    "questid2display.txt",
+}
+
+
+def extract_hash_delimited(path, relpath):
+    """Extract only the display-name fields of #-delimited records.
+
+    Format: field1#field2#field3# ... — fields that are NOT the leading key
+    (id/rsw) and not trailing structural fields get translated. The leading
+    key and structural fields (like SG_FEEL, QUE_NOIMAGE) stay untouched.
+    """
+    entries = []
+    with open(path, "rb") as f:
+        data = f.read()
+    for i, line in enumerate(b2c(data).split("\n"), 1):
+        line = line.rstrip("\r")
+        if not line.strip() or line.lstrip().startswith("//"):
+            continue
+        parts = line.split("#")
+        if len(parts) < 2:
+            continue
+        # fields to translate: everything except index 0 (key) and trailing
+        # structural markers (ALL_CAPS tokens, *_* codes)
+        for fi, part in enumerate(parts):
+            if fi == 0:
+                continue
+            if not part.strip():
+                continue
+            # skip structural tokens: all-caps w/ underscore, or *.rsw etc.
+            if re.fullmatch(r"[A-Z0-9_]+", part):
+                continue
+            if part.endswith((".rsw", ".gat", ".gnd")):
+                continue
+            entries.append({
+                "file": relpath,
+                "path": ["hashline", str(i), str(fi)],
+                "en": part,
+                "ja": None,
+                "line": i,
+            })
+    return entries
+
+
 def extract(path, relpath):
     name = os.path.basename(path).lower()
     if name.endswith((".lub", ".lua")):
         return extract_lua(path, relpath)
     if name == "msgstringtable.txt":
         return extract_msgstring(path, relpath)
+    if name in HASH_DELIMITED_TABLES:
+        return extract_hash_delimited(path, relpath)
     if name.endswith(".txt"):
         return extract_plain(path, relpath)
     return []
@@ -281,12 +329,45 @@ def rebuild_plain(path, catalog, out_path, encoding):
         f.write(c2b("\n".join(out)))
 
 
+def rebuild_hash_delimited(path, catalog, out_path, encoding):
+    """Rebuild a #-delimited table, translating only extracted display fields.
+
+    Catalog paths are ["hashline", line_no, field_idx] — field_idx is the
+    0-based #-split index. Keys (index 0) and structural fields stay as-is.
+    """
+    lookup = {}
+    for e in catalog:
+        if e["path"][0] == "hashline":
+            lookup[(int(e["path"][1]), int(e["path"][2]))] = e.get("ja") or e["en"]
+    with open(path, "rb") as f:
+        data = f.read()
+    raw_lines = data.split(b"\n")
+    out = []
+    for i, raw in enumerate(raw_lines, 1):
+        text = raw.decode("latin-1")
+        line = text.rstrip("\r")
+        cr = "\r" if text.endswith("\r") else ""
+        if line and not line.lstrip().startswith("//") and "#" in line:
+            parts = line.split("#")
+            for fi in range(1, len(parts)):
+                ja = lookup.get((i, fi))
+                if ja and ja != parts[fi]:
+                    parts[fi] = b2c(encode_ja(ja, encoding))
+            out.append("#".join(parts) + cr)
+        else:
+            out.append(text)
+    with open(out_path, "wb") as f:
+        f.write(c2b("\n".join(out)))
+
+
 def rebuild(path, catalog, out_path, encoding):
     name = os.path.basename(path).lower()
     if name.endswith((".lub", ".lua")):
         rebuild_lua(path, catalog, out_path, encoding)
     elif name == "msgstringtable.txt":
         rebuild_msgstring(path, catalog, out_path, encoding)
+    elif name in HASH_DELIMITED_TABLES:
+        rebuild_hash_delimited(path, catalog, out_path, encoding)
     elif name.endswith(".txt"):
         rebuild_plain(path, catalog, out_path, encoding)
     else:
