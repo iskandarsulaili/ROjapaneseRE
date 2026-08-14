@@ -15,6 +15,8 @@ run_surface() {
         --batch "$batch" --pace "$pace" --surface "$surface"
     echo "=== normalizing $name ==="
     python3 tools/normalize_ja.py "catalog/${catalog}_ja.jsonl" --in-place || true
+    echo "=== fixing consistency $name ==="
+    python3 tools/fix_consistency.py "catalog/${catalog}_ja.jsonl" --in-place || true
     echo "=== done $name ==="
 }
 
