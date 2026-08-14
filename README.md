@@ -20,11 +20,11 @@ for the roadmap and current progress.
 |---|---|
 | Client UI strings (msgstringtable.txt) | ✅ 100% (4,012 strings) |
 | Items — names | ✅ 100% (26,641 items) |
-| Items — descriptions | 🔄 Queued (297k lines) |
-| Skills | Catalog ready (29k strings) |
-| Quests / achievements / navi | Planned |
-| Pets / titles / enchants | Planned |
-| Books | Planned |
+| Items — descriptions | ✅ 100% (294,483 lines) |
+| Skills | 🔄 In progress (19,220 unique) |
+| Quests / achievements / navi | ⏳ Queued |
+| Pets / titles / enchants | ⏳ Queued |
+| Books | ⏳ Queued |
 | Textures | Planned |
 
 ## Setup / usage

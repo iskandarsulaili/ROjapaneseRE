@@ -176,7 +176,8 @@ catalogs in catalog/).
 - [x] Glossary v1 (705 EN->JA canonical terms, 45% item-name token coverage)
 - [x] msgstringtable.txt (4,012 strings) — **100% translated** (2026-08-14)
 - [x] Item names (26,641) — **100% translated** (2026-08-14), luac-validated
-- [ ] Item descriptions (297k lines) — QUEUED
+- [x] Item descriptions (294,483 lines) — **100% translated** (2026-08-14), luac-validated
+- [ ] Skills (19,220 unique) — IN PROGRESS
 - [ ] Item descriptions (long tail)
 - [ ] Skills, datainfo, system lub
 - [ ] Books + text tables
