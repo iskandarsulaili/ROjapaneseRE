@@ -263,6 +263,21 @@ def main():
     if args.limit:
         entries = entries[:args.limit]
 
+    # Resume: if --out exists, merge already-translated ja back in
+    resumed = 0
+    if os.path.exists(args.out):
+        try:
+            prev = {json.dumps(e["path"]): e.get("ja") for e in load_catalog(args.out)}
+            for e in entries:
+                ja = prev.get(json.dumps(e["path"]))
+                if ja and not e.get("ja"):
+                    e["ja"] = ja
+                    resumed += 1
+        except Exception:
+            pass
+    if resumed:
+        print(f"resumed {resumed} entries from {args.out}", file=sys.stderr)
+
     total_problems = 0
     n = len(entries)
     print(f"translating {n} entries (batch {args.batch}, surface {args.surface}, pace {args.pace}s)", file=sys.stderr)
