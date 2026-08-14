@@ -152,9 +152,9 @@ catalogs in catalog/).
 
 - [x] Fork + metadata (2026-08-14)
 - [x] Toolchain: catalog extract/rebuild (byte-safe, cp932) + inventory
-- [ ] Glossary v1 (EN->JA canonical terms)
-- [ ] msgstringtable.txt (4k strings) — first complete surface
-- [ ] Item names (26k) — bulk LLM + glossary pass
+- [x] Glossary v1 (705 EN->JA canonical terms, 45% item-name token coverage)
+- [x] msgstringtable.txt (4,012 strings) — **100% translated** (2026-08-14)
+- [ ] Item names (26k) — bulk LLM + glossary pass (IN PROGRESS)
 - [ ] Item descriptions (long tail)
 - [ ] Skills, datainfo, system lub
 - [ ] Books + text tables
