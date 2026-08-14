@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 catalog_ja*.jsonl
 catalog/*.jsonl
+Client/
