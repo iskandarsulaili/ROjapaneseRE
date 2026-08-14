@@ -175,7 +175,8 @@ catalogs in catalog/).
 - [x] Toolchain: catalog extract/rebuild (byte-safe, cp932) + inventory
 - [x] Glossary v1 (705 EN->JA canonical terms, 45% item-name token coverage)
 - [x] msgstringtable.txt (4,012 strings) — **100% translated** (2026-08-14)
-- [ ] Item names (26k) — bulk LLM + glossary pass (IN PROGRESS)
+- [x] Item names (26,641) — **100% translated** (2026-08-14), luac-validated
+- [ ] Item descriptions (297k lines) — QUEUED
 - [ ] Item descriptions (long tail)
 - [ ] Skills, datainfo, system lub
 - [ ] Books + text tables

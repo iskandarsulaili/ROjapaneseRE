@@ -19,8 +19,8 @@ for the roadmap and current progress.
 | Surface | Status |
 |---|---|
 | Client UI strings (msgstringtable.txt) | ✅ 100% (4,012 strings) |
-| Items — names | 🔄 In progress (26,656 items) |
-| Items — descriptions | Planned |
+| Items — names | ✅ 100% (26,641 items) |
+| Items — descriptions | 🔄 Queued (297k lines) |
 | Skills | Catalog ready (29k strings) |
 | Quests / achievements / navi | Planned |
 | Pets / titles / enchants | Planned |
