@@ -13,6 +13,8 @@ run_surface() {
         --catalog "catalog/$catalog.jsonl" \
         --out "catalog/${catalog}_ja.jsonl" \
         --batch "$batch" --pace "$pace" --surface "$surface"
+    echo "=== normalizing $name ==="
+    python3 tools/normalize_ja.py "catalog/${catalog}_ja.jsonl" --in-place || true
     echo "=== done $name ==="
 }
 
