@@ -32,4 +32,20 @@ if [ "$ONLY" = "all" ] || [ "$ONLY" = "skills" ]; then
     run_surface "skills" "skills" "skill" 100 15
 fi
 
+if [ "$ONLY" = "all" ] || [ "$ONLY" = "datainfo" ]; then
+    run_surface "datainfo (pets/titles/help)" "datainfo" "plain" 100 15
+fi
+
+if [ "$ONLY" = "all" ] || [ "$ONLY" = "systemen" ]; then
+    run_surface "systemen (quests/achiev/navi)" "systemen" "quest" 100 15
+fi
+
+if [ "$ONLY" = "all" ] || [ "$ONLY" = "texttables" ]; then
+    run_surface "text tables (maps/cards/quests)" "texttables" "plain" 100 15
+fi
+
+if [ "$ONLY" = "all" ] || [ "$ONLY" = "books" ]; then
+    run_surface "books" "books" "book" 100 15
+fi
+
 echo "All requested surfaces done."
