@@ -89,17 +89,16 @@ def glossary_pairs_for(surface, glossary):
 
 
 def load_glossary(path):
+    """Load glossary; returns the raw dict (also available as GLOSSARY)."""
     global GLOSSARY
     with open(path, encoding="utf-8") as f:
         GLOSSARY = json.load(f)
-    # flatten to list of (en, ja) for prompt
-    pairs = []
-    for section in GLOSSARY.values():
-        if isinstance(section, dict):
-            for en, ja in section.items():
-                if isinstance(ja, str):
-                    pairs.append((en, ja))
-    return pairs
+    return GLOSSARY
+
+
+def glossary_pairs(surface):
+    """Flat [(en, ja)] pairs for the prompt, surface-relevant, capped 400."""
+    return glossary_pairs_for(surface, GLOSSARY)
 
 
 def load_catalog(path):
@@ -226,7 +225,7 @@ def translate_batch(entries, pairs, surface, url, key, model, retries=6):
     prompt = "\n".join(lines)
 
     hint = SURFACE_HINTS.get(surface, "Translate to Japanese.")
-    glossary_text = "\n".join(f"{en} = {ja}" for en, ja in glossary_pairs_for(surface, pairs))
+    glossary_text = "\n".join(f"{en} = {ja}" for en, ja in glossary_pairs(surface))
     system = (
         f"You are a professional game translator for Ragnarok Online (jRO).\n"
         f"Translate each numbered English line to natural Japanese.\n"
@@ -275,16 +274,18 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--catalog", required=True)
     ap.add_argument("--out", required=True)
-    ap.add_argument("--batch", type=int, default=10)
+    ap.add_argument("--batch", type=int, default=100)
     ap.add_argument("--glossary", default="data/glossary.json")
     ap.add_argument("--surface", default="plain", choices=list(SURFACE_HINTS))
     ap.add_argument("--limit", type=int, default=0, help="max entries to process (0=all)")
     ap.add_argument("--url", default=os.environ.get("LLM_API_URL", "http://127.0.0.1:20128/v1"))
     ap.add_argument("--model", default=os.environ.get("LLM_MODEL", "glm-5.2"))
     ap.add_argument("--key", default=os.environ.get("LLM_API_KEY", "none"))
-    ap.add_argument("--pace", type=float, default=12.0,
+    ap.add_argument("--pace", type=float, default=15.0,
                     help="seconds to wait between batches (rate-limit pacing)")
     ap.add_argument("--retries", type=int, default=6)
+    ap.add_argument("--dedupe", action="store_true",
+                    help="translate each unique EN once, propagate to duplicates")
     args = ap.parse_args()
     # fall back to the hermes gateway key if LLM_API_KEY not set
     if args.key == "none" and os.path.exists(os.path.expanduser("~/.hermes/.env")):
@@ -293,7 +294,7 @@ def main():
                 args.key = line.strip().split("=", 1)[1]
                 break
 
-    pairs = load_glossary(args.glossary)
+    load_glossary(args.glossary)
     entries = load_catalog(args.catalog)
     if args.limit:
         entries = entries[:args.limit]
@@ -313,25 +314,43 @@ def main():
     if resumed:
         print(f"resumed {resumed} entries from {args.out}", file=sys.stderr)
 
+    # Dedupe: map unique EN -> list of entry refs; translate unique ENs only
+    if args.dedupe:
+        by_en = {}
+        for e in entries:
+            by_en.setdefault(e["en"], []).append(e)
+        uniq = [{"en": en, "path": [en]} for en in by_en]
+        print(f"dedupe: {len(entries)} entries -> {len(uniq)} unique EN", file=sys.stderr)
+        work = uniq
+    else:
+        work = entries
+
     total_problems = 0
-    n = len(entries)
-    print(f"translating {n} entries (batch {args.batch}, surface {args.surface}, pace {args.pace}s)", file=sys.stderr)
+    n = len(work)
+    print(f"translating {n} units (batch {args.batch}, surface {args.surface}, pace {args.pace}s)", file=sys.stderr)
     for start in range(0, n, args.batch):
-        batch = entries[start:start + args.batch]
-        done, problems = translate_batch(batch, pairs, args.surface, args.url, args.key, args.model, args.retries)
-        entries[start:start + args.batch] = done
+        batch = work[start:start + args.batch]
+        done, problems = translate_batch(batch, GLOSSARY, args.surface, args.url, args.key, args.model, args.retries)
+        work[start:start + args.batch] = done
         total_problems += len(problems)
         for p in problems[:5]:
             print(f"  ! {p}", file=sys.stderr)
         print(f"  batch {start // args.batch + 1}/{(n + args.batch - 1) // args.batch}: "
               f"{sum(1 for e in done if e.get('ja'))}/{len(done)} done, {len(problems)} problems", file=sys.stderr)
-        # checkpoint after every batch
-        save_catalog(args.out, entries)
+        # checkpoint: if dedupe, propagate ja to all entries and save the FULL catalog
+        if args.dedupe:
+            ja_by_en = {e["en"]: e.get("ja") for e in work}
+            for e in entries:
+                if not e.get("ja") and ja_by_en.get(e["en"]):
+                    e["ja"] = ja_by_en[e["en"]]
+            save_catalog(args.out, entries)
+        else:
+            save_catalog(args.out, work)
         if start + args.batch < n:
             time.sleep(args.pace)
 
     translated = sum(1 for e in entries if e.get("ja"))
-    print(f"done: {translated}/{n} translated, {total_problems} problems -> {args.out}")
+    print(f"done: {translated}/{len(entries)} translated, {total_problems} problems -> {args.out}")
 
 
 if __name__ == "__main__":
