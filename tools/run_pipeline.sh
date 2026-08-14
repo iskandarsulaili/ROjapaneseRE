@@ -12,10 +12,14 @@ cd "$(dirname "$0")/.."
 mkdir -p catalog
 
 # ---- wait for an in-flight translation job (optional) ----
-WAIT_FOR="${1:-items_descs}"
+WAIT_FOR=""
+if [ "${1:-}" = "--wait-for" ] && [ -n "${2:-}" ]; then
+    WAIT_FOR="$2"
+fi
 if [ -n "$WAIT_FOR" ]; then
     echo "=== waiting for in-flight job: $WAIT_FOR ==="
-    while pgrep -f "$WAIT_FOR" >/dev/null 2>&1; do
+    # match the translate.py process for this catalog, not the pipeline itself
+    while pgrep -f "tools/translate.py --catalog catalog/$WAIT_FOR.jsonl" >/dev/null 2>&1; do
         sleep 60
     done
     echo "=== in-flight job finished ==="
