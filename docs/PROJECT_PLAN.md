@@ -81,6 +81,20 @@ Build a `data/glossary.json` mapping canonical RO terms EN->JA:
   official item names are the gold standard — e.g. use jRO's own translations
   for items that existed there, which is much of the catalog)
 
+Current glossary: 705 terms (world/monsters/items/classes/stats/combat/ui/
+common + 137 high-frequency item-name tokens covering 45% of item-name
+tokens).
+
+### Translation throughput (measured 2026-08-14)
+- Batch 10, pace 12s: ~26 strings/min (too slow)
+- Batch 30, pace 10s: ~60 strings/min
+- Batch 100, pace 15s: ~200 strings/min  ← CURRENT STANDARD
+- The omniRoute gateway (:20128) rate-limits aggressively (405 on burst);
+  curl subprocess + 15s pacing + retries is the working recipe. urllib gets
+  WAF-rejected (405) — always use curl for LLM calls.
+- Resume support: `--out` checkpoint is merged on restart, so interrupted
+  runs continue without re-translating.
+
 ### Track B: bulk translation by surface, in priority order
 1. msgstringtable.txt (client UI — small, high visibility)
 2. itemInfo.lua item NAMES (26k items — most impactful)
