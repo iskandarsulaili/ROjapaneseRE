@@ -1,0 +1,160 @@
+# ROjapaneseRE — Japanese Translation Project Plan
+
+Fork of [ROenglishRE](https://github.com/llchrisll/ROenglishRE) — an unofficial
+Korean Ragnarok Online (kRO) translation project. ROjapaneseRE translates the
+entire client surface to **Japanese** instead of English.
+
+## Goal
+
+A complete, drop-in Japanese translation pack for kRO Renewal (and Pre-Renewal
+compatibility), matching the scope and quality bar of ROenglishRE: items,
+skills, quests, monsters, pets, NPC dialogue, client UI strings, books, and
+textures — all rendered in proper Japanese.
+
+## Repo layout (inherited from ROenglishRE)
+
+```
+Translation/Renewal/        main translation (items/skills/quests/UI/textures)
+Translation/Pre-Renewal/    pre-renewal variant (mirrors Renewal structure)
+Translation/Compatibility/  per-client-date override patches
+Additions/                  extra data + SystemEN additions
+Addons/                     optional addon packs (jRO Enchants Display, etc.)
+Tools/                      translation helper tooling
+```
+
+## Translation surface (measured, 2026-08-14)
+
+| Surface | Files | Strings (est.) | Notes |
+|---|---|---|---|
+| items (SystemEN/LuaFiles514/itemInfo.lua) | 3 | ~435,800 | 26,656 items; names + descriptions |
+| system lub (quests/achievements/navi/towninfo) | 7 | ~55,200 | OngoingQuests.lub alone is 3 MB |
+| datainfo lub (pets/titles/help/enchants) | 4 | ~1,000 | |
+| skillinfoz lub (skill names/descriptions) | 4 | ~29,200 | |
+| misc lua files | 26 | ~35,400 | signboards, stateicons, etc. |
+| msgstringtable.txt (client UI strings) | 1 | ~4,000 | in-game system messages |
+| books (data/book/*.txt) | 70 | ~15,000 | readable books |
+| text tables (map names, card prefixes, monster talk) | 78 | ~5,000 | |
+| texture images (buttons, UI art) | 502 | — | image translation (manual) |
+| Additions + Addons + Compatibility | 161 | ~393,000 | includes English/jRO extras |
+| **TOTAL** | **~856** | **~980,000** | |
+
+## Encoding model (CRITICAL — do not change without re-reading this)
+
+- Source files are ANSI multi-byte (CP949 Korean). The pipeline treats all
+  files as **bytes** (latin-1 as a lossless bytes-as-chars carrier).
+- Translated output is encoded **cp932 (Shift-JIS)** — the standard encoding
+  for Japanese Windows ANSI codepage and Japanese RO clients.
+- **Sprite/resource filenames** (`개_포링.bmp`, `*_XXXXX.act`) MUST remain
+  byte-identical — the client resolves them against the kRO data.grf. The
+  extractor auto-skips any string ending in .bmp/.act/.spr/.gat/.gnd/.rsw/
+  .tga/.wav/.ogg/.mp3/.xml/.txt/.pal.
+- Non-translated content (code structure, comments, keys, numerics) is
+  preserved byte-for-byte by the rebuild.
+- Formatting tokens (`^RRGGBB..^000000`, `%d`, `%s`, `[Lv N]`,
+  `_______________________` separator lines, `Weight : X`, `Type:`, etc.)
+  must be preserved in translations.
+
+## Translation pipeline
+
+```
+tools/catalog.py extract --out catalog/items.jsonl Translation/.../itemInfo.lua
+   -> JSONL: {"file","path":[...],"en":"...","ja":null}
+   (translator/MT fills "ja")
+tools/catalog.py rebuild <file> --catalog catalog/items.jsonl --out <newfile> --encoding cp932
+   -> byte-exact rebuild with Japanese strings
+```
+
+- `tools/inventory.py` — per-surface inventory report (strings/bytes).
+- Catalogs live in `catalog/` (gitignored until a bulk commit is ready).
+- Rebuild validates: translated file must differ from source ONLY on
+  translated lines (automated check in CI/test).
+
+## Translation approach — two tracks
+
+### Track A: glossary + terminology database (foundation)
+Build a `data/glossary.json` mapping canonical RO terms EN->JA:
+- Item names (ポリン/Poring, サラマンダー/Salamander, etc.)
+- Job/class names, skill names
+- Status/bonus terms, elemental names
+- Consistent honorifics/particles for item descriptions
+- jRO official terms where available (jRO was an official server; its
+  official item names are the gold standard — e.g. use jRO's own translations
+  for items that existed there, which is much of the catalog)
+
+### Track B: bulk translation by surface, in priority order
+1. msgstringtable.txt (client UI — small, high visibility)
+2. itemInfo.lua item NAMES (26k items — most impactful)
+3. itemInfo.lua descriptions (longest tail)
+4. skillinfoz (skill names + descriptions)
+5. datainfo (pets, titles, enchants)
+6. system lub (quests/achievements/navi/towninfo)
+7. books + text tables
+8. textures (image assets — manual image editing)
+9. Additions/Addons/Compatibility
+10. Pre-Renewal mirror + per-client-date compatibility patches
+
+Bulk translation is done via the LLM translation tier (see tools/translate.py)
+with the glossary as constraint; every string is reviewed against the
+glossary, and format tokens are enforced by a validator that refuses
+translations that drop `^color^000000` / `%s` / `%d` tokens or `[Lv N]`
+markers.
+
+## Texture strategy
+
+502 images (mostly Korean-label UI buttons: btn_use_a.bmp, etc.). Options:
+- Ship JP-labeled bitmap replacements (best quality; manual/GIMP work)
+- The kRO client loads fonts from System/Font (SCDream4.otf/SCDream6.otf) —
+  a JP font drop-in under those exact filenames makes ALL text (including
+  translated strings) render correctly. This is required regardless of
+  texture work.
+- Priority: fonts first (unlocks everything), then core UI buttons.
+
+## Compatibility patches
+
+- Per-client-date dirs (2015-10-29aRagexe ... 2026-01-07 Ragexe) contain
+  client-specific SystemEN/data overrides. Each needs the same treatment as
+  the main tree. Automated: the pipeline runs per tree.
+- `Translation/Compatibility/*/SystemEN` — new clients read SystemEN;
+  older clients read data/. Both must be kept in sync.
+
+## Quality gates
+
+1. **Byte-safety**: rebuild is byte-exact on non-translated lines (test).
+2. **Token integrity**: no dropped `^color^000000` / `%d` / `%s` / `[Lv N]`.
+3. **Glossary conformance**: term lookups resolve through glossary.json.
+4. **Lua validity**: rebuilt .lub/.lua parse (luac -p or lua -e loadfile).
+5. **Encoding**: output files decode cleanly as cp932 with no unmapped chars.
+6. **Field skips**: sprite names, resource keys, numeric/struct fields never
+   touched (extractor guarantee + rebuild test).
+
+## Upstream sync
+
+`git remote add upstream https://github.com/llchrisll/ROenglishRE.git`
+Sync: `git fetch upstream && git merge upstream/master` — translation files
+are ours; tooling/structural changes merge cleanly (keep tooling in tools/,
+catalogs in catalog/).
+
+## Roadmap
+
+- [x] Fork + metadata (2026-08-14)
+- [x] Toolchain: catalog extract/rebuild (byte-safe, cp932) + inventory
+- [ ] Glossary v1 (EN->JA canonical terms)
+- [ ] msgstringtable.txt (4k strings) — first complete surface
+- [ ] Item names (26k) — bulk LLM + glossary pass
+- [ ] Item descriptions (long tail)
+- [ ] Skills, datainfo, system lub
+- [ ] Books + text tables
+- [ ] Fonts (System/Font JP drop-in) + texture pass
+- [ ] Additions/Addons/Compatibility + Pre-Renewal mirror
+- [ ] Test suite (byte-safety, tokens, lua validity, encoding)
+- [ ] First full release (grf or data-folder pack)
+
+## Notes
+
+- README.md should eventually describe the JP project + setup docs link.
+- The parent repo has 331 stars / 229 forks; our fork is a derivative
+  fan-translation project — keep the "unofficial/educational" framing and
+  credits to zackdreaver + llchrisll in file headers (already present).
+- jRO official translations (from jRO data/official grfs) are the highest
+  quality reference — the ROenglishRE repo already contains jRO-derived
+  strings (Addons/jRO Enchants Display etc.) that can be reused directly.
