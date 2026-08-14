@@ -32,6 +32,7 @@ import argparse
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 import urllib.error
@@ -82,7 +83,12 @@ def save_catalog(path, entries):
             f.write(json.dumps(e, ensure_ascii=False) + "\n")
 
 
-def call_llm(system, user, url, key, model, max_tokens=4000, retries=3):
+def call_llm(system, user, url, key, model, max_tokens=4000, retries=6):
+    """Call the LLM gateway via curl (urllib gets WAF-rejected with 405).
+
+    The omniRoute gateway at :20128 fingerprints HTTP clients and returns
+    405 to Python urllib but accepts curl. We shell out to curl.
+    """
     body = {
         "model": model,
         "messages": [
@@ -94,32 +100,35 @@ def call_llm(system, user, url, key, model, max_tokens=4000, retries=3):
         "stream": False,
         "reasoning_effort": "none",
     }
+    payload = json.dumps(body, ensure_ascii=False).encode("utf-8")
     last_ex = None
     for attempt in range(retries):
-        req = urllib.request.Request(
-            url,
-            data=json.dumps(body).encode("utf-8"),
-            headers={
-                "Content-Type": "application/json",
-                "Authorization": f"Bearer {key}",
-                "User-Agent": "curl/8.0",
-            },
-        )
+        cmd = [
+            "curl", "-s", "--max-time", "180", "-X", "POST",
+            url.rstrip("/") + "/chat/completions",
+            "-H", "Content-Type: application/json",
+            "-H", f"Authorization: Bearer {key}",
+            "-H", "User-Agent: curl/8.0",
+            "-H", "Accept: */*",
+            "--data-binary", "@-",
+        ]
         try:
-            with urllib.request.urlopen(req, timeout=180) as resp:
-                data = json.loads(resp.read().decode("utf-8"))
+            proc = subprocess.run(
+                cmd, input=payload, capture_output=True, timeout=200)
+            if proc.returncode != 0:
+                raise RuntimeError(f"curl exit {proc.returncode}: {proc.stderr.decode(errors='replace')[:200]}")
+            text = proc.stdout.decode("utf-8", errors="replace")
+            data = json.loads(text)
+            if "error" in data:
+                raise RuntimeError(f"gateway error: {data['error']}")
             return data["choices"][0]["message"]["content"]
         except Exception as ex:
             last_ex = ex
             code = getattr(ex, "code", None)
-            retry_after = None
-            if hasattr(ex, "headers"):
-                retry_after = ex.headers.get("retry-after")
-            delay = 3
-            if retry_after and retry_after.isdigit():
-                delay = max(int(retry_after), 3)
-            if code in (403, 405, 429, 500, 502, 503) or isinstance(ex, (TimeoutError, urllib.error.URLError)):
-                time.sleep(delay * (attempt + 1))
+            msg = str(ex)
+            # retry on transient failures
+            if code in (403, 405, 429, 500, 502, 503) or "exit" in msg or "timed out" in msg.lower():
+                time.sleep(5 * (attempt + 1))
                 continue
             raise
     raise last_ex
@@ -161,7 +170,7 @@ def glossary_check(en, ja, pairs):
     return hits[:5]  # cap
 
 
-def translate_batch(entries, pairs, surface, url, key, model):
+def translate_batch(entries, pairs, surface, url, key, model, retries=6):
     """Translate a batch of entries; returns (ok_list, problems)."""
     problems = []
     done = []
@@ -195,7 +204,7 @@ def translate_batch(entries, pairs, surface, url, key, model):
     )
 
     try:
-        resp = call_llm(system, prompt, url, key, model)
+        resp = call_llm(system, prompt, url, key, model, retries=retries)
     except Exception as ex:
         # batch failed - mark entries so they're retried later
         for e in todo:
@@ -231,13 +240,16 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--catalog", required=True)
     ap.add_argument("--out", required=True)
-    ap.add_argument("--batch", type=int, default=50)
+    ap.add_argument("--batch", type=int, default=10)
     ap.add_argument("--glossary", default="data/glossary.json")
     ap.add_argument("--surface", default="plain", choices=list(SURFACE_HINTS))
     ap.add_argument("--limit", type=int, default=0, help="max entries to process (0=all)")
     ap.add_argument("--url", default=os.environ.get("LLM_API_URL", "http://127.0.0.1:20128/v1"))
     ap.add_argument("--model", default=os.environ.get("LLM_MODEL", "glm-5.2"))
     ap.add_argument("--key", default=os.environ.get("LLM_API_KEY", "none"))
+    ap.add_argument("--pace", type=float, default=12.0,
+                    help="seconds to wait between batches (rate-limit pacing)")
+    ap.add_argument("--retries", type=int, default=6)
     args = ap.parse_args()
     # fall back to the hermes gateway key if LLM_API_KEY not set
     if args.key == "none" and os.path.exists(os.path.expanduser("~/.hermes/.env")):
@@ -253,17 +265,20 @@ def main():
 
     total_problems = 0
     n = len(entries)
-    print(f"translating {n} entries (batch {args.batch}, surface {args.surface})", file=sys.stderr)
+    print(f"translating {n} entries (batch {args.batch}, surface {args.surface}, pace {args.pace}s)", file=sys.stderr)
     for start in range(0, n, args.batch):
         batch = entries[start:start + args.batch]
-        done, problems = translate_batch(batch, pairs, args.surface, args.url, args.key, args.model)
+        done, problems = translate_batch(batch, pairs, args.surface, args.url, args.key, args.model, args.retries)
         entries[start:start + args.batch] = done
         total_problems += len(problems)
         for p in problems[:5]:
             print(f"  ! {p}", file=sys.stderr)
-        print(f"  batch {start // args.batch + 1}: {len(done)} done, {len(problems)} problems", file=sys.stderr)
+        print(f"  batch {start // args.batch + 1}/{(n + args.batch - 1) // args.batch}: "
+              f"{sum(1 for e in done if e.get('ja'))}/{len(done)} done, {len(problems)} problems", file=sys.stderr)
         # checkpoint after every batch
         save_catalog(args.out, entries)
+        if start + args.batch < n:
+            time.sleep(args.pace)
 
     translated = sum(1 for e in entries if e.get("ja"))
     print(f"done: {translated}/{n} translated, {total_problems} problems -> {args.out}")
