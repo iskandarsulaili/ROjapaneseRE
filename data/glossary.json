@@ -343,7 +343,21 @@
     "When opened gives one of the following costumes": "開封すると以下の衣装のいずれかが手に入る",
     "When opened gives all of the following items": "開封すると以下のアイテムがすべて手に入る",
     "When enchanted, it has the following effects": "エンチャントすると以下の効果が発動する",
-    "The following special effects will disappear at the end of regular maintenance": "以下の特別効果は定期メンテナンス終了時に消滅します"
+    "The following special effects will disappear at the end of regular maintenance": "以下の特別効果は定期メンテナンス終了時に消滅します",
+    "Headgear": "頭装備",
+    "Accessory": "アクセサリー",
+    "Middle": "中段",
+    "Increases": "増加",
+    "Decreases": "減少",
+    "Refine Level": "精錬値",
+    "Human": "人間形",
+    "All Jobs": "全職種",
+    "Physical Damage": "物理ダメージ",
+    "Handed": "手持ち",
+    "Collectible": "収集品",
+    "Magician": "マジシャン",
+    "Two-Handed Staff": "両手杖",
+    "Increases Physical Damage": "物理ダメージ増加"
   },
   "classes": {
     "Novice": "ノービス",
