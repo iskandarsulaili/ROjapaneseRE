@@ -123,6 +123,27 @@ markers.
   texture work.
 - Priority: fonts first (unlocks everything), then core UI buttons.
 
+## Font coverage (CRITICAL FINDING, 2026-08-14)
+
+Analyzed the kRO client fonts (System/Font):
+- SCDream4.otf / SCDream6.otf (13,494 glyphs each):
+  - Hiragana: 25/25 ✓  Katakana: 25/25 ✓
+  - Kanji: only 4/17 (日本語翻訳項目武 all MISSING)
+  - Full-width: 5/7 (・ー missing)
+- The .eot UI fonts (NHCgogo_10.eot etc.) are a non-standard EOT flavor
+  (not parseable by fonttools) — presumed Korean-only like the OTFs.
+
+**Implication: the default kRO fonts CANNOT render most kanji.** Japanese
+translations with common kanji (武器, 魔法, 翻訳) would show as tofu (□)
+without a font fix. The font drop-in (replacing System/Font files with a
+JP-capable font, or adding one) is a HARD prerequisite, not optional.
+
+Strategy: ship a JP-capable font under the client's expected filenames in
+the System/Font folder (e.g. replace SCDream4/6.otf with a JP OTF, or add
+the font the client falls back to). Verify on the user's Windows test
+machine: launch client with a translated msgstringtable + JP font, confirm
+kanji renders. This is the first on-client verification milestone.
+
 ## Compatibility patches
 
 - Per-client-date dirs (2015-10-29aRagexe ... 2026-01-07 Ragexe) contain
