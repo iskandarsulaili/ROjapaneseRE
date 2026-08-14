@@ -52,6 +52,41 @@ SURFACE_HINTS = {
     "plain": "Plain text line. Natural Japanese.",
 }
 
+# glossary sections relevant per surface (priority order)
+SURFACE_GLOSSARY_SECTIONS = {
+    "items": ["item_tokens", "items", "desc_labels", "monsters", "classes", "combat", "stats", "world", "ui"],
+    "msg": ["ui", "common", "stats", "classes"],
+    "skill": ["combat", "stats", "ui", "classes", "common"],
+    "quest": ["world", "monsters", "common", "ui"],
+    "book": ["world", "common"],
+    "plain": ["common", "ui"],
+}
+
+
+def glossary_pairs_for(surface, glossary):
+    """Return glossary pairs ordered by surface relevance, capped at 400."""
+    order = SURFACE_GLOSSARY_SECTIONS.get(surface, ["common"])
+    pairs = []
+    seen = set()
+    # append in priority order
+    for section in order:
+        d = glossary.get(section)
+        if isinstance(d, dict):
+            for en, ja in d.items():
+                if isinstance(ja, str) and en not in seen:
+                    seen.add(en)
+                    pairs.append((en, ja))
+    # fill remaining from other sections
+    if len(pairs) < 400:
+        for section, d in glossary.items():
+            if not isinstance(d, dict) or section in order:
+                continue
+            for en, ja in d.items():
+                if isinstance(ja, str) and en not in seen and len(pairs) < 400:
+                    seen.add(en)
+                    pairs.append((en, ja))
+    return pairs[:400]
+
 
 def load_glossary(path):
     global GLOSSARY
@@ -191,7 +226,7 @@ def translate_batch(entries, pairs, surface, url, key, model, retries=6):
     prompt = "\n".join(lines)
 
     hint = SURFACE_HINTS.get(surface, "Translate to Japanese.")
-    glossary_text = "\n".join(f"{en} = {ja}" for en, ja in pairs[:400])  # cap size
+    glossary_text = "\n".join(f"{en} = {ja}" for en, ja in glossary_pairs_for(surface, pairs))
     system = (
         f"You are a professional game translator for Ragnarok Online (jRO).\n"
         f"Translate each numbered English line to natural Japanese.\n"
