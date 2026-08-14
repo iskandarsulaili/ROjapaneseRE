@@ -46,7 +46,11 @@ SURFACE_HINTS = {
     "items": "RO item name or description. Keep it concise and in-game style. "
              "For item NAMES use the jRO official name when it exists, else a natural Japanese name.",
     "msg": "RO client UI message. Short, imperative/formal Japanese. Keep slash-commands and %-formats.",
-    "skill": "RO skill name or description. Use official jRO skill names when known.",
+    "skill": "RO skill name or description. Use official jRO skill names when known. "
+             "CRITICAL: preserve the EXACT color-token sequence (^RRGGBB...^000000) in the SAME ORDER "
+             "as the English, keeping each color attached to the same word meaning (e.g. if ^990099 "
+             "highlights 'Item', the Japanese word for item must keep ^990099). Reorder the Japanese "
+             "sentence to fit the tokens — never swap colors between words.",
     "quest": "RO quest text. Natural, polite Japanese quest narration.",
     "book": "RO in-game book prose. Natural literary Japanese.",
     "plain": "Plain text line. Natural Japanese.",
