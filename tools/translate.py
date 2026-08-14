@@ -34,6 +34,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.request
 
 GLOSSARY = {}
@@ -81,7 +82,7 @@ def save_catalog(path, entries):
             f.write(json.dumps(e, ensure_ascii=False) + "\n")
 
 
-def call_llm(system, user, url, key, model, max_tokens=4000):
+def call_llm(system, user, url, key, model, max_tokens=4000, retries=3):
     body = {
         "model": model,
         "messages": [
@@ -90,18 +91,38 @@ def call_llm(system, user, url, key, model, max_tokens=4000):
         ],
         "temperature": 0.3,
         "max_tokens": max_tokens,
+        "stream": False,
+        "reasoning_effort": "none",
     }
-    req = urllib.request.Request(
-        url,
-        data=json.dumps(body).encode("utf-8"),
-        headers={
-            "Content-Type": "application/json",
-            "Authorization": f"Bearer {key}",
-        },
-    )
-    with urllib.request.urlopen(req, timeout=180) as resp:
-        data = json.loads(resp.read().decode("utf-8"))
-    return data["choices"][0]["message"]["content"]
+    last_ex = None
+    for attempt in range(retries):
+        req = urllib.request.Request(
+            url,
+            data=json.dumps(body).encode("utf-8"),
+            headers={
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {key}",
+                "User-Agent": "curl/8.0",
+            },
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=180) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+            return data["choices"][0]["message"]["content"]
+        except Exception as ex:
+            last_ex = ex
+            code = getattr(ex, "code", None)
+            retry_after = None
+            if hasattr(ex, "headers"):
+                retry_after = ex.headers.get("retry-after")
+            delay = 3
+            if retry_after and retry_after.isdigit():
+                delay = max(int(retry_after), 3)
+            if code in (403, 405, 429, 500, 502, 503) or isinstance(ex, (TimeoutError, urllib.error.URLError)):
+                time.sleep(delay * (attempt + 1))
+                continue
+            raise
+    raise last_ex
 
 
 def validate_tokens(en, ja):
@@ -215,9 +236,15 @@ def main():
     ap.add_argument("--surface", default="plain", choices=list(SURFACE_HINTS))
     ap.add_argument("--limit", type=int, default=0, help="max entries to process (0=all)")
     ap.add_argument("--url", default=os.environ.get("LLM_API_URL", "http://127.0.0.1:20128/v1"))
-    ap.add_argument("--model", default=os.environ.get("LLM_MODEL", "combo/deepseek-v4-flash"))
+    ap.add_argument("--model", default=os.environ.get("LLM_MODEL", "glm-5.2"))
     ap.add_argument("--key", default=os.environ.get("LLM_API_KEY", "none"))
     args = ap.parse_args()
+    # fall back to the hermes gateway key if LLM_API_KEY not set
+    if args.key == "none" and os.path.exists(os.path.expanduser("~/.hermes/.env")):
+        for line in open(os.path.expanduser("~/.hermes/.env"), encoding="utf-8"):
+            if line.startswith("HERMES_CUSTOM_127_0_0_1_20128_API_KEY="):
+                args.key = line.strip().split("=", 1)[1]
+                break
 
     pairs = load_glossary(args.glossary)
     entries = load_catalog(args.catalog)
