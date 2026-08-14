@@ -283,6 +283,11 @@ def rebuild_lua(path, catalog, out_path, encoding):
             # treat it as an escape before the closing quote.
             if len(ja_bytes) >= 2 and ja_bytes[-1] == 0x5c and ja_bytes[-2] >= 0x81:
                 ja_bytes += b" "
+            # Quote hazard: ja may contain literal " (from EN strings that had
+            # escaped quotes, e.g. "Hollg--"). Escape them as \" so the Lua
+            # string stays valid. This also covers any 0x5C that precedes a "
+            # inside the string.
+            ja_bytes = ja_bytes.replace(b'"', b'\\"')
             return '"' + b2c(ja_bytes) + '"'
 
         out.append(STRING_RE.sub(repl, sline) + cr)

@@ -103,8 +103,9 @@ def test_lua_string_safety():
     """CP932 hazard: kanji like 図/表/Ⅸ end in byte 0x5C (backslash),
     which Lua treats as an escape char. A string ending in such a char
     breaks Lua parsing ('unfinished string'). The fix is a trailing space.
+    Also: literal " inside ja must be escaped as \".
     """
-    print("== 6. Lua string safety (CP932 0x5C-trail hazard) ==")
+    print("== 6. Lua string safety (CP932 0x5C-trail + quote hazards) ==")
     import re
     fp = os.path.join(ROOT, "Translation/Renewal/SystemEN/LuaFiles514/itemInfo.lua")
     if not os.path.exists(fp):
@@ -137,6 +138,30 @@ def test_lua_string_safety():
               r.stderr.decode(errors="replace")[:200])
     else:
         print("  (luac not available, skipped parse check)")
+
+
+def test_quote_escaping():
+    """ja containing literal \" must be escaped in rebuild output."""
+    print("== 7. quote escaping in rebuild ==")
+    import tempfile
+    ja_with_quote = '最後の名前、"Hollg--" は書きかけのようだ。'
+    # simulate: encode -> rebuild logic escapes
+    b = encode_ja(ja_with_quote, "cp932")
+    b = b.replace(b'"', b'\\"')
+    # the escaped form must contain \x5C\x22 (escaped quote) pairs
+    check("quote escaped", b'\\"' in b and b.count(b'\\"') == 2, f"{b!r}")
+    # full parse check: build a tiny lua and luac it
+    lua_src = 't = { "' + b2c(b) + '" }\n'
+    with tempfile.NamedTemporaryFile(suffix=".lua", mode="w", delete=False, encoding="latin-1") as tf:
+        tf.write(lua_src)
+        tmp = tf.name
+    import shutil
+    luac = shutil.which("luac5.1") or shutil.which("luac")
+    if luac:
+        r = subprocess.run([luac, "-p", tmp], capture_output=True)
+        check("escaped quote lua parses", r.returncode == 0,
+              r.stderr.decode(errors="replace")[:200])
+    os.unlink(tmp)
 
 
 def test_catalog_sanity():
@@ -191,6 +216,7 @@ def main():
     test_catalog_sanity()
     test_rebuild_with_ja()
     test_lua_string_safety()
+    test_quote_escaping()
     print(f"\n{PASS} passed, {FAIL} failed")
     sys.exit(1 if FAIL else 0)
 
