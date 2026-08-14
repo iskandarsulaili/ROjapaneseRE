@@ -277,7 +277,13 @@ def rebuild_lua(path, catalog, out_path, encoding):
             ja = lookup.get((json.dumps(path), en))
             if ja is None or ja == en:
                 return m.group(0)
-            return '"' + b2c(encode_ja(ja, encoding)) + '"'
+            ja_bytes = encode_ja(ja, encoding)
+            # CP932 hazard: if the encoded string ends in 0x5C as a trail
+            # byte (e.g. 図/表/Ⅸ), append a trailing space so Lua doesn't
+            # treat it as an escape before the closing quote.
+            if len(ja_bytes) >= 2 and ja_bytes[-1] == 0x5c and ja_bytes[-2] >= 0x81:
+                ja_bytes += b" "
+            return '"' + b2c(ja_bytes) + '"'
 
         out.append(STRING_RE.sub(repl, sline) + cr)
 

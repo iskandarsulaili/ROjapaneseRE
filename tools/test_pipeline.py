@@ -99,6 +99,46 @@ def test_encoding():
         check("cp932 decode ok", False, str(e))
 
 
+def test_lua_string_safety():
+    """CP932 hazard: kanji like 図/表/Ⅸ end in byte 0x5C (backslash),
+    which Lua treats as an escape char. A string ending in such a char
+    breaks Lua parsing ('unfinished string'). The fix is a trailing space.
+    """
+    print("== 6. Lua string safety (CP932 0x5C-trail hazard) ==")
+    import re
+    fp = os.path.join(ROOT, "Translation/Renewal/SystemEN/LuaFiles514/itemInfo.lua")
+    if not os.path.exists(fp):
+        print("  skip (no itemInfo.lua)")
+        return
+    data = open(fp, "rb").read()
+    lines = data.split(b"\n")
+    problems = []
+    for i, line in enumerate(lines):
+        j = 0
+        while j < len(line):
+            if line[j:j+1] == b'"':
+                k = line.find(b'"', j+1)
+                if k == -1:
+                    break
+                content = line[j+1:k]
+                if len(content) >= 2 and content[-1] == 0x5c and content[-2] >= 0x81:
+                    problems.append((i+1, content.decode("cp932", errors="replace")))
+                j = k + 1
+            else:
+                j += 1
+    check("no strings end in CP932 0x5C-trail char", len(problems) == 0,
+          f"{problems[:5]}")
+    # luac parse check if available
+    import shutil
+    luac = shutil.which("luac5.1") or shutil.which("luac")
+    if luac:
+        r = subprocess.run([luac, "-p", fp], capture_output=True)
+        check("itemInfo.lua parses (luac -p)", r.returncode == 0,
+              r.stderr.decode(errors="replace")[:200])
+    else:
+        print("  (luac not available, skipped parse check)")
+
+
 def test_catalog_sanity():
     print("== 4. catalog sanity ==")
     cat = "/tmp/cat_msg_pilot_ja.jsonl"
@@ -150,6 +190,7 @@ def main():
     test_encoding()
     test_catalog_sanity()
     test_rebuild_with_ja()
+    test_lua_string_safety()
     print(f"\n{PASS} passed, {FAIL} failed")
     sys.exit(1 if FAIL else 0)
 
