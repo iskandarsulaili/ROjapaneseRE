@@ -248,7 +248,7 @@ def rebuild_msgstring(path, catalog, out_path, encoding):
         line = text.rstrip("\r")
         cr = "\r" if text.endswith("\r") else ""
         if line.endswith("#") and line != "#":
-            ja = lookup.get(i)
+            ja = lookup.get(str(i))
             if ja and ja != line[:-1]:
                 out.append(b2c(encode_ja(ja, encoding)) + "#" + cr)
             else:
@@ -270,7 +270,7 @@ def rebuild_plain(path, catalog, out_path, encoding):
         line = text.rstrip("\r")
         cr = "\r" if text.endswith("\r") else ""
         if line.strip():
-            ja = lookup.get(i)
+            ja = lookup.get(str(i))
             if ja and ja != line:
                 out.append(b2c(encode_ja(ja, encoding)) + cr)
             else:
