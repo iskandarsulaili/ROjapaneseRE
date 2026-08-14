@@ -252,7 +252,7 @@ def rebuild_msgstring(path, catalog, out_path, encoding):
             if ja and ja != line[:-1]:
                 out.append(b2c(encode_ja(ja, encoding)) + "#" + cr)
             else:
-                out.append(line + "#" + cr)
+                out.append(line + cr)
         else:
             out.append(text)
     with open(out_path, "wb") as f:
