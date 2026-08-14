@@ -1,48 +1,67 @@
-# Ragnarok Online Translation Project
-Read the [Documentation](https://llchrisll.github.io/ROTPDocs), which helps you to setup this project.  
-Join the [RO Translation Project - Discord](https://discord.gg/sagbPhH) Discord Server for feedback, requests or even further support.  
-___
-[ROenglishRE](https://rathena.org/board/topic/102689-ragnarok-english-translation-project/) is an unofficial english translation (Fan translation) project for Korea Ragnarok Online Renewal that focused on translating items, skills and textures, while it also includes items from other official servers like jRO.  
-This project also supports pre-renewal by overwriting the content of the Renewal folder with the Pre-Renewal one.  
+# Ragnarok Online 日本語翻訳プロジェクト (ROjapaneseRE)
 
-The priority of item translation goes like this:  
-1. kRO  
-2. jRO  
-3. iRO  
-4. idRO  
-5. GGHRO  
-6. LatamRO
-7. LandverseRO
+An unofficial **Japanese** translation project for Korea Ragnarok Online (kRO),
+forked from [ROenglishRE](https://github.com/llchrisll/ROenglishRE).
 
-## official_data.grf & kro_data.grf
-My two custom grfs are now on my docs available:  
-https://llchrisll.github.io/ROTPDocs/misc/custom_officials/
-___
-Note: This project should be considered as educational purposes only, any commercial or illegal use by people or group aren't author's responsibilities.  
-![ROTPbySapito_mask](https://github.com/llchrisll/ROenglishRE/assets/5730576/81cdf381-e3d5-4a88-95ff-4019a26b5977)
-___
-#### My Setup
-* Basic Clients:
-  * 2015-10-29aRagexe  
-  * 2018-06-20eRagexeRE  
-  * 2020-04-01bRagexe  
-  * 2020-09-02bRagexeRE  
-  * 2022-04-06 Ragexe  
-  * 2025-06-04 Ragexe
-  * 2025-07-16 Ragexe
-  * 2026-01-07 Ragexe
-* rAthena Emulator  
-* Windows 11 Pro  
-* various kRO Full Clients  
-* Resource Files from: (official_data.grf)  
-  * jRO  
-  * iRO  
-  * bRO  
-  * idRO  
-  * GGHRO  
-  * twRO  
-  * thRO
-  * phRO  
-  * cRO  
-  * LatamRO
-  * LandverseRO
+This project translates the kRO Renewal client (and Pre-Renewal
+compatibility) into Japanese: **items, skills, quests, monsters, pets, NPC
+dialogue, client UI strings, books, and textures** — everything ROenglishRE
+covers, but in Japanese instead of English.
+
+## Status
+
+🚧 Active development. The toolchain is complete; bulk translation is in
+progress surface by surface. See [docs/PROJECT_PLAN.md](docs/PROJECT_PLAN.md)
+for the roadmap and current progress.
+
+## What's translated so far
+
+| Surface | Status |
+|---|---|
+| Client UI strings (msgstringtable.txt) | In progress |
+| Items (names + descriptions) | Planned |
+| Skills | Planned |
+| Quests / achievements / navi | Planned |
+| Pets / titles / enchants | Planned |
+| Books | Planned |
+| Textures | Planned |
+
+## Setup / usage
+
+The translation pipeline works on the repo's data files directly:
+
+```bash
+# Extract translatable strings from a file into a JSONL catalog
+python3 tools/catalog.py extract --out catalog/msg.jsonl \
+    Translation/Renewal/data/msgstringtable.txt
+
+# Translate catalog entries EN->JA (LLM-assisted, glossary-constrained)
+python3 tools/translate.py --catalog catalog/msg.jsonl \
+    --out catalog/msg_ja.jsonl --surface msg
+
+# Rebuild the translated file (byte-safe, Shift-JIS output)
+python3 tools/catalog.py rebuild Translation/Renewal/data/msgstringtable.txt \
+    --catalog catalog/msg_ja.jsonl --out Translation/Renewal/data/msgstringtable.txt
+
+# Run quality-gate tests
+python3 tools/test_pipeline.py
+```
+
+Output files are encoded **Shift-JIS (cp932)** — the standard for Japanese
+Windows and Japanese RO clients. Sprite/resource filenames and all
+non-translated content are preserved byte-for-byte.
+
+## Credits
+
+- Original translation works of zackdreaver: https://github.com/zackdreaver/ROenglishRE
+- Continued by llchrisll at https://github.com/llchrisll/ROenglishRE
+- jRO official data (Gungho) used as terminology reference
+- This fork: iskandarsulaili/ROjapaneseRE
+
+This is an unofficial fan-translation project for educational purposes only.
+Any commercial or illegal use is not the responsibility of the authors.
+
+## Related
+
+- [RO Translation Project - Discord](https://discord.gg/sagbPhH)
+- [ROTP Docs](https://llchrisll.github.io/ROTPDocs)
