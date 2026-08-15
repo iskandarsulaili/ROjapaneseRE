@@ -220,6 +220,9 @@ def translate_batch(entries, pairs, surface, url, key, model, retries=6):
     for e in entries:
         if e.get("ja"):
             done.append(e)
+        elif not e.get("en") or not e["en"].strip():
+            # whitespace/empty strings need no translation
+            done.append(e)
         else:
             todo.append(e)
 
@@ -350,6 +353,9 @@ def main():
     print(f"translating {n} units (batch {args.batch}, surface {args.surface}, pace {args.pace}s)", file=sys.stderr)
     for start in range(0, n, args.batch):
         batch = work[start:start + args.batch]
+        if all(e.get("ja") for e in batch):
+            # fast path: whole batch already translated — skip without LLM
+            continue
         done, problems = translate_batch(batch, GLOSSARY, args.surface, args.url, args.key, args.model, args.retries)
         work[start:start + args.batch] = done
         total_problems += len(problems)
@@ -366,7 +372,9 @@ def main():
             save_catalog(args.out, entries)
         else:
             save_catalog(args.out, work)
-        if start + args.batch < n:
+        # pace only when the batch actually translated something new
+        n_new = sum(1 for e in done if e.get("ja"))
+        if start + args.batch < n and n_new:
             time.sleep(args.pace)
 
     translated = sum(1 for e in entries if e.get("ja"))
