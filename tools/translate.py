@@ -307,6 +307,15 @@ def main():
     if args.limit:
         entries = entries[:args.limit]
 
+    # Safety: back up the previous checkpoint before any write, so an
+    # interrupted/overwritten run can be recovered.
+    if os.path.exists(args.out):
+        try:
+            import shutil
+            shutil.copy2(args.out, args.out + ".prev")
+        except Exception:
+            pass
+
     # Resume: if --out exists, merge already-translated ja back in
     resumed = 0
     if os.path.exists(args.out):
