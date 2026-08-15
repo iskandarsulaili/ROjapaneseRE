@@ -177,14 +177,14 @@ catalogs in catalog/).
 - [x] msgstringtable.txt (4,012 strings) — **100% translated** (2026-08-14)
 - [x] Item names (26,641) — **100% translated** (2026-08-14), luac-validated
 - [x] Item descriptions (294,483 lines) — **100% translated** (2026-08-14), luac-validated
-- [ ] Skills (19,220 unique) — IN PROGRESS
-- [ ] Item descriptions (long tail)
-- [ ] Skills, datainfo, system lub
-- [ ] Books + text tables
-- [ ] Fonts (System/Font JP drop-in) + texture pass
+- [x] Skills (28,970 entries) — **100% translated** (2026-08-15), luac-validated
+- [x] Pets/titles/help (397) — **100% translated** (2026-08-15)
+- [x] Quests/achievements/navi (39,866 entries) — **100% translated** (2026-08-15), luac-validated
+- [x] Text tables (11,056) — **100% translated** (2026-08-15)
+- [x] Books (13,606) — **100% translated** (2026-08-15)
+- [ ] Textures (502 images) — image asset translation (manual/GIMP)
 - [ ] Additions/Addons/Compatibility + Pre-Renewal mirror
-- [ ] Test suite (byte-safety, tokens, lua validity, encoding)
-- [ ] First full release (grf or data-folder pack)
+- [ ] Test on client (JP font + rendered Japanese)
 
 ## Notes
 
