@@ -275,6 +275,9 @@ def rebuild_lua(path, catalog, out_path, encoding):
                 return m.group(0)
             path, en = ents.pop(0)
             ja = lookup.get((json.dumps(path), en))
+            if ja is None:
+                # en-key mismatch (escape variants): try the stripped form
+                ja = lookup.get((json.dumps(path), strip_escapes(en)))
             if ja is None or ja == en:
                 return m.group(0)
             ja_bytes = encode_ja(ja, encoding)
@@ -284,10 +287,25 @@ def rebuild_lua(path, catalog, out_path, encoding):
             if len(ja_bytes) >= 2 and ja_bytes[-1] == 0x5c and ja_bytes[-2] >= 0x81:
                 ja_bytes += b" "
             # Quote hazard: ja may contain literal " (from EN strings that had
-            # escaped quotes, e.g. "Hollg--"). Escape them as \" so the Lua
-            # string stays valid. This also covers any 0x5C that precedes a "
-            # inside the string.
-            ja_bytes = ja_bytes.replace(b'"', b'\\"')
+            # escaped quotes, e.g. "Hollg--" or \"%hi\"). Work at the BYTE level
+            # with even-backslash awareness so CP932 trail bytes (0x5C) are
+            # never mistaken for escapes: only a " whose preceding backslash
+            # run is EVEN gets escaped (odd run means it was already escaped).
+            out_bytes = bytearray()
+            bs = 0
+            for b in ja_bytes:
+                if b == 0x5c:
+                    bs += 1
+                    out_bytes.append(b)
+                elif b == 0x22:
+                    if bs % 2 == 0:
+                        out_bytes.append(0x5c)
+                    out_bytes.append(b)
+                    bs = 0
+                else:
+                    bs = 0
+                    out_bytes.append(b)
+            ja_bytes = bytes(out_bytes)
             return '"' + b2c(ja_bytes) + '"'
 
         out.append(STRING_RE.sub(repl, sline) + cr)
