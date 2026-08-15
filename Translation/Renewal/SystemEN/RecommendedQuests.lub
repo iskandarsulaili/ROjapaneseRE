@@ -7,542 +7,542 @@
 RecommendedQuestInfoList = {}
 RecommendedQuestInfoList = {
 	[1] = {
-		Title = "Welcome to Ragnarok Online!",
+		Title = "ラグナロクオンラインへようこそ！",
 		IconName = "ico_gq.bmp",
-		Summary = "We provide help for Novice adventurer.",
+		Summary = "ノービス冒険者の方々にサポートを提供しています。",
 		NpcSpr = "4_F_01",
 		NpcNavi = "iz_ac01",
 		NpcPosX = 102,
 		NpcPosY = 44,
 		BgName = "reco_01.bmp",
 		QuestInfo1 = {
-			"Welcome!",
-			"The Criatura academy offers a variety of information for Novice. If you haven't visited The Criatura academy, please visit us to get useful informations and items."
+			"ようこそ！",
+			"クリアトゥーラ・アカデミーはノービス向けの様々な情報を提供しています。まだクリアトゥーラ・アカデミーをご利用でない方は、有用な情報やアイテムを入手するためにぜひお越しください。"
 		},
 		QuestInfo2 = {
-			"$$Novice$$ welcome!!",
-			"Beginner%%Support%%Bread!!Bread!!",
-			"&*Free*& consult OK!!"
+			"$$ノービス$$ ようこそ！！",
+			"ビギナー%%サポート%%パン！！パン！！",
+			"&*無料*& 相談受付中！！"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[3] = {
-		Title = "Prontera Spring Flower Festival",
+		Title = "プロンテラ春の花祭り",
 		IconName = "ico_ev.bmp",
-		Summary = "See you in Prontera in the spring",
+		Summary = "春のプロンテラでお会いしましょう",
 		BgName = "reco_03.bmp",
 		QuestInfo1 = {
-			"We invite you to the newly revamped Frontera Spring Flower Festival.",
-			"Please find <NAVI>[Seri]<INFO>prontera,137,327,0,101,0</INFO></NAVI> at the entrance of Prontera Royal Castle."
+			"リニューアルされたプロンテラ春の花祭りにご招待します。",
+			"プロンテラ王城の入り口にいる <NAVI>[セリ]<INFO>prontera,137,327,0,101,0</INFO></NAVI> を訪ねてください。"
 		},
 		QuestInfo2 = {
 			"",
-			"^945945Anyone who is an adventurer with Base Level 20 or higher!^000000"
+			"^945945Base Lv 20以上の冒険者の方々！^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[9] = {
-		Title = "Chuseok with the bright full moon",
+		Title = "明るい満月と共に過ごすチュソック",
 		IconName = "ico_ev.bmp",
-		Summary = "Enjoy holiday food at Payon!",
+		Summary = "パヨンで秋の味覚を楽しもう！",
 		BgName = "reco_09.bmp",
 		QuestInfo1 = {
-			"This year, a holiday food experience festival will be held in Payon.",
-			"Adventurers who didn't go back to their hometowns for Chuseok, would you like to try making songpyeon in <NAVI>[Payon]<INFO>payon,217,109,0,101,0</INFO></NAVI>?"
+			"今年もパヨンで秋の味覚体験フェスティバルが開催されます。",
+			"帰省できない冒険者の皆さん、<NAVI>[パヨン]<INFO>payon,217,109,0,101,0</INFO></NAVI> で松餅（ソンピョン）作りを体験してみませんか？"
 		},
 		QuestInfo2 = {
-			"We also made songpyeon and ate yakgwa.",
-			"Have a happy Chuseok!"
+			"私たちも松餅を作り、薬菓（ヤックワ）を食べました。",
+			"皆さんにとって幸せなチュソックになりますように！"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[10] = {
-		Title = "Yuno Autumn Academic Festival",
+		Title = "ジュノー秋の学術祭",
 		IconName = "ico_ev.bmp",
-		Summary = "There are also crispy and delicious snacks!",
+		Summary = "サクサクでおいしいお菓子もありますよ！",
 		BgName = "reco_10.bmp",
 		QuestInfo1 = {
-			"At the Yuno Autumn Academic Festival, various academic societies and groups present their research achievements through various games and events.",
-			"<NAVI>[Lazy]<INFO>yuno.gat,164,169,0,101,0</INFO></NAVI> is finally waiting for everyone to come to Yuno!"
+			"ジュノー秋の学術祭では、様々な学会や団体がゲームやイベントを通じて研究成果を発表します。",
+			"<NAVI>[レイジー]<INFO>yuno.gat,164,169,0,101,0</INFO></NAVI> が皆さんのジュノー訪問を心待ちにしています！"
 		},
 		QuestInfo2 = {
-			"Enjoy a bountiful autumn by",
-			"browsing the various booths at the",
-			"Yuno Autumn Academic Festival!"
+			"ジュノー秋の学術祭の",
+			"様々なブースを巡り、",
+			"実りある秋をお楽しみください！"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[67] = {
-		Title = "Chapter 2: Song of the World Tree",
+		Title = "第2章：世界樹の歌",
 		IconName = "ico_ep.bmp",
-		Summary = "~ Fragments of the Apocalypse ~",
+		Summary = "~ 終末の欠片 ~",
 		NpcSpr = "4_CH1_DELEGACY01",
 		NpcNavi = "ygg_edge",
 		NpcPosX = 156,
 		NpcPosY = 179,
 		BgName = "reco_67.bmp",
 		QuestInfo1 = {
-			"Adventurer.",
-			"How are you?",
-			"Before I knew it, as I caressed the young leaves of the World Tree, a new journey was about to begin, following the wind.",
-			"I hope your footsteps can join us in Ashwood Village, where the wind begins.",
+			"冒険者よ。",
+			"お元気ですか？",
+			"世界樹の若葉を撫でるうちに、いつの間にか風に導かれる新たな旅が始まろうとしています。",
+			"風が始まる地、アッシュウッド村であなたの足音を共に刻めますように。",
 			"",
-			"Sincerely, Lapine Sasha, eagerly awaiting."
+			"心より、ラピネ・サシャが楽しみにお待ちしております。"
 		},
 		QuestInfo2 = {
-			"Requirements:",
-			"^3275f0Base Level 225 or higher^000000",
-			"^3275f0Chapter 1: Song of the World Tree^000000"
+			"参加条件：",
+			"^3275f0Base Lv 225以上^000000",
+			"^3275f0第1章：世界樹の歌^000000"
 		},
 		QuestInfo3 = {
-			"Start Point",
-			"<NAVI>[Lapine Sasha]<INFO>ygg_edge,156,179,0,101,0</INFO></NAVI> is waiting for you.",
+			"開始地点",
+			"<NAVI>[ラピネ・サシャ]<INFO>ygg_edge,156,179,0,101,0</INFO></NAVI> があなたを待っています。",
 			""
 		}
 	},
 	[68] = {
-		Title = "The World Tree Calls!",
+		Title = "世界樹の呼び声！",
 		IconName = "ico_jq.bmp",
-		Summary = "New Class, Druid!",
+		Summary = "新職業、ドルイド！",
 		BgName = "reco_68.bmp",
 		QuestInfo1 = {
-			"O promising young adventurer!",
-			"Wouldn't you transform by inheriting the power of the World Tree?",
-			"<NAVI>[Small Ash Tree]<INFO>izlude,118,252,0,101,0</INFO></NAVI>"
+			"おお、前途有望な若き冒険者よ！",
+			"世界樹の力を受け継ぎ、変身してみませんか？",
+			"<NAVI>[小さな灰の木]<INFO>izlude,118,252,0,101,0</INFO></NAVI>"
 		},
 		QuestInfo2 = {
-			"Novice",
-			"Job Level 10"
+			"ノービス",
+			"Job Lv 10"
 		},
 		QuestInfo3 = {
-			"^ff0000､ For detailed information, please meet the Druid Ascendancy NPC.^000000"
+			"^ff0000､ ???????????????????NPC?????????^000000"
 		}
 	},
 	[69] = {
-		Title = "Chapter 1: Song of the World Tree",
+		Title = "第1章：世界樹の歌",
 		IconName = "ico_ep.bmp",
-		Summary = "~ Prelude ~",
+		Summary = "～ プレリュード ～",
 		BgName = "reco_69.bmp",
 		QuestInfo1 = {
-			"Hello? How are you? You look so healthy.",
-			"If you see me, you are the chosen adventurer!",
-			"Are you interested in the end of the world?"
+			"やあ？調子はどうだい？とても元気そうだね。",
+			"私を見つけたということは、君は選ばれし冒険者だ！",
+			"世界の終わりに興味はないかい？"
 		},
 		QuestInfo2 = {
-			"Requirements",
-			"^3275f0Base Level 200 or higher^000000"
+			"必要条件",
+			"^3275f0Base Lv 200以上^000000"
 		},
 		QuestInfo3 = {
-			"Start Point",
-			"<NAVI>[Prontera Field]<INFO>prt_fild05,353,252,0,101,0</INFO></NAVI>",
-			"<NAVI>[Payon Fild]<INFO>pay_fild01,308,341,0,101,0</INFO></NAVI>"
+			"開始地点",
+			"<NAVI>[プロンテラ野外]<INFO>prt_fild05,353,252,0,101,0</INFO></NAVI>",
+			"<NAVI>[パヨン野外]<INFO>pay_fild01,308,341,0,101,0</INFO></NAVI>"
 		}
 	},
 	[70] = {
-		Title = "Episode 21: The Age of Heroes",
+		Title = "エピソード21：英雄たちの時代",
 		IconName = "ico_ep.bmp",
-		Summary = "Remember...",
+		Summary = "思い出してほしい……",
 		BgName = "reco_70.bmp",
 		QuestInfo1 = {
-			"A small scale island near Issgard,",
-			"where a small crack appears, transports the adventurers back in time.",
-			"<NAVI>[Join]<INFO>jor_tail,233,41,0,101,0</INFO></NAVI> Nyar as he journeys to the past, a time of turbulent times, where heroes fought for a crucial mission to defeat Lasgand!"
+			"イスガルドの近くにある小さな島で、",
+			"小さな亀裂が現れ、冒険者たちを過去へと転送したことを。",
+			"<NAVI>[参加]<INFO>jor_tail,233,41,0,101,0</INFO></NAVI> ニャルが過去へ旅立つ、英雄たちがラスガンドを倒すための重要な任務を背負って戦った激動の時代へ！"
 		},
 		QuestInfo2 = {
-			"Requirements",
-			"^3275f0Episode 20^000000 completed",
-			"^3275f0Base Level 230 or higher^000000"
+			"必要条件",
+			"^3275f0エピソード20^000000 完了",
+			"^3275f0Base Lv 230以上^000000"
 		},
 		QuestInfo3 = {
 			"",
-			"                  casting",
-			"               casting",
-			"                casting"
+			"詠唱中",
+			"詠唱中",
+			"詠唱中"
 		}
 	},
 	[71] = {
-		Title = "Garden of Time",
+		Title = "時の庭園",
 		IconName = "ico_sc.bmp",
-		Summary = "The new owner of the forgotten space",
+		Summary = "忘れられた空間の新たな主",
 		BgName = "reco_71.bmp",
 		QuestInfo1 = {
-			"Oscar!",
-			"I can't just get rid of this <NAVI>[Portal]<INFO>xmas_fild01,155,245,0,101,0</INFO></NAVI>!",
-			"I can't even fathom how many years Oscar has lived here, can I?",
-			"But I still can't stand the sight of him snoozing on the cold ground.",
-			"Let's take this abandoned garden for ourselves!",
-			"Do you see the pictures of the mansion I sent you?",
-			"They're a little dark, but I like them!",
-			"Please respond quickly!",
+			"オスカー！",
+			"この<NAVI>[ポータル]<INFO>xmas_fild01,155,245,0,101,0</INFO></NAVI>をただ消し去るわけにはいかないんだ！",
+			"オスカーがここで何年暮らしてきたのか、私にも想像もつかないよ。",
+			"それでも、彼が冷たい地面で居眠りしているのを見るに耐えないんだ。",
+			"この廃園を私たちのものにしよう！",
+			"君に送った屋敷の写真は見てくれたかい？",
+			"少し暗いけれど、私は気に入っているんだ！",
+			"早く返事をくれ！",
 			"",
-			"   - Leticia"
+			"- レティシア"
 		},
 		QuestInfo2 = {
-			"Requirements:",
-			"^3275f0Base Level 250 or higher^000000"
+			"参加条件：",
+			"^3275f0Base Lv 250以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[72] = {
-		Title = "A new discovery! Rune Tablets!",
+		Title = "新発見！ルーンタブレット！",
 		IconName = "ico_sc.bmp",
-		Summary = "Varmundt's new technology?!",
+		Summary = "ヴァルムントの新技術！？",
 		BgName = "reco_72.bmp",
 		QuestInfo1 = {
-			"The cards piled up in the warehouse have been transformed!",
-			"Bring new life to Varmundt's new technology-intensive Rune Tablet...!",
-			"Find <NAVI>[Rune Stone]<INFO>prontera,161,192,0,101,0</INFO></NAVI> and check it out right now!"
+			"倉庫に積まれていたカードが変化した！",
+			"ヴァルムントの新技術が詰まったルーンタブレットに新たな命を吹き込め……！",
+			"<NAVI>[ルーンストーン]<INFO>prontera,161,192,0,101,0</INFO></NAVI>を見つけて、今すぐ確認しよう！"
 		},
 		QuestInfo2 = {
-			"Rune Tablets,",
-			"they're really good..."
+			"ルーンタブレット、",
+			"本当に素晴らしい……"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[73] = {
-		Title = "Episode 20: The Immortal",
+		Title = "エピソード20：不死者",
 		IconName = "ico_ep.bmp",
-		Summary = "Let's go to the Ancient Ice Canyon!",
+		Summary = "古代氷峡谷へ行こう！",
 		BgName = "reco_73.bmp",
 		QuestInfo1 = {
-			"Key figures of the Jormungand Cult have abandoned the Serpent's Nest and retreated deeper into the depths.",
-			"To find Bagot and Lasgand and thwart their sinister ambitions,",
-			"the group of adventurers journey to a new region they've never explored before, encountering unfamiliar creatures.",
-			"Meow"
+			"ヨルムンガルド教団の主要人物たちが蛇の巣を捨て、さらに深淵へと撤退した。",
+			"バゴットとラスガンドを見つけ出し、彼らの邪悪な野望を阻止するため、",
+			"冒険者たちは未踏の新地域へ旅立ち、見知らぬ生物と遭遇する。",
+			"ミャウ"
 		},
 		QuestInfo2 = {
-			"Requirements:",
-			"^3275f0Episode 19^000000 completed",
-			"^3275f0Base Level 215 or higher^000000"
+			"参加条件：",
+			"^3275f0エピソード19^000000 完了",
+			"^3275f0Base Lv 215以上^000000"
 		},
 		QuestInfo3 = {
-			"^ee1073Meow^000000",
-			"^ee1073Meow^000000",
-			"^ee1073Meow^000000"
+			"^ee1073ニャー^000000",
+			"^ee1073ニャー^000000",
+			"^ee1073ニャー^000000"
 		}
 	},
 	[74] = {
-		Title = "Fantasy Series",
+		Title = "ファンタジーシリーズ",
 		IconName = "ico_vr.bmp",
-		Summary = "Meet me at the library east of Prontera.",
+		Summary = "プロンテラ東の図書館で待っているよ。",
 		BgName = "reco_74.bmp",
 		QuestInfo1 = {
-			"A new concept in storybooks, where you can interact with characters in a virtual space and progress through the story!",
-			"Just in time, ^3169ceProntera East Library is undergoing a major expansion!^000000",
-			"Visit <NAVI>[Prontera East Library]<INFO>prt_elib,18,46,0,101,0</INFO></NAVI> right now!"
+			"仮想空間でキャラクターと交流しながら物語を進める、新感覚の絵本！",
+			"ちょうど今、^3169ceプロンテラ東図書館が大規模改装中だよ！^000000",
+			"<NAVI>[プロンテラ東図書館]<INFO>prt_elib,18,46,0,101,0</INFO></NAVI>に今すぐ行こう！"
 		},
 		QuestInfo2 = {
-			"Shocking!",
-			"And a",
-			"^3275f0huge twist!!!!^000000"
+			"衝撃！",
+			"そして",
+			"^3275f0大どんでん返し！！！！^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[75] = {
-		Title = "Episode 19: Land of Snow Flowers",
+		Title = "エピソード19：雪花の地",
 		IconName = "ico_ep.bmp",
-		Summary = "The frozen land beyond the northern sea.",
+		Summary = "北の海の彼方、凍てついた大地。",
 		BgName = "reco_75.bmp",
 		QuestInfo1 = {
-			"The land beyond the northern sea where the legend of ^3169ceJormungand^000000 is told.",
-			"Will the ambitions ofｭ ^3169ceBagot^000000, who ran away with the piece of Ymir's heart, be stopped? What secrets is the ^3169ceJormungand Cult^000000 hiding?",
-			"The airship, filled with anxiety, is now departing for ^3169ceIssgard^000000."
+			"^3169ceヨルムンガルド^000000の伝説が語られる北の海の彼方の地。",
+			"ユミルの心臓の欠片を持ち逃げした^3169ceバゴット^000000の野望は阻止できるのか？^3169ceヨルムンガルド教団^000000は何を隠しているのか？",
+			"不安に満ちた飛行船が、^3169ceイスガルド^000000へと出発する。"
 		},
 		QuestInfo2 = {
-			"Requirements:",
-			"^3275f0Episode 18^000000 completed",
-			"^3275f0Base Level 200 or higher^000000"
+			"参加条件：",
+			"^3275f0エピソード18^000000 完了",
+			"^3275f0Base Lv 200以上^000000"
 		},
 		QuestInfo3 = {
-			"^ee1073Bagot^000000",
-			"Right. Right. Right.",
-			"   I'm going to meet you."
+			"^ee1073バゴット^000000",
+			"そう。そう。そうなんだ。",
+			"君に会いに行くよ。"
 		}
 	},
 	[76] = {
-		Title = "You can do it too! Change your job right now!!",
+		Title = "君にもできる！今すぐジョブチェンジ！！",
 		IconName = "ico_jq.bmp",
-		Summary = "You can also do extended jobs!",
+		Summary = "拡張ジョブへのチェンジも可能！",
 		BgName = "reco_76.bmp",
 		QuestInfo1 = {
-			"<NAVI>[Rebellion to Nightwatch]<INFO>einbroch,313,324,0,101,0</INFO></NAVI>",
-			"<NAVI>[Star Emperor to Sky Emperor]<INFO>payon,213,202,0,101,0</INFO></NAVI>",
-			"<NAVI>[Soul Reaper to Soul Ascetic]<INFO>payon,197,119,0,101,0</INFO></NAVI>",
-			"<NAVI>[Kagerou, Oboro to Shinkiro, Shiranui]<INFO>amatsu,82,118,0,101,0</INFO></NAVI>",
-			"<NAVI>[Summoner to Spirit Handler]<INFO>payon,165,116,0,101,0</INFO></NAVI>",
-			"<NAVI>[Super Novice to Hyper Novice]<INFO>aldebaran,110,70,0,101,0</INFO></NAVI>"
+			"<NAVI>[リベリオンからナイトウォッチへ]<INFO>einbroch,313,324,0,101,0</INFO></NAVI>",
+			"<NAVI>[星帝から天帝へ]<INFO>payon,213,202,0,101,0</INFO></NAVI>",
+			"<NAVI>[ソウルリーパーからソウルアセティックへ]<INFO>payon,197,119,0,101,0</INFO></NAVI>",
+			"<NAVI>[影狼・朧から蜃気郎・不知火へ]<INFO>amatsu,82,118,0,101,0</INFO></NAVI>",
+			"<NAVI>[サモナーからスピリットハンドラーへ]<INFO>payon,165,116,0,101,0</INFO></NAVI>",
+			"<NAVI>[スーパーノービスからハイパーノービスへ]<INFO>aldebaran,110,70,0,101,0</INFO></NAVI>"
 		},
 		QuestInfo2 = {
-			"Base Level 200",
-			"Job Level 70",
-			"(Summoner Job Level 60)"
+			"Base Lv 200",
+			"Job Lv 70",
+			"（サモナー Job Lv 60）"
 		},
 		QuestInfo3 = {
-			"^ff0000､ For more detailed information, please check with the NPC for each job.^000000"
+			"^ff0000､ ?????????????NPC??????????^000000"
 		}
 	},
 	[77] = {
-		Title = "Varmundt's Biosphere",
+		Title = "ヴァルムントのバイオスフィア",
 		IconName = "ico_sc.bmp",
-		Summary = "I would like to ask for your assistance.",
+		Summary = "君の力を借りたい。",
 		BgName = "reco_77.bmp",
 		NpcSpr = "4_EP17_BASIC_B",
 		QuestInfo1 = {
-			"Aren't you curious about the artificial habitat that Master Varmundt created withinｭ the <NAVI>[mansion]<INFO>ba_in01,252,353,0,101,0</INFO></NAVI>?",
-			"We desperately need your help to defeat the monsters that have grown strangely strong after being isolated from the outside world for so long."
+			"ヴァルムント様が<NAVI>[屋敷]<INFO>ba_in01,252,353,0,101,0</INFO></NAVI>内に作った人工生態系について、気にならないかい？",
+			"外の世界から長い間隔離されたせいで異常に強くなったモンスターたちを倒すため、私たちは君の助けを切に必要としているんだ。"
 		},
 		QuestInfo2 = {
-			"Requirements:",
-			"Base Level 240 or higher"
+			"参加条件：",
+			"Base Lv 240以上"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[78] = {
-		Title = "Sunken Tower",
+		Title = "陥没した塔",
 		IconName = "ico_sc.bmp",
-		Summary = "Uninvited guests in erosion zones",
+		Summary = "侵食地帯の招かれざる客",
 		BgName = "reco_78.bmp",
 		NpcSpr = "4_4JOB_LETICIA",
 		NpcNavi = "alberta",
 		NpcPosX = "213",
 		NpcPosY = "71",
 		QuestInfo1 = {
-			"^003355Someone has to do it^000000",
-			"ｰUnwelcome beings are emerging from beneath the eroded ruins of the sunken Endless Tower!",
-			"You may not gain much wealth, but it will be a good experience... no, it could be a good experience. You, who seem to be putting in some effort, are no exception, right?"
+			"^003355誰かがやらなければならない^000000",
+			"没した無限の塔の侵食された遺跡の底から、歓迎されざる存在が現れている！",
+			"大した富は得られないかもしれないが、いい経験になるだろう……いや、いい経験になるはずだ。努力していると思われる君も例外ではないだろう？"
 		},
 		QuestInfo2 = {
-			"Requirements:",
-			"^990000Base Level 40 or higher^000000"
+			"参加条件：",
+			"^990000Base Lv 40以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[79] = {
-		Title = "Illusion of Twins",
+		Title = "イリュージョン・オブ・トゥインズ",
 		IconName = "ico_sc.bmp",
-		Summary = "Four adventurers with identical appearances. Is this an illusion created by someone?",
+		Summary = "同じ姿をした4人の冒険者。これは誰かが作り出した幻覚なのか？",
 		BgName = "reco_79.bmp",
 		QuestInfo1 = {
-			"Somewhere in the Ant Hell Dungeon, someone said they saw an adventurer who looked just like them...",
-			"I wonder what happened, no one else has ever seen it.",
-			"Go to <NAVI>[Ant Hell]<INFO>anthell02,177,190,0,101,0</INFO></NAVI> and find out what's going on!"
+			"アントヘルダンジョンのどこかで、自分とそっくりな冒険者を見たという者がいた……",
+			"その後どうなったのかは気になるが、他に誰も見ていないらしい。",
+			"<NAVI>[アントヘル]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>へ行って、何が起きているのか確かめよう！"
 		},
 		QuestInfo2 = {
-			"Requirements:",
-			"^990000Base Level 160 or higher^000000"
+			"参加条件：",
+			"^990000Base Lv 160以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[80] = {
-		Title = "Episode 18: Direction of Prayer",
+		Title = "エピソード18：祈りの方向",
 		IconName = "ico_ep.bmp",
-		Summary = "What's going on in Rachel?",
+		Summary = "ラヘルで何が起きている？",
 		BgName = "reco_80.bmp",
 		NpcSpr = "4_EP17_TABLET",
 		NpcNavi = "ba_in01",
 		NpcPosX = "26",
 		NpcPosY = "266",
 		QuestInfo1 = {
-			"The signal analysis of the unfair situation that had been going on for a while is finally over!",
-			"It seems that the remnants of Illusion are up to something in Rachel, the capital of the religious nation of Arunafeltz.",
-			"Ellie decides to go to Rachel herself with the adventurers."
+			"しばらく続いていた不当な状況のシグナル解析がついに終了しました！",
+			"宗教国家アルナフェルツの首都ラヘルで、イリュージョンの残党が何かを企んでいるようです。",
+			"エリーは冒険者たちと共に自らラヘルへ向かうことを決意しました。"
 		},
 		QuestInfo2 = {
-			"Requirements:",
-			"^990000Episode 17.2^000000 completed",
-			"^990000Base Level 170 or higher^000000"
+			"参加条件：",
+			"^990000Episode 17.2^000000 完了",
+			"^990000Base Lv 170 以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[81] = {
-		Title = "Constellation Tower",
+		Title = "星座の塔",
 		IconName = "ico_sc.bmp",
-		Summary = "Face the new owner",
+		Summary = "新たな主に立ち向かえ",
 		NpcSpr = "4_ED_OSCAR",
 		NpcNavi = "e_tower",
 		NpcPosX = 71,
 		NpcPosY = 115,
 		BgName = "reco_81.bmp",
 		QuestInfo1 = {
-			"^003355The owner has changed?^000000",
-			"It seems that someone has overturned a tower, which was called the Endless Tower.",
-			"In a situation where it is impossible to know what kind of danger it is, someone has to identify the new owner."
+			"^003355主は変わった？^000000",
+			"終わりのない塔と呼ばれていたその塔を、誰かがひっくり返したようです。",
+			"どのような危険があるのか分からない状況の中、誰かが新たな主を確認しなければなりません。"
 		},
 		QuestInfo2 = {
-			"Requirements:",
-			"^990000Base Level 240 or higher^000000"
+			"参加条件：",
+			"^990000Base Lv 240 以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[82] = {
-		Title = "Traces of Heroes MD Tomb of Regret",
+		Title = "英雄の痕跡 MD 後悔の墓",
 		IconName = "ico_sc.bmp",
-		Summary = "A demon swordsman who was met in the Tomb of Regret and a demon sword that yearned for blood.",
+		Summary = "後悔の墓で出会った魔剣士と、血を渇望した魔剣。",
 		BgName = "reco_82.bmp",
 		NpcSpr = "MD_TIARA",
 		NpcNavi = "dali",
 		NpcPosX = 124,
 		NpcPosY = 88,
 		QuestInfo1 = {
-			"We received a request from the princess of the ruins, that the contractor of the magic sword whom he met at the place has been found.",
-			"The sword roared and the dead body shed tears."
+			"遺跡の姫君から、その場所で出会った魔剣の契約者が見つかったという依頼を受けました。",
+			"剣が咆哮し、死者の骸が涙を流しました。"
 		},
 		QuestInfo2 = {
-			"Requirements:",
-			"^990000Base Level 220 or higher^000000"
+			"参加条件：",
+			"^990000Base Lv 220 以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[83] = {
-		Title = "Unfair Crash Site",
+		Title = "不公平な墜落現場",
 		IconName = "ico_sc.bmp",
-		Summary = "A story in a place where unfairness fell.",
+		Summary = "不当が落ちた場所での物語。",
 		NpcSpr = "4_M_FAIRYANG",
 		BgName = "reco_83.bmp",
 		QuestInfo1 = {
-			"A lapine has discovered something at <NAVI>[Dimensional Rift]<INFO>dali02,137,86,0,101,0</INFO></NAVI>.",
-			"Adventurers were able to go to the place where unfairness fell. Let's explore the now forgotten cavity we found there."
+			"あるラピンが<NAVI>[次元の裂け目]<INFO>dali02,137,86,0,101,0</INFO></NAVI>で何かを発見しました。",
+			"冒険者たちは不当が落ちた場所へ行くことができました。そこで見つけた、今は忘れられた空洞を探検してみましょう。"
 		},
 		QuestInfo2 = {
-			"Requirements:",
-			"^990000Base Level 215 or higher^000000"
+			"参加条件：",
+			"^990000Base Lv 215 以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[84] = {
-		Title = "Geffen Night Arena",
+		Title = "ゲフェン ナイトアリーナ",
 		IconName = "ico_sc.bmp",
-		Summary = "Hidden Match",
+		Summary = "隠された試合",
 		NpcSpr = "4_M_YURI",
 		NpcNavi = "geffen_in",
 		NpcPosX = 81,
 		NpcPosY = 60,
 		BgName = "reco_84.bmp",
 		QuestInfo1 = {
-			"^003355Hidden Match^000000",
-			"When the lights in the Geffen Magic Tournament are turned off and the night comes, the real powers hiding their power awaken.",
-			"Let's start a true raw fight that is not covered by showmanship and broadcast scripts."
+			"^003355隠された試合^000000",
+			"ゲフェン魔法大会の灯りが消え、夜が訪れるとき、力を隠していた真の実力者たちが目覚めます。",
+			"見世物や放送台本に覆われていない、真の生き様の戦いを始めましょう。"
 		},
 		QuestInfo2 = {
-			"Requirements:",
-			"^990000Base Level 210 or higher^000000"
+			"参加条件：",
+			"^990000Base Lv 210 以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[85] = {
-		Title = "Illusion of Underwater",
+		Title = "水中のイリュージョン",
 		IconName = "ico_sc.bmp",
-		Summary = "Reveal the secret of the endlessly deep undersea cave!",
+		Summary = "果てしなく深い海底洞窟の秘密を解き明かせ！",
 		BgName = "reco_85.bmp", 
 		QuestInfo1 = {
-			"An incident occurred when Shirud, who was fishing in Izlude, disappeared.",
-			"Three months later, an object he had was discovered.",
-			"Go to <NAVI>Izlude<INFO>izlude,132,49,0,101,0</INFO></NAVI> and help finding the missing person!"
+			"イズルードで釣りをしていたシルドが姿を消すという事件が発生しました。",
+			"三ヶ月後、彼が持っていた物が発見されました。",
+			"<NAVI>イズルード<INFO>izlude,132,49,0,101,0</INFO></NAVI>へ行き、行方不明者の捜索を手伝ってください！"
 		},
 		QuestInfo2 = {
-			"Unknown Sea",
-			"Deep Sea Cave"
+			"未知の海",
+			"深海洞窟"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[86] = {
-		Title = "Episode 17.2 Sage's Legacy",
+		Title = "Episode 17.2 賢者の遺産",
 		IconName = "ico_ep.bmp",
-		Summary = "Don't fall behind the starters ...",
+		Summary = "初心者に遅れを取るな……",
 		NpcSpr = "4_M_ROOKIE",
 		NpcNavi = "sp_cor",
 		NpcPosX = 255,
 		NpcPosY = 285,
 		BgName = "reco_86.bmp", 
 		QuestInfo1 = {
-			"One side of Cor in the special border area. The sewer pipe, supposedly the only passage, was finally opened.",
-			"Rebelion's crew decided to enter the sewer line to track Illusion."
+			"特殊国境地域コルの片側。唯一の通路とされる下水管がついに開かれました。",
+			"リベリオンの部隊はイリュージョンを追跡するため、下水路へ侵入することを決定しました。"
 		},
 		QuestInfo2 = {
-			"Requirements",
-			"Episode ^99000017.1^000000 completed",
-			"^990000Base Level 130 or higher^000000"
+			"必要条件",
+			"Episode ^99000017.1^000000 完了",
+			"^990000Base Lv 130 以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[87] = {
-		Title = "Glastheim Challenge Mode",
+		Title = "グラストヘイム チャレンジモード",
 		IconName = "ico_sc.bmp",
-		Summary = "Check for dimensional errors",
+		Summary = "次元の誤りを確認せよ",
 		NpcSpr = "4_ED_OSCAR",
 		NpcNavi = "glast_01",
 		NpcPosX = 143,
 		NpcPosY = 288,
 		BgName = "reco_87.bmp", 
 		QuestInfo1 = {
-			"Attempt to close ^003355Dimensions which shouldn't exist^000000,",
-			"which are presumed to have occured at collapse of Glastheim!",
-			"It is judged that a huge causality will occur when the dimensional guardian's interfere. We need human help."
+			"^003355存在してはいけない次元^000000を閉じる試み、",
+			"それはグラストヘイム崩壊時に発生したと推測されます！",
+			"次元の守護者の干渉により、甚大な因果律が発生すると判断されています。人間の助けが必要です。"
 		},
 		QuestInfo2 = {
-			"Requirements",
-			"^990000Base Level 170 or higher^000000"
+			"必要条件",
+			"^990000Base Lv 170 以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[88] = {
-		Title = "Max Level raised for Expanded Classes!",
+		Title = "拡張クラスの最大レベルが引き上げられました！",
 		IconName = "ico_sc.bmp",
-		Summary = "Break! the! Limit!",
+		Summary = "限界を！突破せよ！",
 		BgName = "reco_88.bmp", 
 		QuestInfo1 = {
-			"Hello ~~",
-			"Good to meet you! ^950a0aI'm a cute and cute magical girl who came from a magical country to bring back the time of the stopped expansion level! ^000000",
-			"Now from now on, it is time for you to level up!"
+			"こんにちは～",
+			"はじめまして！^950a0a停止した拡張レベルの時間を取り戻すため、魔法の国からやってきた可愛くて可愛い魔法少女です！^000000",
+			"さあ、これからあなたがレベルアップする番です！"
 		},
 		QuestInfo2 = {
-			"^eb1842Pretty ~~ Level Up^000000",
+			"^eb1842プリティ～レベルアップ^000000",
 			"Base Lv: ^950a0a185^000000",
 			"Job Lv: ^950a0a65^000000"
 		},
 		QuestInfo3 = {
-			"^3f3199Rebellion/Kagerou/Oborou/Star Emperor/Soul Reaper/Super Novice/Doram friends are affected ~^000000"
+			"^3f3199リベリオン/影狼/朧/星帝/ソウルリーパー/スーパーノービス/ドラムの皆さんは影響を受けます～^000000"
 		}
 	},
 	[89] = {
-		Title = "EDDA Biological Research Institute Dungeon - The Expedition",
-		Summary = "The long unknown expedition",
+		Title = "EDDA 生物工学研究所ダンジョン - 遠征隊",
+		Summary = "長く未知なる遠征",
 		BgName = "reco_89.bmp",
 		IconName = "ico_sc.bmp",
 		NpcSpr = "4_F_SCIENCE",
@@ -550,127 +550,127 @@ RecommendedQuestInfoList = {
 		NpcPosX = 216,
 		NpcPosY = 345, 
 		QuestInfo1 = {
-			"^003355Visit those at the Lighthazen's Biomedical Research Institute, which have become obsessed and even fainted.^000000",
-			"You have to use ^990000Virtual Records^000000 to become a fellow of the 6 ^990000Rune-Midgarts Unofficial Expedtion Teams^000000 and uncover what they've been through."
+			"^003355リヒタルゼンの生物工学研究所を訪ね、そこで執着し、倒れてしまった人々に会いましょう。^000000",
+			"^990000仮想記録^000000を使って6つの^990000ルーンミッドガッツ非公式遠征隊^000000の仲間になり、彼らが経験したことを明らかにしなければなりません。"
 		},
 		QuestInfo2 = {
-			"Requirements",
-			"^990000Base Level 170 or higher^000000"
+			"必要条件",
+			"^990000Base Lv 170 以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[90] = {
-		Title = "EDDA - The Fall of Glastheim",
+		Title = "EDDA - グラストヘイムの陥落",
 		IconName = "ico_sc.bmp",
-		Summary = "Witness the truth of history",
+		Summary = "歴史の真実を目撃せよ",
 		NpcSpr = "4_ED_OSCAR",
 		NpcNavi = "glast_01",
 		NpcPosX = 243,
 		NpcPosY = 290,
 		BgName = "reco_90.bmp", 
 		QuestInfo1 = {
-			"^003355The story behind the old Glastheim Memorial.^000000",
-			"The appearance of Schmitts, known as a fugitive/tyrant in history.",
-			"^990000Time and Space Oscar, which watches and records multiple dimensions of time, witnesses the last moments of Glastheim^000000 and decides to tell the truth to someone ..."
+			"^003355古きグラストヘイムの記念碑の裏側にある物語。^000000",
+			"歴史上の逃亡者、暴君として知られるシュミッツの登場。",
+			"^990000複数の時間次元を監視し記録する時空のオスカーは、グラストヘイムの最期を目撃し^000000、誰かに真実を伝えることを決意します……"
 		},
 		QuestInfo2 = {
-			"Requirements",
-			"^990000Base Level 130 or higher^000000"
+			"必要条件",
+			"^990000Base Lv 130 以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[96] = {
-		Title = "Episode 17.1 is here! Illusion",
+		Title = "Episode 17.1 ここに！イリュージョン",
 		IconName = "ico_ep.bmp",
-		Summary = "The full-scale combined operation begins.",
+		Summary = "本格的な合同作戦が始まります。",
 		NpcSpr = "4_M_PHILOFONTES",
 		NpcNavi = "pub_cat",
 		NpcPosX = 93,
 		NpcPosY = 105,
 		BgName = "reco_96.bmp",
 		QuestInfo1 = {
-			"The Episode's stage moves to Schwarzwald!",
-			"A full-fledged combined operation begins with Rebellions and the Secret Wings.",
-			"Rebellions, which has also established an operational base in Einbroch, is planning to attack a secret research facility discovered with information from the Secret Wings..."
+			"Episodeの舞台はシュバルツバルトへ！",
+			"リベリオンとシークレットウィングスによる本格的な合同作戦が始まります。",
+			"アインブロックにも作戦拠点を設立したリベリオンは、シークレットウィングスからの情報で発見した秘密研究施設の襲撃を計画しています……"
 		},
 		QuestInfo2 = {
-			"Prerequisites", 
-			"Episode 16.2 complete",
-			"Required Level: 110 or higher"
+			"前提条件", 
+			"Episode 16.2 完了",
+			"必要レベル：110以上"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[97] = {
-		Title = "Episode 16.2 Terra Gloria",
+		Title = "Episode 16.2 テラ・グロリア",
 		IconName = "ico_ep.bmp",
-		Summary = "Journey to reclaim the disappeared royal symbol.",
+		Summary = "消えた王族の象徴を取り戻す旅。",
 		NpcSpr = "4_EP16_NIHIL",
 		NpcNavi = "prt_cas_q",
 		NpcPosX = 21,
 		NpcPosY = 39,
 		BgName = "reco_97.bmp",
 		QuestInfo1 = {
-			"The young blood of the royal family, Nihil and Spica, want you to join the secret operation.",
-			"Join us on a journey to reclaim the missing royal symbol!"
+			"王族の若き血、ニヒルとスピカがあなたに秘密作戦への参加を求めています。",
+			"失われた王族の象徴を取り戻す旅に参加しましょう！"
 		},
 		QuestInfo2 = {
-			"Prerequisites",
-			"Episode 16.1 complete",
-			"Required Level: 100 or higher"
+			"前提条件",
+			"Episode 16.1 完了",
+			"必要レベル：100以上"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[98] = {
-		Title = "Episode 16.1 Banquet for Heroes",
+		Title = "Episode 16.1 英雄たちの宴",
 		IconName = "ico_ep.bmp",
-		Summary = "You who have tried! Enjoy!!!",
+		Summary = "試したあなたに！楽しんでください！！！",
 		NpcSpr = "4_M_ZONDAOYAJI",
 		NpcNavi = "prontera",
 		NpcPosX = 121,
 		NpcPosY = 72,
 		BgName = "reco_98.bmp",
 		QuestInfo1 = {
-			"A banquet is held to celebrate the Morocc's subjugation with the heroes who participated in the expedition.",
-			"If you are an adventurer who participated in the expedition, please receive a banquet invitation letter!"
+			"遠征に参加した英雄たちと共にモロク討伐を祝う宴が開催されます。",
+			"遠征に参加した冒険者の方は、宴の招待状を受け取ってください！"
 		},
 		QuestInfo2 = {
-			"Prerequisites",
-			"Visit the Expeditionary Camp",
-			"Required Level: 100 or higher"
+			"前提条件",
+			"遠征キャンプを訪れる",
+			"必要レベル：100以上"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	},
 	[99] = {
-		Title = "Episode 15 Phantasmagorica",
+		Title = "Episode 15 ファンタスマゴリカ",
 		IconName = "ico_ep.bmp",
-		Summary = "Science beyond Juperos",
+		Summary = "ジュペロスを超える科学",
 		NpcSpr = "4_F_EDEN_OFFICER",
 		NpcNavi = "moc_para01",
 		NpcPosX = 38,
 		NpcPosY = 175,
 		BgName = "reco_99.bmp",
 		QuestInfo1 = {
-			"We are recruiting excavations to participate in the newly discovered Phantasmagorica research.",
-			"Why not explore the scientific civilization that goes beyond Juperos?",
-			"If you would like to join the excavation team, come to the Eden Group right now!"
+			"新たに発見されたファンタスマゴリカの調査に参加する発掘隊を募集している。",
+			"ジュペロスを超える科学文明を探索してみないか？",
+			"発掘隊に参加したいなら、今すぐイエデングループへ来てほしい！"
 		},
 		QuestInfo2 = {
-			"Prerequisites",
-			"Required Level: 140 or higher",
-			"Holder of the Eden Group Mark"
+			"前提条件",
+			"必要レベル：140以上",
+			"イエデングループの紋章所持者"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000このページは更新予定であり、クエストではありません。クエストを達成してもリストから消えないので注意してください。^000000"
 		}
 	}
 }

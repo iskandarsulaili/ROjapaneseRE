@@ -1,81 +1,81 @@
 %faf0e6
-^000088- Food just like mom used to make, perfect for healing wounded, homesick hearts... -^000000
+^000088エピソード：ルーンミッドガッツ王国 ^000000
 
-These Level 2 Recipes may heal wounded hearts, even if they don't restore HP.
+聖なる^880000ルーンミッドガッツ王国^000000は、ミッドガルド大陸の中央付近にある広大な領土を千年以上にわたり統治しており、現在は賢明で慈悲深いトリスタン三世王が治めている。ルーンミッドガッツ王国では多くの宗教が信仰されているが、オーディンが国家の主神である。オーディンを祀るプロンテラ大聖堂は、ルーンミッドガッツ王国の首都プロンテラに位置している。
 
-^ff0000Seasoned Sticky Webfoot:^000000 savory and chewy Sticky Webfoot that aren't as sticky 
-                                                      if you cook them right.
-Ingredients: ^4b008220 Sticky Webfoot, 10 Green Herbs, 10 Yellow Herb, 1 Savory Sauce ^000000
-Directions:
-	1. Place the Sticky Webfeet in ice water, and chop the Green Herbs and Yellow Herbs.
-	2. Mix half of the chopped herbs with some Sticky Webfeet.
-	3. Add Savory Sauce and the rest of the chopped herbs, and mix them altogether.
-	4. Make sure to keep the food refrigerated to preserve its flavor and crunchiness.
+プロンテラはミッドガルド大陸の中央という地理的な利点により、貿易と商業の中心地として発展を遂げた。この首都はまた、ソードマンがナイトやクルセイダーに転職できる都市としても有名である。ソードマン協会もかつてはプロンテラにあったが、その施設はプロンテラの衛星都市であるイズルードへ移転された。
+^ff0000蒸しタン:^000000
+魔法の都市ゲフェンは、ルーンミッドガッツ王国の北西に位置している。この都市は多くの志あるマジシャンを惹きつけ、ゲフェンタワーは魔法の達人たちにとって聖地であり、ゲフェンの象徴とみなされている。エルフの財宝が隠された古代の神秘の都市ゲフェニアへ至る秘密が、ゲフェンにあると噂されている。
+方向:
+モロクはルーンミッドガッツ王国の南西に位置する砂漠の小さな町である。モロクの乾燥した暑さから遠ざかる者が多いが、シーフギルドの拠点であるため、志あるシーフを惹きつけている。モロク近郊のソグラト砂漠のどこかにアサシンギルドが隠されているという噂があり、志あるアサシンたちはそれを求めて砂漠を探索している。
+構成されている。血の汚れのせいで
+パヨンはルーンミッドガッツ王国の北西に位置する山岳の村である。パヨンの山岳地帯では優れた弓作りと弓術の技が発展し、アーチャーの村、そして優れたハンターを育成する地として有名になった。パヨンのアーチャーは決して標的を外さないと広く信じられている。強力な複合弓である「ガンボウ」は、パヨンの特産品の一つである。
+3. アロエを斜め切りにし、皿の縁に並べて盛り付ける。
 
-^0000ffAutumn Red Tea:^000000 enjoy a cup of red tea with cookies and cake.
-Ingredients: ^4b00825 Blue Herbs, 10 Red Herbs, and 10 Yellow Herbs ^000000
-Directions: 
-	1. Dry out, and then ferment all of the herbs.
-	2. Boil water in a teapot. 
-	3. Add the herbs in the teapot, tightly close the lid, and heat for 2-3 minutes. 
-                    If you boil the leaves for too long, the tea will taste bitter.
-	4. Enjoy the tea with milk, lemon, or whatever else you may prefer.
+4. 下茹でした舌の皮、筋肉、腱を取り除き、スパイシーソースと
+静寂の都市アルデバランは、中心にそびえる神秘的な時計塔で有名である。アルデバランの発展初期、この都市の職人たちは無数の手作り時計を生み出し、壊れたり故障したりした時計を都市の古い塔に廃棄していた。何らかの理由で、塔の魔力がこれらの時計を生きた悪意あるモンスターへと変貌させた。これらの怪物のような時計はやがて塔から全ての人間を追い出し、時計塔は時計モンスターが自由に徘徊し増殖する恐るべきダンジョンと化した。多くの好奇心旺盛で善意ある冒険者が邪悪な時計を駆除するために時計塔を探索したが、無事に戻れた者はわずかである。今日に至るまで、アルデバラン時計塔の謎を解き明かした者はいない。
+x月3日
+黄金色になるまで炒める。
+6. 炒めた腱を皿に盛り付け、イカ墨ソースをかける。
+x月4日
+材料: ^4b008210 マンイーターの根, 1歌う植物, 5アロエの葉, 5ロイヤルゼリー,
+誰がこの本を書いたのだ？……どうしても
 
 
-^800000Chocolate Mousse Cake:^000000 try the heavenly sweet taste of rich chocolate mousse cake.
-Ingredients: ^4b008210 Cacao, 1 Piece of Cake, 1 Milk, and 1 China
-Directions: 
-	1. Finely crush the Cacao.
-	2. Whisk the Cacao powder and milk to make chocolate mousse.
-	3. Remove the frosting from the Piece of Cake, and leave behind the spongy cake. 
-                    You can eat the frosting if you like.
-	4. Frost the sponge cake with your chocolate mousse, and refrigerate 
-                    until the chocolate sets.
-	5. Serve the cake on the China.
+2. マンイーターの根を洗って刻む。刺々しい果実を洗う。
+3. 刻んだマンイーターの根をアロエの葉で包む。包んだ
+x月3日
+4. カクテルを作るため、漉し器か布で出汁を漉す。
+この本には非常に興味深い内容がある……
+ほんの一部だが……
+6 ロイヤルゼリー, 1 イエロースパイス ^000000
+^800000天のフルーツジュース:^000000 雲の上に浮かんでいるような気分にさせる風味のフルーツジュース
+^800000フルストゥルミルのトニック:^000000 伝説の池の水で作られたアルコール飲料。
+材料: ^4b00821 ユグドラシルの実, 10氷塊, 10バシラス, 4ロイヤルゼリー,
 
-^008040Smooth Noodle:^000000only expert chopstick users can enjoy this noodle without frustration.
-Ingredients: ^4b00821 Bag of Grain, 1 Savory Sauce, 5 Jack o' Pumpkin, 3 Carrots ^000000
-Directions: Remeber that the noodles are the essense of this recipe.
-	1. Grind the grain to create high protein flour.
-	2. Mix the flour with cold water, and then knead.
-	3. Stretch the dough lengthwise, and fold it into multiple layers 
-                    until it is flexible yet firm.
-	4. Thinly slice the dough to make noodles. 
-	5. Refrigerate the noodles for one night so they taste smooth and chewy.
-	6. Cut a Jack o' Pumkin in half, and scoop out the pulp. The pumpkin's rind will be used 
-                    as a noodle bowl.
-	7. Steam 4 Jack o' Pumpkins. Gently tap and then squeeze the pumpkins 
-                    until the pulp fibers are threadlike.    
-	8. Slice the Carrots, and slightly fry the slices.
-	9. Boil the noodles at high heat. If the water boils out, pour a cup of cold water and 
-                    continue boiling.
-	10. When the noodles are cooked, strain out the water, and then rinse the noodles 
-                      in cold water for a chewier texture.
-	11. Place the boiled noodles and threadlike pumpkin pulp into the pumpkin bowl, and 
-                      pour anchovy broth until the noodles and the pulp covered. 
-	12. Sprinkle the fried carrot slices on top, and serve.
+作り方：
+この本は……危険だ……しかし……
+2. バシラス、アルコール、よく乾燥させた幻の花、集中ポーション
+を鍋に入れ、密閉するために蓋を閉める。約1週間熟成させる。
+2. 小麦粉を冷水と混ぜ合わせ、こねる
+3. 熟成させた集中ポーション、ロイヤルゼリー、皮をむいた果実を
+x月25日
+熟成期間によって異なる。
+もう自分を抑えられない。読むのを止められない……
+作り方：
+^008040スペシャルミートシチュー:^000000 あらゆる種類の肉が入った、甘い香りが漂う特製シチュー！
+^008040蒸し砂漠サソリ:^000000 熱い砂漠の砂の下で蒸した砂漠のサソリ。
+x月10日
+3苦い草, 10ロイヤルゼリー, 1スパイシーソース, 1鍋 ^000000
+研究はほぼ完了した。完成すれば……
+1. サソリの尾から毒腺を取り除き、ハサミと一緒に
+よく洗う。
+2. アロエジュース、刻んだユグドラシルの葉、ロイヤルゼリー、スパイシーソース
+を水と混ぜて漬け汁を作る。
+x月30日
+これらの材料を鍋に移し、密閉するために蓋を閉める。
           
 
-^ff8040Assorted Seafood:^000000 a variety of fresh seafood.
-Ingredients: ^4b008210 Clam Flesh, 5 Gill, 5 Fin, 1 Fresh Fish ^000000
-Directions: 
-	1. Steam Clam Flesh and Fresh Fish for a few minutes, and then cut them into bite sized 
-                    pieces.
-	2. Remove the Gill's spines with tweezers, steam the Gills for a few mintues, and then 
-                    cut them into bite sized pieces.
-	3. Parboil the Fins.
-	4. Spread the parboiled Fins, and add the other ingredients to the top of the Fins.
-	5. Fold each Fin three times fanwise.
+午後5時頃に鍋を取り出す。
+5. 蒸した砂漠サソリの尾とハサミを皿に盛り付ける。
+x月3日
+比べればかなり読める状態だ。
+^ff8040不滅のシチュー: ^000000不老不死を得るために東の皇帝が求めたと噂される料理。
+x月1日
+マーマンの心臓10個、スパイシーソース2個、お守り10個、苦いハーブ2個 ^000000
+ついに研究が完成した。この本には
+異種族の生命を召喚する方法が
+詳しく記されていることが分かった。私はこの島で孤独であり、
 
-^400080Mixed Juice:^000000try the unique taste of mixed fruit juices!
-Ingredients: ^4b00823 Apple Juice, 2 Carrot Juice, 1 Grape Juice, and 2 Orange Juice ^000000
-Directions: This juice's flavor depends on the ratios of each ingredient, and the order 
-                  in which they are mixed.
+3. 不滅の心臓、スパイシーソース、細切りにしたお守りを一緒に炒める。
+試してみよう。召喚を行う。
+悪魔か天使か……結果は明日、
+日記に記すことにする。
 
-	Carrot Juice is the main ingredient, and the taste varies according to the ratios of 
-                the juices that are mixed with it. If you prefer your juice to be sweet 
-                and sour, we recommend adding Apple Juice, Orange Juice, and then 
-                Grape Juice in that order. For a juice that is sweeter, mix Grape Juice, 
-                Apple Juice, and then Orange Juice in that order. Try different mixes of 
-                these four different juices for new, unique juice flavors. The right mix 
-                can introduce you to a new world of flavor!
+再び煮立つまでとろ火で煮込む。
+作り方：
+残りのページはボロボロに破れ、
+乾いた血で暗赤色に染まっている。
+料理できるほど強くなれる！
+材料は：^4b0082九尾の尾10個、四つ葉のクローバー2個、マンイーターの根10個、鋭い葉10個、
+ユグドラシルの葉4個、おいしいソース1個、イエロースパイス1個、イズドール2個 ^000000

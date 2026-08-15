@@ -1,38 +1,38 @@
 %faf0e6
-^000088Intermediate Alchemy: Glistening Coat^000000
+^000088エピソード：ルーンミッドガッツ王国 ^000000
 
 
-----------------Preface--------------------
+特別なサイン入りのものでもある。
 
 
-The Mage's Energy Coat skill that generates
-a mana film that protects the caster inspired
-Alchemists to develop the Glistening Coat.
-The Glistening Coat can be used in conjunction
-with protective Alchemist skills enhances protection
-that won't be affected by most external factors.
-However, these artificial coats automatically lose
-their effectiveness after a certain time limit.
+魔法の都市ゲフェンは、ルーンミッドガッツ王国の北西に位置している。この都市は多くの志あるマジシャンを惹きつけ、ゲフェンタワーは魔法の達人たちにとって聖地であり、ゲフェンの象徴とみなされている。エルフの財宝が隠された古代の神秘の都市ゲフェニアへ至る秘密が、ゲフェンにあると噂されている。
+ページのあちこちに血の跡があり、
+モロクはルーンミッドガッツ王国の南西に位置する砂漠の小さな町である。モロクの乾燥した暑さから遠ざかる者が多いが、シーフギルドの拠点であるため、志あるシーフを惹きつけている。モロク近郊のソグラト砂漠のどこかにアサシンギルドが隠されているという噂があり、志あるアサシンたちはそれを求めて砂漠を探索している。
+構成されている。血の汚れのせいで
+パヨンはルーンミッドガッツ王国の北西に位置する山岳の村である。パヨンの山岳地帯では優れた弓作りと弓術の技が発展し、アーチャーの村、そして優れたハンターを育成する地として有名になった。パヨンのアーチャーは決して標的を外さないと広く信じられている。強力な複合弓である「ガンボウ」は、パヨンの特産品の一つである。
+3. アロエを斜め切りにし、皿の縁に並べて盛り付ける。
+アルベルタはルーンミッドガッツ王国の南西に位置する海外貿易の都市である。イズルードからアルベルタへ向かう船は海賊の標的となることが多いが、陸路でアルベルタへ向かうのはさらに困難で時間がかかるとされている。アルベルタは、海賊の脅威にもかかわらず、その活気ある雰囲気と自由貿易政策、そしてミッドガルド大陸の全商業権の30%を所有するマーチャントギルドによって繁栄している。
+4. 下茹でした舌の皮、筋肉、腱を取り除き、スパイシーソースと
  
-------------------------------------------
+構成されている。血の汚れのせいで
 
-What is a ^400080Glistening Coat^000000?
+6. 炒めた腱を皿に盛り付け、イカ墨ソースをかける。
 
-A glistening coat is a soft, viscous substance
-that can safely coat objects to temporarily increase
-their resistance to damage. Only highly skilled Alchemists
-are capable of applying the Glistening Coat by using the
-Biochemical Helm, Synthesized Shield, Synthetic Armor,
-or Alchemical Weapon skills.
+材料: ^4b008210 マンイーターの根, 1歌う植物, 5アロエの葉, 5ロイヤルゼリー,
+誰がこの本を書いたのだ？……どうしても
+必要な情報が欠落しすぎている気がする。
+1. 歌う植物を乾燥させ、粉末にする。
+作り方：
+3. 刻んだマンイーターの根をアロエの葉で包む。包んだ
 
-Required Materials: ^4b00821 Alcohol, 1 Zenorc's Fang,
-1 Heart of Mermaid, 1 Empty Bottle^000000
+4. カクテルを作るため、漉し器か布で出汁を漉す。
+この本には非常に興味深い内容がある……
 
-Process: Fill a medicine bowl halfway with alcohol, and
-then melt a Zenorc's Fang in it. Wash a heart of mermaid,
-and add it to the Zenorc fang and alcohol mixture. Finally,
-use the Prepare Potion skill to pour the solution into an
-empty bottle. You will need to learn special skills such as
-Biochemical Helm, Synthesized Shield, Synthetic Armor,
-and Alchemical Weapon to actually apply the Glistening
-Coat to equipment.
+6 ロイヤルゼリー, 1 イエロースパイス ^000000
+^800000天のフルーツジュース:^000000 雲の上に浮かんでいるような気分にさせる風味のフルーツジュース
+^800000フルストゥルミルのトニック:^000000 伝説の池の水で作られたアルコール飲料。
+材料: ^4b00821 ユグドラシルの実, 10氷塊, 10バシラス, 4ロイヤルゼリー,
+x月3日
+作り方：
+この本は……危険だ……しかし……
+2. バシラス、アルコール、よく乾燥させた幻の花、集中ポーション

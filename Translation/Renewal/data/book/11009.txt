@@ -1,61 +1,61 @@
-%c0c0c0
-^000088Young Adventurer's Journal^000000
+%faf0e6
+^000088エピソード：ルーンミッドガッツ王国 ^000000
 
-^778899Chapter 1: The Curse^000000
+聖なる^880000ルーンミッドガッツ王国^000000は、ミッドガルド大陸の中央付近にある広大な領土を千年以上にわたり統治しており、現在は賢明で慈悲深いトリスタン三世王が治めている。ルーンミッドガッツ王国では多くの宗教が信仰されているが、オーディンが国家の主神である。オーディンを祀るプロンテラ大聖堂は、ルーンミッドガッツ王国の首都プロンテラに位置している。
 
-3.
-Kshar was standing in front of the entrance to the giant Sphinx in Morroc, running over 
-what he could remember from what had happened three days ago. He recalled making a toast 
-with Aher, wishing him luck on his pilgrimage to become a Lord Knight, but nothing else. 
-He had to stay in bed for two days from all the alcohol he drank. This was especially 
-unusual since he always refused to drink or smoke. He didn't want to risk hampering 
-his balance or sense of smell to detect poison, so he never even went out with 
-his comrades for a casual drink. This was actually his first hangover.
+プロンテラはミッドガルド大陸の中央という地理的な利点により、貿易と商業の中心地として発展を遂げた。この首都はまた、ソードマンがナイトやクルセイダーに転職できる都市としても有名である。ソードマン協会もかつてはプロンテラにあったが、その施設はプロンテラの衛星都市であるイズルードへ移転された。
+^ff0000蒸しタン:^000000
+魔法の都市ゲフェンは、ルーンミッドガッツ王国の北西に位置している。この都市は多くの志あるマジシャンを惹きつけ、ゲフェンタワーは魔法の達人たちにとって聖地であり、ゲフェンの象徴とみなされている。エルフの財宝が隠された古代の神秘の都市ゲフェニアへ至る秘密が、ゲフェンにあると噂されている。
+ページのあちこちに血の跡があり、
+モロクはルーンミッドガッツ王国の南西に位置する砂漠の小さな町である。モロクの乾燥した暑さから遠ざかる者が多いが、シーフギルドの拠点であるため、志あるシーフを惹きつけている。モロク近郊のソグラト砂漠のどこかにアサシンギルドが隠されているという噂があり、志あるアサシンたちはそれを求めて砂漠を探索している。
+構成されている。血の汚れのせいで
+パヨンはルーンミッドガッツ王国の北西に位置する山岳の村である。パヨンの山岳地帯では優れた弓作りと弓術の技が発展し、アーチャーの村、そして優れたハンターを育成する地として有名になった。パヨンのアーチャーは決して標的を外さないと広く信じられている。強力な複合弓である「ガンボウ」は、パヨンの特産品の一つである。
+3. アロエを斜め切りにし、皿の縁に並べて盛り付ける。
 
-"Whoa, you look pretty nauseated. Have you been drinking? I thought you didn't do that 
-at all."
-Kshar didn't even look up. That was Esmir's voice, calm and slightly high pitched 
-as usual. Just one of the guild's leaders, showing his concern.
+4. 下茹でした舌の皮、筋肉、腱を取り除き、スパイシーソースと
+静寂の都市アルデバランは、中心にそびえる神秘的な時計塔で有名である。アルデバランの発展初期、この都市の職人たちは無数の手作り時計を生み出し、壊れたり故障したりした時計を都市の古い塔に廃棄していた。何らかの理由で、塔の魔力がこれらの時計を生きた悪意あるモンスターへと変貌させた。これらの怪物のような時計はやがて塔から全ての人間を追い出し、時計塔は時計モンスターが自由に徘徊し増殖する恐るべきダンジョンと化した。多くの好奇心旺盛で善意ある冒険者が邪悪な時計を駆除するために時計塔を探索したが、無事に戻れた者はわずかである。今日に至るまで、アルデバラン時計塔の謎を解き明かした者はいない。
+5. スパイシーソースを好みの量加え、舌のサラダを皿に盛り付けて提供する。
+黄金色になるまで炒める。
 
-"Oh, you're definitely hung over. Huh. I never thought I'd see this. Still, it's good to 
-see that you have your off days too."
-Ziklein. Another guild leader come to check up on him. Kshar shrugged in an effort to show 
-that he was okay, and then took a deep breath. He was such a fool to try to keep up with 
-Aher's drinking. His superiors were here now, and he should give them whatever attention 
-he could muster. However, they didn't seem to notice he was capable of listening.
+x月4日
+材料: ^4b008210 マンイーターの根, 1歌う植物, 5アロエの葉, 5ロイヤルゼリー,
+誰がこの本を書いたのだ？……どうしても
+必要な情報が欠落しすぎている気がする。
+1. 歌う植物を乾燥させ、粉末にする。
+2. マンイーターの根を洗って刻む。刺々しい果実を洗う。
 
-"I thought he just got his assignment two days ago. Do you think he'll be alright?"
-"Oh, yeah. So he went drinking, even though he's got a job to do? Pretty gutsy."
-"Hey, Esmir. Aren't you supposed to help Kshar in his assignment?"
-Esmir shrugged at Ziklein. He didn't know much about it. Ziklein started explaning 
-Kshar's mission from the guild master to Emsir. They were still talking 
-as if Kshar couldn't hear them, and this made him furious.
+x月17日
+4. カクテルを作るため、漉し器か布で出汁を漉す。
+この本には非常に興味深い内容がある……
+ほんの一部だが……
+6 ロイヤルゼリー, 1 イエロースパイス ^000000
+^800000天のフルーツジュース:^000000 雲の上に浮かんでいるような気分にさせる風味のフルーツジュース
 
-Kshar looked up to the sky. The sandy winds should have blocked his view, but he could see 
-that it was crisp and blue. The deepness of the color brought his mind into focus. 
-He was sober now, even if he did have a pounding headache. 
+材料: ^4b00821 ユグドラシルの実, 10氷塊, 10バシラス, 4ロイヤルゼリー,
+x月3日
+作り方：
 
-"Aaaaaaaaahhhh!"
+2. バシラス、アルコール、よく乾燥させた幻の花、集中ポーション
 
-Kshar screamed to the sky (it was probably a powerful kihop or a scream of rage--it was 
-hard to tell), and then ran straight into the dark mouth of the Sphinx. He'd been in there 
-so many times that he could navigate its maze with his eyes closed. He worked on reflex 
-alone, slashing nearby Drainlairs and wandering undead slaves as he sped past them.
+Kshar??????????????????????????????????????????
+3. 熟成させた集中ポーション、ロイヤルゼリー、皮をむいた果実を
+x月25日
+熟成期間によって異なる。
 
-"This mission is so stupid! We get enough burial accessories from the Assassin test 
-applicants! I don't see why he wants more of these!" Kshar slashed the throat of 
-the Requiem attacking him behind from his right Katar. 
-"Even if we did need more of this junk, the rookie Assassins could handle this! 
-I should be working on something more important!" Kshar's angry thoughts throbbed through 
-his mind in tune with his headache. He spied a Zerom, kicked open its box, and then split 
-its head open and stabbed an approaching Drainlair with the same Katar 
-in one fluid motion. The monsters lay still on the stone floor in a puddle of their dark 
-blood.
+作り方：
+^008040スペシャルミートシチュー:^000000 あらゆる種類の肉が入った、甘い香りが漂う特製シチュー！
+^008040蒸し砂漠サソリ:^000000 熱い砂漠の砂の下で蒸した砂漠のサソリ。
+x月10日
+3苦い草, 10ロイヤルゼリー, 1スパイシーソース, 1鍋 ^000000
+研究はほぼ完了した。完成すれば……
+1. サソリの尾から毒腺を取り除き、ハサミと一緒に
+よく洗う。
+2. アロエジュース、刻んだユグドラシルの葉、ロイヤルゼリー、スパイシーソース
 
-Outside, the two senior Assassins were chatting.
-"Why does the Guild Master pick on Kshar like this? I mean, that guy is cream of the crop. 
-Even he doesn't like Kshar, he shouldn't be assigning these kinds of missions to him."
-"Esmir... The master has got it all planned out. Haven't you ever wondered how Kshar 
-got so strong so quickly? He wants to prove to the master that he can do anything 
-the master asks of him. Sure, Kshar's angry as hell, but the Guild Master is motivating 
-him in his own way. You'll see what I mean..."
+x月30日
+これらの材料を鍋に移し、密閉するために蓋を閉める。
+ついに。完成した。これで、おそらく……
+午前10時頃に鍋を穴の中に置く。鍋を砂で覆い、
+午後5時頃に鍋を取り出す。
+5. 蒸した砂漠サソリの尾とハサミを皿に盛り付ける。
+このページは少ししわくちゃだが、他のページに

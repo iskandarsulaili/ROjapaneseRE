@@ -1,59 +1,59 @@
 %faf0e6
-^000088- Don't panic when you're alone in the middle of nowhere. 
-You can survive with the recipes in this book! -^000000
+^000088エピソード：ルーンミッドガッツ王国 ^000000
+この本は、料理への情熱を完璧に体現する彼女の料理レシピが収められているため、
 
-You Can Do It: Level 1 Cooking!
+特別なサイン入りのものでもある。
 
-^ff0000Fried Grasshopper Legs:^000000 Don't worry-- grasshopper legs are actually quite tasty, 
-                                                    and won't hop around once they're deep fried.
-Ingredients: ^4b00825 Grasshopper Legs, 1 Old Frying Pan, 1 Cooking Oil ^000000
-Directions: 
-	1. Heat the old frying pan over medium heat. (New frying pans tend to absorb oil, and 
-                    take longer to heat. If you don't have a used frying pan, then use 
-                    Savage's fat to pre-treat a new frying pan.)
-	2. Add 2 TS of Cooking Oil to the pan, and lightly fry 3 Grasshopper Legs. 
-                   Once the legs turn golden brown, add the the other 2 legs and 1 TS of 
-                   Cooking Oil, and then fry them until they're crispy.
+^ff0000蒸しタン:^000000
+魔法の都市ゲフェンは、ルーンミッドガッツ王国の北西に位置している。この都市は多くの志あるマジシャンを惹きつけ、ゲフェンタワーは魔法の達人たちにとって聖地であり、ゲフェンの象徴とみなされている。エルフの財宝が隠された古代の神秘の都市ゲフェニアへ至る秘密が、ゲフェンにあると噂されている。
+ページのあちこちに血の跡があり、
+x月3日
+構成されている。血の汚れのせいで
+パヨンはルーンミッドガッツ王国の北西に位置する山岳の村である。パヨンの山岳地帯では優れた弓作りと弓術の技が発展し、アーチャーの村、そして優れたハンターを育成する地として有名になった。パヨンのアーチャーは決して標的を外さないと広く信じられている。強力な複合弓である「ガンボウ」は、パヨンの特産品の一つである。
+3. アロエを斜め切りにし、皿の縁に並べて盛り付ける。
+アルベルタはルーンミッドガッツ王国の南西に位置する海外貿易の都市である。イズルードからアルベルタへ向かう船は海賊の標的となることが多いが、陸路でアルベルタへ向かうのはさらに困難で時間がかかるとされている。アルベルタは、海賊の脅威にもかかわらず、その活気ある雰囲気と自由貿易政策、そしてミッドガルド大陸の全商業権の30%を所有するマーチャントギルドによって繁栄している。
+4. 下茹でした舌の皮、筋肉、腱を取り除き、スパイシーソースと
+静寂の都市アルデバランは、中心にそびえる神秘的な時計塔で有名である。アルデバランの発展初期、この都市の職人たちは無数の手作り時計を生み出し、壊れたり故障したりした時計を都市の古い塔に廃棄していた。何らかの理由で、塔の魔力がこれらの時計を生きた悪意あるモンスターへと変貌させた。これらの怪物のような時計はやがて塔から全ての人間を追い出し、時計塔は時計モンスターが自由に徘徊し増殖する恐るべきダンジョンと化した。多くの好奇心旺盛で善意ある冒険者が邪悪な時計を駆除するために時計塔を探索したが、無事に戻れた者はわずかである。今日に至るまで、アルデバラン時計塔の謎を解き明かした者はいない。
 
-^0000ffGrape Juice Herbal Tea:^000000It'll be ready as soon as you blend grapes with potions!
-Ingredients: ^4b00823 Grape, 2 Red Potions ^000000
-Directions: 
-	1. Grind 1 Grape, and then mix it with 1 Red Potion in a mixer. 
-                    Remember: don't remove the Grape seeds and skin! Once the Grape and 
-                    Red Potion are blended, add another Red Potion to the mixer, and then 
-                    shake for 10 seconds.
+黄金色になるまで炒める。
+6. 炒めた腱を皿に盛り付け、イカ墨ソースをかける。
+x月3日
+材料: ^4b008210 マンイーターの根, 1歌う植物, 5アロエの葉, 5ロイヤルゼリー,
+誰がこの本を書いたのだ？……どうしても
+必要な情報が欠落しすぎている気がする。
+1. 歌う植物を乾燥させ、粉末にする。
 
 
 
-^800000Honey Grape Juice:^000000 Just blend Honey and Grapes together, and you'll be good to go!
-Ingredients: ^4b00821 Honey, 2 Grape, 1 Red Potion ^000000
-Directions: This is the same recipe as Grape Juice Herbal Tea, except the you add Honey 
-                   instead of Red Potion in the final step.
+4. カクテルを作るため、漉し器か布で出汁を漉す。
+この本には非常に興味深い内容がある……
+ほんの一部だが……
+6 ロイヤルゼリー, 1 イエロースパイス ^000000
 
-^008040Frog Egg Squid Ink Soup:^000000Soup added with healthy Squid Ink sauce.
-Ingredients: ^4b00821 Bag of Grain, 10 Spawn, 1 Squid Ink ^000000
-Directions: 
-	1. Place the Spawns in a bowl of cold water to enhance their chewiness, and then grind 
-                    the grain.
-	2. Mix the grain with water, and then simmer the mixture until it thickens.  
-   	3. Add the Spawns to the simmering mixture.
-	4. Once the Spawns are tender, add the Squid Ink as sauce, and then increase the heat 
-                    until the mixture boils.
+^800000フルストゥルミルのトニック:^000000 伝説の池の水で作られたアルコール飲料。
+材料: ^4b00821 ユグドラシルの実, 10氷塊, 10バシラス, 4ロイヤルゼリー,
+x月3日
+作り方：
+この本は……危険だ……しかし……
+2. バシラス、アルコール、よく乾燥させた幻の花、集中ポーション
+を鍋に入れ、密閉するために蓋を閉める。約1週間熟成させる。
+4. スポーンが柔らかくなったら、イカスミをソースとして加え、火を強める
+3. 熟成させた集中ポーション、ロイヤルゼリー、皮をむいた果実を
           
-^ff8040Steamed Crab Nippers:^000000 It's fun to shell and eat crabs!
-Ingredients: ^00804010 Nippers, 10 Green Herbs, 1 Yellow Potion ^000000
-Directions:
-	1. Marinade Nippers in Yellow Potion for the night before you cook them.
-	2. Line a steamer with a clean cotton cloth, and then add Green Herbs and 
-                    the marinaded Nippers.
-	3. Steam the Nippers until the color of the shell is deep red.
+熟成期間によって異なる。
+もう自分を抑えられない。読むのを止められない……
+方向:
+^008040スペシャルミートシチュー:^000000 あらゆる種類の肉が入った、甘い香りが漂う特製シチュー！
+^008040蒸し砂漠サソリ:^000000 熱い砂漠の砂の下で蒸した砂漠のサソリ。
+x月10日
+3苦い草, 10ロイヤルゼリー, 1スパイシーソース, 1鍋 ^000000
 
-^400080Fried Monkey Tails:^000000 You might worry that the monkey tails are too tough to chew, 
-                                             but they're actually easy to eat.
-Ingredients: ^0080405 Yoyo Tails, 1 Old Frying Pan, 1 Cooking Oil^000000
-Directions: 
-	1. Skin Yoyo Tails, and cut them into bite size pieces.
-	2. Heat the Old Frying Pan over medium heat, add Cooking Oil, and then fry a small amount 
-                    of the Yoyo Tails. The meat will be too tough if you cook it all 
-                    at once, so cook the tails in smaller batches.
+1. サソリの尾から毒腺を取り除き、ハサミと一緒に
+よく洗う。
+2. アロエジュース、刻んだユグドラシルの葉、ロイヤルゼリー、スパイシーソース
+x月3日
+x月30日
+これらの材料を鍋に移し、密閉するために蓋を閉める。
+ついに。完成した。これで、おそらく……
+午前10時頃に鍋を穴の中に置く。鍋を砂で覆い、
           

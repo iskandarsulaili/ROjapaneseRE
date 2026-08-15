@@ -1,164 +1,164 @@
 %faf0e6
-^4d4dffNovice Red Potion^000000
+^000088エピソード：ルーンミッドガッツ王国 ^000000
 
-^46BEFF--------------------------------------------------------------------------------------^000000
-Preparation: 2 Red Herbs, 1 Apple, A little desparate mind for potion
+作り方：
+特別なサイン入りのものでもある。
 
-^46BEFF--------------------------------------------------------------------------------------^000000
+作り方：
 
-<How to make : Once all ingredients are in inventory, pleas click "Combination Kit".>
-Any Red Herb you have is fine. Whether it is from the street,
-or got it from evil monsters, if you have 2 of them, it's OK. Apple is a snack.
+x月17日
+モロクはルーンミッドガッツ王国の南西に位置する砂漠の小さな町である。モロクの乾燥した暑さから遠ざかる者が多いが、シーフギルドの拠点であるため、志あるシーフを惹きつけている。モロク近郊のソグラト砂漠のどこかにアサシンギルドが隠されているという噂があり、志あるアサシンたちはそれを求めて砂漠を探索している。
+構成されている。血の汚れのせいで
 
-1. Prepare 2 of Red Herbs.
-2. Rub it properly through your hands(if you are hungry, eat the apple.)
-3. If you followed the instruction, there will be juice coming out from the herb and scraps will be in your hands.
-4. Oh, wait, did you wash your hands?
-5. .....Well, we can't help it. we are going to the palace as it is.
- * Point : Fold your hands and pray that in your hand to be red potion.
+3. アロエを斜め切りにし、皿の縁に並べて盛り付ける。
+アルベルタはルーンミッドガッツ王国の南西に位置する海外貿易の都市である。イズルードからアルベルタへ向かう船は海賊の標的となることが多いが、陸路でアルベルタへ向かうのはさらに困難で時間がかかるとされている。アルベルタは、海賊の脅威にもかかわらず、その活気ある雰囲気と自由貿易政策、そしてミッドガルド大陸の全商業権の30%を所有するマーチャントギルドによって繁栄している。
+4. 下茹でした舌の皮、筋肉、腱を取り除き、スパイシーソースと
+静寂の都市アルデバランは、中心にそびえる神秘的な時計塔で有名である。アルデバランの発展初期、この都市の職人たちは無数の手作り時計を生み出し、壊れたり故障したりした時計を都市の古い塔に廃棄していた。何らかの理由で、塔の魔力がこれらの時計を生きた悪意あるモンスターへと変貌させた。これらの怪物のような時計はやがて塔から全ての人間を追い出し、時計塔は時計モンスターが自由に徘徊し増殖する恐るべきダンジョンと化した。多くの好奇心旺盛で善意ある冒険者が邪悪な時計を駆除するために時計塔を探索したが、無事に戻れた者はわずかである。今日に至るまで、アルデバラン時計塔の謎を解き明かした者はいない。
+5. スパイシーソースを好みの量加え、舌のサラダを皿に盛り付けて提供する。
+黄金色になるまで炒める。
 
-^CD3278Novice Magnifier^000000
+x月4日
 
-^46BEFF--------------------------------------------------------------------------------------^000000
-Preparation: 3 Fine-grained Trunks, 1 Jellopy, and gifted hand skills
+作り方：
+必要な情報が欠落しすぎている気がする。
 
-^46BEFF--------------------------------------------------------------------------------------^000000
+作り方：
 
-<How to make : Once all ingredients are in inventory, pleas click "Combination Kit".>
-As if it was mine from the first, the fine Wooden Block has a good grip feeling.
-The Jellopy that sunlight cannot go through ....made a beautiful harmony.
+x月17日
+4. カクテルを作るため、漉し器か布で出汁を漉す。
+この本には非常に興味深い内容がある……
 
-1. Cut the fine Wooden Block as the shape as you want.
-2. Keep cut and do it until it is smooth.
- -> Maybe the costumer said  'It's ok. give it to me.'.
-    In this case, you can say, 'dear costumer, if you could order as you want but....'.
-3. It took too much time to make it shape. Let's see the sunset for resting.
-4. It seems we missed the space for Jellopy at No.1 part, but it does not matter.
-
-
-^4C1919Novice Fly Wing^000000
-
-^46BEFF--------------------------------------------------------------------------------------^000000
-Preparation: 2 Fluffs, 2 Feathers, 2 Jellopies, A mind that you want to be far away 'as much as you can' 
-
-^46BEFF--------------------------------------------------------------------------------------^000000
-
-<How to make : Once all ingredients are in inventory, pleas click "Combination Kit".>
-In the somewhere middle of unwareness and embarrssing from the weird combination of Fluff, Feather, Jellopy. 
-
-1. Once upon a time, there was 2 Fluffs lived.
-2. There was 2 Feathers lived too.
-3. One day, 2 Jellopies took Feathers.
-4. Fluff put ｡ﾙ｡ﾙ in Jellopy's ｡ﾜ｡ﾜ｡ﾜ.
-5. If you mess with Fluff, you will be ｡ﾚ.
-6. Oh definately ｡ﾚ.
-
-^231010Novice Cutter^000000
-
-^46BEFF--------------------------------------------------------------------------------------^000000
-Preparation: 10 Shells, 10 Worm Peelings, 1 Phracon, A mind that you do not want to die by monsters
-
-^46BEFF--------------------------------------------------------------------------------------^000000
-
-When you start with no money, The weapon that you can use mostly is Novice cutter.
-It is a good item to use, and easy to get.
-
-1. Place the 10 Shells in order.
-   If the people mess the line during this progress, please be calm.
-2. In the line of No.1 please stack Worm Peeling and Phracon.
-3. Put your hands on it and give a shout of concentration.
+6 ロイヤルゼリー, 1 イエロースパイス ^000000
+^800000天のフルーツジュース:^000000 雲の上に浮かんでいるような気分にさせる風味のフルーツジュース
+^800000フルストゥルミルのトニック:^000000 伝説の池の水で作られたアルコール飲料。
+材料: ^4b00821 ユグドラシルの実, 10氷塊, 10バシラス, 4ロイヤルゼリー,
+x月3日
+作り方：
 
 
- ^ff0000If failed, please repeat the above No.1-3.^000000
+を鍋に入れ、密閉するために蓋を閉める。約1週間熟成させる。
 
-^006F61Unripe Apple what Novice poring like^000000
+作り方：
+x月25日
 
-^46BEFF--------------------------------------------------------------------------------------^000000
-Preparation: 1 Apple, 1 Green Herb, A mind that wants some miracle
+作り方：
 
-^46BEFF--------------------------------------------------------------------------------------^000000
+x月17日
+^008040蒸し砂漠サソリ:^000000 熱い砂漠の砂の下で蒸した砂漠のサソリ。
 
-1. Clean the Apple and Green Herb with cold water.
-2. Cover the Apple with Green Herb.
-3. Hold tight until the Green Herb is sticking to the apple well.
+3苦い草, 10ロイヤルゼリー, 1スパイシーソース, 1鍋 ^000000
+研究はほぼ完了した。完成すれば……
+1. サソリの尾から毒腺を取り除き、ハサミと一緒に
+よく洗う。
+2. アロエジュース、刻んだユグドラシルの葉、ロイヤルゼリー、スパイシーソース
+を水と混ぜて漬け汁を作る。
 
-* If you do not have enough mind in No.3, Green Herb will not stick to apple stable.
-  the more you wish, the higher chance Green herb's mind delivers to the apple.
-  You can let it go when Green Herb and Apple are along together well.
+これらの材料を鍋に移し、密閉するために蓋を閉める。
+
+作り方：
+午後5時頃に鍋を取り出す。
+
+作り方：
+
+^ff8040不滅のシチュー: ^000000不老不死を得るために東の皇帝が求めたと噂される料理。
+x月1日
+
+ついに研究が完成した。この本には
+異種族の生命を召喚する方法が
+詳しく記されていることが分かった。私はこの島で孤独であり、
+好奇心に抗えなかったのだ。
 
 
+悪魔か天使か……結果は明日、
 
+6. 刻んだ苦いハーブとユグドラシルの種を加え、
 
+作り方：
+残りのページはボロボロに破れ、
 
-^8B4513To close. . .
+作り方：
 
-We have made this book by researching and experiment,
+ユグドラシルの葉4個、おいしいソース1個、イエロースパイス1個、イズドール2個 ^000000
+作り方：
+1. 九尾の尾の皮を剥ぎ、流水で洗う。皮を剥いだ九尾の尾を下茹でし、
 
-going through the failure, for xxx years.
-
-Although it is not officially recognized,
-
-we still feel lucky to meet you all 
-
-through the book.^000000
-
-^0A6E0AFurthermore, I add appendix for Novices who dream the higher place.^000000
+2. マンイーターの根を洗って刻む。鋭い刃を下茹でし、半分に切る。
+3. 刻んだユグドラシルの葉、イジドール、おいしいソース、イエロースパイスを混ぜてソースを作る。
+4. 九尾の尾をそのソースに漬け込む。
 
 
 
 
-Hope you can do 1st job change soon -	^8C4040Novice Poring^000000
 
-[Let's make a fortune! Four-leaf clover]
-^003A9D
-Ingredients: 200 Clovers, 200 Sticky Mucus, 
-        A piece of confidence that you can make your own fortune
+材料: ^4b008210 イチゴ, 5 袋の穀物, 10 イチジクの葉, 1 イエロースパイス, 2 レッドスパイス,
 
-^000000
-Make the clover as pair.
+作り方：
 
-1. Select a group of Clover and take out one leaf.
-2. By using Sticky Mucus, put the leaf onto other clover.
-   Please be careful during the progress, your hand might be shaken.
-3. Repeat the No.1 and 2 to complete it with enough Ingredients.
-4. As you repeat the above process, you will have at least one clean clover.
-    (If not, let's go to get the ingredients.)
+2. イチゴを絞ってイチゴジュースを作る。
 
-Show the completed (fake) four leaf clover to your friend.
-If he suspicious about the quaility, let him pull the leaf.
-....before it gets more suspicious, we need to remove it asap.
+4. セイバリーソース、イエロースパイス、イチゴジュースをご飯に加え、
 
-[Healthy fruit and vegetable juice (juice series)]
-^003A9D
-Ingredients:
-   Banana juice Ingredients : 1 Banana, 1 Milk, Little bit of power
-   Apple Juice Ingredients  : 1 Apple, 1 Milk, Little bit of power
-   Carrot Juice Ingredients : 1 Carrot, 1 Milk, Little bit of power
-   Grape Juice Ingredients  : 1 Grape, 1 Apple juice, Little bit of power
+5. ご飯を一握り取って丸め、下茹でしたイチジクの葉で包む。
 
-^000000
-    The main ingredient- fruit and sub ingredients portion are not 1:1, it is 1:0.2.
-    in the sub-Ingredients, 0.8 is a snack to eat when you get hungry.
+^ff0000[正義制御 3レベル : オフェンシブモード]^000000
 
-1. Mash the Main fruits. In any way.
-2. Put the mashed fruit to the milk bottle that you left a little.
-    (But, Grape juice uses Apple juice instead of milk.)
-3. put the lid on properly and shake it as hard as you can.
-4. So delicious taste! unexpectedly delicious?!
+重量 : 10
 
 
-[Poring loves it!! Unripe Apple]
-^003A9D
-Ingredients: 10 Sticky Mucus, 20 Green Herbs, 10 Apple, Hand of the Sun
+
+
+^ff0000[時間の装飾]^000000
+
+クラス : コスチューム
+防御 : 0
+位置 : ミッド
+^008040---- 大地の精霊テレモトゥスの書 ----^000000
+
+重量: ^77777720^000000
+召喚者の「正義制御」能力を通じて個別的な異なる行動を取る。
+
+持続効果 : 地属性魔法ダメージ10%増加、[テラドライブ]のMATK増加。
+クラス : コスチューム
+^fa8072[正義制御 1レベル : パッシブモード]^000000
+"のんびりと見守れよ召喚者よ、これが大地の力だ。"
+重量 : 0
+[アースケア]
+
+ii. 召喚者が一般物理攻撃をする場合、7%確率でアーススパイラクス1レベルが発動される。
+(より高いレベルを習得した場合、習得レベルに応じて発動)
+iii. サイキックウェーブの攻撃属性が地属性になる。
+
+回復量+5%。
+防御 : 0
+重量 :  0  武器レベル :  3 装備レベル :  40
+^0000ff[正義制御 2レベル : ディフェンシブモード]^000000
+"強靭な大地の不屈さをのんびりと見守れよ"
+DEX +1、遠距離攻撃ダメージ +1%。
+[ストーンプロテクション]
+
+重量: ^77777720^000000
+重量: ^77777720^000000
+^ff0000[正義制御 3レベル : オフェンシブモード]^000000
+
+装備可能職業 : ^777777アーチャー^000000
+[アバランチ]
+i. 対象周辺9x9範囲内の敵に単単な岩石創出で
+対象の魔法防御力を無視するMATK 450%地属性魔法ダメージを7回与える。
+(ダメージは召喚者のベースレベルにより追加で増加される。)
+
+
+最大HP + 100、最大SP + 100。プレイヤーキャラクターから受けるダメージ-15%。
+防御 : 0
+重量 :  0 装備レベル :  40 職業 :  全職業
       
- ^000000
-1. Slice the Green Herbs.
-2. Agglomerate the sliced Green Herb and Sticky Mucus.
-3. It is a little sticky but have a patient and make it.
-4. When it is not so sticky, make a hole in the middle to put an apple.
- -> Rest of 9 apple are the gift for yourself.
-5. Put the Apple and cover it with dough not to see the apple.
-6. Make the shape round.
-7. Put the Completed unriped Apple to Apple tree.
-8. If a bird come and eat it then it is OK.
-9. Now, let's give it to Porings.
+水中で呼吸できるようにはならない。
+召喚された盲毒の上位精霊セルペンテスは召喚者に特別な盲毒の力を付与し、
+召喚者の「正義制御」能力を通じて個別的な異なる行動を取る。
+要求レベル: ^77777765^000000
+持続効果 : 毒属性魔法ダメージ10%増加、[ベノムスウェルプ]のMATK増加。
+防御: ^7777775^000000
+^fa8072[正義制御 1レベル : パッシブモード]^000000
+"感じ取れるだろうか？召喚者よ"
+装備可能職業: ^777777ソードマン^000000
+[デスポイント]
+i. 召喚者のクラウドキルのMATKが1500%加算される。

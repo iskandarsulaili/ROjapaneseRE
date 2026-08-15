@@ -1,126 +1,126 @@
-%f5f5dc
-^000088 St.Prontera Quartermaster - Consumption item exchange ^000000
+%faf0e6
+^000088エピソード：ルーンミッドガッツ王国 ^000000
 
-^ff0000[City Center Map]^000000
-A guide map to the center of city.
-When used, cast level 1 increase agility on user.
-CAUTION! do not use when casting a skill.
-CAUTION! it consume 15HP, don't use it when HP is below 15.
-Weight : 1
+この本には非常に興味深い内容がある……
+特別なサイン入りのものでもある。
+プロンテラはミッドガルド大陸の中央という地理的な利点により、貿易と商業の中心地として発展を遂げた。この首都はまた、ソードマンがナイトやクルセイダーに転職できる都市としても有名である。ソードマン協会もかつてはプロンテラにあったが、その施設はプロンテラの衛星都市であるイズルードへ移転された。
+^ff0000蒸しタン:^000000
+魔法の都市ゲフェンは、ルーンミッドガッツ王国の北西に位置している。この都市は多くの志あるマジシャンを惹きつけ、ゲフェンタワーは魔法の達人たちにとって聖地であり、ゲフェンの象徴とみなされている。エルフの財宝が隠された古代の神秘の都市ゲフェニアへ至る秘密が、ゲフェンにあると噂されている。
+ページのあちこちに血の跡があり、
 
-^ff0000[Shining Holy Water]^000000
-Ritual Room, reduce damage taken during Prontera Dungeon Invasion by 10% for 3 minutes..
-Recover 1000 HP and cure from Poison, Curse and Silence.
-Wieght : 1.5
+構成されている。血の汚れのせいで
+パヨンはルーンミッドガッツ王国の北西に位置する山岳の村である。パヨンの山岳地帯では優れた弓作りと弓術の技が発展し、アーチャーの村、そして優れたハンターを育成する地として有名になった。パヨンのアーチャーは決して標的を外さないと広く信じられている。強力な複合弓である「ガンボウ」は、パヨンの特産品の一つである。
+3. アロエを斜め切りにし、皿の縁に並べて盛り付ける。
+アルベルタはルーンミッドガッツ王国の南西に位置する海外貿易の都市である。イズルードからアルベルタへ向かう船は海賊の標的となることが多いが、陸路でアルベルタへ向かうのはさらに困難で時間がかかるとされている。アルベルタは、海賊の脅威にもかかわらず、その活気ある雰囲気と自由貿易政策、そしてミッドガルド大陸の全商業権の30%を所有するマーチャントギルドによって繁栄している。
 
-^ff0000[Prison Key]^000000
-A key ring that hold many keys.
-Can be used to go to Prontera Underground Prison dungeon.
-Wieght : 1
+静寂の都市アルデバランは、中心にそびえる神秘的な時計塔で有名である。アルデバランの発展初期、この都市の職人たちは無数の手作り時計を生み出し、壊れたり故障したりした時計を都市の古い塔に廃棄していた。何らかの理由で、塔の魔力がこれらの時計を生きた悪意あるモンスターへと変貌させた。これらの怪物のような時計はやがて塔から全ての人間を追い出し、時計塔は時計モンスターが自由に徘徊し増殖する恐るべきダンジョンと化した。多くの好奇心旺盛で善意ある冒険者が邪悪な時計を駆除するために時計塔を探索したが、無事に戻れた者はわずかである。今日に至るまで、アルデバラン時計塔の謎を解き明かした者はいない。
+5. スパイシーソースを好みの量加え、舌のサラダを皿に盛り付けて提供する。
+黄金色になるまで炒める。
+1. 歌う植物を乾燥させ、粉末にする。
 
-^ff0000[Prontera Badge]^000000
-A prontera emblem crafted on it.
-When used, it will teleport you to prontera.
-Wieght : 1
+比べればかなり読める状態だ。
+誰がこの本を書いたのだ？……どうしても
+必要な情報が欠落しすぎている気がする。
+1. 歌う植物を乾燥させ、粉末にする。
 
 
-^000088 St.Prontera Quartermaster - Armor exchange ^000000
+x月17日
 
-^ff0000[City Center Map]^000000
-A guide map to center of city.
-Enable use of level 3 increase agility
-Class: Accessory
-Defense: 0
-Weight: 10
-Required Level: 40
-Jobs: All
-Slots: 1
+この本には非常に興味深い内容がある……
+ほんの一部だが……
+6 ロイヤルゼリー, 1 イエロースパイス ^000000
+x月25日
+防御 : 0
+重量 : 10
+x月3日
+作り方：
+煮込む。
 
-^ff0000[Shining Holy Water]^000000
-Ritual Room, reduce damage taken by 20% when during Prontera Dungeon Invasion.
-Recover 100 HP and 5 SP every 10 seconds.
-Class: Accessory
-Defense: 0
-Weight: 15
-Required Level: 100
-Jobs: All
-Slots: 1
+構成されている。血の汚れのせいで
+儀式の間、プロンテラダンジョン侵攻時に受けるダメージを20%減少する。
+3. 熟成させた集中ポーション、ロイヤルゼリー、皮をむいた果実を
+x月25日
+防御 : 0
+もう自分を抑えられない。読むのを止められない……
+作り方：
+作り方：
+煮込む。
 
-^ff0000[Praetorian Shield]^000000
-Prontera kingdom's knight shield.
-Enable use of Level 1 Shield Spell.
-When received melee damage, has chance to activate Level 3 Asumptio on yourself.
-Increasing refine level will increase the chance of activating this effect.
-Every refine increase DEF +10 and MDEF +1.
-Type: Shield
-Defense: 30
-Weight: 300
-Required Level: 100
-Job: All
-Slots: 1
+3苦い草, 10ロイヤルゼリー, 1スパイシーソース, 1鍋 ^000000
+研究はほぼ完了した。完成すれば……
+1. サソリの尾から毒腺を取り除き、ハサミと一緒に
+よく洗う。
+2. アロエジュース、刻んだユグドラシルの葉、ロイヤルゼリー、スパイシーソース
+を水と混ぜて漬け汁を作る。
+x月30日
+これらの材料を鍋に移し、密閉するために蓋を閉める。
+ついに。完成した。これで、おそらく……
+作り方：
+午後5時頃に鍋を取り出す。
+煮込む。
 
-^ff0000[Prontera Badge]^000000
-Enable use of Level 1 'Return to Prontera'.
-15 minutes reuse delay.
-Class: Accessory
-Defense: 0
-Weight: 10
-Required Level: 40
-Jobs: All
-Slots: 1
+比べればかなり読める状態だ。
+^ff8040不滅のシチュー: ^000000不老不死を得るために東の皇帝が求めたと噂される料理。
+x月1日
+x月25日
+防御 : 0
+重量 : 10
+x月3日
+作り方：
+煮込む。
 
-^ff0000[Flattering Robe]^000000
-A clothes that was made for no purpose.
-Enable use of level 1 Endure.
-MATK +50
-If wearer's base level 120 or higher, increase MATK +50
-If wearer's base level 140 or higher, additional MATK +50
-When equipped with ^008800Cape of Ancient Lord^000000,
-MaxSP +10%, every 1 refine of armor increase MaxSP +1%.
-FLEE +10, every 1 refine of armor increase FLEE +1.
-When equipped with ^008800Cloak Of Survival^000000,
-MaxHP +10%, every 1 refine of armor increase MaxHP +1%.
-MATK +2%, every 1 refine of armor increase MATK +1%.
-Class: Armor
-Defense: 0
-Weight: 10
-Required Level: 100
-Jobs: All
-Slots: 1
+悪魔か天使か……結果は明日、
+日記に記すことにする。
+6. 刻んだ苦いハーブとユグドラシルの種を加え、
+再び煮立つまでとろ火で煮込む。
+作り方：
+残りのページはボロボロに破れ、
+乾いた血で暗赤色に染まっている。
+料理できるほど強くなれる！
+材料は：^4b0082九尾の尾10個、四つ葉のクローバー2個、マンイーターの根10個、鋭い葉10個、
+ユグドラシルの葉4個、おいしいソース1個、イエロースパイス1個、イズドール2個 ^000000
+作り方：
+1. 九尾の尾の皮を剥ぎ、流水で洗う。皮を剥いだ九尾の尾を下茹でし、
+余分な水と脂分を切り落とす。
+防御 : 0
+重量 : 10
+作り方：
+作り方：
+煮込む。
 
-^ff0000[Abusive Robe]^000000
-A clothes that will deal serious damage to people's spirit when talking.
-Enable use of Level 1 Improve Concentration.
-Every 1 refine, ignore 4% physical defense of Demi-human, Demon and undead monster.
-When equipped with ^008800Morrigane's Manteau^000000,
-ignore 15% physical defense of Demi-human, Demon and undead monster.
-LUK +3, every 1 refine of armor increase LUK +1.
-CRIT +10, every 1 refine of armor increase CRIT +1.
-When equipped with ^008800Valkyrie Manteau^000000,
-ignore 15% physical defense of Demi-human, Demon and undead monster.
-MaxHP +10%, every 1 refine of armor increase MaxHP +1%
-ATK +2%, every 1 refine of armor increase ATK +1%.
-Class: Armor
-Defense: 0
-Weight: 10
-Required Level: 100
-Jobs: All
-Slots: 1
+（混合物が煮立つ前に四つ葉のクローバーを加えてはいけない。
+葉の色が黄色くなりすぎるため。）
+材料: ^4b008210 イチゴ, 5 袋の穀物, 10 イチジクの葉, 1 イエロースパイス, 2 レッドスパイス,
+1 セイバリーソース ^000000
+作り方：
+よく混ぜ合わせる。
+2. イチゴを絞ってイチゴジュースを作る。
+3. 炊いたご飯を大きなボウルに入れ、冷ます。
+4. セイバリーソース、イエロースパイス、イチゴジュースをご飯に加え、
+よく混ぜ合わせる。
+5. ご飯を一握り取って丸め、下茹でしたイチジクの葉で包む。
+ATK +2%、鎧の精錬値が1上がるごとにATK +1%。
+余分な水と脂分を切り落とす。
+防御 : 0
+重量 : 10
+作り方：
+作り方：
+煮込む。
 
-^ff0000[Decoration of Time]^000000
-I feel trapped in flow of time.
-Class: Costume
-Defense: 0
-Location: Middle
-Weight: 0
-Required Level : 1
-Jobs: All
+^ff0000[時間の装飾]^000000
+時の流れに囚われた気がする。
+クラス : コスチューム
+防御 : 0
+位置 : ミッド
+重量 : 0
+要求レベル : 1
+作り方：
 
-^ff0000[Black Hand of Fate]^000000
-Head seized by fate that dominated the feeling.
-Class: Costume
-Defense: 0
-Location: Upper
-Weight: 0
-Required Level: 1
-Jobs: All
+^ff0000[運命の黒き手]^000000
+持続効果 : 地属性魔法ダメージ10%増加、[テラドライブ]のMATK増加。
+クラス : コスチューム
+防御 : 0
+"のんびりと見守れよ召喚者よ、これが大地の力だ。"
+重量 : 0
+[アースケア]
+作り方：

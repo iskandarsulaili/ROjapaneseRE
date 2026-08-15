@@ -1,58 +1,58 @@
-[ Guild Creation ]
- 1. To make a guild, you need an "Emperium"
- 2. If you have obtained an Emperium 
- you can create a guild by typing
- /guild "guild name" or pressing
- "Create Guild" Button.
- 3. The guild window is accessed by pressing 
- Alt+G.
+[ ギルド作成 ]
+1. ギルドを作成するには「エンペリウム」が必要です。
+2. エンペリウムを入手したら
+ギルドを作成することができます。
+/guild "ギルド名" と入力するか、
+「ギルド作成」ボタンを押してください。
+3. ギルドウィンドウは
+Alt+Gで開くことができます。
 #
-[ Guild Information ] 
- 1. You can check information regarding
- Guild Name, EXP, Guild Level, Guild Emblem,
- Master Name, Number of Members,
- Average Member Level, Allies and Hostile Guilds.
+[ ギルド情報 ]
+1. ギルド名、経験値、ギルドレベル、ギルド紋章、
+マスター名、メンバー数、
+平均メンバーレベル、同盟および敵対ギルドに関する情報を確認できます。
+2. メンバー情報:
  
- 2. Member Information: 
- Allows you to see guild member's information.
- If you have privilege, you can kick someone
- out the guild, or leave the guild yourself
- by right clicking.
+ギルドメンバーの情報を見ることができます。
+権限があれば、右クリックでメンバーを
+ギルドから追放したり、自分自身でギルドを
+脱退したりすることができます。
+3. 役職設定:
  
- 3. Position Setting: 
- You can set the rank and guild experience
- points contributed by members.
- Contributions are possible up
- to a maximum of 50%.
- Experience point information contributed
- to the guild is reset upon leaving the guild.
+メンバーの階級とギルド経験値の
+寄付率を設定できます。
+寄付は最大50%まで
+可能です。
+ギルドに寄付された経験値情報は
+ギルド脱退時にリセットされます。
+4. ギルドスキル:
  
- 4. Guild Skills: 
- When a Guild levels up, the guild master
- can use points to advance guild skills by
- investing in them once they are available.
+ギルドがレベルアップすると、ギルドマスターは
+利用可能になったスキルにポイントを投資して
+ギルドスキルを習得できます。
+5. 追放リスト:
  
- 5. Expel List: 
- Displays the list of members expelled
- from the guild and the reasons for expulsion.
+ギルドから追放されたメンバーのリストと
+追放理由が表示されます。
+6. お知らせ:
  
- 6. Announcements:
- The Guild Master can notify members of
- various announcements through the chat window.
+ギルドマスターはチャットウィンドウを通じて
+メンバーに様々なお知らせを通知できます。
+[ ギルド紋章 ]
 #
-[ Guild Emblems ]
- 1. Create an emblem in 256-color bitmap (BMP)
- format with a size of 24x24 pixels.
+1. 256色ビットマップ（BMP）形式で
+24x24ピクセルサイズの紋章を作成します。
+2. Ragnarokがインストールされているフォルダに
  
- 2. Create an "Emblem" folder in the folder
- where Ragnarok is installed and copy
- the emblem image file into it.
+「Emblem」フォルダを作成し、
+紋章画像ファイルをそこにコピーしてください。
+紋章の画像ファイルをそこに入れてください。
  
- 3. You can apply the emblem by
- pressing the "Edit" button located
- where the emblem is displayed in the
- Guild Information window.
+3. ギルド情報ウィンドウの
+紋章が表示されている場所にある
+「編集」ボタンを押すことで
+紋章を適用できます。
  
- 4. Only the Guild Master can change the emblem
- and it can be changed at any time.
+4. 紋章の変更はギルドマスターのみ可能で、
+いつでも変更できます。
 #

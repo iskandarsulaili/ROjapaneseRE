@@ -1,212 +1,212 @@
 %faf0e6
-^000088Master Chef Orleans^000000
+^000088エピソード：ルーンミッドガッツ王国 ^000000
 
-^ff1493XX Month XX Day: Prontera Palace Cooking Competition^000000
+聖なる^880000ルーンミッドガッツ王国^000000は、ミッドガルド大陸の中央付近にある広大な領土を千年以上にわたり統治しており、現在は賢明で慈悲深いトリスタン三世王が治めている。ルーンミッドガッツ王国では多くの宗教が信仰されているが、オーディンが国家の主神である。オーディンを祀るプロンテラ大聖堂は、ルーンミッドガッツ王国の首都プロンテラに位置している。
 
 
-Charles Orleans, a 17 year old male.
-He's come to the capital city from Payon, a distant rustic village, to participate in 
-Prontera Palace's Cooking Competition in a few days. 
+^ff0000蒸しタン:^000000
+魔法の都市ゲフェンは、ルーンミッドガッツ王国の北西に位置している。この都市は多くの志あるマジシャンを惹きつけ、ゲフェンタワーは魔法の達人たちにとって聖地であり、ゲフェンの象徴とみなされている。エルフの財宝が隠された古代の神秘の都市ゲフェニアへ至る秘密が、ゲフェンにあると噂されている。
+ページのあちこちに血の跡があり、
 
-"Gee willikers, this city sure is huge! Let's go, PiPi!"
+構成されている。血の汚れのせいで
 
-Well, you may have noticed the lack of realism in the dialog. Who says "Gee willikers," 
-or names his dog PiPi? He's the stereotypical hero of this stereotypical teen comic story 
-of a country boy experiencing the big city for the first time.
+3. アロエを斜め切りにし、皿の縁に並べて盛り付ける。
+アルベルタはルーンミッドガッツ王国の南西に位置する海外貿易の都市である。イズルードからアルベルタへ向かう船は海賊の標的となることが多いが、陸路でアルベルタへ向かうのはさらに困難で時間がかかるとされている。アルベルタは、海賊の脅威にもかかわらず、その活気ある雰囲気と自由貿易政策、そしてミッドガルド大陸の全商業権の30%を所有するマーチャントギルドによって繁栄している。
+4. 下茹でした舌の皮、筋肉、腱を取り除き、スパイシーソースと
 
-"Oh, who's this? Aren't you Charles Orleans?"
-"Oh, Mr. Andrei!"
+5. スパイシーソースを好みの量加え、舌のサラダを皿に盛り付けて提供する。
+黄金色になるまで炒める。
 
-Again, another typical teen comic convention: the main character just happens to meet 
-one of his old friends as soon as he steps foot in the city. Those guys always have really 
-cool names like Richter, Trevor, Grant, or Julius. Sadly, this is Andrei's only 
-appearance, but he does provide some valuable exposition.
+x月4日
+材料: ^4b008210 マンイーターの根, 1歌う植物, 5アロエの葉, 5ロイヤルゼリー,
+誰がこの本を書いたのだ？……どうしても
+必要な情報が欠落しすぎている気がする。
 
-"Gosh, it's been years, hasn't it? Oh, are you going to be in Prontera Palace's 
-Cooking Competition? Thousands of talent chefs from all over the world are going to 
-be there, but I really think you've got a chance! Ever since we were kids, you were always 
-so good at cooking!"
+2. マンイーターの根を洗って刻む。刺々しい果実を洗う。
+3. 刻んだマンイーターの根をアロエの葉で包む。包んだ
+x月17日
+4. カクテルを作るため、漉し器か布で出汁を漉す。
 
-Did you see that? You see what just happened? This guy is just an extra, but he knows 
-what he's doing. He's taken care to reveal a bit of the main character's background, and 
-even set up the challenge that awaits him. He's only got a few seconds of screen time, 
-so to speak, but Andrei's certainly making the most of it. It's also pretty lucky that 
-he happened to know exactly why Charles Orleans has come to Prontera: it's just one 
-coincidence after another in these stories.
+ほんの一部だが……
+6 ロイヤルゼリー, 1 イエロースパイス ^000000
+^800000天のフルーツジュース:^000000 雲の上に浮かんでいるような気分にさせる風味のフルーツジュース
+^800000フルストゥルミルのトニック:^000000 伝説の池の水で作られたアルコール飲料。
+材料: ^4b00821 ユグドラシルの実, 10氷塊, 10バシラス, 4ロイヤルゼリー,
+x月3日
 
-"Yes, I'm going to become the palace chef for sure!"
+この本は……危険だ……しかし……
 
-Right, right, the protagonist is usually a positive, optimisitc type of character in 
-these stories. It wouldn't be a stretch of the imagination if his wide eyes, sparkling 
-with undying hope, took up half of his face. Of course, the passerby that don't have 
-anything to do with this boy and probably didn't care about the cooking contest 
-at the beginning start muttering amongst themselves...
+を鍋に入れ、密閉するために蓋を閉める。約1週間熟成させる。
+これらの物語だ。彼の大きく見開かれた目が、きらきらと輝く
+3. 熟成させた集中ポーション、ロイヤルゼリー、皮をむいた果実を
+x月25日
+熟成期間によって異なる。
 
-"That boy? Chef of the Palace?"
-"Impossible... He'll never make it!"
-"He's just a kid, no older than my own son!"
-"Crazy country bumpkins and their crazy ideas..."
-"Hah! How dare you follow your dreams! Give it up. Go home and be a family man!"
+作り方：
+^008040スペシャルミートシチュー:^000000 あらゆる種類の肉が入った、甘い香りが漂う特製シチュー！
+^008040蒸し砂漠サソリ:^000000 熱い砂漠の砂の下で蒸した砂漠のサソリ。
+x月10日
+3苦い草, 10ロイヤルゼリー, 1スパイシーソース, 1鍋 ^000000
 
-An arrogant commanding voice suddenly rings out through the deafening buzz of 
-the peanut gallery. Yes, it's time for the main antagonist to make his entrance!
+1. サソリの尾から毒腺を取り除き、ハサミと一緒に
+よく洗う。
 
-"Hmpf."
+を水と混ぜて漬け汁を作る。
 
-They always have to look so cool by showing so much disdain, don't they?
+これらの材料を鍋に移し、密閉するために蓋を閉める。
 
-"Hmpf. I'd be suprised if you could even make it past the preliminaries... Orleans."
+午前10時頃に鍋を穴の中に置く。鍋を砂で覆い、
 
-The crowd frantically searches for the source of the voice when suddenly--Pushhaaaa!--
-a bright flash of light and the elegant strumming of a harp reveal the appearance of 
-a muscular, but not too muscular, handsome boy that is exactly 1.3 times 
-as tall as our protagonist.  
+5. 蒸した砂漠サソリの尾とハサミを皿に盛り付ける。
+このページは少ししわくちゃだが、他のページに
+比べればかなり読める状態だ。
+^ff8040不滅のシチュー: ^000000不老不死を得るために東の皇帝が求めたと噂される料理。
 
-Taller, good looking boys are the main rivals that had some past relationship with
-the hero, usually a best friend. In these teen stories, you can generally tell 
-a character's relationship to the protagonist by age, gender, and looks. Older men are 
-usually rivals, and are secretly the hero's father or elder brother, 
-or were the hero's father's best friend at the very least. All girls end up in love with
-the hero at the end of the story, even if they start out as enemies. The only exception is 
-if the girl is ugly: these poor fools usually end up dying. Ugly men, naturally, are enemies 
-hat also get killed off. 
+マーマンの心臓10個、スパイシーソース2個、お守り10個、苦いハーブ2個 ^000000
+ついに研究が完成した。この本には
+異種族の生命を召喚する方法が
+詳しく記されていることが分かった。私はこの島で孤独であり、
+好奇心に抗えなかったのだ。
+3. 不滅の心臓、スパイシーソース、細切りにしたお守りを一緒に炒める。
+試してみよう。召喚を行う。
+悪魔か天使か……結果は明日、
 
-Anyway, the main rival appears and Orleans dramatically recognizes him.
+6. 刻んだ苦いハーブとユグドラシルの種を加え、
 
-"Kiel? Kiel, is that really you? I thought you were dead!"
+作り方：
 
-In response, the peanut gallery starts muttering amongst themselves so that we can learn 
-a bit more about Kiel's background.
+乾いた血で暗赤色に染まっている。
+料理できるほど強くなれる！
 
-"Kiel? Could he be the legendary Kiel?"
-"Kiel? Isn't he the youngest person to become a royal chef in the history of royal chefs?"
-"I heard that no man alive can outcook him! They call him the demon of cooking!"
-"Didn't he disappear years ago in that horrible tragedy?"
+ユグドラシルの葉4個、おいしいソース1個、イエロースパイス1個、イズドール2個 ^000000
+作り方：
+1. 九尾の尾の皮を剥ぎ、流水で洗う。皮を剥いだ九尾の尾を下茹でし、
+余分な水と脂分を切り落とす。
 
-Then, Kiel's menacing theme music begins to play as he taunts the hapless hero.
+3. 刻んだユグドラシルの葉、イジドール、おいしいソース、イエロースパイスを混ぜてソースを作る。
 
-"Hmpf! You haven't changed in the ten years since I've last seen you, Orleans!"
-"K-Kiel...!"
-"You will lose the cooking contest because I will win! Give up now 
-while you still have the chance!"
+5. ソースと漬け込んだ九尾の尾を鍋に注ぎ入れ、肉のブロス1杯を加えて、
+煮込む。
+6. 煮立ったら火を弱め、四つ葉のクローバーを加えて煮詰める。
+（混合物が煮立つ前に四つ葉のクローバーを加えてはいけない。
 
-Orleans, being the optimistic yet naive hero type, is wounded more by these words of 
-challenge than any curse upon his family. Of course, he's such a nice guy that he just 
-sort of simmers there until he can think of something to say.
+材料: ^4b008210 イチゴ, 5 袋の穀物, 10 イチジクの葉, 1 イエロースパイス, 2 レッドスパイス,
+1 セイバリーソース ^000000
+作り方：
 
-"Is it really true? That you cheated to become the royal chef?! 
-Tell me that's a lie, Kiel!"
-"Hmpf. I don't care. Believe what you want."
+2. イチゴを絞ってイチゴジュースを作る。
+3. 炊いたご飯を大きなボウルに入れ、冷ます。
+4. セイバリーソース、イエロースパイス、イチゴジュースをご飯に加え、
 
-We all want to believe Kiel is a bad guy because of his arrogance, but later we'll 
-probably learn that he won the title of palace chef fairly to redeem his character. 
-Details of his painful past, maybe some story of some girl he loved that he lost, 
-will also be revealed. But that's getting ahead of ourselves. In any case, we want to 
-establish Kiel as somebody whose cooking skills are superior to our hero's, 
-at least before the training montage.
+5. ご飯を一握り取って丸め、下茹でしたイチジクの葉で包む。
+ATK +2%、鎧の精錬値が1上がるごとにATK +1%。
+^ff0000[正義制御 3レベル : オフェンシブモード]^000000
+"無質序自敵に風の力で深判を鳴り響かせます。"
+重量 : 10
+[ストームウィンド]
 
-"It doesn't matter whether you think I won fairly or not. 
-The question remains: me or you?" 
-"Kiel!"
-"If you have a problem accepting that I'm a better chef than you, then prove that 
-you do more than just scramble eggs. I hope to see you in the competition in three days 
-if you can even get that far. Heh. What recipe could you possibly cook to rival my own? 
-Hahahahahaha!"
+対象の魔法防御力を無視するMATK 2600%風属性魔法ダメージを与える。
+(ダメージは召喚者のベースレベルにより追加で増加される。)
+^ff0000[時間の装飾]^000000
+時の流れに囚われた気がする。
+クラス : コスチューム
+防御 : 0
+位置 : ミッド
 
-Everyone loves an underdog, so the crowd will be respect and fear Kiel, and will be 
-rooting for Oreans and his little dog PiPi. By now, Orleans's fighting spirit has probably 
-been inflamed. 
+要求レベル : 1
+召喚された大地の上位精霊テレモトゥスは召喚者に特別な大地の力を付与し、
+召喚者の「正義制御」能力を通じて個別的な異なる行動を取る。
 
-The scene changes now, and we're suddenly in Kiel's room. He's alone and looking out 
-the window, holding a glass of fine wine. Never mind that he's only about 
-seventeen years old: this is just a fantasy story.
+持続効果 : 地属性魔法ダメージ10%増加、[テラドライブ]のMATK増加。
+クラス : コスチューム
+^fa8072[正義制御 1レベル : パッシブモード]^000000
 
-"Orleans... I've been waiting for this day. You're the only one that can offer me 
-a decent challenge. I don't believe that I really deserve the title of greatest chef 
-in the world until I can defeat you. These three days... will seem like eternity. 
-Your cooking may be effused with the light of love, but I shall show you the true power of 
-cooking with the power of loneliness!"
+重量 : 0
+[アースケア]
+i. 召喚者のアーススパイラクスのMATKが800%加算される。
+ii. 召喚者が一般物理攻撃をする場合、7%確率でアーススパイラクス1レベルが発動される。
+(より高いレベルを習得した場合、習得レベルに応じて発動)
 
-Now we've established that Kiel and Orleans are just about equal in cooking ability: 
-it's only a matter of whose idealogy is best in the kitchen. This raises some questions: 
-what does Kiel mean by the power of loneliness? Again, he's probably suffered 
-some emotional scars that make him much more sympathetic as this story continues. 
+プレイヤーキャラクターに対する物理攻撃力+40%。物理攻撃で高い確率で凍結を付与。
+回復量+5%。
+種別 :  鈍器  ATK :  120
+重量 :  0  武器レベル :  3 装備レベル :  40
 
-The scenes returns to our hero Orleans, looking determined and driven, 
-but suffering from doubt. 
+"強靭な大地の不屈さをのんびりと見守れよ"
+DEX +1、遠距離攻撃ダメージ +1%。
 
-"Fish? Meat? Vegetables? No, it can't be that simple. I can't win the chef content by counting on my ingredients. What... What recipe should I cook?"
+i. 召喚者の鎧属性に地属性を付与する。
 
-A deep voice suddenly responds to his question.
+重量: ^77777720^000000
 
-"You wish to have a special recipe for the cooking contest?"
+"大地の分野を執行する"
 
-Orleans turns to look in the direction of the voice, we probably have a seen of two pairs of blazing eyes glaring at each other for dramatic impact, and he sees this old, shabbily dressed guy holding a bottle of whiskey in his hand.
+[アバランチ]
 
-"Old man... Just who are you?"
-"Fifty years ago, a young talented chef, just like you, earned the title of royal chef 
-after defeating all of his opponents in the cooking competition. However, he was satisfied 
-with his success and didn't keep the job. He left on a journey to discover 
-the true way of cooking."
-"N-no way! A-are you really...?"
-"Of course not. I was just one of his assistants."
-"Wh... What...?"
-"Still... I can help you. I know what recipe that legendary chef cooked to win. 
-But let me warn you: you'll be making this dish at the risk of your own life."
-"Please! Tell me! I'm... I'm not afraid of death!"
-"The winning dish was... Baphomet Head Broth and Rice."
+対象の魔法防御力を無視するMATK 450%地属性魔法ダメージを7回与える。
+(ダメージは召喚者のベースレベルにより追加で増加される。)
+[TE WOE バックラー]
+｡ﾘ TE WOE ????????????
+最大HP + 100、最大SP + 100。プレイヤーキャラクターから受けるダメージ-15%。
+種別 :  盾  Def :  15  MDEF + 15.
+重量 :  0 装備レベル :  40 職業 :  全職業
+^7112FF---- 盲毒の精霊セルペンテスの書 ----^000000
+水中で呼吸できるようにはならない。
+召喚された盲毒の上位精霊セルペンテスは召喚者に特別な盲毒の力を付与し、
+召喚者の「正義制御」能力を通じて個別的な異なる行動を取る。
+要求レベル: ^77777765^000000
 
-Baphomet?! Now there's a twist.
+防御: ^7777775^000000
 
-"Tell me old man... How do I cook it?"
-"First, you need must hunt Baphomet in the Prontera Maze. Each time you kill one, you will 
-have a one out of ten thousand chance of obtaining its fabled Baphomet Helm. 
-Then... You must find a reasonably attractive, but not too sexy, woman in her twenties, 
-and have her wear the helm for five hourse. Take this helm, boil it in water at 
-97.9 degrees Celsius for twenty-one hours. Sprinkle salt and pepper to taste, 
-add choppped green peppers, and serve the broth with rice and noodles."
+"感じ取れるだろうか？召喚者よ"
+装備可能職業: ^777777ソードマン^000000
+[デスポイント]
+i. 召喚者のクラウドキルのMATKが1500%加算される。
+ii. 召喚者が一般物理攻撃をする場合、7%確率でポイズンバースター1レベルが発動される。
+(より高いレベルを習得した場合、習得レベルに応じて発動)
+iii. サイキックウェーブの攻撃属性が毒属性になる。
 
-Orleans stands in a moment of shocked silence. Then he yells,
+種別 : 肩にかける物 防御 : 5 MDEF + 5
 
-"Damn it! Th-that's impossible! How am I going to find a reasonably attractive woman 
-in her twenties?! I... I don't think I can do this!"
-"Well... It's either that, or you can go back home to the country. 
-Did you really come this far just to run away?"
+武器レベル: ^7777773^000000    要求レベル: ^77777780^000000
+^0000ff[正義制御 2レベル : ディフェンシブモード]^000000
+"盲毒の力で貴を保護してくれよ"
+CRIT +1
 
-We know Orleans's answer when the scene changes, and we see him fully armored 
-at the entrance to the Prontera Maze. He strolls in calmly with sword in hand as 
-Side Winders and Hunter Flies being to swarm him.
+i. 召喚者の鎧属性に毒属性を付与する。
+ii. 召喚者の毒属性耐性 +100、聖属性耐性 -30。
+位置: ^777777下段^000000
 
-"I don't have time for you guys! Begone!"
+"盲毒の力で皆執行してくれよ！"
 
-He swings his sword downward, cleaving the ground and distorting the air 
-with a crash of thunder in lightning. We know that it doesn't make sense for him 
-to have this much power, but this is all fantasy. Anyway, he treks 
-through the entire maze, vanquishing all the monsters, and then he enters the final room 
-where Baphomet awaits.
+[デッドリーポイズン]
+i. 対象周辺9x9範囲に盲毒を撒き範囲内の敵に
+対象の魔法防御力を無視するMATK 700%地属性魔法ダメージを5回与える。
+(ダメージは召喚者のベースレベルにより追加で増加される。)
+｡ﾘ TE WOE ????????????
 
-"Baphomet must be inside!"
+種別 : アクセサリー 防御 : 0
 
-He steps forward into this dark room, bracing himself for battle, when he sees 
-a glamourous, smiling woman standing over a slain Baphomet. The dazzling sunlight shines 
-through the trees and dances on her face. A majestic Baphomet Helm lies next to her feet.
+種別 : ^777777両手杖^000000  攻撃 : ^77777770^000000    重量 : ^7777770^000000   武器Lv : ^7777774^000000    要求Lv : ^77777780^000000
+説明: 鋼鉄で作られた仮面。実用性のみに焦点を当てている。
+あらゆる火災の衝撃から顔を守る。
 
-"No way... Did she defeat Baphomet on her own? Wait! Isn't that... It's the helm!"
+DEX +5、LUK +5。
 
-Orleans is stunned into silence as the beautiful twenty-something woman looks deep into his eyes. Finally, she speaks.
+種別: ^777777帽子^000000
  
-"Are you an adventurer?"
+装備可能職業: ^777777マーチャント^000000
 
-Her soft, gentle voice is more than he can bear. Orleans nodded slowly--if he is having 
-a dream, he refuses to wake up.
+装備レベル: ^77777750^000000
+溶接マスク 1個 + 粗いエナジークリスタル 200個
 
-"Do you... Do you think you can spare me a Butterfly Wing? I've been lost in this maze 
-for about five hours..."
+^008040[改造セーフティリング]^000000
+[TE WOE Shoes]
 
-Orleans lowers his head, and thinks for a moment. His eyes widen with realization, 
-and he smiles mischievously at her.
+最大HP + 150、最大SP + 150。プレイヤーキャラクターに対する物理/魔法攻撃力 +5%。
+凍結耐性 +25%。
 
-"I think there's a way that we can both help each other. But first, would you be willing 
-to part with that helm...?"
+「姉妹たちよ。すぐに会いに行く」
+説明: 装備者へのダメージを軽減する魔法の指輪。
 
- - To be continued
+種別: ^777777アクセサリー^000000

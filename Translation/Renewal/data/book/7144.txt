@@ -1,94 +1,94 @@
 %faf0e6
-^000088I can become almost self sufficient if I master the basics of potion making�^000000
+^000088エピソード：ルーンミッドガッツ王国 ^000000
 
-----------------Preface--------------------
-Potion making is considered one of the essential
-basics of alchemy. This final edition details the potion
-production processes that will enable Alchemists to restore
-their HP, SP, and even cure abnormal statuses by using
-potions that they have easily created!
+特別なサイン入りのものでもある。
+特別なサイン入りのものでもある。
+プロンテラはミッドガルド大陸の中央という地理的な利点により、貿易と商業の中心地として発展を遂げた。この首都はまた、ソードマンがナイトやクルセイダーに転職できる都市としても有名である。ソードマン協会もかつてはプロンテラにあったが、その施設はプロンテラの衛星都市であるイズルードへ移転された。
+^ff0000蒸しタン:^000000
+魔法の都市ゲフェンは、ルーンミッドガッツ王国の北西に位置している。この都市は多くの志あるマジシャンを惹きつけ、ゲフェンタワーは魔法の達人たちにとって聖地であり、ゲフェンの象徴とみなされている。エルフの財宝が隠された古代の神秘の都市ゲフェニアへ至る秘密が、ゲフェンにあると噂されている。
+ページのあちこちに血の跡があり、
 
-------------------------------------------
-What is a ^ff0000Potion^000000?
+構成されている。血の汚れのせいで
+パヨンはルーンミッドガッツ王国の北西に位置する山岳の村である。パヨンの山岳地帯では優れた弓作りと弓術の技が発展し、アーチャーの村、そして優れたハンターを育成する地として有名になった。パヨンのアーチャーは決して標的を外さないと広く信じられている。強力な複合弓である「ガンボウ」は、パヨンの特産品の一つである。
 
-A potion is a single dosage of liquid medicine or
-poison. Most potions are used as medicine to restore
-HP or SP, cure abnormal statuses, or temporarily enhance
-the human body. This book contains instructions to produce
-red, yellow, white, and blue potions, anodyne, aloevera,
-and embryos.
-
-
-^0000ffRed Potion^000000: Restores 45 HP.
-Required materials: ^4b00821 Red Herb, 1 Empty Potion Bottle^000000
-Process: Grind a red herb in a medicine bowl,
-and then slowly add clean water. You must keep
-this book with you as a reference while you use
-the Pharmacy skill to pour the resulting
-solution in an empty potion bottle.
+アルベルタはルーンミッドガッツ王国の南西に位置する海外貿易の都市である。イズルードからアルベルタへ向かう船は海賊の標的となることが多いが、陸路でアルベルタへ向かうのはさらに困難で時間がかかるとされている。アルベルタは、海賊の脅威にもかかわらず、その活気ある雰囲気と自由貿易政策、そしてミッドガルド大陸の全商業権の30%を所有するマーチャントギルドによって繁栄している。
+4. 下茹でした舌の皮、筋肉、腱を取り除き、スパイシーソースと
+静寂の都市アルデバランは、中心にそびえる神秘的な時計塔で有名である。アルデバランの発展初期、この都市の職人たちは無数の手作り時計を生み出し、壊れたり故障したりした時計を都市の古い塔に廃棄していた。何らかの理由で、塔の魔力がこれらの時計を生きた悪意あるモンスターへと変貌させた。これらの怪物のような時計はやがて塔から全ての人間を追い出し、時計塔は時計モンスターが自由に徘徊し増殖する恐るべきダンジョンと化した。多くの好奇心旺盛で善意ある冒険者が邪悪な時計を駆除するために時計塔を探索したが、無事に戻れた者はわずかである。今日に至るまで、アルデバラン時計塔の謎を解き明かした者はいない。
+5. スパイシーソースを好みの量加え、舌のサラダを皿に盛り付けて提供する。
+黄金色になるまで炒める。
+6. 炒めた腱を皿に盛り付け、イカ墨ソースをかける。
 
 
-^800000Yellow Potion^000000: Restores 175 HP.
-Required materials: ^4b00821 Yellow Herb, 1 Empty Bottle^000000
-Process: Grind a yellow herb in a medicine bowl,
-and then slowly add clean water. You must keep this
-book with you as a reference while you use the Prepare
-Potion skill to pour the resulting solution in an empty
-potion bottle.
+誰がこの本を書いたのだ？……どうしても
+必要な情報が欠落しすぎている気がする。
+1. 歌う植物を乾燥させ、粉末にする。
+もう自分を抑えられない。読むのを止められない……
+作り方：
+x月17日
+これらの材料を鍋に移し、密閉するために蓋を閉める。
 
 
-
-^008040White Potion^000000: Restores 325 HP.
-Required materials: ^4b00821 White Herb, 1 empty bottle^000000
-Process: Grind a white herb in a medicine bowl,
-and then slowly add clean water. You must keep
-this book with you as a reference while you use
-the Pharmacy skill to pour the resulting
-solution in an empty potion bottle.
-
-
-^ff8040Blue Potion^000000: Restores 60 SP.
-Required materials: ^4b00821 Blue Herb, 1 Empty Potion Bottle, 1 Scell^000000
-Process: Grind a blue herb and scell in a medicine
-bowl, and then slowly add clean water. You must
-keep this book with you as a reference while you
-use the Pharmacy skill to pour the resulting
-solution in an empty potion bottle.
+6 ロイヤルゼリー, 1 イエロースパイス ^000000
+^800000天のフルーツジュース:^000000 雲の上に浮かんでいるような気分にさせる風味のフルーツジュース
+^800000フルストゥルミルのトニック:^000000 伝説の池の水で作られたアルコール飲料。
+材料: ^4b00821 ユグドラシルの実, 10氷塊, 10バシラス, 4ロイヤルゼリー,
+x月3日
+作り方：
+この本は……危険だ……しかし……
 
 
 
-^400080Anodyne^000000: A painkiller which temporarily nullifies pain.
-Required materials: ^4b00821 Alcohol, 1 Empty Bottle, 1 Ment^000000
-Process: Grind ment in a medicine bowl, and
-then slowly add water and alcohol. You must
-keep this book with you as a reference while
-you use the Pharmacy skill to pour the
-resulting solution in an empty bottle.
+3. 熟成させた集中ポーション、ロイヤルゼリー、皮をむいた果実を
+x月25日
+熟成期間によって異なる。
+もう自分を抑えられない。読むのを止められない……
+作り方：
+x月17日
+これらの材料を鍋に移し、密閉するために蓋を閉める。
 
 
-^008040Aloevera^000000: Temporarily enhances your offense abilities
-at the cost of decreasing your defense abilities.
-Required materials: ^4b00821 Aloe, 1 Empty Bottle, 1 Honey^000000
-Process: Pour honey and aloe into a medicine
-bowl, and stir the mixture. Slowly add a small amount
-of water while continuing to stir the mixture. You must keep 
-this book with you as a reference while you use the Pharmacy
-skill to pour the resulting solution in an empty bottle.
+研究はほぼ完了した。完成すれば……
+1. サソリの尾から毒腺を取り除き、ハサミと一緒に
+よく洗う。
+2. アロエジュース、刻んだユグドラシルの葉、ロイヤルゼリー、スパイシーソース
+を水と混ぜて漬け汁を作る。
+x月30日
+これらの材料を鍋に移し、密閉するために蓋を閉める。
 
 
-^ff0000Embryo^000000: The basis of alchemic life, and the required item for creating Homunculi.
-Required materials: ^4b00821 Morning Dew of Yggdrasil, 1 Seed of Life, 1 Glass Tube^000000
-Process: Combine the morning dew of Yggdrasil
-and seed of life in a medicine bowl, and then use
-the Pharmacy skill to pour the result into a glass
-tube where an embryo will be formed. You must study
-Bioethics in order to create an embryo: you need to be
-fully aware of the dangers associated with creating homunculi.
 
-^0000ffHomunculus Supplement^000000: Nutritional supplement for increasing the intimacy of your Homunculus.
-Ingredients: ^4b0082 1 Seed of Life, 1 Yellow Herb, 1 Empty Bottle^000000
-Recipe: The basis of alchemy is the medicine bowl.
-Prepare a medicine bowl.
-After crushing the Seed of Life and Yellow Herbs in the bowl,
-use the Pharmacy skill to put it in an Empty Bottle and shake it.
-This recipe will only be possible to use it after studying Bioethics.
+5. 蒸した砂漠サソリの尾とハサミを皿に盛り付ける。
+このページは少ししわくちゃだが、他のページに
+比べればかなり読める状態だ。
+^ff8040不滅のシチュー: ^000000不老不死を得るために東の皇帝が求めたと噂される料理。
+x月1日
+マーマンの心臓10個、スパイシーソース2個、お守り10個、苦いハーブ2個 ^000000
+ついに研究が完成した。この本には
+
+
+好奇心に抗えなかったのだ。
+3. 不滅の心臓、スパイシーソース、細切りにしたお守りを一緒に炒める。
+試してみよう。召喚を行う。
+悪魔か天使か……結果は明日、
+日記に記すことにする。
+6. 刻んだ苦いハーブとユグドラシルの種を加え、
+再び煮立つまでとろ火で煮込む。
+作り方：
+
+
+料理できるほど強くなれる！
+材料は：^4b0082九尾の尾10個、四つ葉のクローバー2個、マンイーターの根10個、鋭い葉10個、
+ユグドラシルの葉4個、おいしいソース1個、イエロースパイス1個、イズドール2個 ^000000
+作り方：
+1. 九尾の尾の皮を剥ぎ、流水で洗う。皮を剥いだ九尾の尾を下茹でし、
+余分な水と脂分を切り落とす。
+2. マンイーターの根を洗って刻む。鋭い刃を下茹でし、半分に切る。
+3. 刻んだユグドラシルの葉、イジドール、おいしいソース、イエロースパイスを混ぜてソースを作る。
+
+5. ソースと漬け込んだ九尾の尾を鍋に注ぎ入れ、肉のブロス1杯を加えて、
+煮込む。
+6. 煮立ったら火を弱め、四つ葉のクローバーを加えて煮詰める。
+（混合物が煮立つ前に四つ葉のクローバーを加えてはいけない。
+葉の色が黄色くなりすぎるため。）
+材料: ^4b008210 イチゴ, 5 袋の穀物, 10 イチジクの葉, 1 イエロースパイス, 2 レッドスパイス,
+1 セイバリーソース ^000000

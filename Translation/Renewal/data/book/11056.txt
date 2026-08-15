@@ -1,132 +1,132 @@
----- Fire Spirit Agni Chapter ----
+%faf0e6
 
-By ordering your summoned fire spirits using the "Spirit Control" ability, you can control what actions your spirit performs.
+この本は、料理への情熱を完璧に体現する彼女の料理レシピが収められているため、
 
-[Assist Me]
-i - Pyrotechnic : Increases damage of fire bolt and Fire Wall.
+作り方：
+プロンテラはミッドガルド大陸の中央という地理的な利点により、貿易と商業の中心地として発展を遂げた。この首都はまた、ソードマンがナイトやクルセイダーに転職できる都市としても有名である。ソードマン協会もかつてはプロンテラにあったが、その施設はプロンテラの衛星都市であるイズルードへ移転された。
 
-ii - Heater : Increases damage of fire walk.
-Increases the heal of the Warmer skill a little.
-Slightly increases damage of Psychic Wave.
-Changes the damage property of Psychic Wave to fire.
+魔法の都市ゲフェンは、ルーンミッドガッツ王国の北西に位置している。この都市は多くの志あるマジシャンを惹きつけ、ゲフェンタワーは魔法の達人たちにとって聖地であり、ゲフェンの象徴とみなされている。エルフの財宝が隠された古代の神秘の都市ゲフェニアへ至る秘密が、ゲフェンにあると噂されている。
+ページのあちこちに血の跡があり、
+モロクはルーンミッドガッツ王国の南西に位置する砂漠の小さな町である。モロクの乾燥した暑さから遠ざかる者が多いが、シーフギルドの拠点であるため、志あるシーフを惹きつけている。モロク近郊のソグラト砂漠のどこかにアサシンギルドが隠されているという噂があり、志あるアサシンたちはそれを求めて砂漠を探索している。
+構成されている。血の汚れのせいで
 
-iii - Tropic : When the summoner attacks, adds a chance to auto spell fire bolt.
-Using Flame Launcher or Volcano have a 50% chance of not consuming a Red Blood or Yellow Gemstone.
+3. アロエを斜め切りにし、皿の縁に並べて盛り付ける。
+アルベルタはルーンミッドガッツ王国の南西に位置する海外貿易の都市である。イズルードからアルベルタへ向かう船は海賊の標的となることが多いが、陸路でアルベルタへ向かうのはさらに困難で時間がかかるとされている。アルベルタは、海賊の脅威にもかかわらず、その活気ある雰囲気と自由貿易政策、そしてミッドガルド大陸の全商業権の30%を所有するマーチャントギルドによって繁栄している。
 
-[Protect Me]
-i - Circle of Fire : Creates a circle of fire around the summoner, which causes damage to enemies who attack the summoner.
+位置 : ミッド
+5. スパイシーソースを好みの量加え、舌のサラダを皿に盛り付けて提供する。
 
-ii - Fire Cloak : Increases resistance to fire property attacks, lowers resistance to water property attacks.
+6. 炒めた腱を皿に盛り付け、イカ墨ソースをかける。
 
-iii - Fire Mantle : Creates a powerful firewall around the summoner.
+材料: ^4b008210 マンイーターの根, 1歌う植物, 5アロエの葉, 5ロイヤルゼリー,
 
-[Attack My Enemy]
-i - Fire Arrow : Fires a fire arrow at a single target dealing fire elemental damage.
+重量 : 0
+1. 歌う植物を乾燥させ、粉末にする。
 
-ii - Fire Bomb : Fires a fire bomb at a target dealing fire elemental damage in an area around it.
-Or deals fire elemental magic damage.
+3. 刻んだマンイーターの根をアロエの葉で包む。包んだ
+x月17日
 
-iii - Fire Wave : Fires a wave of fire at a target dealing fire elemental damage in an area around it.
-O the target takes large fire elemental magic damage.
+この本には非常に興味深い内容がある……
+ほんの一部だが……
 
----- Water Spirit Aqua Chapter ----
+^800000天のフルーツジュース:^000000 雲の上に浮かんでいるような気分にさせる風味のフルーツジュース
 
-By ordering your summoned water spirits using the "Spirit Control" ability, you can control what actions your spirit performs.
+材料: ^4b00821 ユグドラシルの実, 10氷塊, 10バシラス, 4ロイヤルゼリー,
 
-[Assist Me]
-i - Aqua Play : Increases cold bolt and Frost Diver damage.
+作り方：
+この本は……危険だ……しかし……
 
-ii - Cooler : Slightly increases the freezing chance of diamond dust.
-Slightly increases the damage of Diamond Dust.
-Slightly increases the damage of Psychic Wave.
-Changes the damage property of Psychic Wave to water.
+を鍋に入れ、密閉するために蓋を閉める。約1週間熟成させる。
+ダイヤモンドダストのダメージがわずかに増加する。
+3. 熟成させた集中ポーション、ロイヤルゼリー、皮をむいた果実を
+x月25日
 
-iii - Cool Air : When the summoner attacks, adds a chance to auto cast Cold Bolt.
-Frost Weapon and Deluge skills have a 50% chance of not consuming a crystal blue/yellow gemstone.
+もう自分を抑えられない。読むのを止められない……
+作り方：
 
-[Protect Me]
-i - Water Screen : Heals the summoner a set amount of HP.
-For a short period of time damage will be redirected to the Aqua.
+位置 : ミッド
+x月10日
+3苦い草, 10ロイヤルゼリー, 1スパイシーソース, 1鍋 ^000000
 
-ii - Water Drop : Increases resistance to water property, while lowering your resistance to fire.
+1. サソリの尾から毒腺を取り除き、ハサミと一緒に
 
-iii - Water Barrier : Generates a barrier around the caster of water. While in this barrier, physical and magic damage are reduced. However, evasion and attack power are also reduced.
+2. アロエジュース、刻んだユグドラシルの葉、ロイヤルゼリー、スパイシーソース
 
-[Attack my Target]
-i - Ice Needle : Strikes a single target for water elemental magic damage.
+x月30日
+これらの材料を鍋に移し、密閉するために蓋を閉める。
 
-ii - Water Screw : Strikes a single target for water elemental magic damage.
-Or damages all enemies in a radius around the target.
+午前10時頃に鍋を穴の中に置く。鍋を砂で覆い、
+午後5時頃に鍋を取り出す。
 
-iii - Tidal Weapon : For a short period of time changes the summoner and the spirit's weapon to water property.
-Increases the elemental's attack power.
-Or causes large water element damage on 1 target.
+このページは少ししわくちゃだが、他のページに
+比べればかなり読める状態だ。
+^ff8040不滅のシチュー: ^000000不老不死を得るために東の皇帝が求めたと噂される料理。
 
----- Wind Spirit Ventus Chapter ----
+マーマンの心臓10個、スパイシーソース2個、お守り10個、苦いハーブ2個 ^000000
 
-By ordering your summoned wind spirits using the "Spirit Control" ability, you can control what actions your spirit performs.
+異種族の生命を召喚する方法が
 
-[Assist Me]
-i - Gust : Increases damage of Lightning Bolt and Thunder Storm.
+作り方：
+3. 不滅の心臓、スパイシーソース、細切りにしたお守りを一緒に炒める。
 
-ii - Blast : Increases damage of electric walk.
-Increases damage of Vartyr Spear.
-Increases damage of Psychic Wave.
-Changes the damage property of Psychic Wave to wind property.
+悪魔か天使か……結果は明日、
+日記に記すことにする。
+6. 刻んだ苦いハーブとユグドラシルの種を加え、
+再び煮立つまでとろ火で煮込む。
 
-iii - Wild Storm : When the summoner attacks, adds a chance to auto cast Lightning Bolt.
-When casting Lightning Loader or Violent Gale, has a 50% chance of not consuming the Wind of Verdure or Yellow Gem.
+残りのページはボロボロに破れ、
+乾いた血で暗赤色に染まっている。
 
-[Protect Me]
-i - Wind Step : When activated, teleports the summoner. Increases the summoners movement speed and evasion for a period of time.
+位置 : ミッド
+ユグドラシルの葉4個、おいしいソース1個、イエロースパイス1個、イズドール2個 ^000000
 
-ii - Wind Curtain : Increases wind element resistance, lowers earth element resistance.
+1. 九尾の尾の皮を剥ぎ、流水で洗う。皮を剥いだ九尾の尾を下茹でし、
 
-iii - Zephyr : Creates a barrier of wind around the summoner. In this barrier, it increases evasion and blocks ranged attacks. Also has a small chance to completely block phsyical and magic damage.
+2. マンイーターの根を洗って刻む。鋭い刃を下茹でし、半分に切る。
 
-[Attack My Enemy]
-i - Wind Slasher : Strikes a target at long range with a blade of wind, causing wind element damage and bleeding status.
+重量 : 0
+5. ソースと漬け込んだ九尾の尾を鍋に注ぎ入れ、肉のブロス1杯を加えて、
 
-ii - Hurricane Rage : Attacks a target at long range with wind element magic damage.
-Or deals physical damage to all targets nearby.
+6. 煮立ったら火を弱め、四つ葉のクローバーを加えて煮詰める。
+（混合物が煮立つ前に四つ葉のクローバーを加えてはいけない。
 
-iii - Typhoon Missile : Attacks a target at long range with wind element damage.
-Or deals additional wind element magic damage and causes silence status.
+材料: ^4b008210 イチゴ, 5 袋の穀物, 10 イチジクの葉, 1 イエロースパイス, 2 レッドスパイス,
+1 セイバリーソース ^000000
 
----- Earth Spirit Terra Chapter ----
+1. 穀物のもみ殻をふるい分け、ご飯を炊く。
 
-By ordering your summoned earth spirits using the "Spirit Control" ability, you can control what actions your spirit performs.
+3. 炊いたご飯を大きなボウルに入れ、冷ます。
 
-[Assist Me]
+作り方：
 
-i - Petrology - Increases probability of Stone Curse.
-Increases damage of Earth Spike and Heaven's Drive skills.
+ATK +2%、鎧の精錬値が1上がるごとにATK +1%。
+^ff0000[正義制御 3レベル : オフェンシブモード]^000000
 
-ii - Cursed Soil - Cloud Kill Max damage increased.
-Poison buster damage increased.
-Earth Grave damage increased.
-Psychic Wave damage increased.
-Changed the elemental property of Psychic Wave to Earth.
+重量 : 10
+[ストームウィンド]
+i. 対象及びプロンテラの周辺5x5範囲に集束した風を起こし、範囲内の敵に
+対象の魔法防御力を無視するMATK 2600%風属性魔法ダメージを与える。
+(ダメージは召喚者のベースレベルにより追加で増加される。)
 
-iii - Upheaval : When the summoner attacks, adds a chance of autocasting Earth Spike.
-When using Seismic Weapon has a 50% chance of not consuming the Yellow Live.
+時の流れに囚われた気がする。
+クラス : コスチューム
 
-[Protect Me]
+位置 : ミッド
 
-i - Solid Skin : Increases the defense and max HP of the summoner.
+要求レベル : 1
 
-ii - Stone Shield : Increases Earth element resistance, lowers fire element resistance.
+召喚者の「正義制御」能力を通じて個別的な異なる行動を取る。
 
-iii - Power of Gaia : Creates a barrier of earth around the summoner.
-Within the barrier you cannot receive bleeding or petrification status.
-For a fixed time increases Max HP and Defense, but lowers movement speed.
+持続効果 : 地属性魔法ダメージ10%増加、[テラドライブ]のMATK増加。
+クラス : コスチューム
+^fa8072[正義制御 1レベル : パッシブモード]^000000
 
-[Attack My Enemy]
+重量 : 0
 
-i - Stone Hammer : Attacks a single target for earth element damage and causes stun status.
+i. 召喚者のアーススパイラクスのMATKが800%加算される。
 
-ii - Rock Launcher : Strikes a target with earth element damage and lowers their defense.
-Or strikes a target with earth element magic damage and lowers movement speed.
+(より高いレベルを習得した場合、習得レベルに応じて発動)
+iii. サイキックウェーブの攻撃属性が地属性になる。
 
-iii - Stone Rain : Drops rocks down on a target dealing earth element damage to a target and targets nearby.
-Or deals earth element damage and causes stun status.
+回復量+5%。
+種別 :  鈍器  ATK :  120

@@ -7,13 +7,13 @@
 achievement_tbl = {
 	[110000] = {
 		UI_Type = 0,
-		group = "EAT",
+		group = "食事",
 		major = 4,
 		minor = 0,
-		title = "Eating at this time won't gain weight",
+		title = "今食事をしても太ることはありません。",
 		content = {
-			summary = "1 a.m. - Time for an midnight snack.",
-			details = "Bring the food Bigfoot demands to an ambitious perspective"
+			summary = "午前1時 ― 夜食の時間です。",
+			details = "ビッグフットが要求する食べ物を、意欲的な見習いに届けましょう。"
 		},
 		resource = { [1] = { text = "Bring the food Bigfoot demands to an ambitious perspective" } },
 		reward = {},
@@ -21,13 +21,13 @@ achievement_tbl = {
 	},
 	[110001] = {
 		UI_Type = 0,
-		group = "SEE",
+		group = "観察",
 		major = 4,
 		minor = 0,
-		title = "This is a polar fan",
+		title = "これはポーラファンです。",
 		content = {
-			summary = "A glimpse into the lives of polar fans",
-			details = "Let's meet all the polar fans flocking to the Wigner family"
+			summary = "ポーラファンの生活を覗いてみましょう。",
+			details = "ウィグナー家に集まるポーラファンたちに会いに行きましょう。"
 		},
 		resource = {
 			[1] = { text = "Yanggatjip Kyusu" },
@@ -43,13 +43,13 @@ achievement_tbl = {
 	},
 	[120001] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "North Prontera Field Exploration(1)",
+		title = "プロンテラ北フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in north Prontera field"
+			summary = "隠された宝物を発見する",
+			details = "プロンテラ北フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in north Prontera field" } },
 		reward = { item = 22876 },
@@ -57,13 +57,13 @@ achievement_tbl = {
 	},
 	[120002] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "North Prontera Field Exploration(2)",
+		title = "プロンテラ北フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in north Prontera field"
+			summary = "隠された宝物を発見する",
+			details = "プロンテラ北フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in north Prontera field" } },
 		reward = { item = 22876 },
@@ -71,13 +71,13 @@ achievement_tbl = {
 	},
 	[120003] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "North Prontera Field Exploration(3)",
+		title = "プロンテラ北フィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in north Prontera field"
+			summary = "隠された宝物を発見する",
+			details = "プロンテラ北フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in north Prontera field" } },
 		reward = { item = 22876 },
@@ -85,13 +85,13 @@ achievement_tbl = {
 	},
 	[120004] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "West Prontera Field Exploration(1)",
+		title = "プロンテラ西フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in west Prontera field"
+			summary = "隠された宝物を発見する",
+			details = "プロンテラ西フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in west Prontera field" } },
 		reward = { item = 22876 },
@@ -99,13 +99,13 @@ achievement_tbl = {
 	},
 	[120005] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "West Prontera Field Exploration(2)",
+		title = "プロンテラ西フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in west Prontera field"
+			summary = "隠された宝物を発見する",
+			details = "プロンテラ西フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in west Prontera field" } },
 		reward = { item = 22876 },
@@ -113,13 +113,13 @@ achievement_tbl = {
 	},
 	[120006] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "East Prontera Field Exploration",
+		title = "プロンテラ東フィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in east Prontera field"
+			summary = "隠された宝物を発見する",
+			details = "プロンテラ東フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in east Prontera field" } },
 		reward = { item = 22876 },
@@ -127,13 +127,13 @@ achievement_tbl = {
 	},
 	[120007] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Prontera Field Exploration(1)",
+		title = "プロンテラ南フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Prontera field"
+			summary = "隠された宝物を発見する",
+			details = "プロンテラ南フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Prontera field" } },
 		reward = { item = 22876 },
@@ -141,13 +141,13 @@ achievement_tbl = {
 	},
 	[120008] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Prontera Field Exploration(2)",
+		title = "プロンテラ南フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Prontera field"
+			summary = "隠された宝物を発見する",
+			details = "プロンテラ南フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Prontera field" } },
 		reward = { item = 22876 },
@@ -155,13 +155,13 @@ achievement_tbl = {
 	},
 	[120009] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Prontera Field Exploration(3)",
+		title = "プロンテラ南フィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Prontera field"
+			summary = "隠された宝物を発見する",
+			details = "プロンテラ南フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Prontera field" } },
 		reward = { item = 22876 },
@@ -169,13 +169,13 @@ achievement_tbl = {
 	},
 	[120010] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Prontera Field Exploration(4)",
+		title = "プロンテラ南フィールド探索(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Prontera field"
+			summary = "隠された宝物を発見する",
+			details = "プロンテラ南フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Prontera field" } },
 		reward = { item = 22876 },
@@ -183,13 +183,13 @@ achievement_tbl = {
 	},
 	[120011] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "East Geffen Field Exploration",
+		title = "ゲフェン東フィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in east Geffen field"
+			summary = "隠された宝物を発見する",
+			details = "ゲフェン東フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in east Geffen field" } },
 		reward = { item = 22876 },
@@ -197,13 +197,13 @@ achievement_tbl = {
 	},
 	[120012] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Southeast Geffen Field Exploration",
+		title = "ゲフェン南東フィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in southeast Geffen field"
+			summary = "隠された宝物を発見する",
+			details = "ゲフェン南東フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in southeast Geffen field" } },
 		reward = { item = 22876 },
@@ -211,13 +211,13 @@ achievement_tbl = {
 	},
 	[120013] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Northwest Geffen Field Exploration(1)",
+		title = "ゲフェン北西フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in northwest Geffen field"
+			summary = "隠された宝物を発見する",
+			details = "ゲフェン北西フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in northwest Geffen field" } },
 		reward = { item = 22876 },
@@ -225,13 +225,13 @@ achievement_tbl = {
 	},
 	[120014] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Northwest Geffen Field Exploration(2)",
+		title = "ゲフェン北西フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in northwest Geffen field"
+			summary = "隠された宝物を発見する",
+			details = "ゲフェン北西フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in northwest Geffen field" } },
 		reward = { item = 22876 },
@@ -239,13 +239,13 @@ achievement_tbl = {
 	},
 	[120015] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Northwest Geffen Field Exploration(3)",
+		title = "ゲフェン北西フィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in northwest Geffen field"
+			summary = "隠された宝物を発見する",
+			details = "ゲフェン北西フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in northwest Geffen field" } },
 		reward = { item = 22876 },
@@ -253,13 +253,13 @@ achievement_tbl = {
 	},
 	[120016] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Geffen Field Exploration(1)",
+		title = "ゲフェン南フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Geffen field"
+			summary = "隠された宝物を発見する",
+			details = "ゲフェン南フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Geffen field" } },
 		reward = { item = 22876 },
@@ -267,13 +267,13 @@ achievement_tbl = {
 	},
 	[120017] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Geffen Field Exploration(2)",
+		title = "ゲフェン南フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Geffen field"
+			summary = "隠された宝物を発見する",
+			details = "ゲフェン南フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Geffen field" } },
 		reward = { item = 22876 },
@@ -281,13 +281,13 @@ achievement_tbl = {
 	},
 	[120018] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Sograt Desert Field Exploration(1)",
+		title = "ソグラト砂漠フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Sograt Desert field"
+			summary = "隠された宝物を発見する",
+			details = "ソグラト砂漠フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Sograt Desert field" } },
 		reward = { item = 22876 },
@@ -295,13 +295,13 @@ achievement_tbl = {
 	},
 	[120019] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Sograt Desert Field Exploration(2)",
+		title = "ソグラト砂漠フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Sograt Desert field"
+			summary = "隠された宝物を発見する",
+			details = "ソグラト砂漠フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Sograt Desert field" } },
 		reward = { item = 22876 },
@@ -309,13 +309,13 @@ achievement_tbl = {
 	},
 	[120020] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Sograt Desert Field Exploration(3)",
+		title = "ソグラト砂漠フィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Sograt Desert field"
+			summary = "隠された宝物を発見する",
+			details = "ソグラト砂漠フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Sograt Desert field" } },
 		reward = { item = 22876 },
@@ -323,13 +323,13 @@ achievement_tbl = {
 	},
 	[120021] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Sograt Desert Field Exploration(4)",
+		title = "ソグラト砂漠フィールド探索(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Sograt Desert field"
+			summary = "隠された宝物を発見する",
+			details = "ソグラト砂漠フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Sograt Desert field" } },
 		reward = { item = 22876 },
@@ -337,13 +337,13 @@ achievement_tbl = {
 	},
 	[120022] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Sograt Desert Field Exploration(5)",
+		title = "ソグラト砂漠フィールド探索(5)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Sograt Desert field"
+			summary = "隠された宝物を発見する",
+			details = "ソグラト砂漠フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Sograt Desert field" } },
 		reward = { item = 22876 },
@@ -351,13 +351,13 @@ achievement_tbl = {
 	},
 	[120023] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Sograt Desert Field Exploration(6)",
+		title = "ソグラト砂漠フィールド探索(6)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Sograt Desert field"
+			summary = "隠された宝物を発見する",
+			details = "ソグラト砂漠フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Sograt Desert field" } },
 		reward = { item = 22876 },
@@ -365,13 +365,13 @@ achievement_tbl = {
 	},
 	[120024] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Southwest Payon Field Exploration(1)",
+		title = "パヨン南西フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in southwest Payon field"
+			summary = "隠された宝物を発見する",
+			details = "パヨン南西フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in southwest Payon field" } },
 		reward = { item = 22876 },
@@ -379,13 +379,13 @@ achievement_tbl = {
 	},
 	[120025] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Southwest Payon Field Exploration(2)",
+		title = "パヨン南西フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in southwest Payon field"
+			summary = "隠された宝物を発見する",
+			details = "パヨン南西フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in southwest Payon field" } },
 		reward = { item = 22876 },
@@ -393,13 +393,13 @@ achievement_tbl = {
 	},
 	[120026] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Southwest Payon Field Exploration(3)",
+		title = "パヨン南西フィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in southwest Payon field"
+			summary = "隠された宝物を発見する",
+			details = "パヨン南西フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in southwest Payon field" } },
 		reward = { item = 22876 },
@@ -407,13 +407,13 @@ achievement_tbl = {
 	},
 	[120027] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Southwest Payon Field Exploration(4)",
+		title = "パヨン南西フィールド探索(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in southwest Payon field"
+			summary = "隠された宝物を発見する",
+			details = "パヨン南西フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in southwest Payon field" } },
 		reward = { item = 22876 },
@@ -421,13 +421,13 @@ achievement_tbl = {
 	},
 	[120028] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "East Payon Field Exploration(1)",
+		title = "パヨン東フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in east Payon field"
+			summary = "隠された宝物を発見する",
+			details = "パヨン東フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in east Payon field" } },
 		reward = { item = 22876 },
@@ -435,13 +435,13 @@ achievement_tbl = {
 	},
 	[120029] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "East Payon Field Exploration(2)",
+		title = "パヨン東フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in east Payon field"
+			summary = "隠された宝物を発見する",
+			details = "パヨン東フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in east Payon field" } },
 		reward = { item = 22876 },
@@ -449,13 +449,13 @@ achievement_tbl = {
 	},
 	[120030] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "East Payon Field Exploration(3)",
+		title = "パヨン東フィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in east Payon field"
+			summary = "隠された宝物を発見する",
+			details = "パヨン東フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in east Payon field" } },
 		reward = { item = 22876 },
@@ -463,13 +463,13 @@ achievement_tbl = {
 	},
 	[120031] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "East Payon Field Exploration(4)",
+		title = "パヨン東フィールド探索(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in east Payon field"
+			summary = "隠された宝物を発見する",
+			details = "パヨン東フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in east Payon field" } },
 		reward = { item = 22876 },
@@ -477,13 +477,13 @@ achievement_tbl = {
 	},
 	[120032] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "North Mjolnir Field Exploration(1)",
+		title = "ミョルニール北フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in north Mjolnir field"
+			summary = "隠された宝物を発見する",
+			details = "ミョルニール北フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in north Mjolnir field" } },
 		reward = { item = 22876 },
@@ -491,13 +491,13 @@ achievement_tbl = {
 	},
 	[120033] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "North Mjolnir Field Exploration(2)",
+		title = "ミョルニール北フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in north Mjolnir field"
+			summary = "隠された宝物を発見する",
+			details = "ミョルニール北フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in north Mjolnir field" } },
 		reward = { item = 22876 },
@@ -505,13 +505,13 @@ achievement_tbl = {
 	},
 	[120034] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "North Mjolnir Field Exploration(3)",
+		title = "ミョルニール北フィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in north Mjolnir field"
+			summary = "隠された宝物を発見する",
+			details = "ミョルニール北フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in north Mjolnir field" } },
 		reward = { item = 22876 },
@@ -519,13 +519,13 @@ achievement_tbl = {
 	},
 	[120035] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "North Mjolnir Field Exploration(4)",
+		title = "ミョルニール北フィールド探索(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in north Mjolnir field"
+			summary = "隠された宝物を発見する",
+			details = "ミョルニール北フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in north Mjolnir field" } },
 		reward = { item = 22876 },
@@ -533,13 +533,13 @@ achievement_tbl = {
 	},
 	[120036] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "North Mjolnir Field Exploration(5)",
+		title = "ミョルニール北フィールド探索(5)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in north Mjolnir field"
+			summary = "隠された宝物を発見する",
+			details = "ミョルニール北フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in north Mjolnir field" } },
 		reward = { item = 22876 },
@@ -547,13 +547,13 @@ achievement_tbl = {
 	},
 	[120037] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Field Exploration(1)",
+		title = "ミョルニール南フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Mjolnir field"
+			summary = "隠された宝物を発見する",
+			details = "ミョルニール南フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Mjolnir field" } },
 		reward = { item = 22876 },
@@ -561,13 +561,13 @@ achievement_tbl = {
 	},
 	[120038] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Field Exploration(2)",
+		title = "ミョルニール南フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Mjolnir field"
+			summary = "隠された宝物を発見する",
+			details = "ミョルニール南フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Mjolnir field" } },
 		reward = { item = 22876 },
@@ -575,13 +575,13 @@ achievement_tbl = {
 	},
 	[120039] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Field Exploration(3)",
+		title = "ミョルニール山脈南部フィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Mjolnir field"
+			summary = "隠された宝物を発見する",
+			details = "ミョルニール南フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Mjolnir field" } },
 		reward = { item = 22876 },
@@ -589,13 +589,13 @@ achievement_tbl = {
 	},
 	[120040] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Field Exploration(4)",
+		title = "ミョルニール山脈南部フィールド探索(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Mjolnir field"
+			summary = "隠された宝物を発見する",
+			details = "ミョルニール南フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Mjolnir field" } },
 		reward = { item = 22876 },
@@ -603,13 +603,13 @@ achievement_tbl = {
 	},
 	[120041] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Field Exploration(5)",
+		title = "ミョルニール山脈南部フィールド探索(5)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Mjolnir field"
+			summary = "隠された宝物を発見する",
+			details = "ミョルニール南フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Mjolnir field" } },
 		reward = { item = 22876 },
@@ -617,13 +617,13 @@ achievement_tbl = {
 	},
 	[120042] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Field Exploration(6)",
+		title = "ミョルニール山脈南部フィールド探索(6)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Mjolnir field"
+			summary = "隠された宝物を発見する",
+			details = "ミョルニール南フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Mjolnir field" } },
 		reward = { item = 22876 },
@@ -631,13 +631,13 @@ achievement_tbl = {
 	},
 	[120043] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Aldebaran Field Exploration",
+		title = "アルデバラン南部フィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Aldebaran field"
+			summary = "隠された宝物を発見する",
+			details = "アルデバラン南部フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Aldebaran field" } },
 		reward = { item = 22876 },
@@ -645,13 +645,13 @@ achievement_tbl = {
 	},
 	[120044] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(1)",
+		title = "コモドフィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Comodo field"
+			summary = "隠された宝物を発見する",
+			details = "コモドフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Comodo field" } },
 		reward = { item = 22876 },
@@ -659,13 +659,13 @@ achievement_tbl = {
 	},
 	[120045] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(2)",
+		title = "コモドフィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Comodo field"
+			summary = "隠された宝物を発見する",
+			details = "コモドフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Comodo field" } },
 		reward = { item = 22876 },
@@ -673,13 +673,13 @@ achievement_tbl = {
 	},
 	[120046] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(3)",
+		title = "コモドフィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Comodo field"
+			summary = "隠された宝物を発見する",
+			details = "コモドフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Comodo field" } },
 		reward = { item = 22876 },
@@ -687,13 +687,13 @@ achievement_tbl = {
 	},
 	[120047] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(4)",
+		title = "コモドフィールド探索(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Comodo field"
+			summary = "隠された宝物を発見する",
+			details = "コモドフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Comodo field" } },
 		reward = { item = 22876 },
@@ -701,13 +701,13 @@ achievement_tbl = {
 	},
 	[120048] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(5)",
+		title = "コモドフィールド探索(5)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Comodo field"
+			summary = "隠された宝物を発見する",
+			details = "コモドフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Comodo field" } },
 		reward = { item = 22876 },
@@ -715,13 +715,13 @@ achievement_tbl = {
 	},
 	[120049] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(6)",
+		title = "コモドフィールド探索(6)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Comodo field"
+			summary = "隠された宝物を発見する",
+			details = "コモドフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Comodo field" } },
 		reward = { item = 22876 },
@@ -729,13 +729,13 @@ achievement_tbl = {
 	},
 	[120050] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(7)",
+		title = "コモドフィールド探索(7)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Comodo field"
+			summary = "隠された宝物を発見する",
+			details = "コモドフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Comodo field" } },
 		reward = { item = 22876 },
@@ -743,13 +743,13 @@ achievement_tbl = {
 	},
 	[120051] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Comodo Field Exploration(8)",
+		title = "コモドフィールド探索(8)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Comodo field"
+			summary = "隠された宝物を発見する",
+			details = "コモドフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Comodo field" } },
 		reward = { item = 22876 },
@@ -757,13 +757,13 @@ achievement_tbl = {
 	},
 	[120052] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Border Checkpoint Field Exploration(1)",
+		title = "国境検問所フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Border Checkpoint field"
+			summary = "隠された宝物を発見する",
+			details = "国境検問所フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Border Checkpoint field" } },
 		reward = { item = 22876 },
@@ -771,13 +771,13 @@ achievement_tbl = {
 	},
 	[120053] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Border Checkpoint Field Exploration(2)",
+		title = "国境検問所フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Border Checkpoint field"
+			summary = "隠された宝物を発見する",
+			details = "国境検問所フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Border Checkpoint field" } },
 		reward = { item = 22876 },
@@ -785,13 +785,13 @@ achievement_tbl = {
 	},
 	[120054] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Kiel Hyre Mansion Field Exploration",
+		title = "キエルハイア邸フィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Kiel Hyre Mansion field"
+			summary = "隠された宝物を発見する",
+			details = "キエルハイア邸フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Kiel Hyre Mansion field" } },
 		reward = { item = 22876 },
@@ -799,13 +799,13 @@ achievement_tbl = {
 	},
 	[120055] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "El Mes Plateau Field Exploration(1)",
+		title = "エルメス台地フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in El Mes Plateau field"
+			summary = "隠された宝物を発見する",
+			details = "エルメス台地フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in El Mes Plateau field" } },
 		reward = { item = 22876 },
@@ -813,13 +813,13 @@ achievement_tbl = {
 	},
 	[120056] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "El Mes Plateau Field Exploration(2)",
+		title = "エルメス台地フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in El Mes Plateau field"
+			summary = "隠された宝物を発見する",
+			details = "エルメス台地フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in El Mes Plateau field" } },
 		reward = { item = 22876 },
@@ -827,13 +827,13 @@ achievement_tbl = {
 	},
 	[120057] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "El Mes Plateau Field Exploration(3)",
+		title = "エルメス台地フィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in El Mes Plateau field"
+			summary = "隠された宝物を発見する",
+			details = "エルメス台地フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in El Mes Plateau field" } },
 		reward = { item = 22876 },
@@ -841,13 +841,13 @@ achievement_tbl = {
 	},
 	[120058] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "El Mes Gorge Field Exploration",
+		title = "エルメス峡谷フィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in El Mes Gorge field"
+			summary = "隠された宝物を発見する",
+			details = "エルメス峡谷フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in El Mes Gorge field" } },
 		reward = { item = 22876 },
@@ -855,13 +855,13 @@ achievement_tbl = {
 	},
 	[120059] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Kiel Hyre Academy Field Exploration",
+		title = "キエルハイア学院フィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Kiel Hyre Academy field"
+			summary = "隠された宝物を発見する",
+			details = "キエルハイア学院フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Kiel Hyre Academy field" } },
 		reward = { item = 22876 },
@@ -869,13 +869,13 @@ achievement_tbl = {
 	},
 	[120060] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Guard Camp Field Exploration",
+		title = "護衛キャンプフィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Guard Camp field"
+			summary = "隠された宝物を発見する",
+			details = "護衛キャンプフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Guard Camp field" } },
 		reward = { item = 22876 },
@@ -883,13 +883,13 @@ achievement_tbl = {
 	},
 	[120061] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Yuno Field Exploration",
+		title = "ジュノーフィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Yuno field"
+			summary = "隠された宝物を発見する",
+			details = "ジュノーフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Yuno field" } },
 		reward = { item = 22876 },
@@ -897,13 +897,13 @@ achievement_tbl = {
 	},
 	[120062] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Front of Thanatos Tower Field Exploration",
+		title = "タナトスタワー前フィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in front of Thanatos Tower field"
+			summary = "隠された宝物を発見する",
+			details = "タナトスタワー前フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in front of Thanatos Tower field" } },
 		reward = { item = 22876 },
@@ -911,13 +911,13 @@ achievement_tbl = {
 	},
 	[120063] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Hugel Field Exploration(1)",
+		title = "ヒューゲルフィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Hugel field"
+			summary = "隠された宝物を発見する",
+			details = "ヒューゲルフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Hugel field" } },
 		reward = { item = 22876 },
@@ -925,13 +925,13 @@ achievement_tbl = {
 	},
 	[120064] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Hugel Field Exploration(2)",
+		title = "ヒューゲルフィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Hugel field"
+			summary = "隠された宝物を発見する",
+			details = "ヒューゲルフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Hugel field" } },
 		reward = { item = 22876 },
@@ -939,13 +939,13 @@ achievement_tbl = {
 	},
 	[120065] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Hugel Field Exploration(3)",
+		title = "ヒューゲルフィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Hugel field"
+			summary = "隠された宝物を発見する",
+			details = "ヒューゲルフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Hugel field" } },
 		reward = { item = 22876 },
@@ -953,13 +953,13 @@ achievement_tbl = {
 	},
 	[120066] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Abyss Lake Field Exploration(1)",
+		title = "アビスレイクフィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Abyss Lake field"
+			summary = "隠された宝物を発見する",
+			details = "アビスレイクフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Abyss Lake field" } },
 		reward = { item = 22876 },
@@ -967,13 +967,13 @@ achievement_tbl = {
 	},
 	[120067] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(1)",
+		title = "アインブロックフィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Einbroch field"
+			summary = "隠された宝物を発見する",
+			details = "アインブロックフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Einbroch field" } },
 		reward = { item = 22876 },
@@ -981,13 +981,13 @@ achievement_tbl = {
 	},
 	[120068] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(2)",
+		title = "アインブロックフィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Einbroch field"
+			summary = "隠された宝物を発見する",
+			details = "アインブロックフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Einbroch field" } },
 		reward = { item = 22876 },
@@ -995,13 +995,13 @@ achievement_tbl = {
 	},
 	[120069] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(3)",
+		title = "アインブロックフィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Einbroch field"
+			summary = "隠された宝物を発見する",
+			details = "アインブロックフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Einbroch field" } },
 		reward = { item = 22876 },
@@ -1009,13 +1009,13 @@ achievement_tbl = {
 	},
 	[120070] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(4)",
+		title = "アインブロックフィールド探索(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Einbroch field"
+			summary = "隠された宝物を発見する",
+			details = "アインブロックフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Einbroch field" } },
 		reward = { item = 22876 },
@@ -1023,13 +1023,13 @@ achievement_tbl = {
 	},
 	[120071] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(5)",
+		title = "アインブロックフィールド探索(5)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Einbroch field"
+			summary = "隠された宝物を発見する",
+			details = "アインブロックフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Einbroch field" } },
 		reward = { item = 22876 },
@@ -1037,13 +1037,13 @@ achievement_tbl = {
 	},
 	[120072] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(6)",
+		title = "アインブロックフィールド探索(6)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Einbroch field"
+			summary = "隠された宝物を発見する",
+			details = "アインブロックフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Einbroch field" } },
 		reward = { item = 22876 },
@@ -1051,13 +1051,13 @@ achievement_tbl = {
 	},
 	[120073] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(7)",
+		title = "アインブロックフィールド探索(7)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Einbroch field"
+			summary = "隠された宝物を発見する",
+			details = "アインブロックフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Einbroch field" } },
 		reward = { item = 22876 },
@@ -1065,13 +1065,13 @@ achievement_tbl = {
 	},
 	[120074] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Field Exploration(8)",
+		title = "アインブロックフィールド探索(8)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Einbroch field"
+			summary = "隠された宝物を発見する",
+			details = "アインブロックフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Einbroch field" } },
 		reward = { item = 22876 },
@@ -1079,13 +1079,13 @@ achievement_tbl = {
 	},
 	[120075] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Lighthalzen Field Exploration(1)",
+		title = "リヒタルゼンフィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Lighthalzen field"
+			summary = "隠された宝物を発見する",
+			details = "リヒタルゼンフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Lighthalzen field" } },
 		reward = { item = 22876 },
@@ -1093,13 +1093,13 @@ achievement_tbl = {
 	},
 	[120076] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Lighthalzen Field Exploration(2)",
+		title = "リヒタルゼンフィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Lighthalzen field"
+			summary = "隠された宝物を発見する",
+			details = "リヒタルゼンフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Lighthalzen field" } },
 		reward = { item = 22876 },
@@ -1107,13 +1107,13 @@ achievement_tbl = {
 	},
 	[120077] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Lighthalzen Field Exploration(3)",
+		title = "リヒタルゼンフィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Lighthalzen field"
+			summary = "隠された宝物を発見する",
+			details = "リヒタルゼンフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Lighthalzen field" } },
 		reward = { item = 22876 },
@@ -1121,13 +1121,13 @@ achievement_tbl = {
 	},
 	[120078] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Rachel Audhumbla Plains Field Exploration(1)",
+		title = "ラヘル・アウドゥムブラ平原フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Rachel Audhumbla Plains field"
+			summary = "隠された宝物を発見する",
+			details = "ラヘル・アウドゥムブラ平原フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Rachel Audhumbla Plains field" } },
 		reward = { item = 22876 },
@@ -1135,13 +1135,13 @@ achievement_tbl = {
 	},
 	[120079] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Rachel Plains Field Exploration(1)",
+		title = "ラヘル平原フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Rachel Plains field"
+			summary = "隠された宝物を発見する",
+			details = "ラヘル平原フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Rachel Plains field" } },
 		reward = { item = 22876 },
@@ -1149,13 +1149,13 @@ achievement_tbl = {
 	},
 	[120080] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Rachel Plains Field Exploration(2)",
+		title = "ラヘル平原フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Rachel Plains field"
+			summary = "隠された宝物を発見する",
+			details = "ラヘル平原フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Rachel Plains field" } },
 		reward = { item = 22876 },
@@ -1163,13 +1163,13 @@ achievement_tbl = {
 	},
 	[120081] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Rachel Plains Field Exploration(3)",
+		title = "ラヘル平原フィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Rachel Plains field"
+			summary = "隠された宝物を発見する",
+			details = "ラヘル平原フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Rachel Plains field" } },
 		reward = { item = 22876 },
@@ -1177,13 +1177,13 @@ achievement_tbl = {
 	},
 	[120082] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Rachel Audhumbla Grassland Field Exploration(1)",
+		title = "ラヘル・アウドゥムブラ草原フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Rachel Audhumbla Grassland field"
+			summary = "隠された宝物を発見する",
+			details = "ラヘル・アウドゥムブラ草原フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Rachel Audhumbla Grassland field" } },
 		reward = { item = 22876 },
@@ -1191,13 +1191,13 @@ achievement_tbl = {
 	},
 	[120083] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Rachel Audhumbla Grassland Field Exploration(2)",
+		title = "ラヘル・アウドゥムブラ草原フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Rachel Audhumbla Grassland field"
+			summary = "隠された宝物を発見する",
+			details = "ラヘル・アウドゥムブラ草原フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Rachel Audhumbla Grassland field" } },
 		reward = { item = 22876 },
@@ -1205,13 +1205,13 @@ achievement_tbl = {
 	},
 	[120084] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Portus Luna Field Exploration",
+		title = "ポルトゥス・ルナフィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Portus Luna field"
+			summary = "隠された宝物を発見する",
+			details = "ポルトゥス・ルナフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Portus Luna field" } },
 		reward = { item = 22876 },
@@ -1219,13 +1219,13 @@ achievement_tbl = {
 	},
 	[120085] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Veins Field Exploration(1)",
+		title = "ヴァインスフィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Veins field"
+			summary = "隠された宝物を発見する",
+			details = "ヴァインスフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Veins field" } },
 		reward = { item = 22876 },
@@ -1233,13 +1233,13 @@ achievement_tbl = {
 	},
 	[120086] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Veins Field Exploration(2)",
+		title = "ヴァインスフィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Veins field"
+			summary = "隠された宝物を発見する",
+			details = "ヴァインスフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Veins field" } },
 		reward = { item = 22876 },
@@ -1247,13 +1247,13 @@ achievement_tbl = {
 	},
 	[120087] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Veins Field Exploration(3)",
+		title = "ヴァインスフィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Veins field"
+			summary = "隠された宝物を発見する",
+			details = "ヴァインスフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Veins field" } },
 		reward = { item = 22876 },
@@ -1261,13 +1261,13 @@ achievement_tbl = {
 	},
 	[120088] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Veins Field Exploration(4)",
+		title = "ヴァインスフィールド探索(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Veins field"
+			summary = "隠された宝物を発見する",
+			details = "ヴァインスフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Veins field" } },
 		reward = { item = 22876 },
@@ -1275,13 +1275,13 @@ achievement_tbl = {
 	},
 	[120089] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Veins Field Exploration(5)",
+		title = "ヴァインスフィールド探索(5)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Veins field"
+			summary = "隠された宝物を発見する",
+			details = "ヴァインスフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Veins field" } },
 		reward = { item = 22876 },
@@ -1289,13 +1289,13 @@ achievement_tbl = {
 	},
 	[120090] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "Eclage Field Exploration",
+		title = "エクラージュフィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Eclage field"
+			summary = "隠された宝物を発見する",
+			details = "エクラージュフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Eclage field" } },
 		reward = { item = 22876 },
@@ -1303,13 +1303,13 @@ achievement_tbl = {
 	},
 	[120091] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "North Bitfrost Field Exploration(1)",
+		title = "ビフロスト北部フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in north Bifrost field"
+			summary = "隠された宝物を発見する",
+			details = "ビフロスト北部フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in north Bifrost field" } },
 		reward = { item = 22876 },
@@ -1317,13 +1317,13 @@ achievement_tbl = {
 	},
 	[120092] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "South Bitfrost Field Exploration(1)",
+		title = "ビフロスト南部フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in south Bifrost field"
+			summary = "隠された宝物を発見する",
+			details = "ビフロスト南部フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in south Bifrost field" } },
 		reward = { item = 22876 },
@@ -1331,13 +1331,13 @@ achievement_tbl = {
 	},
 	[120093] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "Splendide Field Exploration(1)",
+		title = "スプレンディドフィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Splendide field"
+			summary = "隠された宝物を発見する",
+			details = "スプレンディドフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Splendide field" } },
 		reward = { item = 22876 },
@@ -1345,13 +1345,13 @@ achievement_tbl = {
 	},
 	[120094] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "Splendide Field Exploration(2)",
+		title = "スプレンディドフィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Splendide field"
+			summary = "隠された宝物を発見する",
+			details = "スプレンディドフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Splendide field" } },
 		reward = { item = 22876 },
@@ -1359,13 +1359,13 @@ achievement_tbl = {
 	},
 	[120095] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "Splendide Field Exploration(3)",
+		title = "スプレンディドフィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Splendide field"
+			summary = "隠された宝物を発見する",
+			details = "スプレンディドフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Splendide field" } },
 		reward = { item = 22876 },
@@ -1373,13 +1373,13 @@ achievement_tbl = {
 	},
 	[120096] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "Manuk Field Exploration(1)",
+		title = "マヌクフィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Manuk field"
+			summary = "隠された宝物を発見する",
+			details = "マヌクフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Manuk field" } },
 		reward = { item = 22876 },
@@ -1387,13 +1387,13 @@ achievement_tbl = {
 	},
 	[120097] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "Manuk Field Exploration(2)",
+		title = "マヌクフィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Manuk field"
+			summary = "隠された宝物を発見する",
+			details = "マヌクフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Manuk field" } },
 		reward = { item = 22876 },
@@ -1401,13 +1401,13 @@ achievement_tbl = {
 	},
 	[120098] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "Manuk Field Exploration(3)",
+		title = "マヌクフィールド探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Manuk field"
+			summary = "隠された宝物を発見する",
+			details = "マヌクフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Manuk field" } },
 		reward = { item = 22876 },
@@ -1415,13 +1415,13 @@ achievement_tbl = {
 	},
 	[120099] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "Outskirts of Kamidal Field Exploration(1)",
+		title = "カミダール周辺フィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Outskirts of Kamidal field"
+			summary = "隠された宝物を発見する",
+			details = "カミダール周辺フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Outskirts of Kamidal field" } },
 		reward = { item = 22876 },
@@ -1429,13 +1429,13 @@ achievement_tbl = {
 	},
 	[120100] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "Outskirts of Kamidal Field Exploration(2)",
+		title = "カミダール周辺フィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Outskirts of Kamidal field"
+			summary = "隠された宝物を発見する",
+			details = "カミダール周辺フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Outskirts of Kamidal field" } },
 		reward = { item = 22876 },
@@ -1443,13 +1443,13 @@ achievement_tbl = {
 	},
 	[120101] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 4,
-		title = "Amatsu Field Exploration",
+		title = "アマツフィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Amatsu field"
+			summary = "隠された宝物を発見する",
+			details = "アマツフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Amatsu field" } },
 		reward = { item = 22876 },
@@ -1457,13 +1457,13 @@ achievement_tbl = {
 	},
 	[120102] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 4,
-		title = "Kunlun Field Exploration",
+		title = "崑崙フィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Kunlun field"
+			summary = "隠された宝物を発見する",
+			details = "崑崙フィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Kunlun field" } },
 		reward = { item = 22876 },
@@ -1471,13 +1471,13 @@ achievement_tbl = {
 	},
 	[120103] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 4,
-		title = "Gonryun Field Exploration",
+		title = "ゴンリュンフィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Gonryun field"
+			summary = "隠された宝物を発見する",
+			details = "ゴンリュンフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Gonryun field" } },
 		reward = { item = 22876 },
@@ -1485,13 +1485,13 @@ achievement_tbl = {
 	},
 	[120104] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 4,
-		title = "Ayothaya Field Exploration",
+		title = "アユタヤフィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Ayothaya field"
+			summary = "隠された宝物を発見する",
+			details = "アユタヤフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Ayothaya field" } },
 		reward = { item = 22876 },
@@ -1499,13 +1499,13 @@ achievement_tbl = {
 	},
 	[120105] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 4,
-		title = "Moscovia Field Exploration",
+		title = "モスコビアフィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Moscovia field"
+			summary = "隠された宝物を発見する",
+			details = "モスコビアフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Moscovia field" } },
 		reward = { item = 22876 },
@@ -1513,13 +1513,13 @@ achievement_tbl = {
 	},
 	[120106] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 4,
-		title = "Brasilis Field Exploration",
+		title = "ブラジリスフィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Brasilis field"
+			summary = "隠された宝物を発見する",
+			details = "ブラジリスフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Brasilis field" } },
 		reward = { item = 22876 },
@@ -1527,13 +1527,13 @@ achievement_tbl = {
 	},
 	[120107] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 4,
-		title = "Dewata Field Exploration",
+		title = "デワタフィールド探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Dewata field"
+			summary = "隠された宝物を発見する",
+			details = "デワタフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Dewata field" } },
 		reward = { item = 22876 },
@@ -1541,13 +1541,13 @@ achievement_tbl = {
 	},
 	[120108] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 4,
-		title = "Malaya Field Exploration(1)",
+		title = "マラヤフィールド探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Malaya field"
+			summary = "隠された宝物を発見する",
+			details = "マラヤフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Malaya field" } },
 		reward = { item = 22876 },
@@ -1555,13 +1555,13 @@ achievement_tbl = {
 	},
 	[120109] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 4,
-		title = "Malaya Field Exploration(2)",
+		title = "マラヤフィールド探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Malaya field"
+			summary = "隠された宝物を発見する",
+			details = "マラヤフィールドで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Malaya field" } },
 		reward = { item = 22876 },
@@ -1569,13 +1569,13 @@ achievement_tbl = {
 	},
 	[120110] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Abbey Underground Dungeon Exploration",
+		title = "修道院地下ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Abbey Underground dungeon"
+			summary = "隠された宝物を発見する",
+			details = "修道院地下ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Abbey Underground dungeon" } },
 		reward = { item = 22876 },
@@ -1583,13 +1583,13 @@ achievement_tbl = {
 	},
 	[120111] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Abyss Lake Dungeon Exploration",
+		title = "アビスレイクダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Abyss Lake dungeon"
+			summary = "隠された宝物を発見する",
+			details = "アビスレイクダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Abyss Lake dungeon" } },
 		reward = { item = 22876 },
@@ -1597,13 +1597,13 @@ achievement_tbl = {
 	},
 	[120112] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Clock Tower Dungeon Exploration",
+		title = "時計塔ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Clock Tower dungeon"
+			summary = "隠された宝物を発見する",
+			details = "時計塔ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Clock Tower dungeon" } },
 		reward = { item = 22876 },
@@ -1611,13 +1611,13 @@ achievement_tbl = {
 	},
 	[120113] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Amatsu Dungeon Exploration",
+		title = "アマツダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Amatsu dungeon"
+			summary = "隠された宝物を発見する",
+			details = "アマツダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Amatsu dungeon" } },
 		reward = { item = 22876 },
@@ -1625,13 +1625,13 @@ achievement_tbl = {
 	},
 	[120114] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Ant Hell Dungeon Exploration",
+		title = "蟻地獄ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Ant Hell dungeon"
+			summary = "隠された宝物を発見する",
+			details = "蟻地獄ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Ant Hell dungeon" } },
 		reward = { item = 22876 },
@@ -1639,13 +1639,13 @@ achievement_tbl = {
 	},
 	[120115] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Ayothaya Dungeon Exploration",
+		title = "アユタヤダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Ayothaya dungeon"
+			summary = "隠された宝物を発見する",
+			details = "アユタヤダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Ayothaya dungeon" } },
 		reward = { item = 22876 },
@@ -1653,13 +1653,13 @@ achievement_tbl = {
 	},
 	[120116] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Comodo Dungeon Exploration",
+		title = "コモドダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Comodo dungeon"
+			summary = "隠された宝物を発見する",
+			details = "コモドダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Comodo dungeon" } },
 		reward = { item = 22876 },
@@ -1667,13 +1667,13 @@ achievement_tbl = {
 	},
 	[120117] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Brasilis Dungeon Exploration",
+		title = "ブラジリスダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Brasilis dungeon"
+			summary = "隠された宝物を発見する",
+			details = "ブラジリスダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Brasilis dungeon" } },
 		reward = { item = 22876 },
@@ -1681,13 +1681,13 @@ achievement_tbl = {
 	},
 	[120118] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Clock Tower Dungeon Exploration",
+		title = "時計塔ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Clock Tower dungeon"
+			summary = "隠された宝物を発見する",
+			details = "時計塔ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Clock Tower dungeon" } },
 		reward = { item = 22876 },
@@ -1695,13 +1695,13 @@ achievement_tbl = {
 	},
 	[120119] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Istana Dungeon Exploration",
+		title = "イスタナダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Istana dungeon"
+			summary = "隠された宝物を発見する",
+			details = "イスタナダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Istana dungeon" } },
 		reward = { item = 22876 },
@@ -1709,13 +1709,13 @@ achievement_tbl = {
 	},
 	[120120] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Scaraba Hole Dungeon Exploration",
+		title = "スカラバホールダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Scaraba Hole dungeon"
+			summary = "隠された宝物を発見する",
+			details = "スカラバホールダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Scaraba Hole dungeon" } },
 		reward = { item = 22876 },
@@ -1723,13 +1723,13 @@ achievement_tbl = {
 	},
 	[120121] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Bitfrost Dungeon Exploration",
+		title = "ビフロストダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Bifrost dungeon"
+			summary = "隠された宝物を発見する",
+			details = "ビフロストダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Bifrost dungeon" } },
 		reward = { item = 22876 },
@@ -1737,13 +1737,13 @@ achievement_tbl = {
 	},
 	[120122] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Einbroch Dungeon Exploration",
+		title = "アインブロックダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Einbroch dungeon"
+			summary = "隠された宝物を発見する",
+			details = "アインブロックダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Einbroch dungeon" } },
 		reward = { item = 22876 },
@@ -1751,13 +1751,13 @@ achievement_tbl = {
 	},
 	[120123] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Geffen Underground Dungeon Exploration",
+		title = "ゲフェン地下ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Geffen Underground dungeon"
+			summary = "隠された宝物を発見する",
+			details = "ゲフェン地下ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Geffen Underground dungeon" } },
 		reward = { item = 22876 },
@@ -1765,13 +1765,13 @@ achievement_tbl = {
 	},
 	[120124] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Glastheim Dungeon Exploration(1)",
+		title = "グラストヘイムダンジョン探索(1)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Glastheim dungeon"
+			summary = "隠された宝物を発見する",
+			details = "グラストヘイムダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Glastheim dungeon" } },
 		reward = { item = 22876 },
@@ -1779,13 +1779,13 @@ achievement_tbl = {
 	},
 	[120125] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Glastheim Dungeon Exploration(2)",
+		title = "グラストヘイムダンジョン探索(2)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Glastheim dungeon"
+			summary = "隠された宝物を発見する",
+			details = "グラストヘイムダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Glastheim dungeon" } },
 		reward = { item = 22876 },
@@ -1793,13 +1793,13 @@ achievement_tbl = {
 	},
 	[120126] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Glastheim Dungeon Exploration(3)",
+		title = "グラストヘイムダンジョン探索(3)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Glastheim dungeon"
+			summary = "隠された宝物を発見する",
+			details = "グラストヘイムダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Glastheim dungeon" } },
 		reward = { item = 22876 },
@@ -1807,13 +1807,13 @@ achievement_tbl = {
 	},
 	[120127] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Glastheim Dungeon Exploration(4)",
+		title = "グラストヘイムダンジョン探索(4)",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Glastheim dungeon"
+			summary = "隠された宝物を発見する",
+			details = "グラストヘイムダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Glastheim dungeon" } },
 		reward = { item = 22876 },
@@ -1821,13 +1821,13 @@ achievement_tbl = {
 	},
 	[120128] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Kunlun Dungeon Exploration",
+		title = "崑崙ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Kunlun dungeon"
+			summary = "隠された宝物を発見する",
+			details = "崑崙ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Kunlun dungeon" } },
 		reward = { item = 22876 },
@@ -1835,13 +1835,13 @@ achievement_tbl = {
 	},
 	[120129] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Rachel Dungeon Exploration",
+		title = "ラヘルダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Rachel dungeon"
+			summary = "隠された宝物を発見する",
+			details = "ラヘルダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Rachel dungeon" } },
 		reward = { item = 22876 },
@@ -1849,13 +1849,13 @@ achievement_tbl = {
 	},
 	[120130] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Sphinx Dungeon Exploration",
+		title = "スフィンクスダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Sphinx dungeon"
+			summary = "隠された宝物を発見する",
+			details = "スフィンクスダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Sphinx dungeon" } },
 		reward = { item = 22876 },
@@ -1863,13 +1863,13 @@ achievement_tbl = {
 	},
 	[120131] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Izlude Dungeon Exploration",
+		title = "イズルードダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Izlude dungeon"
+			summary = "隠された宝物を発見する",
+			details = "イズルードダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Izlude dungeon" } },
 		reward = { item = 22876 },
@@ -1877,13 +1877,13 @@ achievement_tbl = {
 	},
 	[120132] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Robot Factory Dungeon Exploration",
+		title = "ロボット工場ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Robot Factory dungeon"
+			summary = "隠された宝物を発見する",
+			details = "ロボット工場ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Robot Factory dungeon" } },
 		reward = { item = 22876 },
@@ -1891,13 +1891,13 @@ achievement_tbl = {
 	},
 	[120133] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Bio Lab Dungeon Exploration",
+		title = "生体工学研究所ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Bio Lab dungeon"
+			summary = "隠された宝物を発見する",
+			details = "生体工学研究所ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Bio Lab dungeon" } },
 		reward = { item = 22876 },
@@ -1905,13 +1905,13 @@ achievement_tbl = {
 	},
 	[120134] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Gonryun Dungeon Exploration",
+		title = "ゴンリュンダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Gonryun dungeon"
+			summary = "隠された宝物を発見する",
+			details = "ゴンリュンダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Gonryun dungeon" } },
 		reward = { item = 22876 },
@@ -1919,13 +1919,13 @@ achievement_tbl = {
 	},
 	[120135] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Nogg Road Dungeon Exploration",
+		title = "ノッグロードダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Nogg Road dungeon"
+			summary = "隠された宝物を発見する",
+			details = "ノッグロードダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Nogg Road dungeon" } },
 		reward = { item = 22876 },
@@ -1933,13 +1933,13 @@ achievement_tbl = {
 	},
 	[120136] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Coal Mine Dungeon Exploration",
+		title = "石炭鉱山ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Coal Mine dungeon"
+			summary = "隠された宝物を発見する",
+			details = "石炭鉱山ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Coal Mine dungeon" } },
 		reward = { item = 22876 },
@@ -1947,13 +1947,13 @@ achievement_tbl = {
 	},
 	[120137] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Pyramid Dungeon Exploration",
+		title = "ピラミッドダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Pyramid dungeon"
+			summary = "隠された宝物を発見する",
+			details = "ピラミッドダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Pyramid dungeon" } },
 		reward = { item = 22876 },
@@ -1961,13 +1961,13 @@ achievement_tbl = {
 	},
 	[120138] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Orc Dungeon Exploration",
+		title = "オークダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Orc dungeon"
+			summary = "隠された宝物を発見する",
+			details = "オークダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Orc dungeon" } },
 		reward = { item = 22876 },
@@ -1975,13 +1975,13 @@ achievement_tbl = {
 	},
 	[120139] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Payon Dungeon Exploration",
+		title = "パヨンダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Payon dungeon"
+			summary = "隠された宝物を発見する",
+			details = "パヨンダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Payon dungeon" } },
 		reward = { item = 22876 },
@@ -1989,13 +1989,13 @@ achievement_tbl = {
 	},
 	[120140] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Labyrinth Dungeon Exploration",
+		title = "迷宮の森ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Labyrinth dungeon"
+			summary = "隠された宝物を発見する",
+			details = "迷宮の森ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Labyrinth dungeon" } },
 		reward = { item = 22876 },
@@ -2003,13 +2003,13 @@ achievement_tbl = {
 	},
 	[120141] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Undersea Tunnel Dungeon Exploration",
+		title = "海底洞窟ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Undersea Tunnel dungeon"
+			summary = "隠された宝物を発見する",
+			details = "海底洞窟ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Undersea Tunnel dungeon" } },
 		reward = { item = 22876 },
@@ -2017,13 +2017,13 @@ achievement_tbl = {
 	},
 	[120142] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Thanatos Tower Dungeon Exploration",
+		title = "タナトスタワーダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Thanatos Tower dungeon"
+			summary = "隠された宝物を発見する",
+			details = "タナトスタワーダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Thanatos Tower dungeon" } },
 		reward = { item = 22876 },
@@ -2031,13 +2031,13 @@ achievement_tbl = {
 	},
 	[120143] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Thor Volcano Dungeon Exploration",
+		title = "トール火山ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Thor Volcano dungeon"
+			summary = "隠された宝物を発見する",
+			details = "トール火山ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Thor Volcano dungeon" } },
 		reward = { item = 22876 },
@@ -2045,13 +2045,13 @@ achievement_tbl = {
 	},
 	[120144] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Sunken Ship Dungeon Exploration",
+		title = "沈没船ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Sunken Ship dungeon"
+			summary = "隠された宝物を発見する",
+			details = "沈没船ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Sunken Ship dungeon" } },
 		reward = { item = 22876 },
@@ -2059,13 +2059,13 @@ achievement_tbl = {
 	},
 	[120145] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Turtle Dungeon Exploration",
+		title = "亀島ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Turtle dungeon"
+			summary = "隠された宝物を発見する",
+			details = "亀島ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Turtle dungeon" } },
 		reward = { item = 22876 },
@@ -2073,13 +2073,13 @@ achievement_tbl = {
 	},
 	[120146] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 5,
-		title = "Toy Factory Dungeon Exploration",
+		title = "おもちゃ工場ダンジョン探索",
 		content = {
-			summary = "Discover hidden treasure",
-			details = "Discover treasure in Toy Factory dungeon"
+			summary = "隠された宝物を発見する",
+			details = "おもちゃ工場ダンジョンで宝物を発見する"
 		},
 		resource = { [1] = { text = "Discover treasure in Toy Factory dungeon" } },
 		reward = { item = 22876 },
@@ -2087,13 +2087,13 @@ achievement_tbl = {
 	},
 	[127001] = {
 		UI_Type = 1,
-		group = "CHATTING",
+		group = "会話",
 		major = 4,
 		minor = 1,
-		title = "Prontera Contribution",
+		title = "プロンテラ貢献度",
 		content = {
-			summary = "Rune Midgard metropolitan reputation",
-			details = "Prontera evaluation about you"
+			summary = "ルーンミッドガッツ王国都市評判",
+			details = "プロンテラでのあなたの評価"
 		},
 		resource = {
 			[1] = { text = "Stranger", count = 3000 },
@@ -2106,13 +2106,13 @@ achievement_tbl = {
 	},
 	[127002] = {
 		UI_Type = 1,
-		group = "CHATTING",
+		group = "会話",
 		major = 4,
 		minor = 1,
-		title = "Geffen Contribution",
+		title = "ゲフェン貢献度",
 		content = {
-			summary = "Rune Midgard metropolitan reputation",
-			details = "Geffen evaluation about you"
+			summary = "ルーンミッドガッツ王国都市評判",
+			details = "ゲフェンでのあなたの評価"
 		},
 		resource = {
 			[1] = { text = "Stranger", count = 3000 },
@@ -2125,13 +2125,13 @@ achievement_tbl = {
 	},
 	[127003] = {
 		UI_Type = 1,
-		group = "CHATTING",
+		group = "会話",
 		major = 4,
 		minor = 1,
-		title = "Morocc Contribution",
+		title = "モロク貢献度",
 		content = {
-			summary = "Rune Midgard metropolitan reputation",
-			details = "Morocc evaluation about you"
+			summary = "ルーンミッドガッツ王国都市評判",
+			details = "モロクでのあなたの評価"
 		},
 		resource = {
 			[1] = { text = "Stranger", count = 3000 },
@@ -2144,13 +2144,13 @@ achievement_tbl = {
 	},
 	[127004] = {
 		UI_Type = 1,
-		group = "CHATTING",
+		group = "会話",
 		major = 4,
 		minor = 1,
-		title = "Payon Contribution",
+		title = "パヨン貢献度",
 		content = {
-			summary = "Rune Midgard metropolitan reputation",
-			details = "Payon evaluation about you"
+			summary = "ルーンミッドガッツ王国都市評判",
+			details = "パヨンでのあなたの評価"
 		},
 		resource = {
 			[1] = { text = "Stranger", count = 3000 },
@@ -2163,13 +2163,13 @@ achievement_tbl = {
 	},
 	[127005] = {
 		UI_Type = 1,
-		group = "CHATTING",
+		group = "会話",
 		major = 4,
 		minor = 1,
-		title = "Yuno Contribution",
+		title = "ジュノー貢献度",
 		content = {
-			summary = "Schwartzvald metropolitan reputation",
-			details = "Yuno evaluation about you"
+			summary = "シュバルツバルト都市評判",
+			details = "ジュノーでのあなたの評価"
 		},
 		resource = {
 			[1] = { text = "Stranger", count = 3000 },
@@ -2182,13 +2182,13 @@ achievement_tbl = {
 	},
 	[127006] = {
 		UI_Type = 1,
-		group = "CHATTING",
+		group = "会話",
 		major = 4,
 		minor = 1,
-		title = "Lighthalzen Contribution",
+		title = "リヒタルゼン貢献度",
 		content = {
-			summary = "Schwartzvald metropolitan reputation",
-			details = "Lighthalzen evaluation about you"
+			summary = "シュバルツバルト都市評判",
+			details = "リヒタルゼンでのあなたの評価"
 		},
 		resource = {
 			[1] = { text = "Stranger", count = 3000 },
@@ -2201,13 +2201,13 @@ achievement_tbl = {
 	},
 	[127007] = {
 		UI_Type = 1,
-		group = "CHATTING",
+		group = "会話",
 		major = 4,
 		minor = 1,
-		title = "Einbroch Contribution",
+		title = "アインブロック貢献度",
 		content = {
-			summary = "Schwartzvald metropolitan reputation",
-			details = "Einbroch evaluation about you"
+			summary = "シュバルツバルト都市評判",
+			details = "アインブロックでのあなたの評価"
 		},
 		resource = {
 			[1] = { text = "Stranger", count = 3000 },
@@ -2220,13 +2220,13 @@ achievement_tbl = {
 	},
 	[127008] = {
 		UI_Type = 1,
-		group = "CHATTING",
+		group = "会話",
 		major = 4,
 		minor = 1,
-		title = "Rachel Contribution",
+		title = "ラヘル貢献度",
 		content = {
-			summary = "Arunafeltz metropolitan reputation",
-			details = "Rachel evaluation about you"
+			summary = "アルナフェルツ都市評判",
+			details = "ラヘルでのあなたの評価"
 		},
 		resource = {
 			[1] = { text = "Stranger", count = 3000 },
@@ -2239,13 +2239,13 @@ achievement_tbl = {
 	},
 	[127009] = {
 		UI_Type = 1,
-		group = "CHATTING",
+		group = "会話",
 		major = 4,
 		minor = 1,
-		title = "Veins Contribution",
+		title = "ヴァインス貢献度",
 		content = {
-			summary = "Arunafeltz metropolitan reputation",
-			details = "Veins evaluation about you"
+			summary = "アルナフェルツ都市評判",
+			details = "ヴァインスでのあなたの評価"
 		},
 		resource = {
 			[1] = { text = "Stranger", count = 3000 },
@@ -2258,13 +2258,13 @@ achievement_tbl = {
 	},
 	[128000] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Uninvited Guest",
+		title = "招かれざる客",
 		content = {
-			summary = "Eliminate Celine Kimi",
-			details = "Proceed until the end of the Dungeon"
+			summary = "セリーヌ＝キミを排除する",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Celine Kimi", count = 1 } },
 		reward = {},
@@ -2272,13 +2272,13 @@ achievement_tbl = {
 	},
 	[128001] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Strange Guest",
+		title = "奇妙な客",
 		content = {
-			summary = "Eliminate Celine Kimi",
-			details = "Proceed until the end of the Dungeon"
+			summary = "セリーヌ＝キミを排除する",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 Celine Kimi", count = 10 } },
 		reward = {},
@@ -2286,13 +2286,13 @@ achievement_tbl = {
 	},
 	[128002] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Maybe we can become a friend...",
+		title = "もしかしたら、友達になれるかもしれない…",
 		content = {
-			summary = "Eliminate Celine Kimi",
-			details = "Proceed until the end of the Dungeon"
+			summary = "セリーヌ＝キミを排除する",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 25 Celine Kimi", count = 25 } },
 		reward = {},
@@ -2300,13 +2300,13 @@ achievement_tbl = {
 	},
 	[128003] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Nice stranger",
+		title = "見知らぬ優しい人",
 		content = {
-			summary = "Eliminate Celine Kimi",
-			details = "Proceed until the end of the Dungeon"
+			summary = "セリーヌ＝キミを排除する",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 Celine Kimi", count = 50 } },
 		reward = {},
@@ -2314,13 +2314,13 @@ achievement_tbl = {
 	},
 	[128004] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Kimi's best friend",
+		title = "キミの親友",
 		content = {
-			summary = "Eliminate Celine Kimi",
-			details = "Proceed until the end of the Dungeon"
+			summary = "セリーヌ＝キミを排除する",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 100 Celine Kimi", count = 100 } },
 		reward = {},
@@ -2328,13 +2328,13 @@ achievement_tbl = {
 	},
 	[128005] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 2,
-		title = "Novice Angler",
+		title = "ビギナーアングラー",
 		content = {
-			summary = "Eliminate Bakonawa",
-			details = "Proceed until the end of the Dungeon"
+			summary = "バコナワを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Bakonawa", count = 1 } },
 		reward = {},
@@ -2342,13 +2342,13 @@ achievement_tbl = {
 	},
 	[128006] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 2,
-		title = "Juicy Hunter",
+		title = "ジューシーハンター",
 		content = {
-			summary = "Eliminate Bakonawa",
-			details = "Proceed until the end of the Dungeon"
+			summary = "バコナワを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 Bakonawa", count = 10 } },
 		reward = {},
@@ -2356,13 +2356,13 @@ achievement_tbl = {
 	},
 	[128007] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 2,
-		title = "Rhythm Master",
+		title = "リズムマスター",
 		content = {
-			summary = "Eliminate Bakonawa",
-			details = "Proceed until the end of the Dungeon"
+			summary = "バコナワを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 Bakonawa", count = 50 } },
 		reward = {},
@@ -2370,13 +2370,13 @@ achievement_tbl = {
 	},
 	[128008] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Bold adventurer",
+		title = "勇敢な冒険者",
 		content = {
-			summary = "Eliminate Baphomet",
-			details = "Proceed until the end of the Dungeon"
+			summary = "バフォメットを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Baphomet", count = 1 } },
 		reward = {},
@@ -2384,13 +2384,13 @@ achievement_tbl = {
 	},
 	[128009] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "I hate Baphomet",
+		title = "バフォメットが嫌い",
 		content = {
-			summary = "Eliminate Baphomet",
-			details = "Proceed until the end of the Dungeon"
+			summary = "バフォメットを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 Baphomet", count = 10 } },
 		reward = {},
@@ -2398,13 +2398,13 @@ achievement_tbl = {
 	},
 	[128010] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Goat's Nemesis",
+		title = "ヤギの天敵",
 		content = {
-			summary = "Eliminate Baphomet",
-			details = "Proceed until the end of the Dungeon"
+			summary = "バフォメットを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 Baphomet", count = 50 } },
 		reward = {},
@@ -2412,13 +2412,13 @@ achievement_tbl = {
 	},
 	[128011] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 1,
-		title = "Ordinary Tourist",
+		title = "ありふれた観光客",
 		content = {
-			summary = "Eliminate Grim Reaper Ankou",
-			details = "Proceed until the end of the Dungeon"
+			summary = "死神アンコウを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Grim Reaper Ankou", count = 1 } },
 		reward = {},
@@ -2426,13 +2426,13 @@ achievement_tbl = {
 	},
 	[128012] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 1,
-		title = "Backcountry Expert",
+		title = "奥地探索の達人",
 		content = {
-			summary = "Eliminate Grim Reaper Ankou",
-			details = "Proceed until the end of the Dungeon"
+			summary = "死神アンコウを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 Grim Reaper Ankou", count = 10 } },
 		reward = {},
@@ -2440,13 +2440,13 @@ achievement_tbl = {
 	},
 	[128013] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 1,
-		title = "I think I can eat this guy",
+		title = "こいつなら食べられそうだ",
 		content = {
-			summary = "Eliminate Grim Reaper Ankou",
-			details = "Proceed until the end of the Dungeon"
+			summary = "死神アンコウを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 Grim Reaper Ankou", count = 50 } },
 		reward = {},
@@ -2454,13 +2454,13 @@ achievement_tbl = {
 	},
 	[128014] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 2,
-		title = "Hard-to-digest meat",
+		title = "消化しにくい肉",
 		content = {
-			summary = "Eliminate Buwaya",
-			details = "Proceed until the end of the Dungeon"
+			summary = "ブワヤを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Buwaya", count = 1 } },
 		reward = {},
@@ -2468,13 +2468,13 @@ achievement_tbl = {
 	},
 	[128015] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 2,
-		title = "Master of Escape",
+		title = "脱出の達人",
 		content = {
-			summary = "Eliminate Buwaya",
-			details = "Proceed until the end of the Dungeon"
+			summary = "ブワヤを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 Buwaya", count = 10 } },
 		reward = {},
@@ -2482,13 +2482,13 @@ achievement_tbl = {
 	},
 	[128016] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 2,
-		title = "Immortal Hunter",
+		title = "不死のハンター",
 		content = {
-			summary = "Eliminate Buwaya",
-			details = "Proceed until the end of the Dungeon"
+			summary = "ブワヤを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 Buwaya", count = 50 } },
 		reward = {},
@@ -2496,13 +2496,13 @@ achievement_tbl = {
 	},
 	[128017] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 1,
-		title = "Stand up and overcame despair",
+		title = "絶望を乗り越えて立ち上がれ",
 		content = {
-			summary = "Eliminate God of Despair Morocc",
-			details = "Proceed until the end of the Dungeon"
+			summary = "絶望の神モロクを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 God of Despair Morocc", count = 1 } },
 		reward = {},
@@ -2510,13 +2510,13 @@ achievement_tbl = {
 	},
 	[128018] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 1,
-		title = "Flame of Hope",
+		title = "希望の炎",
 		content = {
-			summary = "Eliminate God of Despair Morocc",
-			details = "Proceed until the end of the Dungeon"
+			summary = "絶望の神モロクを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 God of Despair Morocc", count = 10 } },
 		reward = {},
@@ -2524,13 +2524,13 @@ achievement_tbl = {
 	},
 	[128019] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 1,
-		title = "Pouring Aurora",
+		title = "満ちるオーロラ",
 		content = {
-			summary = "Eliminate God of Despair Morocc",
-			details = "Proceed until the end of the Dungeon"
+			summary = "絶望の神モロクを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 25 God of Despair Morocc", count = 25 } },
 		reward = {},
@@ -2538,13 +2538,13 @@ achievement_tbl = {
 	},
 	[128020] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 1,
-		title = "Who is desperate? I am hopeless!",
+		title = "絶望？私は絶望していない！",
 		content = {
-			summary = "Eliminate God of Despair Morocc",
-			details = "Proceed until the end of the Dungeon"
+			summary = "絶望の神モロクを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 God of Despair Morocc", count = 50 } },
 		reward = {},
@@ -2552,13 +2552,13 @@ achievement_tbl = {
 	},
 	[128021] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 1,
-		title = "I become a God to save this world",
+		title = "世界を救うため、私は神となる",
 		content = {
-			summary = "Eliminate God of Despair Morocc",
-			details = "Proceed until the end of the Dungeon"
+			summary = "絶望の神モロクを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 100 God of Despair Morocc", count = 100 } },
 		reward = {},
@@ -2566,13 +2566,13 @@ achievement_tbl = {
 	},
 	[128022] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 1,
-		title = "The Legion has no mercy of Morocc",
+		title = "軍団にモロクへの慈悲はない",
 		content = {
-			summary = "Eliminate Morocc necromancer",
-			details = "Proceed until the end of the Dungeon"
+			summary = "モロクのネクロマンサーを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Morocc necromancer", count = 1 } },
 		reward = {},
@@ -2580,13 +2580,13 @@ achievement_tbl = {
 	},
 	[128023] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 1,
-		title = "The Legion has no fear of Morocc",
+		title = "軍団にモロクへの恐怖はない",
 		content = {
-			summary = "Eliminate Morocc necromancer",
-			details = "Proceed until the end of the Dungeon"
+			summary = "モロクのネクロマンサーを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate Morocc 10 necromancer", count = 10 } },
 		reward = {},
@@ -2594,13 +2594,13 @@ achievement_tbl = {
 	},
 	[128024] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 1,
-		title = "Guard of weak skull legion",
+		title = "弱き髑髏軍団の守護者",
 		content = {
-			summary = "Eliminate Morocc necromancer",
-			details = "Proceed until the end of the Dungeon"
+			summary = "モロクのネクロマンサーを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate Morocc 50 necromancer", count = 50 } },
 		reward = {},
@@ -2608,13 +2608,13 @@ achievement_tbl = {
 	},
 	[128025] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Audience with the queen",
+		title = "女王への謁見",
 		content = {
-			summary = "Eliminate Faceworm Queen",
-			details = "Proceed until the end of the Dungeon"
+			summary = "フェイスワームクイーンを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Faceworm Queen", count = 1 } },
 		reward = {},
@@ -2622,13 +2622,13 @@ achievement_tbl = {
 	},
 	[128026] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Warm earth",
+		title = "暖かき大地",
 		content = {
-			summary = "Eliminate Earth Faceworm Queen",
-			details = "Proceed until the end of the Dungeon"
+			summary = "地のフェイスワームクイーンを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Earth Faceworm Queen", count = 1 } },
 		reward = {},
@@ -2636,13 +2636,13 @@ achievement_tbl = {
 	},
 	[128027] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Perfect Water",
+		title = "完璧なる水",
 		content = {
-			summary = "Eliminate Water Faceworm Queen",
-			details = "Proceed until the end of the Dungeon"
+			summary = "水のフェイスワームクイーンを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Water Faceworm Queen", count = 1 } },
 		reward = {},
@@ -2650,13 +2650,13 @@ achievement_tbl = {
 	},
 	[128028] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Pleasant breeze",
+		title = "そよ風",
 		content = {
-			summary = "Eliminate Wind Faceworm Queen",
-			details = "Proceed until the end of the Dungeon"
+			summary = "風のフェイスワームクイーンを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Wind Faceworm Queen", count = 1 } },
 		reward = {},
@@ -2664,13 +2664,13 @@ achievement_tbl = {
 	},
 	[128029] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Visitor of old castle",
+		title = "古城の訪問者",
 		content = {
-			summary = "Eliminate Amdarais",
-			details = "Proceed until the end of the Dungeon"
+			summary = "アムダライスを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Amdarais", count = 1 } },
 		reward = {},
@@ -2678,13 +2678,13 @@ achievement_tbl = {
 	},
 	[128030] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Lord of old castle",
+		title = "古城の主",
 		content = {
-			summary = "Eliminate Amdarais",
-			details = "Proceed until the end of the Dungeon"
+			summary = "アムダライスを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 Amdarais", count = 10 } },
 		reward = {},
@@ -2692,13 +2692,13 @@ achievement_tbl = {
 	},
 	[128031] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Conqueror of old castle",
+		title = "古城の征服者",
 		content = {
-			summary = "Eliminate Amdarais",
-			details = "Proceed until the end of the Dungeon"
+			summary = "アムダライスを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 Amdarais", count = 50 } },
 		reward = {},
@@ -2706,13 +2706,13 @@ achievement_tbl = {
 	},
 	[128032] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Furious Greenhorn",
+		title = "怒れる新兵",
 		content = {
-			summary = "Eliminate Amdarais (Superior)",
-			details = "Proceed until the end of the Dungeon"
+			summary = "アムダライス（強）を討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Amdarais (Superior)", count = 1 } },
 		reward = {},
@@ -2720,13 +2720,13 @@ achievement_tbl = {
 	},
 	[128033] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Order of Hope",
+		title = "希望の騎士団",
 		content = {
-			summary = "Eliminate Amdarais (Superior)",
-			details = "Proceed until the end of the Dungeon"
+			summary = "アムダライス（強）を討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 Amdarais (Superior)", count = 10 } },
 		reward = {},
@@ -2734,13 +2734,13 @@ achievement_tbl = {
 	},
 	[128034] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Guardian of people",
+		title = "民の守護者",
 		content = {
-			summary = "Eliminate Amdarais (Superior)",
-			details = "Proceed until the end of the Dungeon"
+			summary = "アムダライス（強）を討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 Amdarais (Superior)", count = 50 } },
 		reward = {},
@@ -2748,13 +2748,13 @@ achievement_tbl = {
 	},
 	[128035] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Time Traveler",
+		title = "タイムトラベラー",
 		content = {
-			summary = "Eliminate Sarah Irene",
-			details = "Proceed until the end of the Dungeon"
+			summary = "サラ・イレーネを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Sarah Irene", count = 1 } },
 		reward = {},
@@ -2762,13 +2762,13 @@ achievement_tbl = {
 	},
 	[128036] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Ancient relic restorer",
+		title = "古代遺物の修復者",
 		content = {
-			summary = "Eliminate Sarah Irene",
-			details = "Proceed until the end of the Dungeon"
+			summary = "サラ・イレーネを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 Sarah Irene", count = 10 } },
 		reward = {},
@@ -2776,13 +2776,13 @@ achievement_tbl = {
 	},
 	[128037] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Master of relic transport",
+		title = "遺物輸送の達人",
 		content = {
-			summary = "Eliminate Sarah Irene",
-			details = "Proceed until the end of the Dungeon"
+			summary = "サラ・イレーネを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 Sarah Irene", count = 50 } },
 		reward = {},
@@ -2790,13 +2790,13 @@ achievement_tbl = {
 	},
 	[128038] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Show Jailbreak to the captain",
+		title = "脱獄を船長に見せつけろ",
 		content = {
-			summary = "Eliminate Ferlock",
-			details = "Proceed until the end of the Dungeon"
+			summary = "フェルロックを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Ferlock", count = 1 } },
 		reward = {},
@@ -2804,13 +2804,13 @@ achievement_tbl = {
 	},
 	[128039] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Show Jailbreak to the weak captain",
+		title = "脱獄を弱き船長に見せつけろ",
 		content = {
-			summary = "Eliminate Ferlock",
-			details = "Proceed until the end of the Dungeon"
+			summary = "フェルロックを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Ferlock", count = 1 } },
 		reward = {},
@@ -2818,13 +2818,13 @@ achievement_tbl = {
 	},
 	[128040] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Riot on board",
+		title = "船上の暴動",
 		content = {
-			summary = "Eliminate Ferlock",
-			details = "Proceed until the end of the Dungeon"
+			summary = "フェルロックを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 Ferlock", count = 10 } },
 		reward = {},
@@ -2832,13 +2832,13 @@ achievement_tbl = {
 	},
 	[128041] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Turmoil on board",
+		title = "船上の騒乱",
 		content = {
-			summary = "Eliminate Ferlock",
-			details = "Proceed until the end of the Dungeon"
+			summary = "フェルロックを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 Ferlock", count = 10 } },
 		reward = {},
@@ -2846,13 +2846,13 @@ achievement_tbl = {
 	},
 	[128042] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Rebellion on board",
+		title = "船上の反乱",
 		content = {
-			summary = "Eliminate Ferlock",
-			details = "Proceed until the end of the Dungeon"
+			summary = "フェルロックを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 Ferlock", count = 50 } },
 		reward = {},
@@ -2860,13 +2860,13 @@ achievement_tbl = {
 	},
 	[128043] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Revolt of Riot",
+		title = "暴動の反逆",
 		content = {
-			summary = "Eliminate Ferlock",
-			details = "Proceed until the end of the Dungeon"
+			summary = "フェルロックを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 Ferlock", count = 50 } },
 		reward = {},
@@ -2874,13 +2874,13 @@ achievement_tbl = {
 	},
 	[128044] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Magic tournament champion",
+		title = "魔法大会の優勝者",
 		content = {
-			summary = "Eliminate Fenrir",
-			details = "Proceed until the end of the Dungeon"
+			summary = "フェンリルを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Fenrir", count = 1 } },
 		reward = {},
@@ -2888,13 +2888,13 @@ achievement_tbl = {
 	},
 	[128045] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Gladiator of Coliseum",
+		title = "コロッセオのグラディエーター",
 		content = {
-			summary = "Eliminate Fenrir",
-			details = "Proceed until the end of the Dungeon"
+			summary = "フェンリルを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 Fenrir", count = 10 } },
 		reward = {},
@@ -2902,13 +2902,13 @@ achievement_tbl = {
 	},
 	[128046] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Slayer of Colosseum",
+		title = "コロッセオの殺戮者",
 		content = {
-			summary = "Eliminate Fenrir",
-			details = "Proceed until the end of the Dungeon"
+			summary = "フェンリルを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 Fenrir", count = 50 } },
 		reward = {},
@@ -2916,13 +2916,13 @@ achievement_tbl = {
 	},
 	[128047] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Endless Tower challenger",
+		title = "エンドレスタワーの挑戦者",
 		content = {
-			summary = "Eliminate Naght Sieger",
-			details = "Proceed until the end of the Dungeon"
+			summary = "ナハトズィーガーを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Naght Sieger", count = 1 } },
 		reward = {},
@@ -2930,13 +2930,13 @@ achievement_tbl = {
 	},
 	[128048] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Endless Tower Slayer",
+		title = "エンドレスタワーの制覇者",
 		content = {
-			summary = "Eliminate Naght Sieger",
-			details = "Proceed until the end of the Dungeon"
+			summary = "ナハトズィーガーを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 Naght Sieger", count = 10 } },
 		reward = {},
@@ -2944,13 +2944,13 @@ achievement_tbl = {
 	},
 	[128049] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Lord of the tower",
+		title = "塔の主",
 		content = {
-			summary = "Eliminate Naght Sieger",
-			details = "Proceed until the end of the Dungeon"
+			summary = "ナハトズィーガーを討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 Naght Sieger", count = 50 } },
 		reward = {},
@@ -2958,13 +2958,13 @@ achievement_tbl = {
 	},
 	[128050] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Novice Exorcist",
+		title = "ビギナー退魔師",
 		content = {
-			summary = "Eliminate Bangungot soul pillar",
-			details = "Proceed until the end of the Dungeon"
+			summary = "バングントの魂の柱を討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 1 Bangungot soul pillar", count = 1 } },
 		reward = {},
@@ -2972,13 +2972,13 @@ achievement_tbl = {
 	},
 	[128051] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Experienced Exorcist",
+		title = "熟練の退魔師",
 		content = {
-			summary = "Eliminate Bangungot soul pillar",
-			details = "Proceed until the end of the Dungeon"
+			summary = "バングントの魂の柱を討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 10 Bangungot soul pillar", count = 10 } },
 		reward = {},
@@ -2986,13 +2986,13 @@ achievement_tbl = {
 	},
 	[128052] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Legendary Exorcist",
+		title = "伝説の退魔師",
 		content = {
-			summary = "Eliminate Bangungot soul pillar",
-			details = "Proceed until the end of the Dungeon"
+			summary = "バングントの魂の柱を討伐せよ",
+			details = "ダンジョンの最深層まで到達する"
 		},
 		resource = { [1] = { text = "Eliminate 50 Bangungot soul pillar", count = 50 } },
 		reward = {},
@@ -3000,13 +3000,13 @@ achievement_tbl = {
 	},
 	[129001] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Prontera Explorer",
+		title = "プロンテラ探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Prontera"
+			summary = "フィールド探索目標を達成せよ",
+			details = "プロンテラ周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "North Prontera Field Exploration(1) completed", shortcut = 120001 },
@@ -3025,13 +3025,13 @@ achievement_tbl = {
 	},
 	[129002] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Geffen Explorer",
+		title = "ゲフェン探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Geffen"
+			summary = "フィールド探索目標を達成せよ",
+			details = "ゲフェン周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "East Geffen Field Exploration(1) completed", shortcut = 120011 },
@@ -3047,13 +3047,13 @@ achievement_tbl = {
 	},
 	[129003] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Sograt Desert Explorer",
+		title = "ソグラット砂漠探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Sograt Desert"
+			summary = "フィールド探索目標を達成せよ",
+			details = "ソグラット砂漠周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "Sograt Desert Field Exploration(1) completed", shortcut = 120018 },
@@ -3068,13 +3068,13 @@ achievement_tbl = {
 	},
 	[129004] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Payon Explorer",
+		title = "パヨン探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Payon"
+			summary = "フィールド探索目標を達成せよ",
+			details = "パヨン周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "Southwest Payon Field Exploration(1) completed", shortcut = 120024 },
@@ -3091,13 +3091,13 @@ achievement_tbl = {
 	},
 	[129005] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "North Mjolnir Explorer",
+		title = "北ミョルニール探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding north Mjolnir"
+			summary = "フィールド探索目標を達成せよ",
+			details = "北ミョルニール周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "North Mjolnir Field Exploration(1) completed", shortcut = 120032 },
@@ -3111,13 +3111,13 @@ achievement_tbl = {
 	},
 	[129006] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "South Mjolnir Explorer",
+		title = "南ミョルニール探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding south Mjolnir"
+			summary = "フィールド探索目標を達成せよ",
+			details = "南ミョルニール周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "South Mjolnir Field Exploration(1) completed", shortcut = 120037 },
@@ -3133,13 +3133,13 @@ achievement_tbl = {
 	},
 	[129007] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Comodo Explorer",
+		title = "コモド探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Comodo"
+			summary = "フィールド探索目標を達成せよ",
+			details = "コモド周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "Comodo Field Exploration(1) completed", shortcut = 120044 },
@@ -3156,13 +3156,13 @@ achievement_tbl = {
 	},
 	[129008] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 0,
-		title = "Rune Midgard Explorer",
+		title = "ルーンミッドガッツ探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Rune Midgard"
+			summary = "フィールド探索目標を達成せよ",
+			details = "ルーンミッドガッツ周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "Prontera Explorer", shortcut = 129001 },
@@ -3178,13 +3178,13 @@ achievement_tbl = {
 	},
 	[129009] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Yuno Explorer",
+		title = "ジュノー探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Yuno"
+			summary = "フィールド探索目標を達成せよ",
+			details = "ジュノー周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "Border Checkpoint Field Exploration(1) completed", shortcut = 120052 },
@@ -3203,13 +3203,13 @@ achievement_tbl = {
 	},
 	[129010] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Hugel Explorer",
+		title = "ヒューゲル探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Hugel"
+			summary = "フィールド探索目標を達成せよ",
+			details = "ヒューゲル周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "Front of Thanatos Tower Field Exploration(1) completed", shortcut = 120062 },
@@ -3223,13 +3223,13 @@ achievement_tbl = {
 	},
 	[129011] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Einbroch Explorer",
+		title = "アインブロック探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Einbroch"
+			summary = "フィールド探索目標を達成せよ",
+			details = "アインブロック周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "Einbroch Field Exploration(1) completed", shortcut = 120067 },
@@ -3246,13 +3246,13 @@ achievement_tbl = {
 	},
 	[129012] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Lighthalzen Explorer",
+		title = "リヒタルゼン探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Lighthalzen"
+			summary = "フィールド探索目標を達成せよ",
+			details = "リヒタルゼン周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "Lighthalzen Field Exploration(1) completed", shortcut = 120075 },
@@ -3264,13 +3264,13 @@ achievement_tbl = {
 	},
 	[129013] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 1,
-		title = "Schwarzwald Explorer",
+		title = "シュバルツバルト探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Schwarzwald"
+			summary = "フィールド探索目標を達成せよ",
+			details = "シュバルツバルト周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "Yuno Explorer", shortcut = 129009 },
@@ -3283,13 +3283,13 @@ achievement_tbl = {
 	},
 	[129014] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Rachel Explorer",
+		title = "ラヘル探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Rachel"
+			summary = "フィールド探索目標を達成せよ",
+			details = "ラヘル周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "Rachel Audhumbla Plains Field Exploration(1) completed", shortcut = 120078 },
@@ -3305,13 +3305,13 @@ achievement_tbl = {
 	},
 	[129015] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Veins Explorer",
+		title = "ヴァインス探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Veins"
+			summary = "フィールド探索目標を達成せよ",
+			details = "ヴァインス周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "Veins Field Exploration(1) completed", shortcut = 120085 },
@@ -3325,13 +3325,13 @@ achievement_tbl = {
 	},
 	[129016] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 2,
-		title = "Arunafeltz Explorer",
+		title = "アルナフェルツ探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Arunafeltz"
+			summary = "フィールド探索目標を達成せよ",
+			details = "アルナフェルツ周辺の探索を完了せよ"
 		},
 		resource = {
 			[1] = { text = "Rachel Explorer", shortcut = 129014 },
@@ -3342,13 +3342,13 @@ achievement_tbl = {
 	},
 	[129017] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "Laphine Explorer",
+		title = "ラフィネ探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Laphine"
+			summary = "フィールド探索目標を達成せよ",
+			details = "ラフィネ周辺の探索を完了する"
 		},
 		resource = {
 			[1] = { text = "Eclage Field Exploration(1) completed", shortcut = 120090 },
@@ -3363,13 +3363,13 @@ achievement_tbl = {
 	},
 	[129018] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "Manuk Explorer",
+		title = "マヌク探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Manuk"
+			summary = "フィールド探索目標を達成せよ",
+			details = "マヌク周辺の探索を完了する"
 		},
 		resource = {
 			[1] = { text = "Manuk Field Exploration(1) completed", shortcut = 120096 },
@@ -3383,13 +3383,13 @@ achievement_tbl = {
 	},
 	[129019] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 3,
-		title = "Eclage Explorer",
+		title = "エクレージ探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Eclage"
+			summary = "フィールド探索目標を達成せよ",
+			details = "エクレージ周辺の探索を完了する"
 		},
 		resource = {
 			[1] = { text = "Laphine Explorer", shortcut = 129017 },
@@ -3400,13 +3400,13 @@ achievement_tbl = {
 	},
 	[129020] = {
 		UI_Type = 0,
-		group = "ADVENTURE",
+		group = "冒険",
 		major = 2,
 		minor = 4,
-		title = "Localizing fields explorer",
+		title = "ローカライズフィールド探索者",
 		content = {
-			summary = "Complete field exploration objectives",
-			details = "Complete exploring surrounding Localizing fields"
+			summary = "フィールド探索目標を達成せよ",
+			details = "ローカライズフィールド周辺の探索を完了する"
 		},
 		resource = {
 			[1] = { text = "Amatsu Field Exploration(1) completed", shortcut = 120101 },
@@ -3424,13 +3424,13 @@ achievement_tbl = {
 	},
 	[129021] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 5,
 		minor = 0,
-		title = "Glast Heim Challenge Mode",
+		title = "グラスヘイムチャレンジモード",
 		content = {
-			summary = "Completed the Glast Heim Challenge Mode.",
-			details = "Complete the Memorial Dungeon to the end"
+			summary = "グラスヘイムチャレンジモードを完了した。",
+			details = "メモリアルダンジョンを最後まで完了する"
 		},
 		resource = {
 			[1] = { text = "Amount of successful challenges", count = 100 }
@@ -3440,13 +3440,13 @@ achievement_tbl = {
 	},
 	[130000] = {
 		UI_Type = 0,
-		group = "CHATTING",
+		group = "会話",
 		major = 4,
 		minor = 0,
-		title = "Socialite debut",
+		title = "社交界のデビュー",
 		content = {
-			summary = "Visit the Seven Royal Family",
-			details = "Visit the seven Royal Family in the east and west detached palace."
+			summary = "七つの王家を訪問する",
+			details = "東西の離宮にある七つの王家を訪問する。"
 		},
 		resource = {
 			[1] = { text = "Visit Heine Royal Family and start conversation" },
@@ -3462,13 +3462,13 @@ achievement_tbl = {
 	},
 	[130005] = {
 		UI_Type = 0,
-		group = "CHATTING",
+		group = "会話",
 		major = 4,
 		minor = 0,
-		title = "The One Who Made Kings",
+		title = "王を作った者",
 		content = {
-			summary = "The king I created",
-			details = "Restore the glory of Terra Gloria and crown its protagonists."
+			summary = "私が作った王",
+			details = "テラグロリアの栄光を取り戻し、その主役たちに王冠を授けよ。"
 		},
 		resource = {
 			[1] = { text = "Attend the coronation ceremony of the new king of Rune-Midgards" }
@@ -3478,13 +3478,13 @@ achievement_tbl = {
 	},
 	[170000] = {
 		UI_Type = 0,
-		group = "HEAR",
+		group = "聴く",
 		major = 4,
 		minor = 0,
-		title = "Song chamber is not an accident",
+		title = "歌の間は偶然ではない",
 		content = {
-			summary = "Listening the secret song of court musician",
-			details = "Listen the secret song of five recomended court musician"
+			summary = "宮廷音楽家の秘密の歌を聴く",
+			details = "推薦された5人の宮廷音楽家の秘密の歌を聴く"
 		},
 		resource = { [1] = { text = "Listen the secret song of five recomended court musician" } },
 		reward = {},
@@ -3492,13 +3492,13 @@ achievement_tbl = {
 	},
 	[190000] = {
 		UI_Type = 1,
-		group = "CHATTING",
+		group = "会話",
 		major = 4,
 		minor = 1,
-		title = "Alliance workers of merchant city",
+		title = "商人都市の同盟労働者",
 		content = {
-			summary = "Alliance workers in the great city of merchant",
-			details = "Do you want to challenge all requests of Merchant city alliance? Then work harder! merchant city is not place for pushy."
+			summary = "偉大な商人都市の同盟労働者",
+			details = "商人都市同盟のすべての依頼に挑戦しますか？ ならもっと頑張りなさい！ 商人都市は厚かしい者の場所ではありません。"
 		},
 		resource = {
 			[1] = { text = "Novice Amethyst class", count = 1 },
@@ -3514,10 +3514,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Acquire the first aura!",
+		title = "最初のオーラを獲得せよ！",
 		content = {
-			summary = "Achieve Base Level 99!",
-			details = "Achieve Base Level 99."
+			summary = "ベースレベル99を達成せよ！",
+			details = "ベースレベル99を達成する。"
 		},
 		resource = { [1] = { text = "Base Level 99" } },
 		reward = { title = 1000, buff = 10, item = 12549 },
@@ -3528,10 +3528,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Acquire the second aura!",
+		title = "二つ目のオーラを獲得せよ！",
 		content = {
-			summary = "Achieve Base Level 150!",
-			details = "Achieve Base Level 150."
+			summary = "ベースレベル150を達成せよ！",
+			details = "ベースレベル150を達成する。"
 		},
 		resource = { [1] = { text = "Base Level 150" } },
 		reward = { title = 1001, buff = 10, item = 5364 },
@@ -3542,10 +3542,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Acquire the third aura!",
+		title = "三つ目のオーラを獲得せよ！",
 		content = {
-			summary = "Achieve Base Level 175!",
-			details = "Achieve Base Level 175."
+			summary = "ベースレベル175を達成せよ！",
+			details = "ベースレベル175を達成する。"
 		},
 		resource = { [1] = { text = "Base Level 175" } },
 		reward = { title = 1002, buff = 10, item = 18880 },
@@ -3556,10 +3556,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Master Job level!",
+		title = "ジョブレベルマスター！",
 		content = {
-			summary = "Achieve Job Level 50!",
-			details = "Achieve job level 50."
+			summary = "ジョブレベル50を達成せよ！",
+			details = "ジョブレベル50を達成する。"
 		},
 		resource = { [1] = { text = "Job level 50" } },
 		reward = { title = 1003, buff = 10, item = 617 },
@@ -3570,10 +3570,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Grandmaster Job level!",
+		title = "ジョブレベルグランドマスター！",
 		content = {
-			summary = "Achieve Job Level 70!",
-			details = "Achieve job level 70."
+			summary = "ジョブレベル70を達成せよ！",
+			details = "ジョブレベル70を達成する。"
 		},
 		resource = { [1] = { text = "Job level 70" } },
 		reward = { title = 1004, buff = 10, item = 12817 },
@@ -3584,10 +3584,10 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Official Adventurer",
+		title = "正規冒険者",
 		content = {
-			summary = "Job change to first class.",
-			details = "Acolyte, Merchant, Swordman, Mage, Thief or Archer."
+			summary = "一次職にジョブチェンジする。",
+			details = "アコライト、マーチャント、ソードマン、マジシャン、シーフまたはアーチャー。"
 		},
 		resource = { [1] = { text = "Job change to first class" } },
 		reward = { buff = 12 },
@@ -3598,10 +3598,10 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "First step of job change!",
+		title = "ジョブチェンジの第一歩！",
 		content = {
-			summary = "First step of job change",
-			details = "Acolyte, Merchant, Swordman, Mage, Thief or Archer."
+			summary = "ジョブチェンジの第一歩",
+			details = "アコライト、マーチャント、ソードマン、マジシャン、シーフまたはアーチャー。"
 		},
 		resource = { [1] = { text = "First step of job change" } },
 		reward = { buff = 12 },
@@ -3612,10 +3612,10 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Veteran Adventurer! (1)",
+		title = "歴戦の冒険者！(1)",
 		content = {
-			summary = "Job change to 2-1 classes",
-			details = "Knight, Blacksmith, Assassin, Wizard, Priest or Hunter."
+			summary = "2-1次職にジョブチェンジする",
+			details = "ナイト、ブラックスミス、アサシン、ウィザード、プリーストまたはハンター。"
 		},
 		resource = { [1] = { text = "Job change to 2-1 classes" } },
 		reward = { buff = 12 },
@@ -3626,10 +3626,10 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Veteran Adventurer! (2)",
+		title = "歴戦の冒険者！(2)",
 		content = {
-			summary = "Job change to 2-2 classes",
-			details = "Crusader, Alchemist, Rogue, Sage, Monk, Bard or Dancer."
+			summary = "2-2次職にジョブチェンジする",
+			details = "クルセイダー、アルケミスト、ローグ、セージ、モンク、バードまたはダンサー。"
 		},
 		resource = { [1] = { text = "Job change to 2-2 classes" } },
 		reward = { buff = 12 },
@@ -3640,10 +3640,10 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Warrior (1)",
+		title = "戦士(1)",
 		content = {
-			summary = "Job change to transcendent 2-1 classes",
-			details = "Lord Knight, White Smith, Assassin Cross, High Wizard, High Priest or Sniper."
+			summary = "転生2-1次職にジョブチェンジする",
+			details = "ロードナイト、ホワイトスミス、アサシンクロス、ハイウィザード、ハイプリーストまたはスナイパー。"
 		},
 		resource = { [1] = { text = "Job change to transcendent 2-1 classes" } },
 		reward = { buff = 12 },
@@ -3654,10 +3654,10 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Warrior (2)",
+		title = "戦士(2)",
 		content = {
-			summary = "Job change to transcendent 2-2 classes",
-			details = "Paladin, Creator, Stalker, Professor, Champion, Clown or Gypsy."
+			summary = "転生2-2次職にジョブチェンジする",
+			details = "パラディン、クリエイター、ストーカー、プロフェッサー、チャンピオン、クラウンまたはジプシー。"
 		},
 		resource = { [1] = { text = "Job change to transcendent 2-2 classes" } },
 		reward = { buff = 12 },
@@ -3668,10 +3668,10 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Elite Adventurer! (1)",
+		title = "精鋭冒険者！(1)",
 		content = {
-			summary = "Job change to 3-1 classes",
-			details = "Rune Knight, Mechanic, Guillotine Cross, Warlock, Arch Bishop or Ranger."
+			summary = "3-1次職にジョブチェンジする",
+			details = "ルーンナイト、メカニック、ギロチンクロス、ウォーロック、アークビショップまたはレンジャー。"
 		},
 		resource = { [1] = { text = "Job change to 3-1 classes" } },
 		reward = { buff = 12, item = 16483 },
@@ -3682,10 +3682,10 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Transcendentaler! (1)",
+		title = "超越者！(1)",
 		content = {
-			summary = "Job change to 3-1 classes after transcendent",
-			details = "Rune Knight, Mechanic, Guillotine Cross, Warlock, Arch Bishop or Ranger after transcendent."
+			summary = "転生後に3-1次職にジョブチェンジする",
+			details = "転生後のルーンナイト、メカニック、ギロチンクロス、ウォーロック、アークビショップまたはレンジャー。"
 		},
 		resource = { [1] = { text = "Job change to 3-1 classes after transcendent" } },
 		reward = { buff = 12, item = 16483 },
@@ -3696,10 +3696,10 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Elite Adventurer! (2)",
+		title = "精鋭冒険者！(2)",
 		content = {
-			summary = "Job change to 3-2 classes",
-			details = "Royal Guard, Geneticist, Shadow Chaser, Sorcerer, Sura, Minstrel or Wanderer."
+			summary = "3-2次職にジョブチェンジする",
+			details = "ロイヤルガード、ジェネティック、シャドウチェイサー、ソーサラー、修羅、ミンストレルまたはワンダラー。"
 		},
 		resource = { [1] = { text = "Job change to 3-2 classes" } },
 		reward = { buff = 12, item = 16483 },
@@ -3710,10 +3710,10 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Transcendentaler! (2)",
+		title = "超越者！(2)",
 		content = {
-			summary = "Job change to 3-2 classes after transcendent",
-			details = "Royal Guard, Geneticist, Shadow Chaser, Sorcerer, Sura, Minstrel or Wanderer after transcendent."
+			summary = "転生後に3-2次職にジョブチェンジする",
+			details = "転生後のロイヤルガード、ジェネティック、シャドウチェイサー、ソーサラー、修羅、ミンストレルまたはワンダラー。"
 		},
 		resource = { [1] = { text = "Job change to 3-2 classes after transcendent" } },
 		reward = { buff = 12, item = 16483 },
@@ -3724,10 +3724,10 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "The way of exceptional character",
+		title = "特異な道の者",
 		content = {
-			summary = "Job change to expanded classes",
-			details = "Taekwon, Gunslinger, Super Novice, Ninja or Druid."
+			summary = "拡張職にジョブチェンジする",
+			details = "テコン、ガンスリンガー、スーパーノビス、忍者またはドルイド。"
 		},
 		resource = { [1] = { text = "Job change to expanded classes" } },
 		reward = { buff = 12 },
@@ -3738,10 +3738,10 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "This is My way!",
+		title = "これが私の道！",
 		content = {
-			summary = "Job change to expanded 2nd classes",
-			details = "Soul Linker, Star Gladiator, Rebellion, Oboro/Kagerou or Karnos."
+			summary = "拡張二次職にジョブチェンジする",
+			details = "ソウルリンカー、スターグラディエーター、リベリオン、朧/影狼またはカルノス。"
 		},
 		resource = { [1] = { text = "Expanded 2nd classes" } },
 		reward = { buff = 12, item = 16483 },
@@ -3752,10 +3752,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Bearish Power!",
+		title = "熊のような力！",
 		content = {
-			summary = "Achieve base STR 90",
-			details = "Achieve 90 base STR or higher."
+			summary = "基本STR90を達成せよ",
+			details = "基本STR90以上を達成する。"
 		},
 		resource = { [1] = { text = "Achieve base STR 90" } },
 		reward = {},
@@ -3766,10 +3766,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Overflowing Magic!",
+		title = "溢れる魔力！",
 		content = {
-			summary = "Achieve base INT 90",
-			details = "Achieve 90 base INT or higher."
+			summary = "基本INT90を達成せよ",
+			details = "基本INT90以上を達成する。"
 		},
 		resource = { [1] = { text = "Achieve base INT 90" } },
 		reward = {},
@@ -3780,10 +3780,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Healthy Body and Mental Health!",
+		title = "健康な体と精神！",
 		content = {
-			summary = "Achieve base VIT 90",
-			details = "Achieve 90 base VIT or higher."
+			summary = "基本VIT90を達成せよ",
+			details = "基本VIT90以上を達成する。"
 		},
 		resource = { [1] = { text = "Achieve base VIT 90" } },
 		reward = {},
@@ -3794,10 +3794,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Speed of Light",
+		title = "光の速さ",
 		content = {
-			summary = "Achieve base AGI 90",
-			details = "Achieve 90 base AGI or higher."
+			summary = "基本AGI90を達成せよ",
+			details = "基本AGI90以上を達成する。"
 		},
 		resource = { [1] = { text = "Achieve base AGI 90" } },
 		reward = {},
@@ -3808,10 +3808,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Hawk Eyes",
+		title = "鷹の目",
 		content = {
-			summary = "Achieve base DEX 90",
-			details = "Achieve 90 base DEX or higher."
+			summary = "基本DEX90を達成せよ",
+			details = "基本DEX90以上を達成する。"
 		},
 		resource = { [1] = { text = "Achieve base DEX 90" } },
 		reward = {},
@@ -3822,10 +3822,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Maximum Luck",
+		title = "最大幸運",
 		content = {
-			summary = "Achieve base LUK 90",
-			details = "Achieve 90 base LUK or higher."
+			summary = "基本LUK90を達成せよ",
+			details = "基本LUK90以上を達成する。"
 		},
 		resource = { [1] = { text = "Achieve base LUK 90" } },
 		reward = {},
@@ -3836,10 +3836,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Dragonlike Power!",
+		title = "竜のような力！",
 		content = {
-			summary = "Achieve base STR 125",
-			details = "Achieve 125 base STR or higher."
+			summary = "基本STR125を達成せよ",
+			details = "基本STR125以上を達成する。"
 		},
 		resource = { [1] = { text = "Achieve base STR 125" } },
 		reward = { buff = 319 },
@@ -3850,10 +3850,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Magic Insanity",
+		title = "魔力の狂気",
 		content = {
-			summary = "Achieve base INT 125",
-			details = "Achieve 125 base INT or higher."
+			summary = "基本INT125を達成せよ",
+			details = "Base INTを125以上に達成する。"
 		},
 		resource = { [1] = { text = "Achieve base INT 125" } },
 		reward = { buff = 611 },
@@ -3864,10 +3864,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Rock Alloy",
+		title = "ロックアロイ",
 		content = {
-			summary = "Achieve base VIT 125",
-			details = "Achieve 125 base VIT or higher."
+			summary = "Base VITを125に達成する",
+			details = "Base VITを125以上に達成する。"
 		},
 		resource = { [1] = { text = "Achieve base VIT 125" } },
 		reward = { buff = 293 },
@@ -3878,10 +3878,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Speed of Light",
+		title = "光の速さ",
 		content = {
-			summary = "Achieve base AGI 125",
-			details = "Achieve 125 base AGI or higher."
+			summary = "Base AGIを125に達成する",
+			details = "Base AGIを125以上に達成する。"
 		},
 		resource = { [1] = { text = "Achieve base AGI 125" } },
 		reward = { buff = 296 },
@@ -3892,10 +3892,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Falcon's Eyes",
+		title = "ファルコンズアイ",
 		content = {
-			summary = "Achieve base DEX 125",
-			details = "Achieve 125 base DEX or higher."
+			summary = "Base DEXを125に達成する",
+			details = "Base DEXを125以上に達成する。"
 		},
 		resource = { [1] = { text = "Achieve base DEX 125" } },
 		reward = { buff = 295 },
@@ -3906,10 +3906,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Lucky Fever",
+		title = "ラッキーフィーバー",
 		content = {
-			summary = "Achieve base LUK 125",
-			details = "Achieve 125 base LUK or higher."
+			summary = "Base LUKを125に達成する",
+			details = "Base LUKを125以上に達成する。"
 		},
 		resource = { [1] = { text = "Achieve base LUK 125" } },
 		reward = { buff = 21 },
@@ -3920,10 +3920,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Incarnation of Love and Hate",
+		title = "愛と憎しみの化身",
 		content = {
-			summary = "Achieve 99 Base Level as Novice",
-			details = "Achieve 99 Base Level as Novice class."
+			summary = "ノービスでBase Lv 99に達成する",
+			details = "ノービスでBase Lv 99に達成する。"
 		},
 		resource = { [1] = { text = "Achieve 99 Base Level as Novice" } },
 		reward = { buff = 10, item = 16483 },
@@ -3934,10 +3934,10 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "I really love it!",
+		title = "本当に大好き！",
 		content = {
-			summary = "Achieve 99 Base Level as 1st classes",
-			details = "Achieve 99 Base Level as 1st classes."
+			summary = "1次職でBase Lv 99に達成する",
+			details = "1次職でBase Lv 99に達成する。"
 		},
 		resource = { [1] = { text = "Achieve 99 Base Level as 1st classes" } },
 		reward = { buff = 10, item = 101948 },
@@ -3948,10 +3948,10 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "Reborn in Valhalla!",
+		title = "ヴァルハラで転生！",
 		content = {
-			summary = "Job change to transcendent Novice",
-			details = "Talk with Valkyrie to job change to transcendent Novice."
+			summary = "転生ノービスへ転職する",
+			details = "ヴァルキリーと話し、転生ノービスへ転職する。"
 		},
 		resource = { [1] = { text = "Job change to transcendent Novice" } },
 		reward = { buff = 12, item = 22808 },
@@ -3962,10 +3962,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "The start of another adventure!",
+		title = "もう一つの冒険の始まり！",
 		content = {
-			summary = "Achieve Base Lv 100!",
-			details = "Achieve Base Lv 100." 
+			summary = "Base Lv 100に達成！",
+			details = "Base Lv 100に達成する。" 
 		},
 		resource = { [1] = { text = "Base Level 100" } },
 		reward = { item = 23585 },
@@ -3976,10 +3976,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "New determination!(1)",
+		title = "新たな決意！(1)",
 		content = {
-			summary = "Achieve Base Lv 170 as 3-1 classes!",
-			details = "Achieve Base Lv 170 as 3-1 classes."
+			summary = "3-1次職でBase Lv 170に達成！",
+			details = "3-1次職でBase Lv 170に達成する。"
 		},
 		resource = { [1] = { text = "Base Level 170" } },
 		reward = { item = 6959 },
@@ -3990,10 +3990,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "New determination!(2)",
+		title = "新たな決意！(2)",
 		content = {
-			summary = "Achieve Base Lv 170 as 3-2 classes!",
-			details = "Achieve Base Lv 170 as 3-2 classes."
+			summary = "3-2次職でBase Lv 170に達成！",
+			details = "3-2次職でBase Lv 170に達成する。"
 		},
 		resource = { [1] = { text = "Base Level 170" } },
 		reward = { item = 6959 },
@@ -4004,10 +4004,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Achieved Level 200!",
+		title = "Lv 200に達成！",
 		content = {
-			summary = "Achieve Base Lv 200!",
-			details = "Achieve Base Lv 200."
+			summary = "Base Lv 200に達成！",
+			details = "Base Lv 200に達成する。"
 		},
 		resource = {[1] = { text = "Base Level 200" } },
 		reward = { buff = 10, item = 400124 },
@@ -4018,10 +4018,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Poring is Love",
+		title = "ポリン・イズ・ラブ",
 		content = {
-			summary = "Complete all objective tasks",
-			details = "You're the true enthusiast of Poring things!"
+			summary = "すべての目標課題を完了する",
+			details = "あなたは真のポリン愛好家だ！"
 		},
 		resource = {
 			[1] = { text = "Complete 'Poring - taming' challenge", shortcut = 230101 },
@@ -4037,10 +4037,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Entomologist",
+		title = "昆虫学者",
 		content = {
-			summary = "Complete all objective tasks",
-			details = "You're awakened with the idea of collecting bugs to become a true Entomologist!"
+			summary = "すべての目標課題を完了する",
+			details = "昆虫を集めることに目覚め、真の昆虫学者へ！"
 		},
 		resource = {
 			[1] = { text = "Complete 'Chonchon - taming' challenge", shortcut = 230111 },
@@ -4058,10 +4058,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Animals are our friend",
+		title = "動物は私たちの友達",
 		content = {
-			summary = "Complete all objective tasks",
-			details = "You're awakened with the idea of becoming the true animal lover!"
+			summary = "すべての目標課題を完了する",
+			details = "真の動物愛護家になることに目覚める！"
 		},
 		resource = {
 			[1] = { text = "Complete 'Lunatic - taming' challenge", shortcut = 230121 },
@@ -4081,10 +4081,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Monster Girls Unite!!",
+		title = "モンスター娘よ団結せよ！！",
 		content = {
-			summary = "Complete all objective tasks",
-			details = "You're awakened with the idea of becoming the producer of monster girls!"
+			summary = "すべての目標課題を完了する",
+			details = "モンスター娘のプロデューサーになることに目覚める！"
 		},
 		resource = {
 			[1] = { text = "Complete 'Munak - taming' challenge", shortcut = 230141 },
@@ -4100,13 +4100,13 @@ achievement_tbl = {
 	},
 	[230101] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Poring - taming",
+		title = "ポリン - テイミング",
 		content = {
-			summary = "Successfully tame a Poring",
-			details = "Let's get a Poring pet. You can use 'Unripe Apple'."
+			summary = "ポリンのテイミングに成功する",
+			details = "ポリンのペットを手に入れよう。「未熟なリンゴ」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Poring" } },
 		reward = {},
@@ -4114,13 +4114,13 @@ achievement_tbl = {
 	},
 	[230102] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Drops - taming",
+		title = "ドロップス - テイミング",
 		content = {
-			summary = "Successfully tame a Drops",
-			details = "Let's get a Drops pet. You can use 'Orange Juice'."
+			summary = "ドロップスのテイミングに成功する",
+			details = "ドロップスのペットを手に入れよう。「オレンジジュース」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Drops" } },
 		reward = {},
@@ -4128,13 +4128,13 @@ achievement_tbl = {
 	},
 	[230103] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Poporing - taming",
+		title = "ポポリン - テイミング",
 		content = {
-			summary = "Successfully tame a Poporing",
-			details = "Let's get a Poporing pet. You can use 'Bitter Herb'."
+			summary = "ポポリンのテイミングに成功する",
+			details = "ポポリンのペットを手に入れよう。「苦い草」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Poporing" } },
 		reward = {},
@@ -4142,13 +4142,13 @@ achievement_tbl = {
 	},
 	[230104] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Novice Poring - taming",
+		title = "ノービスポリン - テイミング",
 		content = {
-			summary = "Successfully tame a Novice Poring",
-			details = "Let's get a Novice Poring pet. You can use 'Little Unripe Apple'."
+			summary = "ノービスポリンのテイミングに成功する",
+			details = "ノービスポリンのペットを手に入れよう。「小さな未熟なリンゴ」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Novice Poring" } },
 		reward = {},
@@ -4156,13 +4156,13 @@ achievement_tbl = {
 	},
 	[230111] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Chonchon - taming",
+		title = "チョンチョン - テイミング",
 		content = {
-			summary = "Successfully tame a Chonchon",
-			details = "Let's get a Chonchon pet. You can use 'Rotten Fish'."
+			summary = "チョンチョンのテイミングに成功する",
+			details = "チョンチョンのペットを手に入れよう。「腐った魚」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Chonchon" } },
 		reward = {},
@@ -4170,13 +4170,13 @@ achievement_tbl = {
 	},
 	[230112] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Steel Chonchon - taming",
+		title = "スチールチョンチョン - テイミング",
 		content = {
-			summary = "Successfully tame a Steel Chonchon",
-			details = "Let's get a Steel Chonchon pet. You can use 'Rusty Iron'."
+			summary = "スチールチョンチョンのテイミングに成功する",
+			details = "スチールチョンチョンのペットを手に入れよう。「錆びた鉄」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Steel Chonchon" } },
 		reward = {},
@@ -4184,13 +4184,13 @@ achievement_tbl = {
 	},
 	[230113] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Hunter Fly - taming",
+		title = "ハンターフライ - テイミング",
 		content = {
-			summary = "Successfully tame a Hunter Fly",
-			details = "Let's get a Hunter Fly pet. You can use 'Monster Juice'."
+			summary = "ハンターフライのテイミングに成功する",
+			details = "ハンターフライのペットを手に入れよう。「モンスターの汁」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Hunter Fly" } },
 		reward = {},
@@ -4198,13 +4198,13 @@ achievement_tbl = {
 	},
 	[230114] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Rocker - taming",
+		title = "ロッカー - テイミング",
 		content = {
-			summary = "Successfully tame a Rocker",
-			details = "Let's get a Rocker pet. You can use 'Singing Flower'."
+			summary = "ロッカーのテイミングに成功する",
+			details = "ロッカーのペットを手に入れよう。「歌う花」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Rocker" } },
 		reward = {},
@@ -4212,13 +4212,13 @@ achievement_tbl = {
 	},
 	[230115] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Spore - taming",
+		title = "スポア - テイミング",
 		content = {
-			summary = "Successfully tame a Spore",
-			details = "Let's get a Spore pet. You can use 'Dew Laden Moss'."
+			summary = "スポアのテイミングに成功する",
+			details = "スポアのペットを手に入れよう。「露の降りた苔」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Spore" } },
 		reward = {},
@@ -4226,13 +4226,13 @@ achievement_tbl = {
 	},
 	[230116] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Poison Spore - taming",
+		title = "ポイズンスポア - テイミング",
 		content = {
-			summary = "Successfully tame a Poison Spore",
-			details = "Let's get a Poison Spore pet. You can use 'Deadly Noxious Herb'."
+			summary = "ポイズンスポアのテイミングに成功する",
+			details = "ポイズンスポアのペットを手に入れよう。「猛毒の草」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Poison Spore" } },
 		reward = {},
@@ -4240,13 +4240,13 @@ achievement_tbl = {
 	},
 	[230121] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Lunatic - taming",
+		title = "ルナティック - テイミング",
 		content = {
-			summary = "Successfully tame a Lunatic",
-			details = "Let's get a Lunatic pet. You can use 'Rainbow Carrot'."
+			summary = "ルナティックのテイミングに成功する",
+			details = "ルナティックのペットを手に入れよう。「虹色ニンジン」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Lunatic" } },
 		reward = {},
@@ -4254,13 +4254,13 @@ achievement_tbl = {
 	},
 	[230122] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Picky - taming",
+		title = "ピッキー - テイミング",
 		content = {
-			summary = "Successfully tame a Picky",
-			details = "Let's get a Picky pet. You can use 'Earthworm the Dude'."
+			summary = "ピッキーのテイミングに成功する",
+			details = "ピッキーのペットを手に入れよう。「イワオのお面」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Picky" } },
 		reward = {},
@@ -4268,13 +4268,13 @@ achievement_tbl = {
 	},
 	[230123] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Savage Bebe - taming",
+		title = "サベージベベ - テイミング",
 		content = {
-			summary = "Successfully tame a Savage Bebe",
-			details = "Let's get a Savage Bebe pet. You can use 'Sweet Milk'."
+			summary = "サベージベベのテイミングに成功する",
+			details = "サベージベベのペットを手に入れよう。「甘い牛乳」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Savage Bebe" } },
 		reward = {},
@@ -4282,13 +4282,13 @@ achievement_tbl = {
 	},
 	[230124] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Baby Desert Wolf - taming",
+		title = "ベビーウルフ - テイミング",
 		content = {
-			summary = "Successfully tame a Baby Desert Wolf",
-			details = "Let's get a Baby Desert Wolf pet. You can use 'Well-Dried Bone'."
+			summary = "ベビーウルフのテイミングに成功する",
+			details = "ベビーウルフのペットを手に入れよう。「よく乾いた骨」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Baby Desert Wolf" } },
 		reward = {},
@@ -4296,13 +4296,13 @@ achievement_tbl = {
 	},
 	[230125] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Smokie - taming",
+		title = "スモーキー - テイミング",
 		content = {
-			summary = "Successfully tame a Smokie",
-			details = "Let's get a Smokie pet. You can use 'Baked Yam'."
+			summary = "スモーキーのテイミングに成功する",
+			details = "スモーキーのペットを手に入れよう。「焼きイモ」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Smokie" } },
 		reward = {},
@@ -4310,13 +4310,13 @@ achievement_tbl = {
 	},
 	[230126] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Yoyo - taming",
+		title = "ヨーヨー - テイミング",
 		content = {
-			summary = "Successfully tame a Yoyo",
-			details = "Let's get a Yoyo pet. You can use 'Tropical Banana'."
+			summary = "ヨーヨーのテイミングに成功する",
+			details = "ヨーヨーのペットを手に入れよう。「トロピカルバナナ」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Yoyo" } },
 		reward = {},
@@ -4324,13 +4324,13 @@ achievement_tbl = {
 	},
 	[230127] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Peco Peco - taming",
+		title = "ペコペコ - テイミング",
 		content = {
-			summary = "Successfully tame a Peco Peco",
-			details = "Let's get a Peco Peco pet. You can use 'Fatty Chubby Earthworm'."
+			summary = "ペコペコのテイミングに成功する",
+			details = "ペコペコのペットを手に入れよう。「太ったミミズ」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Peco Peco" } },
 		reward = {},
@@ -4338,13 +4338,13 @@ achievement_tbl = {
 	},
 	[230128] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Petite - taming",
+		title = "プティ - テイミング",
 		content = {
-			summary = "Successfully tame a Petite",
-			details = "Let's get a Petite pet. You can use 'Shining Stone'."
+			summary = "プティのテイミングに成功する",
+			details = "プティのペットを手に入れよう。「輝く石」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Petite" } },
 		reward = {},
@@ -4352,13 +4352,13 @@ achievement_tbl = {
 	},
 	[230141] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Munak - taming",
+		title = "ムナック - テイミング",
 		content = {
-			summary = "Successfully tame a Munak",
-			details = "Let's get a Munak pet. You can use 'No Recipient'."
+			summary = "ムナックのテイミングに成功する",
+			details = "ムナックのペットを手に入れよう。「宛先のない手紙」が使えるよ。"
 		},
 		resource = { [1] = { text = "Successfully tame a Munak" } },
 		reward = {},
@@ -4366,13 +4366,13 @@ achievement_tbl = {
 	},
 	[230142] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Isis - taming",
+		title = "イシス - テイミング",
 		content = {
-			summary = "Successfully tame an Isis",
-			details = "Let's get an Isis pet. You can use 'Armlet of Obedience'."
+			summary = "イシスのテイミングに成功する",
+			details = "イシスをペットにしよう。「服従の腕輪」が使えます。"
 		},
 		resource = { [1] = { text = "Successfully tame an Isis" } },
 		reward = {},
@@ -4380,13 +4380,13 @@ achievement_tbl = {
 	},
 	[230143] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Sohee - taming",
+		title = "ソヒョン - テイミング",
 		content = {
-			summary = "Successfully tame a Sohee",
-			details = "Let's get a Sohee pet. You can use 'Silver Knife of Chastity'."
+			summary = "ソヒョンのテイミングに成功する",
+			details = "ソヒョンをペットにしよう。「貞潔の銀のナイフ」が使えます。"
 		},
 		resource = { [1] = { text = "Successfully tame a Sohee" } },
 		reward = {},
@@ -4394,13 +4394,13 @@ achievement_tbl = {
 	},
 	[230144] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Zherlthsh - taming",
+		title = "ゼルス - テイミング",
 		content = {
-			summary = "Successfully tame a Zherlthsh",
-			details = "Let's get a Zherlthsh pet. You can use 'Forbidden Red Candle'."
+			summary = "ゼルスのテイミングに成功する",
+			details = "ゼルスをペットにしよう。「禁断の赤いろうそく」が使えます。"
 		},
 		resource = { [1] = { text = "Successfully tame a Zherlthsh" } },
 		reward = {},
@@ -4408,13 +4408,13 @@ achievement_tbl = {
 	},
 	[230145] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Alice - taming",
+		title = "アリス - テイミング",
 		content = {
-			summary = "Successfully tame an Alice",
-			details = "Let's get an Alice pet. You can use 'Soft Apron'."
+			summary = "アリスのテイミングに成功する",
+			details = "アリスをペットにしよう。「柔らかいエプロン」が使えます。"
 		},
 		resource = { [1] = { text = "Successfully tame an Alice" } },
 		reward = {},
@@ -4422,13 +4422,13 @@ achievement_tbl = {
 	},
 	[230146] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Succubus - taming",
+		title = "サキュバス - テイミング",
 		content = {
-			summary = "Successfully tame a Succubus",
-			details = "Let's get a Succubus pet. You can use 'Boy's Pure Heart'."
+			summary = "サキュバスのテイミングに成功する",
+			details = "サキュバスをペットにしよう。「少年の純情」が使えます。"
 		},
 		resource = { [1] = { text = "Successfully tame a Succubus" } },
 		reward = {},
@@ -4436,13 +4436,13 @@ achievement_tbl = {
 	},
 	[230147] = {
 		UI_Type = 0,
-		group = "TAMING",
+		group = "テイミング",
 		major = 3,
 		minor = 1,
-		title = "Loli Ruri - taming",
+		title = "ロリルリ - テイミング",
 		content = {
-			summary = "Successfully tame a Loli Ruri",
-			details = "Let's get a Loli Ruri pet. You can use 'Very Red Juice'."
+			summary = "ロリルリのテイミングに成功する",
+			details = "ロリルリをペットにしよう。「とっても赤い汁」が使えます。"
 		},
 		resource = { [1] = { text = "Successfully tame a Loli Ruri" } },
 		reward = {},
@@ -4450,13 +4450,13 @@ achievement_tbl = {
 	},
 	[220000] = {
 		UI_Type = 0,
-		group = "CHATTING",
+		group = "会話",
 		major = 1,
 		minor = 2,
-		title = "Start Community",
+		title = "コミュニティを始めよう",
 		content = {
-			summary = "Create a chatroom",
-			details = "Let's create a chatroom. Press keyboard shortcut Alt+C."
+			summary = "チャットルームを作成する",
+			details = "チャットルームを作成しよう。キーボードショートカット「Alt+C」を押してください。"
 		},
 		resource = { [1] = { text = "Create a chatroom" } },
 		reward = {},
@@ -4467,10 +4467,10 @@ achievement_tbl = {
 		group = "CHATTING_DYING",
 		major = 1,
 		minor = 2,
-		title = "Grim Chatterbox",
+		title = "死亡時のおしゃべり",
 		content = {
-			summary = "Create a chatroom when KO'ed",
-			details = "Create a chatroom when KO'ed. Press keyboard shortcut Alt+C."
+			summary = "KO時にチャットルームを作成する",
+			details = "KO時にチャットルームを作成しよう。キーボードショートカット「Alt+C」を押してください。"
 		},
 		resource = { [1] = { text = "Create a chatroom when KO'ed" } },
 		reward = {},
@@ -4481,10 +4481,10 @@ achievement_tbl = {
 		group = "CHATTING20",
 		major = 1,
 		minor = 2,
-		title = "Chattering Away",
+		title = "おしゃべり三昧",
 		content = {
-			summary = "Fill the chatroom with 20 people",
-			details = "Gather people and start chatting. Fill the chatroom with 20 people."
+			summary = "チャットルームを20人で埋める",
+			details = "人を集めておしゃべりを始めよう。チャットルームを20人で埋めてください。"
 		},
 		resource = { [1] = { text = "Fill the chatroom with 20 people" } },
 		reward = {},
@@ -4495,10 +4495,10 @@ achievement_tbl = {
 		group = "ADD_FRIEND",
 		major = 1,
 		minor = 2,
-		title = "Friend~ Friend~",
+		title = "友達～ 友達～",
 		content = {
-			summary = "Add 1 person as a friend",
-			details = "Let's recruit a friend and start a journey together. Add 1 person as a friend."
+			summary = "1人をフレンドに追加する",
+			details = "フレンドを募集して一緒に旅を始めよう。1人をフレンドに追加してください。"
 		},
 		resource = { [1] = { text = "Add 1 person as a friend" } },
 		reward = {},
@@ -4509,10 +4509,10 @@ achievement_tbl = {
 		group = "ADD_FRIEND",
 		major = 1,
 		minor = 2,
-		title = "Popular person",
+		title = "人気者",
 		content = {
-			summary = "Add 10 person as a friend",
-			details = "Let's recruit a friend and start a journey together. Add 10 person as a friend."
+			summary = "10人をフレンドに追加する",
+			details = "フレンドを募集して一緒に旅を始めよう。10人をフレンドに追加してください。"
 		},
 		resource = { [1] = { text = "Add 10 person as a friend" } },
 		reward = {},
@@ -4523,10 +4523,10 @@ achievement_tbl = {
 		group = "PARTY",
 		major = 1,
 		minor = 2,
-		title = "Let's Party~",
+		title = "パーティーを組もう～",
 		content = {
-			summary = "Create a party",
-			details = "Adventuring alone is tough! Let's create a party."
+			summary = "パーティーを作成する",
+			details = "一人での冒険は大変です！パーティーを作成しましょう。"
 		},
 		resource = { [1] = { text = "Create a party" } },
 		reward = {},
@@ -4537,10 +4537,10 @@ achievement_tbl = {
 		group = "MARRY",
 		major = 1,
 		minor = 2,
-		title = "Did you marry..?",
+		title = "結婚しましたか..？",
 		content = {
-			summary = "Succeed on marriage",
-			details = "Living in this world is tough, let's fill it with love. Let's get married with someone you love."
+			summary = "結婚に成功する",
+			details = "この世界で生きていくのは大変です。愛で満たしましょう。愛する人と結婚してください。"
 		},
 		resource = { [1] = { text = "Succeed on marriage" } },
 		reward = { title = 1022 },
@@ -4551,10 +4551,10 @@ achievement_tbl = {
 		group = "BABY",
 		major = 1,
 		minor = 2,
-		title = "Can you raise me?",
+		title = "私を育ててくれますか？",
 		content = {
-			summary = "Adopted by parent",
-			details = "Overcome the tough world with the help of parents."
+			summary = "養親に引き取られる",
+			details = "両親の助けを借りて、過酷な世界を乗り越えましょう。"
 		},
 		resource = { [1] = { text = "Adopted by parent" } },
 		reward = { title = 1032 },
@@ -4565,10 +4565,10 @@ achievement_tbl = {
 		group = "BABY",
 		major = 1,
 		minor = 2,
-		title = "Being a parent",
+		title = "親になる",
 		content = {
-			summary = "Adopt a child",
-			details = "Get a happy child and create a beautiful family story through adoption."
+			summary = "養子を迎える",
+			details = "幸せな子を迎え、養子縁組を通じて美しい家族の物語を作りましょう。"
 		},
 		resource = { [1] = { text = "Adopt a child" } },
 		reward = { title = 1033 },
@@ -4579,10 +4579,10 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Activate market economy (1)",
+		title = "市場経済の活性化 (1)",
 		content = {
-			summary = "Spend 10,000 zeny on vending merchant",
-			details = "This is a form of money-spinning process. Spend 10,000 zeny on vending merchant."
+			summary = "露店商人で10,000ゼニーを使う",
+			details = "これはお金を回す過程の一形態です。露店商人で10,000ゼニーを使いましょう。"
 		},
 		resource = { [1] = { text = "Spend 10,000 zeny on vending merchant", count = 10000 } },
 		reward = {},
@@ -4593,10 +4593,10 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Activate market economy (2)",
+		title = "市場経済の活性化 (2)",
 		content = {
-			summary = "Spend 100,000 zeny on vending merchant",
-			details = "This is a form of money-spinning process. Spend 100,000 zeny on vending merchant."
+			summary = "露店商人で100,000ゼニーを使う",
+			details = "これはお金を回す過程の一形態です。露店商人で100,000ゼニーを使いましょう。"
 		},
 		resource = { [1] = { text = "Spend 100,000 zeny on vending merchant", count = 100000 } },
 		reward = {},
@@ -4607,10 +4607,10 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Activate market economy (3)",
+		title = "市場経済の活性化 (3)",
 		content = {
-			summary = "Spend 500,000 zeny on vending merchant",
-			details = "This is a form of money-spinning process. Spend 500,000 zeny on vending merchant."
+			summary = "露店商人で500,000ゼニーを使う",
+			details = "これはお金を回す過程の一形態です。露店商人で500,000ゼニーを使いましょう。"
 		},
 		resource = { [1] = { text = "Spend 500,000 zeny on vending merchant", count = 500000 } },
 		reward = {},
@@ -4621,10 +4621,10 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Activate market economy (4)",
+		title = "市場経済の活性化 (4)",
 		content = {
-			summary = "Spend 1,000,000 zeny on vending merchant",
-			details = "This is a form of money-spinning process. Spend 1,000,000 zeny on vending merchant."
+			summary = "露店商人で1,000,000ゼニーを使う",
+			details = "これはお金を回す過程の一形態です。露店商人で1,000,000ゼニーを使いましょう。"
 		},
 		resource = { [1] = { text = "Spend 1,000,000 zeny on vending merchant", count = 1000000 } },
 		reward = {},
@@ -4635,10 +4635,10 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Activate market economy (5)",
+		title = "市場経済の活性化 (5)",
 		content = {
-			summary = "Spend 5,000,000 zeny on vending merchant",
-			details = "This is a form of money-spinning process. Spend 5,000,000 zeny on vending merchant."
+			summary = "露店商人で5,000,000ゼニーを使う",
+			details = "これはお金を回す過程の一形態です。露店商人で5,000,000ゼニーを使いましょう。"
 		},
 		resource = { [1] = { text = "Spend 5,000,000 zeny on vending merchant", count = 5000000 } },
 		reward = {},
@@ -4649,10 +4649,10 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (1)",
+		title = "精錬はやめられない！ (1)",
 		content = {
-			summary = "Successfully refine a level 1 weapon to +7",
-			details = "Where is my luck? Successfully refine a level 1 weapon to +7."
+			summary = "Lv 1武器の精錬を+7に成功する",
+			details = "私の運はどこへ？Lv 1武器の精錬を+7に成功させてください。"
 		},
 		resource = { [1] = { text = "Successfully refine a level 1 weapon to +7" } },
 		reward = {},
@@ -4663,10 +4663,10 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (2)",
+		title = "精錬はやめられない！ (2)",
 		content = {
-			summary = "Successfully refine a level 1 weapon to +12",
-			details = "Where is my luck? Successfully refine a level 1 weapon to +12."
+			summary = "Lv 1武器の精錬を+12に成功する",
+			details = "私の運はどこへ？Lv 1武器の精錬を+12に成功させてください。"
 		},
 		resource = { [1] = { text = "Successfully refine a level 1 weapon to +12" } },
 		reward = {},
@@ -4677,10 +4677,10 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (3)",
+		title = "精錬はやめられない！ (3)",
 		content = {
-			summary = "Successfully refine a level 2 weapon to +7",
-			details = "Where is my luck? Successfully refine a level 2 weapon to +7."
+			summary = "Lv 2武器の精錬を+7に成功する",
+			details = "私の運はどこへ？Lv 2武器の精錬を+7に成功させてください。"
 		},
 		resource = { [1] = { text = "Successfully refine a level 2 weapon to +7" } },
 		reward = {},
@@ -4691,10 +4691,10 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (4)",
+		title = "精錬はやめられない！ (4)",
 		content = {
-			summary = "Successfully refine a level 2 weapon to +12",
-			details = "Where is my luck? Successfully refine a level 2 weapon to +12."
+			summary = "Lv 2武器の精錬を+12に成功する",
+			details = "私の運はどこへ？Lv 2武器の精錬を+12に成功させてください。"
 		},
 		resource = { [1] = { text = "Successfully refine a level 2 weapon to +12" } },
 		reward = {},
@@ -4705,10 +4705,10 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (5)",
+		title = "精錬はやめられない！ (5)",
 		content = {
-			summary = "Successfully refine a level 3 weapon to +7",
-			details = "Where is my luck? Successfully refine a level 3 weapon to +7."
+			summary = "Lv 3武器の精錬を+7に成功する",
+			details = "私の運はどこへ？Lv 3武器の精錬を+7に成功させてください。"
 		},
 		resource = { [1] = { text = "Successfully refine a level 3 weapon to +7" } },
 		reward = {},
@@ -4719,10 +4719,10 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (6)",
+		title = "精錬はやめられない！ (6)",
 		content = {
-			summary = "Successfully refine a level 3 weapon to +12",
-			details = "Where is my luck? Successfully refine a level 3 weapon to +12."
+			summary = "Lv 3武器の精錬を+12に成功する",
+			details = "私の運はどこへ？Lv 3武器の精錬を+12に成功させてください。"
 		},
 		resource = { [1] = { text = "Successfully refine a level 3 weapon to +12" } },
 		reward = {},
@@ -4733,10 +4733,10 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (7)",
+		title = "精錬はやめられない！ (7)",
 		content = {
-			summary = "Successfully refine a level 4 weapon to +7",
-			details = "Where is my luck? Successfully refine a level 4 weapon to +7."
+			summary = "Lv 4武器の精錬を+7に成功する",
+			details = "私の運はどこへ？Lv 4武器の精錬を+7に成功させてください。"
 		},
 		resource = { [1] = { text = "Successfully refine a level 4 weapon to +7" } },
 		reward = {},
@@ -4747,10 +4747,10 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "I can't quit from refining! (8)",
+		title = "精錬はやめられない！ (8)",
 		content = {
-			summary = "Successfully refine a level 4 weapon to +12",
-			details = "Where is my luck? Successfully refine a level 4 weapon to +12."
+			summary = "Lv 4武器の精錬を+12に成功する",
+			details = "私の運はどこへ？Lv 4武器の精錬を+12に成功させてください。"
 		},
 		resource = { [1] = { text = "Successfully refine a level 4 weapon to +12" } },
 		reward = {},
@@ -4761,10 +4761,10 @@ achievement_tbl = {
 		group = "ENCHANT_FAIL",
 		major = 1,
 		minor = 1,
-		title = "Human's greed has no end..",
+		title = "人間の欲望には終わりがない..",
 		content = {
-			summary = "Experience the fail of refining",
-			details = "Human's greed has no end and it's always repeat. But let's take a lesson from the mistake. Experience the fail of refining."
+			summary = "精錬の失敗を経験する",
+			details = "人間の欲望には終わりがなく、常に繰り返されます。しかし、失敗から教訓を得ましょう。精錬の失敗を経験してください。"
 		},
 		resource = { [1] = { text = "Experience the fail of refining" } },
 		reward = {},
@@ -4775,10 +4775,10 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (1)",
+		title = "見つけた！ (1)",
 		content = {
-			summary = "Obtain an item that worth more than 100 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 100 zeny when sold to an NPC."
+			summary = "100ゼニー以上の価値があるアイテムを入手する",
+			details = "ついてる！NPCに売却した際に100ゼニー以上の価値があるアイテムを入手してください。"
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 100 zeny" } },
 		reward = {},
@@ -4789,10 +4789,10 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (2)",
+		title = "見つけた！（2）",
 		content = {
-			summary = "Obtain an item that worth more than 1,000 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 1,000 zeny when sold to an NPC."
+			summary = "1,000ゼニー以上の価値があるアイテムを獲得する",
+			details = "運がいい！NPCに売却して1,000ゼニー以上の価値があるアイテムを獲得しよう。"
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 1,000 zeny" } },
 		reward = {},
@@ -4803,10 +4803,10 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (3)",
+		title = "見つけた！（3）",
 		content = {
-			summary = "Obtain an item that worth more than 5,000 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 5,000 zeny when sold to an NPC."
+			summary = "5,000ゼニー以上の価値があるアイテムを獲得する",
+			details = "運がいい！NPCに売却して5,000ゼニー以上の価値があるアイテムを獲得しよう。"
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 5,000 zeny" } },
 		reward = {},
@@ -4817,10 +4817,10 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (4)",
+		title = "見つけた！（4）",
 		content = {
-			summary = "Obtain an item that worth more than 10,000 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 10,000 zeny when sold to an NPC."
+			summary = "10,000ゼニー以上の価値があるアイテムを獲得する",
+			details = "運がいい！NPCに売却して10,000ゼニー以上の価値があるアイテムを獲得しよう。"
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 10,000 zeny" } },
 		reward = {},
@@ -4831,10 +4831,10 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (5)",
+		title = "見つけた！（5）",
 		content = {
-			summary = "Obtain an item that worth more than 50,000 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 50,000 zeny when sold to an NPC."
+			summary = "50,000ゼニー以上の価値があるアイテムを獲得する",
+			details = "運がいい！NPCに売却して50,000ゼニー以上の価値があるアイテムを獲得しよう。"
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 50,000 zeny" } },
 		reward = {},
@@ -4845,10 +4845,10 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (6)",
+		title = "見つけた！（6）",
 		content = {
-			summary = "Obtain an item that worth more than 100,000 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 100,000 zeny when sold to an NPC."
+			summary = "100,000ゼニー以上の価値があるアイテムを獲得する",
+			details = "運がいい！NPCに売却して100,000ゼニー以上の価値があるアイテムを獲得しよう。"
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 100,000 zeny" } },
 		reward = {},
@@ -4859,10 +4859,10 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "I found it! (7)",
+		title = "見つけた！（7）",
 		content = {
-			summary = "Obtain an item that worth more than 150,000 zeny",
-			details = "I'm lucky! Obtain an item that worth more than 150,000 zeny when sold to an NPC."
+			summary = "150,000ゼニー以上の価値があるアイテムを獲得する",
+			details = "運がいい！NPCに売却して150,000ゼニー以上の価値があるアイテムを獲得しよう。"
 		},
 		resource = { [1] = { text = "Obtain an item that worth more than 150,000 zeny" } },
 		reward = {},
@@ -4873,10 +4873,10 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rich King (1)",
+		title = "富める王（1）",
 		content = {
-			summary = "Hold more than 10,000 zeny in pocket",
-			details = "Money is not everything? That is because you are poor. Hold more than 10,000 zeny in pocket."
+			summary = "所持ゼニーが10,000ゼニーを超える",
+			details = "お金がすべてじゃないって？それはあなたが貧しいからです。所持ゼニーが10,000ゼニーを超えよう。"
 		},
 		resource = { [1] = { text = "Hold more than 10,000 zeny in pocket" } },
 		reward = {},
@@ -4887,10 +4887,10 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rich King (2)",
+		title = "富める王（2）",
 		content = {
-			summary = "Hold more than 100,000 zeny in pocket",
-			details = "Money is not everything? That is because you are poor. Hold more than 100,000 zeny in pocket."
+			summary = "所持ゼニーが100,000ゼニーを超える",
+			details = "お金がすべてじゃないって？それはあなたが貧しいからです。所持ゼニーが100,000ゼニーを超えよう。"
 		},
 		resource = { [1] = { text = "Hold more than 100,000 zeny in pocket" } },
 		reward = {},
@@ -4901,10 +4901,10 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rich King (3)",
+		title = "富める王（3）",
 		content = {
-			summary = "Hold more than 1,000,000 zeny in pocket",
-			details = "Money is not everything? That is because you are poor. Hold more than 1,000,000 zeny in pocket."
+			summary = "所持ゼニーが1,000,000ゼニーを超える",
+			details = "お金がすべてじゃないって？それはあなたが貧しいからです。所持ゼニーが1,000,000ゼニーを超えよう。"
 		},
 		resource = { [1] = { text = "Hold more than 1,000,000 zeny in pocket" } },
 		reward = {},
@@ -4915,10 +4915,10 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rich King (4)",
+		title = "富める王（4）",
 		content = {
-			summary = "Hold more than 10,000,000 zeny in pocket",
-			details = "Money is not everything? That is because you are poor. Hold more than 10,000,000 zeny in pocket."
+			summary = "所持ゼニーが10,000,000ゼニーを超える",
+			details = "お金がすべてじゃないって？それはあなたが貧しいからです。所持ゼニーが10,000,000ゼニーを超えよう。"
 		},
 		resource = { [1] = { text = "Hold more than 10,000,000 zeny in pocket" } },
 		reward = {},
@@ -4929,10 +4929,10 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rich King (5)",
+		title = "富める王（5）",
 		content = {
-			summary = "Hold more than 100,000,000 zeny in pocket",
-			details = "Money is not everything? That is because you are poor. Hold more than 100,000,000 zeny in pocket."
+			summary = "所持ゼニーが100,000,000ゼニーを超える",
+			details = "お金がすべてじゃないって？それはあなたが貧しいからです。所持ゼニーが100,000,000ゼニーを超えよう。"
 		},
 		resource = { [1] = { text = "Hold more than 100,000,000 zeny in pocket" } },
 		reward = {},
@@ -4943,10 +4943,10 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rich King (6)",
+		title = "富める王（6）",
 		content = {
-			summary = "Hold more than 1,000,000,000 zeny in pocket",
-			details = "Money is not everything? That is because you are poor. Hold more than 1,000,000,000 zeny in pocket."
+			summary = "所持ゼニーが1,000,000,000ゼニーを超える",
+			details = "お金がすべてじゃないって？それはあなたが貧しいからです。所持ゼニーが1,000,000,000ゼニーを超えよう。"
 		},
 		resource = { [1] = { text = "Hold more than 1,000,000,000 zeny in pocket" } },
 		reward = {},
@@ -4957,10 +4957,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Poring seeker",
+		title = "ポリン探索者",
 		content = {
-			summary = "Complete all objective tasks",
-			details = "Poring is a strange creature, neither plant nor animal. To learn more about Poring, the best way is to experience face-to-face interaction."
+			summary = "すべての目標課題を完了する",
+			details = "ポリンは植物でも動物でもない不思議な生き物だ。ポリンについてもっと知るには、直接触れ合ってみるのが一番だ。"
 		},
 		resource = {
 			[1] = { text = "Complete 'Exploring Poring's life (1)' challenge", shortcut = 230201 },
@@ -4972,13 +4972,13 @@ achievement_tbl = {
 	},
 	[230201] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 3,
 		minor = 1,
-		title = "Exploring Poring's life (1)",
+		title = "ポリンの生態調査（1）",
 		content = {
-			summary = "Hunting the targeted object",
-			details = "The appearance of porings affected by their habitat. Let's face an easy opponent."
+			summary = "対象を狩猟する",
+			details = "ポリンの姿は生息地の影響を受ける。まずは手頃な相手に挑んでみよう。"
 		},
 		resource = {
 			[1] = { text = "Hunt 10 Poring", count = 10 },
@@ -4992,13 +4992,13 @@ achievement_tbl = {
 	},
 	[230202] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 3,
 		minor = 1,
-		title = "Exploring Poring's life (2)",
+		title = "ポリンの生態調査（2）",
 		content = {
-			summary = "Hunting the targeted object",
-			details = "There is also a strong one in Poring world. Let's not directly face the strong one."
+			summary = "対象を狩猟する",
+			details = "ポリンの世界には強い個体もいる。強い相手には直接立ち向かわないようにしよう。"
 		},
 		resource = {
 			[1] = { text = "Hunt 1 Mastering", count = 1 },
@@ -5012,13 +5012,13 @@ achievement_tbl = {
 	},
 	[230203] = {
 		UI_Type = 1,
-		group = "BATTLE",
+		group = "戦闘",
 		major = 3,
 		minor = 1,
-		title = "Exploring Poring's life (3)",
+		title = "ポリンの生態調査（3）",
 		content = {
-			summary = "Hunting the targeted object",
-			details = "In Poring family, there are porings that have a glowing appearance. A further research is required."
+			summary = "対象を狩猟する",
+			details = "ポリンの仲間には、光り輝く姿をしたものがいる。さらなる研究が必要だ。"
 		},
 		resource = {
 			[1] = { text = "Hunt 5 Metalring", count = 5 },
@@ -5032,10 +5032,10 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 6,
 		minor = 0,
-		title = "Complete first introduction challenge",
+		title = "最初の入門挑戦を完了する",
 		content = {
-			summary = "Complete first introduction challenge.",
-			details = "Complete first introduction challenge."
+			summary = "最初の入門挑戦を完了しよう。",
+			details = "最初の入門挑戦を完了しよう。"
 		},
 		resource = { [1] = { text = "Complete first introduction challenge" } },
 		reward = {},
@@ -5046,10 +5046,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 1",
+		title = "ベースレベル1に到達する",
 		content = {
-			summary = "Reach Base Level 1",
-			details = "Reach Base Level 1."
+			summary = "ベースレベル1に到達する",
+			details = "ベースレベル1に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 1" } },
 		reward = { buff = 12, item = 644 },
@@ -5060,10 +5060,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 2",
+		title = "ベースレベル2に到達する",
 		content = {
-			summary = "Reach Base Level 2",
-			details = "Reach Base Level 2."
+			summary = "ベースレベル2に到達する",
+			details = "ベースレベル2に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 2" } },
 		reward = { buff = 12, item = 644 },
@@ -5074,10 +5074,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 3",
+		title = "ベースレベル3に到達する",
 		content = {
-			summary = "Reach Base Level 3",
-			details = "Reach Base Level 3."
+			summary = "ベースレベル3に到達する",
+			details = "ベースレベル3に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 3" } },
 		reward = { buff = 12, item = 644 },
@@ -5088,10 +5088,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 4",
+		title = "ベースレベル4に到達する",
 		content = {
-			summary = "Reach Base Level 4",
-			details = "Reach Base Level 4."
+			summary = "ベースレベル4に到達する",
+			details = "ベースレベル4に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 4" } },
 		reward = { buff = 12, item = 644 },
@@ -5102,10 +5102,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 5",
+		title = "ベースレベル5に到達する",
 		content = {
-			summary = "Reach Base Level 5",
-			details = "Reach Base Level 5."
+			summary = "ベースレベル5に到達する",
+			details = "ベースレベル5に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 5" } },
 		reward = { buff = 12, item = 644 },
@@ -5116,10 +5116,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 6",
+		title = "ベースレベル6に到達する",
 		content = {
-			summary = "Reach Base Level 6",
-			details = "Reach Base Level 6."
+			summary = "ベースレベル6に到達する",
+			details = "ベースレベル6に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 6" } },
 		reward = { buff = 12, item = 644 },
@@ -5130,10 +5130,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 7",
+		title = "ベースレベル7に到達する",
 		content = {
-			summary = "Reach Base Level 7",
-			details = "Reach Base Level 7."
+			summary = "ベースレベル7に到達する",
+			details = "ベースレベル7に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 7" } },
 		reward = { buff = 12, item = 644 },
@@ -5144,10 +5144,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 8",
+		title = "ベースレベル8に到達する",
 		content = {
-			summary = "Reach Base Level 8",
-			details = "Reach Base Level 8."
+			summary = "ベースレベル8に到達する",
+			details = "ベースレベル8に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 8" } },
 		reward = { buff = 12, item = 644 },
@@ -5158,10 +5158,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 9",
+		title = "ベースレベル9に到達する",
 		content = {
-			summary = "Reach Base Level 9",
-			details = "Reach Base Level 9."
+			summary = "ベースレベル9に到達する",
+			details = "ベースレベル9に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 9" } },
 		reward = { buff = 12, item = 644 },
@@ -5172,10 +5172,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 10",
+		title = "ベースレベル10に到達する",
 		content = {
-			summary = "Reach Base Level 10",
-			details = "Reach Base Level 10 achievement. You will be rewarded with a title."
+			summary = "ベースレベル10に到達する",
+			details = "ベースレベル10に到達の実績。称号が与えられます。"
 		},
 		resource = { [1] = { text = "Reach Base Level 10" } },
 		reward = { title = 1023, buff = 12, item = 644 },
@@ -5186,10 +5186,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 11",
+		title = "ベースレベル11に到達する",
 		content = {
-			summary = "Reach Base Level 11",
-			details = "Reach Base Level 11."
+			summary = "ベースレベル11に到達する",
+			details = "ベースレベル11に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 11" } },
 		reward = { buff = 12, item = 644 },
@@ -5200,10 +5200,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 12",
+		title = "ベースレベル12に到達する",
 		content = {
-			summary = "Reach Base Level 12",
-			details = "Reach Base Level 12."
+			summary = "ベースレベル12に到達する",
+			details = "ベースレベル12に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 12" } },
 		reward = { buff = 12, item = 644 },
@@ -5214,10 +5214,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 13",
+		title = "ベースレベル13に到達する",
 		content = {
-			summary = "Reach Base Level 13",
-			details = "Reach Base Level 13."
+			summary = "ベースレベル13に到達する",
+			details = "ベースレベル13に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 13" } },
 		reward = { buff = 12, item = 644 },
@@ -5228,10 +5228,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 14",
+		title = "ベースレベル14に到達する",
 		content = {
-			summary = "Reach Base Level 14",
-			details = "Reach Base Level 14."
+			summary = "ベースレベル14に到達する",
+			details = "ベースレベル14に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 14" } },
 		reward = { buff = 12, item = 644 },
@@ -5242,10 +5242,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 15",
+		title = "ベースレベル15に到達する",
 		content = {
-			summary = "Reach Base Level 15",
-			details = "Reach Base Level 15."
+			summary = "ベースレベル15に到達する",
+			details = "ベースレベル15に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 15" } },
 		reward = { buff = 12, item = 644 },
@@ -5256,10 +5256,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 16",
+		title = "ベースレベル16に到達する",
 		content = {
-			summary = "Reach Base Level 16",
-			details = "Reach Base Level 16."
+			summary = "ベースレベル16に到達する",
+			details = "ベースレベル16に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 16" } },
 		reward = { buff = 12, item = 644 },
@@ -5270,10 +5270,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 17",
+		title = "ベースレベル17に到達する",
 		content = {
-			summary = "Reach Base Level 17",
-			details = "Reach Base Level 17."
+			summary = "ベースレベル17に到達する",
+			details = "ベースレベル17に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 17" } },
 		reward = { buff = 12, item = 644 },
@@ -5284,10 +5284,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 18",
+		title = "ベースレベル18に到達する",
 		content = {
-			summary = "Reach Base Level 18",
-			details = "Reach Base Level 18."
+			summary = "ベースレベル18に到達する",
+			details = "ベースレベル18に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 18" } },
 		reward = { buff = 12, item = 644 },
@@ -5298,10 +5298,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 19",
+		title = "ベースレベル19に到達する",
 		content = {
-			summary = "Reach Base Level 19",
-			details = "Reach Base Level 19."
+			summary = "ベースレベル19に到達する",
+			details = "ベースレベル19に到達しよう。"
 		},
 		resource = { [1] = { text = "Reach Base Level 19" } },
 		reward = { buff = 12, item = 644 },
@@ -5312,10 +5312,10 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Reach Base Level 20",
+		title = "ベースレベル20に到達する",
 		content = {
-			summary = "Reach Base Level 20",
-			details = "Reach Base Level 20. You will be rewarded with a title."
+			summary = "ベースレベル20に到達する",
+			details = "ベースレベル20に到達しよう。称号が与えられます。"
 		},
 		resource = { [1] = { text = "Reach Base Level 20" } },
 		reward = { title = 1024, buff = 12, item = 644 },
@@ -5323,13 +5323,13 @@ achievement_tbl = {
 	},
 	[220036] = {
 		UI_Type = 0,
-		group = "EAT",
+		group = "食事",
 		major = 1,
 		minor = 2,
-		title = "The beginning of outdoor",
+		title = "アウトドアの始まり",
 		content = {
-			summary = "Obtain Outdoor Cooking Kit",
-			details = "Obtain Outdoor Cooking Kit"
+			summary = "アウトドア料理キットを獲得する",
+			details = "アウトドア料理キットを獲得する"
 		},
 		resource = { [1] = { text = "Obtain Outdoor Cooking Kit" } },
 		reward = {},
@@ -5337,13 +5337,13 @@ achievement_tbl = {
 	},
 	[220037] = {
 		UI_Type = 0,
-		group = "EAT",
+		group = "食事",
 		major = 1,
 		minor = 2,
-		title = "The first step to become a chef",
+		title = "シェフへの第一歩",
 		content = {
-			summary = "Obtain Level 1 Cooking",
-			details = "Obtain Level 1 Cooking"
+			summary = "料理Lv1を獲得する",
+			details = "料理Lv1を獲得する"
 		},
 		resource = { [1] = { text = "Obtain Level 1 Cooking" } },
 		reward = {},

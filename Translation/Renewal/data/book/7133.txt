@@ -1,55 +1,55 @@
 %faf0e6
-^000088Intermediate Alchemy: Condensed Potions^000000
+^000088エピソード：ルーンミッドガッツ王国 ^000000
 
 
-----------------Preface--------------------
+特別なサイン入りのものでもある。
 
-If the basics of potion making is already second
-nature to you, then you might be prepared for the
-more advanced process of producing condensed
-potions. Condensing maximizes the effectiveness
-of your potions while minimizing their weight and
-the required production materials.
+^ff0000蒸しタン:^000000
+魔法の都市ゲフェンは、ルーンミッドガッツ王国の北西に位置している。この都市は多くの志あるマジシャンを惹きつけ、ゲフェンタワーは魔法の達人たちにとって聖地であり、ゲフェンの象徴とみなされている。エルフの財宝が隠された古代の神秘の都市ゲフェニアへ至る秘密が、ゲフェンにあると噂されている。
+ページのあちこちに血の跡があり、
+モロクはルーンミッドガッツ王国の南西に位置する砂漠の小さな町である。モロクの乾燥した暑さから遠ざかる者が多いが、シーフギルドの拠点であるため、志あるシーフを惹きつけている。モロク近郊のソグラト砂漠のどこかにアサシンギルドが隠されているという噂があり、志あるアサシンたちはそれを求めて砂漠を探索している。
+構成されている。血の汚れのせいで
+パヨンはルーンミッドガッツ王国の北西に位置する山岳の村である。パヨンの山岳地帯では優れた弓作りと弓術の技が発展し、アーチャーの村、そして優れたハンターを育成する地として有名になった。パヨンのアーチャーは決して標的を外さないと広く信じられている。強力な複合弓である「ガンボウ」は、パヨンの特産品の一つである。
 
-------------------------------------------
+構成されている。血の汚れのせいで
 
-What is a ^ff0000Condensed Potion^000000?
+静寂の都市アルデバランは、中心にそびえる神秘的な時計塔で有名である。アルデバランの発展初期、この都市の職人たちは無数の手作り時計を生み出し、壊れたり故障したりした時計を都市の古い塔に廃棄していた。何らかの理由で、塔の魔力がこれらの時計を生きた悪意あるモンスターへと変貌させた。これらの怪物のような時計はやがて塔から全ての人間を追い出し、時計塔は時計モンスターが自由に徘徊し増殖する恐るべきダンジョンと化した。多くの好奇心旺盛で善意ある冒険者が邪悪な時計を駆除するために時計塔を探索したが、無事に戻れた者はわずかである。今日に至るまで、アルデバラン時計塔の謎を解き明かした者はいない。
 
-A condensed potion is an incredibly dense potion
-that has the same effectiveness as its normal
-counterpart, but is much lighter in weight.
-Condensing potions is a great convenience
-since it increases the amount of potions that
-Alchemists and other adventurers can carry.
-
-
-^0000ffRed Slim Potion^000000: Restores 45 HP.
-Required Materials: ^4b00821 Red Potion,
-1 Cactus Needle, 1 Empty Cylinder^000000
-
-Process: Slowly pour a red potion into a medicine
-bowl, and mix in ground cactus needle. You must
-keep this book with you as a reference while you
-use the Prepare Potion skill to pour the solution
-into an empty cylinder.
-
-^800000Yellow Slim Potion^000000 : Restores 175 HP
-Required Materials: ^4b00821 Yellow Potion ,
-1 Mole Whisker, 1 Empty Cylinder^000000
-
-Process: Slowly pour a yellow potion into
-a medicine bowl, and mix in boiled, liquefied
-mole whisker. You must keep this book with you
-as a reference while you use the Prepare Potion
-skill to pour the solution into an empty cylinder.
+黄金色になるまで炒める。
+6. 炒めた腱を皿に盛り付け、イカ墨ソースをかける。
+x月4日
+材料: ^4b008210 マンイーターの根, 1歌う植物, 5アロエの葉, 5ロイヤルゼリー,
+誰がこの本を書いたのだ？……どうしても
+必要な情報が欠落しすぎている気がする。
 
 
+3. 刻んだマンイーターの根をアロエの葉で包む。包んだ
+x月17日
+4. カクテルを作るため、漉し器か布で出汁を漉す。
 
-^008040White Slim Potion^000000: Restores 325 HP.
-Required Materials: ^4b00821 White Potion,
-1 Witch Starsand, 1 Empty Cylinder^000000
+ほんの一部だが……
+6 ロイヤルゼリー, 1 イエロースパイス ^000000
+を水と混ぜて漬け汁を作る。
+^800000フルストゥルミルのトニック:^000000 伝説の池の水で作られたアルコール飲料。
+材料: ^4b00821 ユグドラシルの実, 10氷塊, 10バシラス, 4ロイヤルゼリー,
 
-Process: Slowly pour a white potion into a medicine
-bowl, and mix in witch starsand. You must keep this
-book with you as a reference while you use the Prepare
-Potion skill to pour the solution into an empty cylinder.
+作り方：
+この本は……危険だ……しかし……
+2. バシラス、アルコール、よく乾燥させた幻の花、集中ポーション
+
+処理：イエローポーションをゆっくりと注ぐ
+3. 熟成させた集中ポーション、ロイヤルゼリー、皮をむいた果実を
+x月25日
+熟成期間によって異なる。
+もう自分を抑えられない。読むのを止められない……
+
+
+
+x月10日
+3苦い草, 10ロイヤルゼリー, 1スパイシーソース, 1鍋 ^000000
+研究はほぼ完了した。完成すれば……
+
+よく洗う。
+2. アロエジュース、刻んだユグドラシルの葉、ロイヤルゼリー、スパイシーソース
+x月3日
+x月30日

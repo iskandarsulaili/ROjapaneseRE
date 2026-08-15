@@ -1,46 +1,46 @@
 %faf0e6
-^000088Alchemy Basics: Alcohol Creation^000000
+^000088エピソード：ルーンミッドガッツ王国 ^000000
 
 
-----------------Preface--------------------
+特別なサイン入りのものでもある。
 
-The entire alchemy world is panicking, even as I write
-this. Hundreds of Alchemists, despairing of their studies,
-have produced copious amounts of alcohol using the method
-that was announced by the Scholar Association. None of us
-expected this disaster to happen, but more and more Alchemists
-are abusing this alcohol production method. I hope you, fair reader,
-never succumb to the ills of alcohol once you decide to learn alchemy.
-I leave this you this book, hoping that it will prevent future Alchemists
-from harming themselves with the knowledge they learn.
+^ff0000蒸しタン:^000000
+魔法の都市ゲフェンは、ルーンミッドガッツ王国の北西に位置している。この都市は多くの志あるマジシャンを惹きつけ、ゲフェンタワーは魔法の達人たちにとって聖地であり、ゲフェンの象徴とみなされている。エルフの財宝が隠された古代の神秘の都市ゲフェニアへ至る秘密が、ゲフェンにあると噂されている。
+ページのあちこちに血の跡があり、
+モロクはルーンミッドガッツ王国の南西に位置する砂漠の小さな町である。モロクの乾燥した暑さから遠ざかる者が多いが、シーフギルドの拠点であるため、志あるシーフを惹きつけている。モロク近郊のソグラト砂漠のどこかにアサシンギルドが隠されているという噂があり、志あるアサシンたちはそれを求めて砂漠を探索している。
+構成されている。血の汚れのせいで
+パヨンはルーンミッドガッツ王国の北西に位置する山岳の村である。パヨンの山岳地帯では優れた弓作りと弓術の技が発展し、アーチャーの村、そして優れたハンターを育成する地として有名になった。パヨンのアーチャーは決して標的を外さないと広く信じられている。強力な複合弓である「ガンボウ」は、パヨンの特産品の一つである。
+3. アロエを斜め切りにし、皿の縁に並べて盛り付ける。
+アルベルタはルーンミッドガッツ王国の南西に位置する海外貿易の都市である。イズルードからアルベルタへ向かう船は海賊の標的となることが多いが、陸路でアルベルタへ向かうのはさらに困難で時間がかかるとされている。アルベルタは、海賊の脅威にもかかわらず、その活気ある雰囲気と自由貿易政策、そしてミッドガルド大陸の全商業権の30%を所有するマーチャントギルドによって繁栄している。
+4. 下茹でした舌の皮、筋肉、腱を取り除き、スパイシーソースと
 
-"Alcoholism... It's no good!"
+5. スパイシーソースを好みの量加え、舌のサラダを皿に盛り付けて提供する。
 
-------------------------------------------
+構成されている。血の汚れのせいで
 
 
 
-What is^ff0000alcohol^000000?
+必要な情報が欠落しすぎている気がする。
 
-In chemistry, an alcohol is any organic compound
-in which a hydroxyl group (-OH) is bound to a carbon
-atom of an alkyl or substituted alkyl group.
+2. マンイーターの根を洗って刻む。刺々しい果実を洗う。
+3. 刻んだマンイーターの根をアロエの葉で包む。包んだ
+x月17日
 
-The general formula is ROH. Methanol is formed when
-an alkyl group bonds to a methyl group, a hydrophobic alkyl
-group derived from ethane. Ethanol is formed when an alkyl
-group bonds to an ethyl group, an alkyl functional group derived
-from ethane. The structure of an alkyl is the same as its straight
-chained hydrocarbon counterpart but with one less hydrogen atom. 
+この本には非常に興味深い内容がある……
+ほんの一部だが……
+6 ロイヤルゼリー, 1 イエロースパイス ^000000
+^800000天のフルーツジュース:^000000 雲の上に浮かんでいるような気分にさせる風味のフルーツジュース
+^800000フルストゥルミルのトニック:^000000 伝説の池の水で作られたアルコール飲料。
+材料: ^4b00821 ユグドラシルの実, 10氷塊, 10バシラス, 4ロイヤルゼリー,
  
 
-Ingredients: ^4b00825 stem, 5 Poison Spore,
-1 Empty Test Tube, 1 Empty Bottle^000000
+この本は……危険だ……しかし……
+2. バシラス、アルコール、よく乾燥させた幻の花、集中ポーション
 
-Directions:
-Put sugared stems and poison spores in the empty bottle.
-Add some water and boil. Collect the gas, and then cool it down
-for distillation. Place the liquified gas in the empty test tube. Keep
-this book with you and refer to it while you gather the ingredients
-and use the Prepare Potion skill so that you can create Alcohol.
+方向:
+3. 熟成させた集中ポーション、ロイヤルゼリー、皮をむいた果実を
+x月25日
+熟成期間によって異なる。
+もう自分を抑えられない。読むのを止められない……
+作り方：
 

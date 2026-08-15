@@ -1,223 +1,223 @@
-%f5f5dc
-^000088Kreiger Von Midgard Reward Items!!^000000
-
-Kreiger Von Midgard Reward Items
-Additional Weapon Refining Level Option. ^ff0000(However, the options below will be implemented up to the upgrade 14.)^000000
-^ff0000[Slaughter]^000000 - Increase the physical attack power
-^fa8072[Destruction]^000000 - Increase the spell power
-^0000ff[Bless]^000000 - Increase the restoration of heal skill
-
-
-^008040Glorious Gladius^000000 - Indestructible.
-Physical Attack against Demihuman monsters +75%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-When users attack with it, they have some chance of autocasting the spell Lv 1 [Lex Divina].
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Demihuman physical +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : When using the [Sightless Mind], has a chance of inflicting [Bleed] in a 5x5 area
-Type : ^777777Dagger^000000    Attack : ^777777120^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Novice Class / Swordman Class / Mage Class / Archer Class / Merchant Class / Thief Class / Ninja Class^000000
-
-^008040Glorious Flamberge^000000 - Indestructible.
-Physical Attack against Demihuman monsters +75%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Demihuman physical defense +5%, ^ff0000[Slaughter]^000000 Lv 1
-+7 Upgrade : Aspd +5%
-+9 Upgrade : Aspd +5%, When using [Bash], has a chance of activating Lv. 2 [Fatal Wound].
-Type : ^777777Onehand Sword^000000    Attack : ^777777130^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Novice Class / Swordman Class / Merchant Class / Thief Class^000000
-
-^008040Glorious Rapier^000000 - Indestructible.
-Int +1, Matk +10%, Increases Int based on the refine level.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Decrease SP consumption by 10%.
-+9 Upgrade : Int +5
-Type : ^777777Onehand Sword^000000    Attack : ^777777130^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Novice Class / Swordman Class / Merchant Class / Thief Class^000000
-
-
-^008040Glorious Holy Avenger^000000 - Indestructible.
-Int +6, Matk +10%, Increases Int based on refine level.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Decrease SP consumption by 10% 
-+9 Upgrade : When using [Gloria Domini], will also cast Lv.1 [Lex Aeterna].
-+10 Upgrade : Int +5
-Type : ^777777Onehand Sword^000000    Attack : ^777777130^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Swordman Class / Merchant Class^000000
-
-^008040Glorious Spear^000000 - Indestructible.
-Physical Attack Strength to Demihuman monster +95%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Demihuman physical defense +5%, Aspd +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : Knight Class: When using [Pierce], has a chance of inflicting Lv. 2 [Fatal Wound].
-    Crusader Class: When attacking normally, has a chance of casting Lv. 5 [Gloria Domini].
-Type : ^777777Onehand Spear^000000    Attack : ^777777130^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Swordman Class^000000
-
-^008040Glorious Arc Wand^000000 - Indestructible.
-Increases Matk to Demihuman monsters by 15%.
-Ignores Mdef from Demihuman monsters by 25%.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Mdef of Demihuman monsters +5%.
-+9 Upgrade : Matk +5%, Floating Casting Time reduces by 5%, Cast delay reduces by 5%
-Type : ^777777One handed Staff^000000  Attack : ^77777770^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Mage Class / Acolyte Class / Soul Linker^000000
-
-^008040Glorious Healing Staff^000000 - Indestructible.
-HP Recovery +14% when using [Heal] or [Sanctuary].
-Delay reduces by 10% after using skills.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Mdef of Demihuman monsters +5%, HP Recovery +5%, ^0000ff[Bless]^000000 Lv 1
-+9 Upgrade : When using [Heal], has a chance of casting Lv. 10 [Heal].
-+10 Upgrade : HP Recovery +10%.
-Type : ^777777Staff^000000  Attack : ^77777770^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Mage Class / Acolyte Class / Soul Linker^000000
-
-^008040Glorious Morningstar^000000 - Indestructible.
-Physical Attack against Demihuman monsters +75%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Demihuman physical defense +5%, Aspd +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : Aspd +5%, has a chance of Inflicting [Stun] when normally attacking.
-Type : ^777777Mace^000000    Attack : ^777777130^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Novice Class / Swordman Class / Acolyte Class / Merchant Classes^000000
-
-^008040Glorious Cleaver^000000 - Indestructible.
-Physical Attack against Demihuman monsters +75%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Demihuman physical defense +5%, Aspd +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : Has a chance of casting Lv. 1 [Fatal Wound], Aspd +5%.
-    When using [Mammonite], has a chance of casting Lv. 2 [Fatal Wound].
-Type : ^777777Onehand Axe^000000    Attack : ^777777130^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Swordman Class / Merchant Class^000000
-
-^008040Glorious Guitar^000000 - Indestructible.
-Physical Attack Strength to Demihuman monsters +95%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Demihuman physical defense +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : When using [Arrow Vulcan], has a chance of casting Lv. 5 [Tarot Card of Fate].
-Type : ^777777Musical Instrument^000000  Attack : ^77777750^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Bard^000000
-
-^008040Glorious Lariat^000000 - Indestructible.
-Physical Attack Strength to Demihuman monsters +95%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Demihuman physical defense +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : When using [Arrow Vulcan], has a chance of casting Lv. 5 [Tarot Card of Fate].
-Type : ^777777Whip^000000  Attack : ^77777750^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Dancer^000000
-
-
-^008040Glorious Tablet^000000 - Indestructible.
-Matk +15%, Physical Attack Strength to Demihuman monsters +80%. 
-Ignore 25% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Magical Defense of Demihumans +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : When physically attacking, has a chance of adding Atk +200 for 3 seconds.
-Type : ^777777Book^000000    Attack : ^77777790^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Priest / Sage / Taekwon Master^000000
-
-^008040Glorious Apocalypse^000000 - Indestructible.
-Matk +15%, Physical Attack Strength to Demihuman monsters +80%.
-Ignore 25% of Magic Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Magical Defense of Demihumans +5%
-+9 Upgrade : Matk +5%, Floating Casting Time reduces by 5%, Cast delay reduces by 5%
-Type : ^777777Book^000000    Attack : ^77777790^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Priest / Sage / Taekwon Master^000000
-
-
-^008040Glorious Claw^000000 - Indestructible.
-Physical Attack Strength to Demihuman monsters +95%.
-Ignore 25% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : When attacking, has a chance of casting
-    Lv 5 [Occult Impaction] & Lv 1 [Decrease AGI].
-Type : ^777777Claw^000000  Attack : ^77777730^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Priest / Monk^000000
-
-^008040Glorious Fist^000000 - Indestructible.
-Physical Attack Strength to Demihuman monsters +95%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : Reduces casting of [Guillotine Fist], when using [Fury], auto-casts Lv. 1 [Zen].
-Type : ^777777Claw^000000  Attack : ^77777730^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Priest / Monk^000000
+%faf0e6
+^000088エピソード：ルーンミッドガッツ王国 ^000000
+
+聖なる^880000ルーンミッドガッツ王国^000000は、ミッドガルド大陸の中央付近にある広大な領土を千年以上にわたり統治しており、現在は賢明で慈悲深いトリスタン三世王が治めている。ルーンミッドガッツ王国では多くの宗教が信仰されているが、オーディンが国家の主神である。オーディンを祀るプロンテラ大聖堂は、ルーンミッドガッツ王国の首都プロンテラに位置している。
+特別なサイン入りのものでもある。
+プロンテラはミッドガルド大陸の中央という地理的な利点により、貿易と商業の中心地として発展を遂げた。この首都はまた、ソードマンがナイトやクルセイダーに転職できる都市としても有名である。ソードマン協会もかつてはプロンテラにあったが、その施設はプロンテラの衛星都市であるイズルードへ移転された。
+^ff0000蒸しタン:^000000
+魔法の都市ゲフェンは、ルーンミッドガッツ王国の北西に位置している。この都市は多くの志あるマジシャンを惹きつけ、ゲフェンタワーは魔法の達人たちにとって聖地であり、ゲフェンの象徴とみなされている。エルフの財宝が隠された古代の神秘の都市ゲフェニアへ至る秘密が、ゲフェンにあると噂されている。
+
+
+構成されている。血の汚れのせいで
+料理できるほど強くなれる！
+煮込む。
+アルベルタはルーンミッドガッツ王国の南西に位置する海外貿易の都市である。イズルードからアルベルタへ向かう船は海賊の標的となることが多いが、陸路でアルベルタへ向かうのはさらに困難で時間がかかるとされている。アルベルタは、海賊の脅威にもかかわらず、その活気ある雰囲気と自由貿易政策、そしてミッドガルド大陸の全商業権の30%を所有するマーチャントギルドによって繁栄している。
+よく洗う。
+静寂の都市アルデバランは、中心にそびえる神秘的な時計塔で有名である。アルデバランの発展初期、この都市の職人たちは無数の手作り時計を生み出し、壊れたり故障したりした時計を都市の古い塔に廃棄していた。何らかの理由で、塔の魔力がこれらの時計を生きた悪意あるモンスターへと変貌させた。これらの怪物のような時計はやがて塔から全ての人間を追い出し、時計塔は時計モンスターが自由に徘徊し増殖する恐るべきダンジョンと化した。多くの好奇心旺盛で善意ある冒険者が邪悪な時計を駆除するために時計塔を探索したが、無事に戻れた者はわずかである。今日に至るまで、アルデバラン時計塔の謎を解き明かした者はいない。
+5. スパイシーソースを好みの量加え、舌のサラダを皿に盛り付けて提供する。
+黄金色になるまで炒める。
+6. 炒めた腱を皿に盛り付け、イカ墨ソースをかける。
+
+材料: ^4b008210 マンイーターの根, 1歌う植物, 5アロエの葉, 5ロイヤルゼリー,
+料理できるほど強くなれる！
+煮込む。
+よく洗う。
+^ff0000[時間の装飾]^000000
+3. 刻んだマンイーターの根をアロエの葉で包む。包んだ
+x月17日
+作り方：
+この本は……危険だ……しかし……
+
+6 ロイヤルゼリー, 1 イエロースパイス ^000000
+^800000天のフルーツジュース:^000000 雲の上に浮かんでいるような気分にさせる風味のフルーツジュース
+よく洗う。
+材料: ^4b00821 ユグドラシルの実, 10氷塊, 10バシラス, 4ロイヤルゼリー,
+x月3日
+作り方：
+この本は……危険だ……しかし……
+
+
+^008040栄光の聖なるアヴェンジャー^000000 - 破壊不可。
+3. 熟成させた集中ポーション、ロイヤルゼリー、皮をむいた果実を
+よく洗う。
+熟成期間によって異なる。
+もう自分を抑えられない。読むのを止められない……
+作り方：
+作り方：
+作り方：
+
+3苦い草, 10ロイヤルゼリー, 1スパイシーソース, 1鍋 ^000000
+研究はほぼ完了した。完成すれば……
+煮込む。
+よく洗う。
+作り方：
+を水と混ぜて漬け汁を作る。
+x月30日
+これらの材料を鍋に移し、密閉するために蓋を閉める。
+[デスポイント]
+
+午後5時頃に鍋を取り出す。
+5. 蒸した砂漠サソリの尾とハサミを皿に盛り付ける。
+このページは少ししわくちゃだが、他のページに
+よく洗う。
+^ff8040不滅のシチュー: ^000000不老不死を得るために東の皇帝が求めたと噂される料理。
+x月1日
+マーマンの心臓10個、スパイシーソース2個、お守り10個、苦いハーブ2個 ^000000
+作り方：
+
+詳しく記されていることが分かった。私はこの島で孤独であり、
+好奇心に抗えなかったのだ。
+3. 不滅の心臓、スパイシーソース、細切りにしたお守りを一緒に炒める。
+よく洗う。
+悪魔か天使か……結果は明日、
+日記に記すことにする。
+6. 刻んだ苦いハーブとユグドラシルの種を加え、
+再び煮立つまでとろ火で煮込む。
+作り方：
+
+乾いた血で暗赤色に染まっている。
+料理できるほど強くなれる！
+煮込む。
+よく洗う。
+作り方：
+1. 九尾の尾の皮を剥ぎ、流水で洗う。皮を剥いだ九尾の尾を下茹でし、
+余分な水と脂分を切り落とす。
+2. マンイーターの根を洗って刻む。鋭い刃を下茹でし、半分に切る。
+
+4. 九尾の尾をそのソースに漬け込む。
+料理できるほど強くなれる！
+煮込む。
+よく洗う。
+作り方：
+葉の色が黄色くなりすぎるため。）
+材料: ^4b008210 イチゴ, 5 袋の穀物, 10 イチジクの葉, 1 イエロースパイス, 2 レッドスパイス,
+1 セイバリーソース ^000000
+作り方：
+
+2. イチゴを絞ってイチゴジュースを作る。
+DEX +1、遠距離攻撃ダメージ +1%。
+煮込む。
+よく洗う。
+^ff0000[時間の装飾]^000000
+時の流れに囚われた気がする。
+^ff0000[正義制御 3レベル : オフェンシブモード]^000000
+"無質序自敵に風の力で深判を鳴り響かせます。"
+
+[ストームウィンド]
+DEX +1、遠距離攻撃ダメージ +1%。
+煮込む。
+よく洗う。
+^ff0000[時間の装飾]^000000
+時の流れに囚われた気がする。
+クラス : コスチューム
+防御 : 0
+
+
+要求レベル : 1
+召喚された大地の上位精霊テレモトゥスは召喚者に特別な大地の力を付与し、
+[ポイズンスラッド]
+よく洗う。
+持続効果 : 地属性魔法ダメージ10%増加、[テラドライブ]のMATK増加。
+クラス : コスチューム
+回復量+5%。
+種別 :  鈍器  ATK :  120
+
+[アースケア]
+i. 召喚者のアーススパイラクスのMATKが800%加算される。
+(ダメージは召喚者のベースレベルにより追加で増加される。)
+よく洗う。
+iii. サイキックウェーブの攻撃属性が地属性になる。
+x月1日
+回復量+5%。
+種別 :  鈍器  ATK :  120
+
+
+"強靭な大地の不屈さをのんびりと見守れよ"
+DEX +1、遠距離攻撃ダメージ +1%。
+[ポイズンスラッド]
+よく洗う。
+防御: ^7777776^000000
+重量: ^77777720^000000
+^ff0000[正義制御 3レベル : オフェンシブモード]^000000
+"大地の分野を執行する"
+装備可能職業 : ^777777アーチャー^000000
+
+i. 対象周辺9x9範囲内の敵に単単な岩石創出で
+DEX +1、遠距離攻撃ダメージ +1%。
+煮込む。
+よく洗う。
+防御: ^7777776^000000
+最大HP + 100、最大SP + 100。プレイヤーキャラクターから受けるダメージ-15%。
+"大地の分野を執行する"
+装備可能職業 : ^777777アーチャー^000000
 
-^008040Glorious Claymore^000000 - Indestructible.
-Physical Attack Strength to Demihuman monsters +70%.
-Ignore 25% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 2
-+9 Upgrade : When physically attacking, has a chance of casting
-    Lv. 1 [Spear Dynamo] and Lv. 1[Aura Blade].
-    *If a higher level of either spell has been learned, the corresponding level is activated.
-Type : ^777777Twohand Sword^000000   Attack : ^777777220^000000   Weight : ^7777770^000000   Weapon Lv : ^7777774^000000   Required Lv : ^77777780^000000
-Job : ^777777Swordman Class^000000
-
-
-
-
-
-
-
-
-
-^008040Glorious Lance^000000 - Indestructible.
-Physical Attack Strength to Demihuman monsters +70%.
-Ignore 25% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : If Crusader/Paladin Class attack, has a chance of casting Lv. 5 [Gloria Domini],
-    If Knight/Lord Knight Class use [Pierce], has a chance of casting Lv. 2 [Fatal Wound].
-Type : ^777777Twohand Spear^000000    Attack : ^777777220^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Swordman Class^000000
-
-^008040Glorious Destruction Staff^000000 - Indestructible.
-Magic Attack strength to Demihuman monsters +15%.
-Ignore 25% of Magic Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Magic Defense of Demihumans +5%, ^fa8072[Destruction]^000000 Lv 1
-+9 Upgrade : When using Lv. 10 [Lord of Vermilion], Lv. 10 [Meteor Storm] or Lv. 10 [Storm Gust],
-    has a chance of casting Lv. 10 [Safety wall].
-Type : ^777777Twohand Staff^000000  Attack : ^77777770^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Mage Class / Acolyte Class / Soul Linker^000000
-^008040Glorious Bloody Roar^000000 - Indestructible.
-Physical Attack Strength to Demihuman monsters +70%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore physical defense of Demihumans +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : When physically attacking, has a chance of adding Aspd +100% for 3 seconds.
-Type : ^777777Katar^000000   Attack : ^777777140^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Assassin^000000
+水中で呼吸できるようにはならない。
+CRIT +1
+[ポイズンスラッド]
+よく洗う。
+エンジェリックガード
+防御: ^7777775^000000
+^fa8072[正義制御 1レベル : パッシブモード]^000000
+"感じ取れるだろうか？召喚者よ"
+装備可能職業: ^777777ソードマン^000000
+[デスポイント]
+
+
+
+
+
+
+
+
+
+"盲毒の力で貴を保護してくれよ"
+CRIT +1
+[ポイズンスラッド]
+よく洗う。
+防御: ^7777776^000000
+位置: ^777777下段^000000
+^ff0000[正義制御 3レベル : オフェンシブモード]^000000
+"盲毒の力で皆執行してくれよ！"
+[デスポイント]
+
+i. 対象周辺9x9範囲に盲毒を撒き範囲内の敵に
+対象の魔法防御力を無視するMATK 700%地属性魔法ダメージを5回与える。
+(ダメージは召喚者のベースレベルにより追加で増加される。)
+よく洗う。
+最大HP + 100。プレイヤーキャラクターから受けるダメージ - 5%。
+種別 : アクセサリー 防御 : 0
+重量 : 0 装備レベル : 40 職業 : 全職業
+種別 : ^777777両手杖^000000  攻撃 : ^77777770^000000    重量 : ^7777770^000000   武器Lv : ^7777774^000000    要求Lv : ^77777780^000000
+作り方：
+あらゆる火災の衝撃から顔を守る。
+CRIT +1
+煮込む。
+よく洗う。
+種別: ^777777帽子^000000
+防御: ^7777772^000000
+凍結耐性 +25%。
+重量: ^77777730^000000
 
-^008040Glorious Jamadhar^000000 - Indestructible.
-Physical Attack Strength to Demihuman monsters +70%.
-Critical Attack to Demihuman monsters +20%.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Critical Attack to Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : When physically attacking, has a chance of adding Aspd +100% for 3 seconds.
-Type : ^777777Katar^000000   Attack : ^777777140^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Assassin^000000
+溶接マスク 1個 + 粗いエナジークリスタル 200個
+CRIT +1
+^008040[改造セーフティリング]^000000
+よく洗う。
+｡ﾘ TE WOE ????????????
+防御: ^7777772^000000
+凍結耐性 +25%。
+重量: ^77777730^000000
 
 
-^008040Glorious Twohand Axe^000000 - Indestructible.
-Physical Attack Strength to Demihuman monsters +70%.
-Ignore 25% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore physical defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 2
-    When attacking, has a chance of casting Lv. 1 [Fatal Wound].
-+9 Upgrade : When attacking, the chance of casting Lv. 1 [Fatal Wound] +5%
-    Using [Mammonite] or [High Speed Cart Ram], has a chance of casting Lv. 2 [Fatal Wound]
-Type : ^777777Twohand Axe^000000    Attack : ^777777220^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Swordman Class / Merchant Class^000000
+DEF +10、MDEF +5、全ステータス +1。
+CRIT +1
+[ポイズンスラッド]
+よく洗う。
+重量: ^77777710^000000
+装備レベル: ^77777750^000000
+職業: ^777777ノービスを除く全て^000000
+スロット: ^7777771^000000
+^ff0000[必要材料]^000000
+作り方：
 
 
 
@@ -227,17 +227,17 @@ Job : ^777777Swordman Class / Merchant Class^000000
 
 
 
-^008040Glorious Shuriken^000000 - Indestructible.
-MATK + 15%, Physical Attack Strength to Demihuman monster +95%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-When attacking, has a chance of adding Atk +100%
-to [Throw Huuma Shuriken] and [Killing Stroke] for 10 seconds.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 2
-+9 Upgrade : When using [Killing Stroke], auto-casts Lv. 10 [Heal] Lv.10 on its user.
-    When using [Throw Huuma Shuriken], has a chance of casting Lv. 2 [Fatal Wound].
-Type : ^777777Huuma^000000    Attack : ^77777755^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Ninja^000000
+あなたにだけのために作られたかのように抱きしめてくれる！
+MDEF +30
+煮込む。
+^777777エンジェリック装備セットボーナス^000000
+^008800エンジェリックプロテクション
+よく洗う。
+エンジェリックガード
+エンジェリックカーディガン
+エンジェルスキス^000000
+最大HP +900、最大SP +100、物理ダメージを受けた時アスムプティオを発動する確率がある。
+種別: ^777777鎧^000000
 
 
 
@@ -246,36 +246,36 @@ Job : ^777777Ninja^000000
 
 
 
-^008040Glorious Hunter Bow^000000 - Indestructible.
-Physical Attack Strength to Demihuman monster +55%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option: ^ff0000Up to +10^000000, increases critical damage by as much as (upgrade level * 2)%
-+6 Upgrade : Ignore physical defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : [Double Strafe] +20% Atk.
-Type : ^777777Bow^000000    Attack : ^777777100^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Archer Class / Thief / Rogue^000000
+説明: スーパーノービスのための天使の盾。
+重量: ^77777740^000000
+煮込む。
+神聖な悪魔耐性の力を宿している。
+悪魔型モンスターから受けるダメージを5%減少させる。
+無属性攻撃を除く全属性攻撃のダメージを5%減少させる。
+[+^008800改造エンジェリックプロテクション^000000]
+全ステータス +2
 
-^008040Glorious Pistol^000000 - Indestructible.
-Physical Attack Strength to Demihuman monster +55%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore physical defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : When using [Trigger Happy Shot], auto-casts Lv.1 [Coin Flip].
-    [Trigger Happy Shot] attack strength increases based on refine level.
-Type : ^777777Revolver^000000   Attack : ^77777780^000000   Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Gunslinger^000000
+防御: ^77777730^000000
+重量: ^77777740^000000
+煮込む。
+よく洗う。
+悪魔型モンスターから受けるダメージを5%減少させる。
+^008040[改造エンジェリックガード]^000000
+スロット: ^7777771^000000
+^ff0000[必要材料]^000000
+^ff0000[必要材料]^000000
 
 
-^008040Glorious Rifle^000000 - Indestructible.
-Physical Attack against Demihuman monsters +75%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-30% increase in damage of [Triple Action].
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore physical defense of Demi-human monsters +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : 25% increase in floating casting time of [Tracking] skill, 
-    [Tracking] attack strength increases based on refine level.
-Type : ^777777Rifle^000000   Attack : ^77777790^000000   Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Gunslinger^000000
+MATK +20。
+料理できるほど強くなれる！
+煮込む。
+AGI +5, Flee +10
+よく洗う。
+重量: ^77777730^000000
+エンジェリックプロテクション 1個、精製されたエナジークリスタル 100個 または 高濃度エナジークリスタル 20個
+^008040[改造エンジェリックガード]^000000
+スロット: ^7777771^000000
+^ff0000[必要材料]^000000
 
 
 
@@ -285,15 +285,15 @@ Job : ^777777Gunslinger^000000
 
 
 
-^008040Glorious Gatling Gun^000000 - Indestructible.
-Physical Attack Strength to Demihuman monsters +35%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-30% increase in damage of [Triple Action].
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : Attack strength increases based on refine level.
-Type : ^777777Gatling Gun^000000   Attack : ^77777790^000000   Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Gunslinger^000000
+どんな天候でも暖かさを保つ。
+HP回復率 +50%
+煮込む。
+AGI +5, Flee +10
+よく洗う。
+防御: ^7777776^000000
+^008040[改造エンジェルリンカネーション]^000000
+エンジェリックプロテクション 1個、精製されたエナジークリスタル 100個 または 高濃度エナジークリスタル 20個
+^ff0000[必要材料]^000000
 
 
 
@@ -304,16 +304,16 @@ Job : ^777777Gunslinger^000000
 
 
 
-^008040Glorious Shotgun^000000 - Indestructible.
-Physical Attack Strength to Demihuman monsters +55%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-30% increase in damage of [Triple Action]. Splash Attack.
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : [Spread Shot] attack strength increases based on refine level.
-    Has a chance of adding [Stun] effect when using [Spread Shot].
-Type : ^777777Shotgun^000000   Attack : ^777777110^000000   Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
-Job : ^777777Gunslinger^000000
+SP回復率 +30%
+改造天使のカーディガンと併用した場合、
+煮込む。
+種別: ^777777帽子^000000
+よく洗う。
+防御: ^7777776^000000
+重量: ^77777730^000000
+エンジェリックプロテクション 1個、精製されたエナジークリスタル 100個 または 高濃度エナジークリスタル 20個
+^008040[改造エンジェリックガード]^000000
+^ff0000[必要材料]^000000
 
 
 
@@ -323,78 +323,78 @@ Job : ^777777Gunslinger^000000
 
 
 
-^008040Glorious Grenade Launcher^000000 - Indestructible.
-Physical Attack Strength to Demihuman monster +35%.
-Ignore 20% of Physical Defense of Demihuman monsters.
-30% increase in damage of [Triple Action].
-***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 1
-+9 Upgrade : [Gunslinger Mine] attack strength increases based on refine level.
-    Has a chance of adding Aspd +20% for 20 seconds when attacking.
-Type : ^777777Grenade Launcher^000000   Attack : ^777777330^000000   Weight : ^7777770^000000   Weapon Lv : ^7777774^000000   Required Lv : ^77777780^000000
-Job : ^777777Gunslinger^000000
+そのグロテスクな外見は持ち主の性格をよく表している。
+非常に使い込まれている。
+煮込む。
+AGI +5, Flee +10
+よく洗う。
+防御: ^7777776^000000
+防御: ^77777710^000000
+位置: ^777777上段^000000
+重量: ^77777750^000000
+^ff0000[必要材料]^000000
 
-^008040Glorious Muffler^000000
-HP +5%, 5% additional resistance to attacks from Demihuman monsters.
-Type : ^777777Garment^000000    Defense : ^7777770^000000   Weight : ^7777770^000000    Required Lv : ^77777781^000000
-Job : ^777777All excpet Novice Class^000000
+スロット: ^7777771^000000
+^ff0000[必要材料]^000000
+コルセア1個、高エネルギークリスタル300個
+種別: ^777777帽子^000000
 
 
 
 
-^008040Glorious Shoes^000000
-HP +10%, 4% additional resistance to attacks from Demihuman monsters.
-When melee attacked, has a chance of casting Lv. 1 [Increase AGI].
-Type : ^777777Shoes^000000    Defense : ^7777770^000000   Weight : ^7777770^000000    Required Lv : ^77777781^000000
-Job : ^777777All excpet Novice Class^000000
+受ける闇属性ダメージ +15%
+受ける無属性ダメージ -2%
+精錬値が+7以上の時、受ける無属性ダメージ -2%。
+精錬値が+9以上の時、受ける無属性ダメージ -2%。
+種別: ^777777帽子^000000
 
-^008040Glorious Mass-Production Shoes^000000
-MaxHP +5%, MaxSP +5%
-Type : ^777777Shoes^000000    Defense : ^7777770^000000   Weight : ^7777770^000000    Required Lv : ^77777761^000000
-Job : ^777777All excpet Novice Class^000000
+位置: ^777777上段^000000
+重量: ^77777780^000000
+装備可能職業: ^777777アサシン、プリースト^000000
+種別: ^777777帽子^000000
 
-^008040Glorious Popularized Shoes^000000
-MaxHP +5%
-Type : ^777777Shoes^000000    Defense : ^7777770^000000   Weight : ^7777770^000000
-Job : ^777777All excpet Novice Class^000000
+^ff0000[必要材料]^000000
+ボーンヘルム[1]1個、高エネルギークリスタル300個
+種別 : ^777777靴^000000    防御 : ^7777770^000000   重量 : ^7777770^000000
+種別: ^777777帽子^000000
 
 
 
 
-^008040Glorious Suit^000000
-HP + 20%, 7% additional resistance to attacks from Demihuman monsters
-When equipped with Glorious Shoes and Glorious Muffler,
-    attack strength to all enemies increase by 5%, Matk +5%,
-Gives HP Recovery +3% when using [Heal], [Potion Pitcher], or [Sanctuary].
-100% resistance to freeze state.
-Type : ^777777Armor^000000    Defense : ^7777770^000000   Weight : ^7777770^000000    Required Lv : ^77777781^000000
-Job : ^777777All excpet Novice Class^000000
+作成者は不明。
+AGI +1, LUK +1, MDEF +3
+精錬値が+7以上の時、AGI +2, LUK +2
+精錬値が+9以上の時、ASPD +1
+種別: ^777777帽子^000000
+防御: ^77777710^000000
+位置: ^777777上段^000000
+種別: ^777777帽子^000000
 
-^008040Glorious Mass-Production Suit^000000
-HP +600, SP Recovery rate +10%
-Type : ^777777Armor^000000    Defense : ^7777770^000000   Weight : ^7777770^000000    Required Lv : ^77777761^000000
-Job : ^777777All excpet Novice Class^000000
+装備: ^7777772次職、スターグラディエーター、ソウルリンカー、影狼、
+朧、リベリオン^000000
+スロット: ^7777771^000000
+種別: ^777777帽子^000000
 
-^008040Glorious Popularized Suit^000000
+^008040栄光の量産型スーツ^000000
 HP +500
-Type : ^777777Armor^000000    Defense : ^7777770^000000   Weight : ^7777770^000000
-Job : ^777777All excpet Novice Class^000000
+種別 : ^777777鎧^000000    防御 : ^7777770^000000   重量 : ^7777770^000000
+種別: ^777777帽子^000000
 
-^008040Glorious Ring^000000
-HP +300. Resistance to attacks with Water, Wind, Earth, and Fire properties +10%.
-Aspd +5%. Floating Casting Speed +3%
-HP recovery +5% when using [Heal], [Sanctuary], or [Potion Pitcher].
-When equipped with a Medal of Honor, Attack power against all enemies +5%, MATK +3%, 
-HP recovery +5% when using [Heal], [Sanctuary], or [Potion Pitcher].
-Type : ^777777Accessory^000000   Defense : ^7777770^000000      Weight : ^7777770^000000   Required Lv : ^77777781^000000
-Job : ^777777All excpet Novice Class^000000
+この帽子をかぶってどうやって歩くのかは聞かないでほしい。
+STR +3, INT +2, ATK +10, MATK +10。
+精錬値が+7以上の時、ATK +15, MATK +15。
+防御: ^7777774^000000
+種別: ^777777帽子^000000
+防御: ^7777774^000000
+位置: ^777777上段、中段^000000
+種別: ^777777帽子^000000
 
-^008040Glorious Mass-Production Ring^000000
-All stats +2.
-Type : ^777777Accessory^000000    Defense : ^7777770^000000     Weight : ^7777770^000000    Required Lv : ^77777761^000000
-Job : ^777777All excpet Novice Class^000000
+装備: ^7777772次職、スターグラディエーター、ソウルリンカー、影狼、
+朧、リベリオン^000000
+スロット: ^7777771^000000
+種別: ^777777帽子^000000
 
-^008040Glorious Popularized Ring^000000
-All stats +1.
-Type : ^777777Accessory^000000   Defense : ^7777770^000000      Weight : ^7777770^000000
-Job : ^777777All excpet Novice Class^000000
+太陽神の兜[1]1個、高エネルギークリスタル100個
+全ステータス +1。
+種別 : ^777777アクセサリー^000000   防御 : ^7777770^000000      重量 : ^7777770^000000
+種別: ^777777帽子^000000

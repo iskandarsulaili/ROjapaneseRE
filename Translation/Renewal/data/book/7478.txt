@@ -1,77 +1,77 @@
 %faf0e6
-^000088We don't care who you are: our hearty cuisine will satisfy you 
-whether you're a hungry man, Poring, or a Poporing.^000000
+^000088エピソード：ルーンミッドガッツ王国 ^000000
+この本は、料理への情熱を完璧に体現する彼女の料理レシピが収められているため、
 
-Here's the secrets of our hearty cuisine, the Level 7 cooking recipes.
-
-
-^ff0000Whole Roast:^000000 enjoy this fully roasted spicy meat!
-Ingredients: ^4b008210 Meat, 1 Live Coal, 2 Coals, 1 Spicy Sauce, 15 Trunks, 10 White Herbs ^000000
-Directions: 
-	1. Wash the Meat under running water.
-	2. Thoroughly coat the Meat with Spicy Sauce.
-	3. Chop the White Herbs, and sprinkle on the marinaded Meat.
-	4. Start a fire with Live Coal and Coals.
-	5. Roast the marinaded Meat over Coals.
-	6. Add more Spicy Sauce over the Meat several times while it is roasting.
-	7. Serve with chopped White Herbs sprinkled on top.
-
-^0000ffSpecial Royal Jelly Herbal Tea:^000000 enjoy the sweet flavor of this special honey herbal tea.
-Ingredients: ^4b00824 Royal Jelly, 2 Honey, 5 White Herbs, 10 Hinalle Leaflets, 1 Yellow Spice ^000000
-Directions: 
-This recipe is basically the same as the Level 3 dish, Honey Herbal Tea, 
-but it adds higher quality herbs, Hinalle Leaflets, and Royal Jelly.
+特別なサイン入りのものでもある。
 
 
-^800000Soul Haunted Bread:^000000 be careful! This bread may steal your soul with its heavenly taste!
-Ingredients: ^4b008210 Bread, 5 Mastela Fruits, 1 Sweet Sauce, 5 Ments, 5 Amulets, 2 Unripe Apples ^000000
-Directions:
-	1. Peel off Mastela Fruits and Apples, and then cut them into bite size squares.
-	2. Wash Ments, and grind them to extract their juice. Mix this Ment juice with sugar 
-                     by a 1:1 ratio.
-	3. Coat the Mastela Fruits and Apples with this sugared Ment juice.
-	4. Refrigerate the mixture for 30 minutes.
-	5. Boil the mixture over high heat until it bubbles.
-	6. Reduce the heat to medium, add sugar, and boil down to make a jam.
-	7. Make sure to constantly stir the jam while it is boiling down.
-	8. Pulverize Amulets, and mix in Sweet Sauce. Refrigerate this new mixture 
-                    until the jam is finished.
-	9. Spread the jam and the Amulet mixed Sweet Sauce on pieces of bread, and enjoy!
+魔法の都市ゲフェンは、ルーンミッドガッツ王国の北西に位置している。この都市は多くの志あるマジシャンを惹きつけ、ゲフェンタワーは魔法の達人たちにとって聖地であり、ゲフェンの象徴とみなされている。エルフの財宝が隠された古代の神秘の都市ゲフェニアへ至る秘密が、ゲフェンにあると噂されている。
+ページのあちこちに血の跡があり、
+x月3日
+構成されている。血の汚れのせいで
+パヨンはルーンミッドガッツ王国の北西に位置する山岳の村である。パヨンの山岳地帯では優れた弓作りと弓術の技が発展し、アーチャーの村、そして優れたハンターを育成する地として有名になった。パヨンのアーチャーは決して標的を外さないと広く信じられている。強力な複合弓である「ガンボウ」は、パヨンの特産品の一つである。
+3. アロエを斜め切りにし、皿の縁に並べて盛り付ける。
+アルベルタはルーンミッドガッツ王国の南西に位置する海外貿易の都市である。イズルードからアルベルタへ向かう船は海賊の標的となることが多いが、陸路でアルベルタへ向かうのはさらに困難で時間がかかるとされている。アルベルタは、海賊の脅威にもかかわらず、その活気ある雰囲気と自由貿易政策、そしてミッドガルド大陸の全商業権の30%を所有するマーチャントギルドによって繁栄している。
+4. 下茹でした舌の皮、筋肉、腱を取り除き、スパイシーソースと
+静寂の都市アルデバランは、中心にそびえる神秘的な時計塔で有名である。アルデバランの発展初期、この都市の職人たちは無数の手作り時計を生み出し、壊れたり故障したりした時計を都市の古い塔に廃棄していた。何らかの理由で、塔の魔力がこれらの時計を生きた悪意あるモンスターへと変貌させた。これらの怪物のような時計はやがて塔から全ての人間を追い出し、時計塔は時計モンスターが自由に徘徊し増殖する恐るべきダンジョンと化した。多くの好奇心旺盛で善意ある冒険者が邪悪な時計を駆除するために時計塔を探索したが、無事に戻れた者はわずかである。今日に至るまで、アルデバラン時計塔の謎を解き明かした者はいない。
+5. スパイシーソースを好みの量加え、舌のサラダを皿に盛り付けて提供する。
 
-^008040Steamed Alligator with Vegetable:^000000 soft and chewy steamed alligator meat served 
-                                                                    with fresh vegetables.
-Ingredients: ^4b008210 Anolian Skin, 10 Jack o｡ｯ Pumpkins, 10 Carrots, 10 Aloe Leaflet, 
-                    10 Yellow Herbs, 1 Yellow Spice ^000000
-Directions: 
-	1. Wash Anolian Skin, and knead it while mixing it with salt, pepper, water, 
-                     and Yellow Spice. 
-	2. Cut the Carrots into thin and long slices. Parboil Aloe Leaflets and Yellow Herbs, 
-                     and then squeeze them dry. Cut Jack o' Pumpkins into thin slices, 
-                     fry the slices, and then cool.
-	3. Spread a cotton cloth onto a thick wooden plate, and place the kneaded Anolian Skin on
-                     the board. Place the plate inside a steamer, and steam for 15 minutes.
-	4. Cut the skin into bite sized pieces, and serve with vegetables.
+6. 炒めた腱を皿に盛り付け、イカ墨ソースをかける。
+x月4日
+x月3日
+誰がこの本を書いたのだ？……どうしても
+必要な情報が欠落しすぎている気がする。
 
-^ff8040Sumptuous Feast:^000000 partake of this delicious feast made with unique food ingredients.
-Ingredients: ^4b008210 Fish Tails, 5 Aloe Leaflets, 10 Manes, 2 Fresh Fishes, 10 Pet Food, 
-                   1 Sweet Sauce ^000000
-Directions: 
-	1. Parboil Aloe Leaflets in salty water.
-	2. Remove scales from the Fresh Fishes, coat them in Sweet Sauce, and set aside for 
-                   10 minutes.
-	3. Wrap the marinaded Fresh Fishes with Aloe Leaflets. Steam the wrapped fishes and 
-                    Fish Tails for 10 minutes, and then serve them on a plate.
-	4. Cut Manes into 4 cm long pieces, and then parboil them.
-	5. Cut the Pet Food into bite sized chunks, and mix with Sweet Sauce. 
-                    Broil the cut Pet Food on a frying pan.
+
+3. 刻んだマンイーターの根をアロエの葉で包む。包んだ
+x月17日
+方向:
+この本には非常に興味深い内容がある……
+ほんの一部だが……
+6 ロイヤルゼリー, 1 イエロースパイス ^000000
+^800000天のフルーツジュース:^000000 雲の上に浮かんでいるような気分にさせる風味のフルーツジュース
+^800000フルストゥルミルのトニック:^000000 伝説の池の水で作られたアルコール飲料。
+材料: ^4b00821 ユグドラシルの実, 10氷塊, 10バシラス, 4ロイヤルゼリー,
+x月3日
+作り方：
+この本は……危険だ……しかし……
+2. バシラス、アルコール、よく乾燥させた幻の花、集中ポーション
+を鍋に入れ、密閉するために蓋を閉める。約1週間熟成させる。
+
+3. 熟成させた集中ポーション、ロイヤルゼリー、皮をむいた果実を
+x月25日
+熟成期間によって異なる。
+もう自分を抑えられない。読むのを止められない……
+x月3日
+^008040スペシャルミートシチュー:^000000 あらゆる種類の肉が入った、甘い香りが漂う特製シチュー！
+^008040蒸し砂漠サソリ:^000000 熱い砂漠の砂の下で蒸した砂漠のサソリ。
+x月10日
+3苦い草, 10ロイヤルゼリー, 1スパイシーソース, 1鍋 ^000000
+研究はほぼ完了した。完成すれば……
+1. サソリの尾から毒腺を取り除き、ハサミと一緒に
+よく洗う。
+2. アロエジュース、刻んだユグドラシルの葉、ロイヤルゼリー、スパイシーソース
+
+x月30日
+これらの材料を鍋に移し、密閉するために蓋を閉める。
+ついに。完成した。これで、おそらく……
+x月3日
+午後5時頃に鍋を取り出す。
+5. 蒸した砂漠サソリの尾とハサミを皿に盛り付ける。
+このページは少ししわくちゃだが、他のページに
+比べればかなり読める状態だ。
+^ff8040不滅のシチュー: ^000000不老不死を得るために東の皇帝が求めたと噂される料理。
+x月1日
+マーマンの心臓10個、スパイシーソース2個、お守り10個、苦いハーブ2個 ^000000
+ついに研究が完成した。この本には
          
 
-^400080Assorted Shish Kebob:^000000 delectable shish kebobs made with meat, vegetables, and clams!
-Ingredients: ^4b008210 Scale Shells, 5 Gill, 10 Soft Blades of Grass, 5 Meat, 10 Edible Mushrooms, 10 Clam Flesh ^000000
-Directions: 
-	1. Cut the Soft Blades of Grass into 4 cm long pieces, and slice the Edible Mushrooms.
-	2. Wash the Scale Shells and the longest spines from the Gills under running cold water.
-	3. Parboil the Meat and Clam Flesh.
-	4. Skew the ingredients onto long Gill spines: first skew the meat, then the vegetables, 
-                    and finally the clam flesh.
-	5. Heat the Scale Shells over medium heat, and place the kebobs on the scales to cook.
+好奇心に抗えなかったのだ。
+3. 不滅の心臓、スパイシーソース、細切りにしたお守りを一緒に炒める。
+x月3日
+悪魔か天使か……結果は明日、
+日記に記すことにする。
+6. 刻んだ苦いハーブとユグドラシルの種を加え、
+再び煮立つまでとろ火で煮込む。
+作り方：
+残りのページはボロボロに破れ、
