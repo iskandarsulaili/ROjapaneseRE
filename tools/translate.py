@@ -54,6 +54,10 @@ SURFACE_HINTS = {
     "quest": "RO quest text. Natural, polite Japanese quest narration.",
     "book": "RO in-game book prose. Natural literary Japanese.",
     "plain": "Plain text line. Natural Japanese.",
+    "fragment": "This is a FRAGMENT (continuation line) of a multi-line description. "
+                "Translate it as a natural Japanese continuation. Preserve ^RRGGBB color "
+                "codes in the same order. Do NOT add sentence-ending punctuation if the "
+                "fragment is mid-sentence.",
 }
 
 # glossary sections relevant per surface (priority order)
@@ -323,8 +327,11 @@ def main():
         by_en = {}
         for e in entries:
             by_en.setdefault(e["en"], []).append(e)
-        uniq = [{"en": en, "path": [en]} for en in by_en]
-        print(f"dedupe: {len(entries)} entries -> {len(uniq)} unique EN", file=sys.stderr)
+        # carry over already-translated ja into the synthetic uniq entries
+        uniq = [{"en": en, "path": [en], "ja": (e["ja"] if e.get("ja") else None)}
+                for en, elist in by_en.items() for e in elist[:1]]
+        print(f"dedupe: {len(entries)} entries -> {len(uniq)} unique EN "
+              f"({sum(1 for u in uniq if u.get('ja'))} already translated)", file=sys.stderr)
         work = uniq
     else:
         work = entries
