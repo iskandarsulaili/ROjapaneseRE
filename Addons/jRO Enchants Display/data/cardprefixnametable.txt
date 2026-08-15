@@ -1,1448 +1,1448 @@
-4001#Lucky#
-4002#Vital#
-4003#Hard#
-4004#Dexterous#
-4005#Hallowed#
-4006#Lucky#
-4007#Beholder#
-4008#Extra#
-4009#Light#
-4010#Wise#
-4011#Dynamic#
-4012#Rigid#
-4013#Excellent#
-4014#of Champion#
-4015#Quick#
-4016#Speedy#
-4017#Stun#
-4018#Smart#
-4019#Martyr#
-4020#Blink#
-4021#Skillful#
-4022#of Spore#
-4023#of Desert#
-4024#Drowsy#
-4025#Keen#
-4026#Shrewd#
-4027#Athletic#
-4028#Double-forced#
-4029#Wolverine#
-4030#Windy#
-4031#of Mars#
-4032#of Athena#
-4033#Detoxication#
-4034#Clever#
-4035#Bloody#
-4036#Robust#
-4037#Untouchable#
-4038#Healthy#
-4039#of Aristotle#
-4040#Teleport#
-4041#of Sandman#
-4042#of Heman#
-4043#Hurricane#
-4044#Hiding#
-4045#Heavy#
-4046#of Cleric#
-4047#Ghost#
-4048#Poison#
-4049#Flammable#
-4050#of Hermes#
-4051#of Flash#
-4052#Erudite#
-4053#Healing#
-4054#Holy#
-4055#Ice#
-4056#of Warmth#
-4057#Silence#
-4058#Cranial#
-4059#of Cadi#
-4060#Clamorous#
-4061#Immortal#
-4062#Envenom#
-4063#Insecticide#
-4064#Nimble#
-4065#Underneath#
-4066#Brutal#
-4067#Atomic#
-4068#Chemical#
-4069#Saharic#
-4070#of Witch#
-4071#Angelic#
-4072#Solid#
-4073#Discount#
-4074#of Gargantua#
-4075#Hypnotic#
-4076#Cursing#
-4077#Under a Cast#
-4078#of Recovery#
-4079#of Muscle#
-4080#Fisher#
-4081#Glorious#
-4082#Gigantic#
-4083#Homer's#
-4084#Blast#
-4085#Damned#
-4086#Critical#
-4087#Order#
-4088#Guard#
-4089#Aqua#
-4090#Amulet#
-4091#of Counter#
-4092#Boned#
-4093#Cure#
-4094#Kingbird#
-4095#Genie's#
-4096#Venomous#
-4097#Green#
-4098#of Zephyrus#
-4099#of Ifrit#
-4100#Soul-Enchanted#
-4101#of Gnome#
-4102#Mocking#
-4103#Clairvoyant#
-4104#Chaos#
-4105#Unfrozen#
-4106#Ancient#
-4107#Fledged#
-4108#Innoxious#
-4109#Flameguard#
-4110#Viper's#
-4111#Decussate#
-4112#Peerless#
-4113#of Ghost#
-4114#Poisoning#
-4115#Malicious#
-4116#Divine#
-4117#Hybrid#
-4118#Dragoon#
-4119#Evil#
-4120#of Dragoon#
-4121#Perfect#
-4122#Adurate#
-4123#Bearer's#
-4124#Plasterer's#
-4125#Aqua#
-4126#Titan#
-4127#Insomniac#
-4128#of Deaf#
-4129#of Rogue#
-4130#Divine#
-4131#Hasty#
-4132#of Gemstone#
-4133#Immune#
-4134#Spiritual#
-4135#Mirror#
-4136#from Hell#
-4137#of Infinity#
-4138#Satanic#
-4139#of Moonlight#
-4140#Liberation#
-4141#Deadly#
-4142#of Berserk#
-4143#Neutral#
-4144#of Eternity#
-4145#of Bigmouth#
-4146#Reflect#
-4147#Scythelike#
-4148#of Kirin#
-4149#of Clear Sky#
-4150#of Resist Spell Power#
-4151#of Nature Destroyer#
-4152#Juicy#
-4153#Cancer#
-4154#of Candy Smell#
-4155#Fatal Goblin#
-4156#Fatal Frame#
-4157#Hard Hit#
-4158#of Slaughter#
-4159#High Level#
-4160#High Level#
-4161#Anti-Magic#
-4162#of Blind#
-4163#Wild#
-4164#Fisherman's#
-4165#Insect Soul Gain#
-4166#of Jinx#
-4167#Beast Soul Gain#
-4168#of Doom#
-4169#of Spell Master#
-4170#of Hardening#
-4171#Soul Drain#
-4172#Slash#
-4173#of Hypnotism#
-4174#Deviant#
-4175#Pushing#
-4176#Fatal Serpent#
-4177#of Green Stone#
-4178#of Bow Master#
-4179#of Highlight#
-4180#Dragonic Soul Gain#
-4181#of Silence#
-4182#Demonic Soul Gain#
-4183#Werewolf#
-4184#Break#
-4185#of Wisdom#
-4186#Strenuous#
-4187#of Gloomy Night#
-4188#of Red Stone#
-4189#of Misfortune#
-4190#of Laugh Maker#
-4191#of Life Stream#
-4192#Fatal Pisces#
-4193#of Patience#
-4194#of Stun#
-4195#of Blue Stone#
-4196#of Jellopy#
-4197#High Luck#
-4198#of True Sight#
-4199#of Dash#
-4200#of Resist Spell Power#
-4201#Binding Stun#
-4202#Exorcism#
-4203#Burning#
-4204#Poacher's#
-4205#of Blue Cubic#
-4206#Cubic#
-4207#Anti-Small#
-4208#of Full-energy#
-4209#of Crack#
-4210#Pressure#
-4211#Expert#
-4212#Knock-Back#
-4213#of Silence#
-4214#Man Eater#
-4215#of Food#
-4216#of Freeze#
-4217#Auto Healing#
-4218#Nightmare#
-4219#of Magic Stone#
-4220#Faithful#
-4221#Insect Collector's#
-4222#of Sleep#
-4223#Resist Stun#
-4224#of Rainy Day#
-4225#Shooting#
-4226#High Level#
-4227#of Meat Smell#
-4228#of Siesta#
-4229#Faster#
-4230#of Coward#
-4231#Charging#
-4232#Refresh#
-4233#Petit Luck#
-4234#of Stainless Mirror#
-4235#Fallen Angel's#
-4236#of Protection#
-4237#of God's Wrath#
-4238#of Double Power#
-4239#Veteran Hunter's#
-4240#of Resist Spell Power#
-4241#Two Lucky Seven#
-4242#High Level#
-4243#of Escape#
-4244#of Seeker#
-4245#Assassin's#
-4246#Kill#
-4247#Starfish#
-4248#Shining Cross#
-4249#Exorcist's#
-4250#Anti-Large#
-4251#Invade#
-4252#of Four Leaf Clover#
-4253#of Royal Guard#
-4254#Anti-Medium#
-4255#Smash#
-4256#Desired#
-4257#Wing#
-4258#Prodigy#
-4259#of Nature#
-4260#Confusion Guard#
-4261#Bleeding Guard#
-4262#of Cloudy Day#
-4263#Bloodlust#
-4264#Thunderbolt#
-4265#of Dawn#
-4266#Resist Magic#
-4267#Dragon Slayer's#
-4268#Extending#
-4269#of Nightmare#
-4270#of Venom#
-4271#of Yellow Stone#
-4272#Swift#
-4273#Shell#
-4274#Undead Soul Gain#
-4275#Undead Slayer's#
-4276#Crisis#
-4277#of Shooting Master#
-4278#of Resist Spell Power#
-4279#of Soul Collector#
-4280#of Great Blessing#
-4281#Hard Working#
-4282#of Potion#
-4283#Mana Sphere#
-4284#Gentle Touch#
-4285#Casted by Elf#
-4286#of Panic#
-4287#of Resist Spell Power#
-4288#High Level#
-4289#Plant Soul Gain#
-4290#Reflect#
-4291#Fatal Kobold#
-4292#Fatal Plant#
-4293#Chance#
-4294#Sneaky#
-4295#of Blackout#
-4296#Greed#
-4297#Poaching#
-4298#of Chaos#
-4299#Guardian#
-4300#of Poison Charge#
-4301#of Bleeding#
-4302#of High Risk#
-4303#Mystic#
-4304#of Shield Master#
-4305#Explosive#
-4306#of King#
-4307#Seaforce Soul Gain#
-4308#Force Drain#
-4309#Hard Covering#
-4310#Fatal Evil#
-4311#Anti Evil Power#
-4312#Spirit#
-4313#of Bog#
-4314#Frame Guard#
-4315#of Stone Curse#
-4316#Angelic Soul Gain#
-4317#Aural#
-4318#Storm-Bringer#
-4319#of Sword Master#
-4320#Meteoric#
-4321#of Polymorph#
-4322#of Retaliation#
-4323#Frost#
-4324#Arctic#
-4325#Vicious#
-4326#of Fish Smell#
-4327#Spell Flow#
-4328#Hyper#
-4329#Soul Gain#
-4330#Curse Lift#
-4331#of Evade#
-4332#of Talent#
-4333#of Chaotic Venom#
-4334#Anti-Sniping#
-4335#Gnome#
-4336#of Vitality#
-4337#of Wild Cat#
-4338#of Vital Switching#
-4339#of Stone Wall#
-4340#of Requiem#
-4341#Disarm#
-4342#Mammoth#
-4343#of Creator#
-4344#of Value#
-4345#Sylph#
-4346#of Power Switching#
-4347#Stamina#
-4348#Gangster#
-4349#Anti Arrow#
-4350#Undine#
-4351#Low Level#
-4352#of Regeneration#
-4353#of Rejuvenation#
-4354#of Stability#
-4355#Healthy#
-4356#Magic Cancel#
-4357#of Fury#
-4358#Lost-Power#
-4359#of Shadow#
-4360#Assassin#
-4361#of Holgren#
-4362#Hit#
-4363#Protection#
-4364#of Magic Sealing#
-4365#of Tempest#
-4366#of Caster#
-4367#of Squeezing#
-4368#Rapid#
-4369#of Luck Switching#
-4370#Weaken#
-4371#of Paladin#
-4372#Life Stream#
-4373#Cursed#
-4374#of Vision#
-4375#Extra High Level#
-4376#Mana Pool#
-4377#of Sweety#
-4378#Low Level#
-4379#Low Level#
-4380#Salamander#
-4381#of Wanderer#
-4382#of Scholar#
-4383#Chaotic#
-4384#Magic Eater#
-4385#Drink#
-4386#of Magic Shelter#
-4387#of Agility Switching#
-4388#Soul#
-4389#Elemental#
-4390#Bleeding#
-4391#Snack#
-4392#of Dexterity Switching#
-4393#of Intelligence Switching#
-4394#Divine Cross#
-4395#Slug#
-4396#Dull#
-4397#Thickheaded#
-4398#Darkness#
-4399#Penetration#
-4400#of Temptation#
-4401#Swift#
-4402#Strange#
-4403#of Reload#
-4404#of Chaotic Bleeding#
-4405#of Magic Mirror#
-4406#Twinkle#
-4407#of Elimination#
+4001#K‰^#
+4002#‘Ì—Í#
+4003#ƒn[ƒh#
+4004#Ší—p#
+4005#ƒvƒƒtƒFƒbƒT[“ü–å#
+4006#K‰^#
+4007#ƒrƒzƒ‹ƒ_[#
+4008#ƒGƒNƒXƒgƒ‰#
+4009#w“±‹³Š¯‚ğ’T‚¹#
+4010#ƒƒCƒY#
+4011#ƒ_ƒCƒiƒ~ƒbƒN#
+4012#ƒŠƒWƒbƒh#
+4013#ƒoƒgƒ‹ƒCƒ“ƒXƒgƒ‰ƒNƒ^[#
+4014#ƒIƒu ƒ`ƒƒƒ“ƒsƒIƒ“#
+4015#ƒNƒCƒbƒN#
+4016#ƒXƒs[ƒfƒB#
+4017#n—û–`Œ¯Ò#
+4018#ƒXƒ}[ƒg#
+4019#ƒ}[ƒeƒB#
+4020#ƒuƒŠƒ“ƒN#
+4021#‘®«ƒGƒLƒXƒp[ƒg#
+4022#ƒIƒu ƒXƒ|ƒA#
+4023#ƒIƒu ƒfƒU[ƒg#
+4024#ƒhƒƒEƒW[#
+4025#ƒ~ƒbƒhƒKƒ‹ƒh‚ÅÅ‚àd‚¢‚à‚Ì‚ğ’T‚¹#
+4026#ƒVƒ…ƒ‹[ƒh#
+4027#•q·#
+4028#ƒ_ƒuƒ‹ƒtƒH[ƒXƒh#
+4029#ƒ~ƒbƒhƒKƒ‹ƒh‚ÅÅ‚àd‚¢‚à‚Ì#
+4030#ƒEƒBƒ“ƒfƒB#
+4031#ƒIƒu ƒ}[ƒY#
+4032#ƒIƒu ƒAƒeƒi#
+4033#–òÜtƒZƒ‰ƒsƒXƒg#
+4034#ƒNƒŒƒo[#
+4035#ƒuƒ‰ƒbƒfƒB#
+4036#ƒƒoƒXƒg#
+4037#ƒZƒ‰ƒsƒXƒg#
+4038#ƒwƒ‹ƒV[#
+4039#ƒIƒu ƒAƒŠƒXƒgƒeƒŒƒX#
+4040#ƒeƒŒƒ|[ƒg#
+4041#ƒNƒŠƒGƒCƒ`ƒ…ƒ‰ƒAƒJƒfƒ~[Z’·#
+4042#ƒIƒu ƒq[ƒ}ƒ“#
+4043#ƒnƒŠƒP[ƒ“#
+4044#ƒnƒCƒfƒBƒ“ƒO#
+4045#“]¶#
+4046#ƒNƒŒƒŠƒbƒN‚Ì#
+4047#ƒS[ƒXƒg#
+4048#ƒ|ƒCƒYƒ“#
+4049#ƒAƒRƒ‰ƒCƒg‚Ö‚Ì“]E#
+4050#ƒwƒ‹ƒƒX‚Ì#
+4051#ƒtƒ‰ƒbƒVƒ…‚Ì#
+4052#ƒGƒ‹ƒ_ƒCƒg#
+4053#ƒAƒRƒ‰ƒCƒg‚Ö‚Ì“]E#
+4054#ƒz[ƒŠ[#
+4055#•X#
+4056#ƒEƒH[ƒ€ƒX‚Ì#
+4057#ƒAƒRƒ‰ƒCƒg‚Ö‚Ì“]E#
+4058#ƒNƒ‰ƒjƒAƒ‹#
+4059#ƒJƒfƒB‚Ì#
+4060#ƒNƒ‰ƒ‚ƒ‰ƒX#
+4061#ƒCƒ‚[ƒ^ƒ‹#
+4062#ƒCƒ“ƒxƒiƒ€#
+4063#ƒCƒ“ƒZƒNƒeƒBƒTƒCƒh#
+4064#ƒiƒ“ƒuƒ‹#
+4065#ƒ}ƒWƒVƒƒƒ“‚Ö‚Ì“]E#
+4066#ƒuƒ‹[ƒ^ƒ‹#
+4067#ƒAƒgƒ~ƒbƒN#
+4068#ƒPƒ~ƒJƒ‹#
+4069#ƒ}ƒWƒVƒƒƒ“‚Ö‚Ì“]E#
+4070#ƒEƒBƒbƒ`‚Ì#
+4071#ƒGƒ“ƒWƒFƒŠƒbƒN#
+4072#ƒ\ƒŠƒbƒh#
+4073#ƒfƒBƒXƒJƒEƒ“ƒg#
+4074#ƒKƒ‹ƒKƒ“ƒ`ƒ…ƒA‚Ì#
+4075#ƒqƒ…ƒvƒmƒeƒBƒbƒN#
+4076#ƒJ[ƒX#
+4077#ƒ}ƒWƒVƒƒƒ“‚Ö‚Ì“]E#
+4078#ƒŠƒJƒoƒŠ[‚Ì#
+4079#ƒ}ƒbƒXƒ‹‚Ì#
+4080#ƒtƒBƒbƒVƒƒ[#
+4081#ƒ}[ƒ`ƒƒƒ“ƒg‚Ö‚Ì“]E#
+4082#ƒMƒKƒ“ƒeƒBƒbƒN#
+4083#ƒz[ƒ}[#
+4084#ƒuƒ‰ƒXƒg#
+4085#ƒ}[ƒ`ƒƒƒ“ƒg‚Ö‚Ì“]E#
+4086#ƒNƒŠƒeƒBƒJƒ‹#
+4087#’˜#
+4088#ƒK[ƒh#
+4089#Œv“ƒ ƒ\ƒU—ªI#
+4090#‚¨ç‚è#
+4091#ƒJƒEƒ“ƒ^[‚Ì#
+4092#ƒ{[ƒ“ƒh#
+4093#ƒLƒ…ƒA#
+4094#ƒLƒ“ƒOƒo[ƒh#
+4095#ƒW[ƒj[‚Ì#
+4096#ƒxƒmƒ}ƒX#
+4097#ƒV[ƒt‚Ö‚Ì“]E#
+4098#ƒ[ƒtƒ@ƒ‰ƒX‚Ì#
+4099#ƒCƒtƒŠ[ƒg‚Ì#
+4100#ƒ\ƒEƒ‹ƒGƒ“ƒ`ƒƒƒ“ƒeƒbƒh#
+4101#ƒ\[ƒhƒ}ƒ“‚Ö‚Ì“]E#
+4102#ƒ‚ƒbƒLƒ“ƒO#
+4103#ƒNƒŒƒAƒ{ƒ„ƒ“ƒg#
+4104#¬“×#
+4105#‚ ‚È‚½‚ÌÅ‰‚ÌƒNƒGƒXƒg#
+4106#ŒÃ‘ã‚Ì#
+4107#ƒtƒŒƒbƒWƒh#
+4108#ƒCƒmƒLƒVƒƒƒX#
+4109#ƒx[ƒXƒŒƒxƒ‹‚Ìã¸#
+4110#ƒ”ƒ@ƒCƒp[‚Ì#
+4111#ƒfƒLƒ…ƒZƒCƒg#
+4112#ƒsƒAƒŒƒX#
+4113#ƒXƒtƒBƒ“ƒNƒXƒ_ƒ“ƒWƒ‡ƒ“‚ğƒ\ƒU—ª‚¹‚æI#
+4114#’†“Å#
+4115#ƒ}ƒŠƒVƒƒƒX#
+4116#ƒfƒBƒoƒCƒ“#
+4117#ƒXƒtƒBƒ“ƒNƒXƒ_ƒ“ƒWƒ‡ƒ“ ƒ\ƒU—ªI#
+4118#ƒhƒ‰ƒO[ƒ“#
+4119#×ˆ«#
+4120#ƒhƒ‰ƒO[ƒ“‚Ì#
+4121#Œv“ƒ ƒ\ƒU—ªI#
+4122#ƒAƒfƒ…ƒŒ[ƒg#
+4123#ƒxƒAƒ‰[‚Ì#
+4124#ƒvƒ‰ƒXƒ^[‚Ì#
+4125#Œv“ƒ ƒ\ƒU—ªI#
+4126#ƒ^ƒCƒ^ƒ“#
+4127#ƒCƒ“ƒ\ƒ€ƒjƒAƒbƒN#
+4128#ƒfƒt‚Ì#
+4129#—Œ—zƒ_ƒ“ƒWƒ‡ƒ“ ƒ\ƒU—ªI#
+4130#ƒfƒBƒoƒCƒ“#
+4131#ƒwƒCƒXƒeƒB#
+4132#ƒWƒFƒ€ƒXƒg[ƒ“‚Ì#
+4133#—Œ—zƒ_ƒ“ƒWƒ‡ƒ“ ƒ\ƒU—ªI#
+4134#ƒXƒsƒŠƒ`ƒ…ƒAƒ‹#
+4135#ƒ~ƒ‰[#
+4136#ƒtƒƒ€ƒwƒ‹#
+4137#ƒAƒ}ƒcƒ_ƒ“ƒWƒ‡ƒ“ ƒ\ƒU—ªI#
+4138#ƒTƒ^ƒjƒbƒN#
+4139#ƒ€[ƒ“ƒ‰ƒCƒg‚Ì#
+4140#ƒŠƒxƒŒ[ƒVƒ‡ƒ“#
+4141#ƒfƒbƒhƒŠ[#
+4142#ƒo[ƒT[ƒN‚Ì#
+4143#ƒjƒ…[ƒgƒ‰ƒ‹#
+4144#ƒGƒ^ƒjƒeƒB‚Ì#
+4145#—Œ—zƒ_ƒ“ƒWƒ‡ƒ“ ƒ\ƒU—ªI#
+4146#”½Ë#
+4147#‘åŠ™‚Ì‚æ‚¤‚È#
+4148#ƒLƒŠƒ“‚Ì#
+4149#ƒƒy‚ÆƒGƒEƒŠƒfƒB - X‚Ì–¶‚Ì¶‘¶Ò#
+4150#–‚—Í‘Ï«‚Ì#
+4151#©‘R”j‰ó‚Ì#
+4152#ƒWƒ…[ƒV[‚È#
+4153#ƒJƒ“ƒT[#
+4154#ƒLƒƒƒ“ƒfƒB[‚Ì‚è‚Ì#
+4155#’v–½“I‚ÈƒSƒuƒŠƒ“‚Ì#
+4156#’v–½“I‚È˜g‚Ì#
+4157#ƒƒy‚ÆƒGƒEƒŠƒfƒB - X‚Ì–¶#
+4158#‹sE‚Ì#
+4159#‚ƒŒƒxƒ‹#
+4160#‚ƒŒƒxƒ‹#
+4161#ƒƒy‚ÆƒGƒEƒŠƒfƒB - –À‹{#
+4162#ˆÃ•‚Ì#
+4163#ƒƒCƒ‹ƒh#
+4164#‹™t‚Ì#
+4165#ƒƒy‚ÆƒGƒEƒŠƒfƒB - ˆø‚«—ô‚©‚ê‚½–ñ‘©#
+4166#ƒWƒ“ƒNƒX‚Ì#
+4167#“®•¨‚Ì°‹zû#
+4168#”j–Å‚Ì#
+4169#ƒƒy‚ÆƒGƒEƒŠƒfƒB - ‹]µ‚Ì‘ã#
+4170#d‰»‚Ì#
+4171#ƒ\ƒEƒ‹ƒhƒŒƒCƒ“#
+4172#ƒXƒ‰ƒbƒVƒ…#
+4173#ƒƒy‚ÆƒGƒEƒŠƒfƒB - [•£‚Ì‰Ì#
+4174#ˆÙí‚È#
+4175#‰Ÿ‚µo‚·#
+4176#’v–½“I‚ÈÖ‚Ì#
+4177#ƒƒy‚ÆƒGƒEƒŠƒfƒB - €Ò‚Ì‰Ì#
+4178#‹|‚Ì’Bl‚Ì#
+4179#ƒnƒCƒ‰ƒCƒg‚Ì#
+4180#—³‘°‚Ì°‹zû#
+4181#ƒƒy‚ÆƒGƒEƒŠƒfƒB - ‰i‰“‚Ì–ñ‘©#
+4182#ˆ«–‚‚Ì°‹zû#
+4183#ƒ[ƒEƒ‹ƒt#
+4184#ƒuƒŒƒCƒN‚Ì#
+4185#‹ßŠ‚Ì‹Rm‚½‚¿#
+4186#Œƒ‚µ‚¢#
+4187#‰AŸT‚È–é‚Ì#
+4188#Ô‚ÌÎ‚Ì#
+4189#‹ßŠ‚Ì‹Rm‚½‚¿#
+4190#Î‚¢‚ğì‚éÒ‚Ì#
+4191#ƒ‰ƒCƒtƒXƒgƒŠ[ƒ€‚Ì#
+4192#’v–½“I‚È‹›À‚Ì#
+4193#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4194#ƒXƒ^ƒ“‚Ì#
+4195#Â‚ÌÎ‚Ì#
+4196#ƒ[ƒƒs[‚Ì#
+4197#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4198#ƒgƒDƒ‹[ƒTƒCƒg‚Ì#
+4199#ƒ_ƒbƒVƒ…‚Ì#
+4200#–‚—Í‘Ï«‚Ì#
+4201#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4202#ƒGƒNƒ\ƒVƒYƒ€‚Ì#
+4203#‰Î‚Ì#
+4204#–§—ÂÒ‚Ì#
+4205#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4206#ƒLƒ…[ƒrƒbƒN‚Ì#
+4207#¬Œ^“Á‰»‚Ì#
+4208#ƒtƒ‹ƒGƒiƒW[‚Ì#
+4209#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4210#ƒvƒŒƒbƒVƒƒ[#
+4211#’Bl‹‰#
+4212#ƒmƒbƒNƒoƒbƒN‚Ì#
+4213#ƒƒy‚ÆƒGƒEƒŠƒfƒB - ‰i‰“‚Ì–ñ‘©#
+4214#lH‚¢‚Ì#
+4215#H‚×•¨‚Ì#
+4216#“€Œ‹‚Ì#
+4217#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4218#ˆ«–²#
+4219#–‚–@‚ÌÎ‚Ì#
+4220#’‰À‚È#
+4221#©’ûW‰Æ‚Ì#
+4222#‡–°‚Ì#
+4223#ƒXƒ^ƒ“‘Ï«‚Ì#
+4224#‰J‚Ì“ú‚Ì#
+4225#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4226#‚ƒŒƒxƒ‹#
+4227#“÷‚Ì‚è‚Ì#
+4228#ƒVƒGƒXƒ^‚Ì#
+4229#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4230#‰°•aÒ‚Ì#
+4231#ƒ`ƒƒ[ƒWƒ“ƒO‚Ì#
+4232#ƒŠƒtƒŒƒbƒVƒ…#
+4233#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4234#ƒXƒeƒ“ƒŒƒXƒ~ƒ‰[‚Ì#
+4235#‘Â“Vg‚Ì#
+4236#•ÛŒì‚Ì#
+4237#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4238#ƒ_ƒuƒ‹ƒpƒ[‚Ì#
+4239#ƒxƒeƒ‰ƒ“ƒnƒ“ƒ^[‚Ì#
+4240#–‚—Í‘Ï«‚Ì#
+4241#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4242#‚ƒŒƒxƒ‹#
+4243#ƒGƒXƒP[ƒv‚Ì#
+4244#ƒV[ƒJ[‚Ì#
+4245#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4246#ƒLƒ‹‚Ì#
+4247#ƒqƒgƒf#
+4248#ƒVƒƒƒCƒjƒ“ƒOƒNƒƒX‚Ì#
+4249#ƒGƒNƒ\ƒVƒXƒg‚Ì#
+4250#‘åŒ^“Á‰»‚Ì#
+4251#N—ª‚Ì#
+4252#l‚Â—t‚ÌƒNƒ[ƒo[‚Ì#
+4253#ƒƒCƒ„ƒ‹ƒK[ƒh‚Ì#
+4254#‘Î’†Œ^#
+4255#ƒXƒ}ƒbƒVƒ…#
+4256#Š‰–]‚Ì#
+4257#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4258#_“¶‚Ì#
+4259#©‘R‚Ì#
+4260#¬—ƒK[ƒh#
+4261#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4262#“Ü“V‚Ì#
+4263#ƒuƒ‰ƒbƒhƒ‰ƒXƒg#
+4264#ƒTƒ“ƒ_[ƒ{ƒ‹ƒg#
+4265#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4266#–‚–@‘Ï«#
+4267#ƒhƒ‰ƒSƒ“ƒXƒŒƒCƒ„[‚Ì#
+4268#L’·‚Ì#
+4269#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4270#–Ò“Å‚Ì#
+4271#‰©Î‚Ì#
+4272#ƒXƒEƒBƒtƒg#
+4273#Šk#
+4274#ƒAƒ“ƒfƒbƒhƒ\ƒEƒ‹ƒQƒCƒ“#
+4275#‰½‚©‚ğŒ©‚Â‚¯‚½#
+4276#ƒNƒ‰ƒCƒVƒX#
+4277#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4278#–‚—Í‘Ï«‚Ì#
+4279#ƒ\ƒEƒ‹ƒRƒŒƒNƒ^[‚Ì#
+4280#‘åj•Ÿ‚Ì#
+4281#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4282#ƒ|[ƒVƒ‡ƒ“‚Ì#
+4283#ƒ}ƒiƒXƒtƒBƒA#
+4284#ƒWƒFƒ“ƒgƒ‹ƒ^ƒbƒ`#
+4285#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4286#ƒpƒjƒbƒN‚Ì#
+4287#–‚—Í‘Ï«‚Ì#
+4288#‚ƒŒƒxƒ‹#
+4289#ƒxƒ‹ƒeEƒ}ƒ‰ƒ“‚ª¶‚Ü‚ê‚½—y‚©‰“‚­‚Ì’n‚ÖI#
+4290#”½Ë#
+4291#’v–½‚ÌƒRƒ{ƒ‹ƒg#
+4292#’v–½‚Ìƒvƒ‰ƒ“ƒg#
+4293#ŠëŒ¯‚ÉŠ×‚Á‚½ƒoƒbƒhƒLƒƒƒbƒc‚ğ•‚¯‚æ‚¤I#
+4294#ƒXƒj[ƒL[#
+4295#ƒuƒ‰ƒbƒNƒAƒEƒg‚Ì#
+4296#‹­—~#
+4297#ŠëŒ¯‚ÉŠ×‚Á‚½ƒoƒbƒhƒLƒƒƒbƒc‚ğ•‚¯‚æ‚¤I#
+4298#¬“×‚Ì#
+4299#ƒK[ƒfƒBƒAƒ“#
+4300#ƒ|ƒCƒYƒ“ƒ`ƒƒ[ƒW‚Ì#
+4301#ŠëŒ¯‚ÉŠ×‚Á‚½ƒoƒbƒhƒLƒƒƒbƒc‚ğ•‚¯‚æ‚¤I#
+4302#ƒnƒCƒŠƒXƒN‚Ì#
+4303#ƒ~ƒXƒeƒBƒbƒN#
+4304#ƒV[ƒ‹ƒhƒ}ƒXƒ^[‚Ì#
+4305#ŠëŒ¯‚ÉŠ×‚Á‚½ƒoƒbƒhƒLƒƒƒbƒc‚ğ•‚¯‚æ‚¤I#
+4306#ƒLƒ“ƒO‚Ì#
+4307#ƒV[ƒtƒH[ƒXƒ\ƒEƒ‹ƒQƒCƒ“#
+4308#ƒtƒH[ƒXƒhƒŒƒCƒ“#
+4309#ŠëŒ¯‚ÉŠ×‚Á‚½ƒoƒbƒhƒLƒƒƒbƒc‚ğ•‚¯‚æ‚¤I#
+4310#’v–½‚Ì×ˆ«#
+4311#‘Î×ˆ«‚Ì—Í#
+4312#ƒXƒsƒŠƒbƒg#
+4313#ŠëŒ¯‚ÉŠ×‚Á‚½ƒoƒbƒhƒLƒƒƒbƒc‚ğ•‚¯‚æ‚¤I#
+4314#ƒtƒŒ[ƒ€ƒK[ƒh#
+4315#ƒXƒg[ƒ“ƒJ[ƒX‚Ì#
+4316#ƒGƒ“ƒWƒFƒŠƒbƒNƒ\ƒEƒ‹ƒQƒCƒ“#
+4317#ŠëŒ¯‚ÉŠ×‚Á‚½ƒoƒbƒhƒLƒƒƒbƒc‚ğ•‚¯‚æ‚¤I#
+4318#ƒXƒg[ƒ€ƒuƒŠƒ“ƒK[#
+4319#ƒ\[ƒhƒ}ƒXƒ^[‚Ì#
+4320#ƒƒeƒI‚Ì#
+4321#ŠëŒ¯‚ÉŠ×‚Á‚½ƒoƒbƒhƒLƒƒƒbƒc‚ğ•‚¯‚æ‚¤I#
+4322#•ñ•œ‚Ì#
+4323#ƒtƒƒXƒg#
+4324#ƒA[ƒNƒeƒBƒbƒN#
+4325#ŠëŒ¯‚ÉŠ×‚Á‚½ƒoƒbƒhƒLƒƒƒbƒc‚ğ•‚¯‚æ‚¤I#
+4326#‹›L‚Ì#
+4327#ƒXƒyƒ‹ƒtƒ[#
+4328#ƒnƒCƒp[#
+4329#ŠëŒ¯‚ÉŠ×‚Á‚½ƒoƒbƒhƒLƒƒƒbƒc‚ğ•‚¯‚æ‚¤I#
+4330#ƒJ[ƒXƒŠƒtƒg#
+4331#ƒCƒxƒCƒh‚Ì#
+4332#ƒ^ƒŒƒ“ƒg‚Ì#
+4333#ŠëŒ¯‚ÉŠ×‚Á‚½ƒoƒbƒhƒLƒƒƒbƒc‚ğ•‚¯‚æ‚¤I#
+4334#ƒAƒ“ƒ`ƒXƒiƒCƒsƒ“ƒO#
+4335#ƒm[ƒ€#
+4336#ƒ”ƒBƒ^ƒŠƒeƒB‚Ì#
+4337#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4338#ƒ”ƒBƒ^ƒ‹ƒXƒCƒbƒ`ƒ“ƒO‚Ì#
+4339#ƒXƒg[ƒ“ƒEƒH[ƒ‹‚Ì#
+4340#ƒŒƒNƒCƒGƒ€‚Ì#
+4341#ƒfƒBƒXƒA[ƒ€#
+4342#ƒ}ƒ“ƒ‚ƒX#
+4343#ƒNƒŠƒGƒCƒ^[‚Ì#
+4344#‰¿’l‚Ì#
+4345#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4346#ƒpƒ[ƒXƒCƒbƒ`ƒ“ƒO‚Ì#
+4347#ƒXƒ^ƒ~ƒi#
+4348#ƒMƒƒƒ“ƒOƒXƒ^[#
+4349#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4350#ƒEƒ“ƒfƒB[ƒl#
+4351#ƒ[ƒŒƒxƒ‹#
+4352#ƒŠƒWƒFƒlƒŒ[ƒVƒ‡ƒ“‚Ì#
+4353#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4354#ƒXƒ^ƒrƒŠƒeƒB‚Ì#
+4355#ƒwƒ‹ƒV[#
+4356#ƒ}ƒWƒbƒNƒLƒƒƒ“ƒZƒ‹#
+4357#Œƒ“{‚Ì#
+4358#ƒƒXƒgƒpƒ[#
+4359#ƒVƒƒƒhƒE‚Ì#
+4360#ƒAƒTƒVƒ“#
+4361#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4362#–½’†#
+4363#ƒvƒƒeƒNƒVƒ‡ƒ“#
+4364#–‚–@••ˆó‚Ì#
+4365#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4366#ƒLƒƒƒXƒ^[‚Ì#
+4367#ƒXƒNƒC[ƒY‚Ì#
+4368#ƒ‰ƒsƒbƒh#
+4369#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4370#ƒEƒB[ƒNƒ“#
+4371#ƒpƒ‰ƒfƒBƒ“‚Ì#
+4372#ƒ‰ƒCƒtƒXƒgƒŠ[ƒ€#
+4373#ƒJ[ƒXƒh#
+4374#ƒrƒWƒ‡ƒ“‚Ì#
+4375#ƒGƒNƒXƒgƒ‰ƒnƒCƒŒƒxƒ‹#
+4376#ƒ}ƒiƒv[ƒ‹#
+4377#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4378#ƒ[ƒŒƒxƒ‹#
+4379#ƒ[ƒŒƒxƒ‹#
+4380#ƒTƒ‰ƒ}ƒ“ƒ_[#
+4381#ƒƒ“ƒ_ƒ‰[‚Ì#
+4382#ƒXƒJƒ‰[‚Ì#
+4383#ƒJƒIƒeƒBƒbƒN#
+4384#ƒ}ƒWƒbƒNƒC[ƒ^[#
+4385#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4386#ƒ}ƒWƒbƒNƒVƒFƒ‹ƒ^[‚Ì#
+4387#ƒAƒWƒŠƒeƒBƒXƒCƒbƒ`‚Ì#
+4388#°#
+4389#ƒGƒŒƒƒ“ƒ^ƒ‹#
+4390#ƒuƒŠ[ƒfƒBƒ“ƒO#
+4391#ƒXƒiƒbƒN#
+4392#ƒfƒNƒXƒeƒŠƒeƒBƒXƒCƒbƒ`‚Ì#
+4393#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4394#ƒfƒBƒoƒCƒ“ƒNƒƒX#
+4395#ƒXƒ‰ƒbƒO#
+4396#ƒ_ƒ‹#
+4397#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4398#ƒ_[ƒNƒlƒX#
+4399#ƒyƒlƒgƒŒƒCƒg#
+4400#ƒeƒ“ƒvƒe[ƒVƒ‡ƒ“‚Ì#
+4401#ƒXƒEƒBƒtƒg#
+4402#ƒXƒgƒŒƒ“ƒW#
+4403#ƒŠƒ[ƒh‚Ì#
+4404#ƒJƒIƒeƒBƒbƒNƒuƒŠ[ƒfƒBƒ“ƒO‚Ì#
+4405#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4406#ƒgƒDƒCƒ“ƒNƒ‹#
+4407#ƒGƒŠƒ~ƒl[ƒVƒ‡ƒ“‚Ì#
 
-4408#Abyss#
-4409#Panic#
-4410#Madness#
-4411#Arta's#
-4412#Aria#
-4413#Resistance#
-4414#Gorgon's#
-4415#Sweet#
-4416#of Yana#
-4417#of Flow#
-4418#of Hail#
-4419#Jack Frost's#
-4420#of Comfort#
-4421#Chain Hook#
-4422#Breeze#
-4423#of Sharkia#
-4424#Stony#
-4425#Beast#
-4426#Exceeding#
-4427#Force#
-4428#Shaft#
-4429#Nessus#
-4430#of Inferno#
-4431#Stygian#
-4432#Scorching#
-4433#of Ignis#
-4434#Miner's#
-4435#Outrageous#
-4436#Lunatic#
-4437#Rabid#
-4438#Mental#
-4439#of Anathema#
-4440#Ignore#
-4441#Arrogant#
+4408#‰\AA‚»‚µ‚Ä“`à#
+4409#ƒpƒjƒbƒN#
+4410#ƒ}ƒbƒhƒlƒX#
+4411#ƒAƒ‹ƒ^‚Ì#
+4412#‰\AA‚»‚µ‚Ä“`à#
+4413#ƒŒƒWƒXƒ^ƒ“ƒX#
+4414#ƒSƒ‹ƒSƒ“‚Ì#
+4415#ƒXƒC[ƒg#
+4416#‰\AA‚»‚µ‚Ä“`à#
+4417#ƒtƒ[‚Ì#
+4418#ƒwƒCƒ‹‚Ì#
+4419#ƒWƒƒƒbƒNƒtƒƒXƒg‚Ì#
+4420#‰\AA‚»‚µ‚Ä“`à#
+4421#ƒ`ƒF[ƒ“ƒzƒbƒN#
+4422#ƒuƒŠ[ƒY#
+4423#ƒVƒƒ[ƒLƒA‚Ì#
+4424#‰\AA‚»‚µ‚Ä“`à#
+4425#ƒr[ƒXƒg#
+4426#ƒGƒNƒV[ƒh#
+4427#ƒtƒH[ƒX#
+4428#‰\AA‚»‚µ‚Ä“`à#
+4429#ƒlƒbƒXƒX#
+4430#ƒCƒ“ƒtƒFƒ‹ƒm‚Ì#
+4431#ƒXƒeƒ…[ƒWƒAƒ“#
+4432#ƒoƒRƒiƒ‚ğ‘Ş¡‚¹‚æ#
+4433#ƒCƒOƒjƒX‚Ì#
+4434#ƒ}ƒCƒi[‚Ì#
+4435#ƒAƒEƒgƒŒƒCƒWƒƒƒX#
+4436#ƒ‹ƒiƒeƒBƒbƒN#
+4437#ƒ‰ƒrƒbƒh#
+4438#ƒƒ“ƒ^ƒ‹#
+4439#ƒAƒiƒeƒ}‚Ì#
+4440#ƒoƒRƒiƒ‚ğ‘Ş¡‚¹‚æ#
+4441#ƒAƒƒKƒ“ƒg#
 
-4442#of Basis#
-4443#of Saharic#
-4444#of Underneath#
-4445#of Windy#
-4447#of Envenom#
-4448#of Damned#
-4449#of Hallowed#
-4450#Surplus#
-4451#of Excess#
-4452#Magical#
-4453#Violent#
+4442#ƒx[ƒVƒX‚Ì#
+4443#ƒoƒRƒiƒ‚ğ‘Ş¡‚¹‚æ#
+4444#ƒAƒ“ƒ_ƒj[ƒX‚Ì#
+4445#ƒEƒBƒ“ƒfƒB‚Ì#
+4447#ƒGƒ“ƒ”ƒFƒmƒ€‚Ì#
+4448#ƒoƒRƒiƒ‚ğ‘Ş¡‚¹‚æ#
+4449#ƒnƒƒEƒh‚Ì#
+4450#ƒT[ƒvƒ‰ƒX#
+4451#ƒGƒNƒZƒX‚Ì#
+4452#ƒoƒRƒiƒ‚ğ‘Ş¡‚¹‚æ#
+4453#ƒoƒCƒIƒŒƒ“ƒg#
 
-4454#Sorry#
-4455#Love#
-4478#Tell me#
-4479#Why did you#
+4454#‚²‚ß‚ñ#
+4455#ƒoƒRƒiƒ‚ğ‘Ş¡‚¹‚æ#
+4478#‹³‚¦‚Ä#
+4479#‚Ç‚¤‚µ‚Ä#
 
-4456#Spell Master#
-4457#Psychic#
-4458#of Illusion#
-4459#of Fast#
-4460#of Healing#
-4461#of Sharp#
-4462#Prime Defense#
-4463#Prime Attack#
-4464#Fatal#
-4465#Sweep#
-4466#Straight Shooting#
-4467#Heavy#
-4468#Pollution#
-4469#Marine#
-4470#Botany#
-4471#Draco#
-4472#Carnivore#
-4473#Undead#
-4474#Mortal#
-4475#Intangible#
-4476#Entomic#
-4477#Demonic#
+4456#ƒoƒRƒiƒ‚ğ‘Ş¡‚¹‚æ#
+4457#ƒTƒCƒLƒbƒN#
+4458#ƒCƒŠƒ…[ƒWƒ‡ƒ“‚Ì#
+4459#ƒtƒ@ƒXƒg‚Ì#
+4460#ƒoƒRƒiƒ‚ğ‘Ş¡‚¹‚æ#
+4461#ƒVƒƒ[ƒv#
+4462#ƒvƒ‰ƒCƒ€ƒfƒBƒtƒFƒ“ƒX#
+4463#ƒvƒ‰ƒCƒ€ƒAƒ^ƒbƒN#
+4464#’v–½#
+4465#ƒXƒEƒB[ƒv#
+4466#ƒXƒgƒŒ[ƒgƒVƒ…[ƒeƒBƒ“ƒO#
+4467#“]¶#
+4468#ƒoƒRƒiƒ‚ğ‘Ş¡‚¹‚æ#
+4469#ƒ}ƒŠƒ“#
+4470#ƒ{ƒ^ƒj[#
+4471#ƒhƒ‰ƒR#
+4472#ƒoƒRƒiƒ‚ğ‘Ş¡‚¹‚æ#
+4473#ƒAƒ“ƒfƒbƒh#
+4474#ƒ‚[ƒ^ƒ‹#
+4475#ƒCƒ“ƒ^ƒ“ƒWƒuƒ‹#
+4476#ƒoƒRƒiƒ‚ğ‘Ş¡‚¹‚æ#
+4477#ƒfƒ‚ƒjƒbƒN#
 
 //--- 2011 / 11 / 18 Ä«µå 30Á¾ Ãß°¡
-4505#of Mad Witch#
-4506#of Archer#
-4507#Scaraba#
-4508#of Mad Berserker#
-4509#Insectproof#
-4510#Black-out#
-4511#Silentium#
-4512#of Acolyte#
-4513#of Thief#
-4514#Exorcism#
-4515#Flora#
-4516#of Stone Wall#
-4517#of Magician#
-4518#Burning#
-4519#Seraphim#
-4520#Screaming#
-4521#Mortal Blow#
-4522#Cold#
-4523#Aquarius#
-4524#of Swordman#
-4525#Sweeping#
-4526#of Magic Defense#
-4527#of Defense#
-4528#Mental Power#
-4529#Strength#
-4530#of Merchant#
-4531#Under Curse#
-4532#Sprinting#
-4533#Blinding#
-4534#Water Bomb#
+4505#ƒoƒRƒiƒ‚ğ‘Ş¡‚¹‚æ#
+4506#ƒA[ƒ`ƒƒ[#
+4507#ƒXƒJƒ‰ƒo#
+4508#ƒ}ƒbƒhƒo[ƒT[ƒJ[#
+4509#‘‹‚ÌŠO‚ğŒ©‚ÄAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€‚ğ‰‰‡‚µ‚æ‚¤I#
+4510#ƒuƒ‰ƒbƒNƒAƒEƒg#
+4511#ƒTƒCƒŒƒ“ƒeƒBƒEƒ€#
+4512#ƒAƒRƒ‰ƒCƒg#
+4513#ƒV[ƒt#
+4514#ƒGƒNƒ\ƒVƒYƒ€‚Ì#
+4515#ƒtƒ[ƒ‰#
+4516#ƒXƒg[ƒ“ƒEƒH[ƒ‹‚Ì#
+4517#ƒ}ƒWƒVƒƒƒ“#
+4518#‰Î‚Ì#
+4519#ƒZƒ‰ƒtƒBƒ€#
+4520#ƒXƒNƒŠ[ƒ~ƒ“ƒO#
+4521#‘‹‚ÌŠO‚ğŒ©‚ÄAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€‚ğ‰‰‡‚µ‚æ‚¤I#
+4522#ƒR[ƒ‹ƒh#
+4523#ƒAƒNƒGƒŠƒAƒX#
+4524#ƒ\[ƒhƒ}ƒ“#
+4525#‘‹‚ÌŠO‚ğŒ©‚ÄAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€‚ğ‰‰‡‚µ‚æ‚¤I#
+4526#ƒ}ƒWƒbƒNƒfƒBƒtƒFƒ“ƒX#
+4527#ƒfƒBƒtƒFƒ“ƒX#
+4528#ƒƒ“ƒ^ƒ‹ƒpƒ[#
+4529#—Í#
+4530#ƒ}[ƒ`ƒƒƒ“ƒg#
+4531#ƒAƒ“ƒ_[ƒJ[ƒX#
+4532#ƒXƒvƒŠƒ“ƒeƒBƒ“ƒO#
+4533#‘‹‚ÌŠO‚ğŒ©‚ÄAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€‚ğ‰‰‡‚µ‚æ‚¤I#
+4534#ƒEƒH[ƒ^[ƒ{ƒ€#
 
-4545#Novice#
+4545#ƒm[ƒrƒX#
 
-4546#Screwed#
+4546#ƒXƒNƒŠƒ…[ƒh#
 
 //--- 2012³â10¿ù_¿µ¿õÀÇÈçÀû
-4556#Power Ward#
-4557#of Spell Power#
+4556#‘‹‚ÌŠO‚ğŒ©‚ÄAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€‚ğ‰‰‡‚µ‚æ‚¤I#
+4557#ƒXƒyƒ‹ƒpƒ[#
 
 //--- 2013 / 02 / 15 ºÀÀÎµÈ´ÙÅ©·Îµå Ãß°¡
-4488#of Half Doom#
+4488#‘‹‚ÌŠO‚ğŒ©‚ÄAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€‚ğ‰‰‡‚µ‚æ‚¤I#
 
 // 2013³â 2¿ù_¸¶½ÅÀü¸Ş¸ğ¸®¾ó
-4559#Blitz#
+4559#ƒuƒŠƒbƒc#
 
 // 2013³â_4¿ù_È®·üÇüÄ³½¬
-4497#Half Storm-Bringer#
+4497#ƒn[ƒtƒXƒg[ƒ€ƒuƒŠƒ“ƒK[#
 
 //--- 2013 / 05 / 22 ºÀÀÎµÈº£¸£Á¦ºêºê Ãß°¡
-4486#of Half Bigmouth#
+4486#ƒn[ƒtƒrƒbƒOƒ}ƒEƒX#
 
 //--- 2013³â6¿ù_½Å±ÔÄ«µå
-4560#of Bragi#
-4561#of Magic Protection#
-4562#of Infiltration#
-4563#of Hydrochloric Acid#
-4564#of Gentleman#
-4565#of Grand Cross#
-4566#of Fortune#
-4567#of Bard#
-4568#of Gnosis#
-4569#of Origin#
-4570#of Fast Recovery#
-4571#of Bind#
-4572#of Solidity#
-4573#of Dancer#
-4574#Sword Master#
-4575#Shortcut#
-4576#Educe#
-4577#Psychic#
-4578#Fear#
-4579#Morning Star#
-4580#of Devilish#
-4581#Toilet#
-4582#Stamina#
-4583#of Poison Grass#
-4584#Vampiric#
-4585#Cursed#
-4586#of Wind#
-4587#Slasher#
-4588#of Power#
-4589#of Richness#
-4590#of Helpless#
-4591#of Bloody#
-4592#of Stone Curse#
-4593#of Shooter#
-4594#of Death Blow#
-4595#of Acid#
-4596#of Intellectual#
-4597#of Water#
-4598#of Telekinesis#
-4599#of Fire#
-4600#of Earth#
-4601#of Explosion#
-4602#of Fury#
-4603#Evil Spirit#
-4604#Evil God#
-4605#of Hunger#
-4606#of Revenge#
-4607#Librarian#
+4560#‘‹‚ÌŠO‚ğŒ©‚ÄAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€‚ğ‰‰‡‚µ‚æ‚¤I#
+4561#ƒ}ƒWƒbƒNƒvƒƒeƒNƒVƒ‡ƒ“#
+4562#ƒCƒ“ƒtƒBƒ‹ƒgƒŒ[ƒVƒ‡ƒ“#
+4563#ƒnƒCƒhƒƒNƒƒŠƒbƒNƒAƒVƒbƒh#
+4564#‘‹‚ÌŠO‚ğŒ©‚ÄAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€‚ğ‰‰‡‚µ‚æ‚¤I#
+4565#ƒOƒ‰ƒ“ƒhƒNƒƒX#
+4566#ƒtƒH[ƒ`ƒ…ƒ“#
+4567#ƒo[ƒh#
+4568#‘‹‚ÌŠO‚ğŒ©‚ÄA10003•C‚Ìƒ‰ƒN[ƒ“I#
+4569#ƒIƒŠƒWƒ“#
+4570#ƒtƒ@ƒXƒgƒŠƒJƒoƒŠ[#
+4571#ƒoƒCƒ“ƒh#
+4572#‘‹‚ÌŠO‚ğŒ©‚ÄA10003•C‚Ìƒ‰ƒN[ƒ“I#
+4573#ƒ_ƒ“ƒT[#
+4574#ƒ\[ƒhƒ}ƒXƒ^[#
+4575#ƒVƒ‡[ƒgƒJƒbƒg#
+4576#‘‹‚ÌŠO‚ğŒ©‚ÄA10003•C‚Ìƒ‰ƒN[ƒ“I#
+4577#ƒTƒCƒLƒbƒN#
+4578#ƒtƒBƒA[#
+4579#ƒ‚[ƒjƒ“ƒOƒXƒ^[#
+4580#‘‹‚ÌŠO‚ğŒ©‚ÄA10003•C‚Ìƒ‰ƒN[ƒ“I#
+4581#ƒgƒCƒŒ#
+4582#ƒXƒ^ƒ~ƒi#
+4583#ƒ|ƒCƒYƒ“ƒOƒ‰ƒX#
+4584#‘‹‚ÌŠO‚ğŒ©‚ÄA10003•C‚Ìƒ‰ƒN[ƒ“I#
+4585#ƒJ[ƒXƒh#
+4586#ƒEƒBƒ“ƒh#
+4587#ƒXƒ‰ƒbƒVƒƒ[#
+4588#‘‹‚ÌŠO‚ğŒ©‚ÄAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€‚ğ‰‰‡‚µ‚æ‚¤I#
+4589#ƒŠƒbƒ`ƒlƒX#
+4590#ƒwƒ‹ƒvƒŒƒX#
+4591#ƒuƒ‰ƒbƒfƒB#
+4592#ƒXƒg[ƒ“ƒJ[ƒX‚Ì#
+4593#ƒVƒ…[ƒ^[#
+4594#ƒfƒXƒuƒƒE#
+4595#ƒAƒVƒbƒh#
+4596#ƒ[ƒ€‹³ö‚Ì‹L‰¯‚ğæ‚è–ß‚»‚¤#
+4597#ƒEƒH[ƒ^[#
+4598#ƒeƒŒƒLƒlƒVƒX#
+4599#ƒtƒ@ƒCƒA#
+4600#ƒ[ƒ€‹³ö‚Ì‹L‰¯‚ğæ‚è–ß‚»‚¤#
+4601#ƒGƒNƒXƒvƒ[ƒWƒ‡ƒ“#
+4602#Œƒ“{‚Ì#
+4603#ƒCƒrƒ‹ƒXƒsƒŠƒbƒg#
+4604#ƒCƒrƒ‹ƒSƒbƒh#
+4605#ƒnƒ“ƒK[#
+4606#ƒŠƒxƒ“ƒW#
+4607#i‘#
 
 //--- 2013³â6¿ù_ºÀÀÎµÈÅ°¿¤-D-01
-4480#of Half Reload#
+4480#ƒn[ƒtƒŠƒ[ƒh#
 
 //--- 2013³â7¿ù_ºÀÀÎµÈ±Û·ë¾ğ´õ³ªÀÌÆ®
-4485#Half Abyss#
+4485#ƒn[ƒtƒAƒrƒX#
 
-4610#of Bless#
+4610#ƒuƒŒƒX#
 
 //--- 2013³â9¿ù_ºÀÀÎµÈÅ¸¶ôÇÑ´ë½Å°ü
-4539#Half Arrogant#
+4539#ƒn[ƒtƒAƒƒKƒ“ƒg#
 
 //--- 2013³â10¿ù_ºÀÀÎµÈÀÌÇÁ¸®Æ®
-4487#Half Inferno#
+4487#ƒn[ƒtƒCƒ“ƒtƒFƒ‹ƒm#
 
-4608#Knight's#
-4609#Knight's#
+4608#ƒiƒCƒg‚Ì#
+4609#ƒiƒCƒg‚Ì#
 
 //--- 2013³â12¿ù_ºÀÀÎµÈÅÍÆ²Á¦³×·²
-4494#Half Explosive#
+4494#ƒn[ƒtƒGƒNƒXƒvƒ[ƒVƒu#
 
 //--- 2014³â1¿ù_ºÀÀÎµÈ¹é¼ÒÁø
-4538#Half Life Stream#
+4538#ƒn[ƒtƒ‰ƒCƒtƒXƒgƒŠ[ƒ€#
 
 //--- 2014³â2¿ù_ºÀÀÎµÈÆÄ¶ó¿À
-4489#of Half Kirin#
+4489#ƒn[ƒtƒLƒŠƒ“‚Ì#
 
 //--- 2014³â3¿ù_ºÀÀÎµÈ¿ù¾ßÈ­
-4490#Half Hasty#
+4490#ƒ[ƒ€‹³ö‚Ì‹L‰¯‚ğæ‚è–ß‚»‚¤#
 
 //--- 2014³â4¿ù_ºÀÀÎµÈº¸½ºÀÌ±×´ÏÁª
-4482#of Half Regeneration#
+4482#ƒn[ƒtƒŠƒWƒFƒlƒŒ[ƒVƒ‡ƒ“‚Ì#
 
 //--- 2014³â5¿ù_ºÀÀÎµÈº£½ºÆÛ
-4503#of Half Vision#
+4503#ƒn[ƒtƒrƒWƒ‡ƒ“‚Ì#
 
 //--- 2014³â6¿ù_ºÀÀÎµÈµå¶óÅ¥¶ó
-4483#Half Spiritual#
+4483#ƒn[ƒtƒXƒsƒŠƒ`ƒ…ƒAƒ‹#
 
 //--- 2014³â7¿ù_ºÀÀÎµÈ½º³ªÀÌÆÛ
-4491#of Half Squeezing#
+4491#ƒ[ƒ€‹³ö‚Ì‹L‰¯‚ğæ‚è–ß‚»‚¤#
 
 //--- 2014³â8¿ù_½Ã°èÅ¾³ªÀÌÆ®¸Ş¾î´øÀü
-4625#Sage#
-4626#Echo#
-4627#Vibration#
-4628#of Invisible Horror#
-4629#Sterile#
-4630#of Time Keeper#
-4631#Volant#
-4632#Current#
+4625#ƒZ[ƒW#
+4626#Œ•m‚ÌŒP—û#
+4627#ƒoƒCƒuƒŒ[ƒVƒ‡ƒ“#
+4628#ƒCƒ“ƒ”ƒBƒWƒuƒ‹ƒzƒ‰[‚Ì#
+4629#ƒXƒeƒŠƒ‹#
+4630#Œ•m‚ÌŒP—û#
+4631#ƒ”ƒHƒ‰ƒ“ƒg#
+4632#ƒJƒŒƒ“ƒg#
 
 // 2015³â 1¿ù 16ÀÏ ¿¡ÇÇ¼Òµå 16.1
-4446#Sharpen#
-4633#Queen Bird#
-4634#Fatal#
-4635#Solid#
-4636#of Legion#
-4637#of Drain#
-4638#Plaid#
-4639#of Force#
-4640#of Intelligence#
-4641#of Soul Gathering#
+4446#ƒVƒƒ[ƒvƒ“#
+4633#ƒNƒC[ƒ“ƒo[ƒh#
+4634#’v–½#
+4635#ƒ\ƒŠƒbƒh#
+4636#ƒŒƒMƒIƒ“‚Ì#
+4637#ƒhƒŒƒCƒ“‚Ì#
+4638#ƒvƒŒƒCƒh#
+4639#Œ•m‚ÌŒP—û#
+4640#ƒCƒ“ƒeƒŠƒWƒFƒ“ƒX‚Ì#
+4641#ƒ\ƒEƒ‹ƒMƒƒƒUƒŠƒ“ƒO‚Ì#
 
 // 2015 06 ¹«ÇÑÀÇ´øÀü
-4642#Side Step#
-4643#Strike#
-4644#Magic Shield#
-4645#Physical#
-4646#Chimera#
-4647#Immortal#
-4648#Provocation#
-4649#Fatal Blow#
-4650#Magic Stun#
-4651#Monarch#
+4642#ƒTƒCƒhƒXƒeƒbƒv#
+4643#ƒXƒgƒ‰ƒCƒN#
+4644#ƒ}ƒWƒbƒNƒV[ƒ‹ƒh#
+4645#ƒVƒ‡ƒbƒvƒKƒCƒh#
+4646#ƒLƒƒ‰#
+4647#ƒCƒ‚[ƒ^ƒ‹#
+4648#ƒvƒƒ{ƒP[ƒVƒ‡ƒ“#
+4649#‹CŒ÷#
+4650#ƒ}ƒWƒbƒNƒXƒ^ƒ“#
+4651#ƒ‚ƒi[ƒN#
 
 // 2015 08  ÇÇ¶ó³ª¸Ş
-4652#Punishment#
-4653#Immortal Beast#
-4654#Tomb Raider#
-4655#Grave Keeper#
-4656#Hypnotist#
-4657#Flaming#
-4658#of Magic#
+4652#”±#
+4653#ƒCƒ‚[ƒ^ƒ‹ƒr[ƒXƒg#
+4654#ƒgƒD[ƒ€ƒŒƒCƒ_[#
+4655#ƒVƒ‡ƒbƒvƒKƒCƒh#
+4656#Ã–°pt#
+4657#ƒtƒŒƒCƒ~ƒ“ƒO#
+4658#ƒ}ƒWƒbƒN‚Ì#
 
 
 //2015 ½ÅÁ¾Á·
-4659#Adventurer#
-4660#of Will#
-4661#of Strength#
-4662#Trinity#
-4663#Pretty#
-4664#Pure#
-4665#Honey#
-4666#Sugar#
-4667#Wake#
-4668#Silky#
-4669#Gust#
-4670#Blaze#
+4659#–`Œ¯Ò#
+4660#ƒEƒBƒ‹‚Ì#
+4661#ƒXƒgƒŒƒ“ƒOƒX‚Ì#
+4662#ƒgƒŠƒjƒeƒB#
+4663#ƒvƒŠƒeƒB#
+4664#ƒsƒ…ƒA#
+4665#–I–¨#
+4666#ƒVƒ…ƒK[#
+4667#ƒEƒFƒCƒN#
+4668#ƒVƒ‹ƒL[#
+4669#“Ë•—#
+4670#ƒuƒŒƒCƒY#
 
 // 2015³â È£·¯ Àå³­°¨ ´øÀü Ä«µå
-31016#of Sorrow#
-31017#of Hatred#
-31018#Frustration#
-31019#of Chill#
-31020#of Wrath#
-31021#Madness#
-31022#of Despair#
-31023#Maniac#
+31016#ƒ\ƒ[‚Ì#
+31017#ƒwƒCƒgƒŒƒbƒh‚Ì#
+31018#ƒtƒ‰ƒXƒgƒŒ[ƒVƒ‡ƒ“#
+31019#ƒ`ƒ‹‚Ì#
+31020#ƒ‰[ƒX‚Ì#
+31021#ƒ}ƒbƒhƒlƒX#
+31022#ƒfƒBƒXƒyƒA‚Ì#
+31023#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
 
 // 2015³â 12¿ù Àü»çÀÚÀÇ ¹«´ı Ä«µå Ãß°¡
-4671#Sorcerer's#
-4672#Sura's#
-4673#Minstrel's#
-4674#Guillotine Cross's#
-4675#Archbishop's#
-4676#Ranger's#
-4677#Mechanic's#
-4678#Warlock's#
-4679#Rune Knight's#
-4680#Royal Guard's#
-4681#Geneticist's#
-4682#Shadow Chaser's#
-4683#Wanderer's#
-4684#Cross#
-4685#Adoramus#
-4686#Crimson#
-4687#Cluster#
-4688#Power Storm#
-4689#Ignition#
-4690#Drive#
-4691#Neo Storm#
-4692#Varetyr#
+4671#ƒ\[ƒTƒ‰[‚Ì#
+4672#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4673#ƒ~ƒ“ƒXƒgƒŒƒ‹‚Ì#
+4674#ƒMƒƒ`ƒ“ƒNƒƒX‚Ì#
+4675#ƒA[ƒNƒrƒVƒ‡ƒbƒv‚Ì#
+4676#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4677#ƒƒJƒjƒbƒN‚Ì#
+4678#ƒEƒH[ƒƒbƒN‚Ì#
+4679#ƒ‹[ƒ“ƒiƒCƒg‚Ì#
+4680#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4681#ƒWƒFƒlƒeƒBƒbƒN‚Ì#
+4682#ƒVƒƒƒhƒEƒ`ƒFƒCƒT[‚Ì#
+4683#ƒƒ“ƒ_ƒ‰[‚Ì#
+4684#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4685#^CC3399ğŒFƒ}ƒOƒkƒXƒGƒNƒ\ƒVƒYƒ€ 1A#
+4686#ƒNƒŠƒ€ƒ]ƒ“#
+4687#ƒNƒ‰ƒXƒ^[#
+4688#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4689#ƒCƒOƒjƒbƒVƒ‡ƒ“#
+4690#ƒhƒ‰ƒCƒu#
+4691#ƒlƒIƒXƒg[ƒ€#
+4692#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
 4693#Rampage Blaster#
-4694#Decoy#
-4695#Rainstorm#
-4696#Sound Shock#
+4694#ƒfƒRƒC#
+4695#ƒŒƒCƒ“ƒXƒg[ƒ€#
+4696#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
 
-31024#Volcanic Ball#
-31025#Deadly#
-31026#Auto Magic#
+31024#ƒ”ƒHƒ‹ƒJƒjƒbƒNƒ{[ƒ‹#
+31025#ƒfƒbƒhƒŠ[#
+31026#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
 
 // EP 15 Ä«µå
-27012#Active Protection#
-27013#Vulcan#
-27014#Mirage#
-27015#Restore#
-27016#All Scan#
-27017#Temporary#
-27018#Overclock#
-27019#Debug#
-27020#System Error#
-4697#Overload#
-4698#Boomerang#
-4699#Dual Cannon#
+27012#ƒAƒNƒeƒBƒuƒvƒƒeƒNƒVƒ‡ƒ“#
+27013#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+27014#ƒ~ƒ‰[ƒWƒ…#
+27015#ƒŠƒXƒgƒA#
+27016#ƒI[ƒ‹ƒXƒLƒƒƒ“#
+27017#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+27018#ƒI[ƒo[ƒNƒƒbƒN#
+27019#ƒfƒoƒbƒO#
+27020#ƒVƒXƒeƒ€ƒGƒ‰[#
+4697#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#
+4698#ƒu[ƒƒ‰ƒ“#
+4699#ƒfƒ…ƒAƒ‹ƒLƒƒƒmƒ“#
 
 // 2016±İ¿äÀÏ´øÀü
-27025#Noble#
+27025#‚‹M#
 
 // ¿¡ÇÇ¼Òµå14.3 ÇÊµå¸ó½ºÅÍ Ä«µå
-27026#Blazing#
-27027#Flaming#
-27028#Searing#
-27029#Flame Eater#
-27030#Firebug#
+27026#ô‚í‚ê‚½Œ•m#
+27027#ƒtƒŒƒCƒ~ƒ“ƒO#
+27028#Ä‚¯‚Â‚­#
+27029#‰ÎH‚¢#
+27030#ô‚í‚ê‚½Œ•m#
 
 // 2016³â 12¿ù ÀÏ·çÀü ¿Àºê ¹®¶óÀÌÆ®
-27080#Vibration#
-27081#Moonlight#
-27082#Foxtail#
-27083#of Growth#
-27084#Creepy#
-27085#Delicate#
-27086#Shooter#
-27087#Truth#
-27088#of Agitation#
+27080#ƒoƒCƒuƒŒ[ƒVƒ‡ƒ“#
+27081#ƒ€[ƒ“ƒ‰ƒCƒg#
+27082#ƒLƒcƒl‚ÌK”ö#
+27083#¬’·‚Ì#
+27084#ƒNƒŠ[ƒs[#
+27085#ô‚í‚ê‚½Œ•m#
+27086#ƒVƒ…[ƒ^[#
+27087#ƒgƒDƒ‹[ƒX#
+27088#“®—h‚Ì#
 
 // 2017³â 1¿ù ÀÏ·çÀü ¿Àºê ¹ìÆÄÀÌ¾î
-27101#Sorcery#
-27102#Fire Immune#
-27103#Vigor#
-27104#Compassion#
-27105#Sorrow#
+27101#ƒ\[ƒTƒŠ[#
+27102#‰Î‰Š–³Œø#
+27103#ƒ”ƒBƒK[#
+27104#œ”ß#
+27105#”ßˆ£#
 
 // 2017³â 2¿ù ÀÏ·çÀü ¿Àºê ÇÁ·ÎÁğ
-27110#Quick#
-27111#Refreshing#
-27112#Sturdy#
-27113#Frozen#
+27110#ƒNƒCƒbƒN#
+27111#ƒŠƒtƒŒƒbƒVƒ…#
+27112#Šæä‚È#
+27113#‰Š‚Ì–~’n‚Æ”j–Å‚Ì‹F‚è#
 
 // 2017³â 4¿ù ºê¶óÁú¸®½º Ä«µå
-27120#Recovery#
-27121#Serrasalmus#
-27122#Tidal wave#
-27123#Insect Collector's#
-27124#Hunter's#
-27125#Aqua Benedict#
-27126#Python#
+27120#‰ñ•œ#
+27121#‰Š‚Ì–~’n‚Æ”j–Å‚Ì‹F‚è#
+27122#‘å”g#
+27123#©’ûW‰Æ‚Ì#
+27124#ƒnƒ“ƒ^[‚Ì#
+27125#‰Š‚Ì–~’n‚Æ”j–Å‚Ì‹F‚è#
+27126#ƒpƒCƒ\ƒ“#
 
 //2017³â 4¿ù ÀÏ·çÀü ¿Àºê ÅÍÆ²¾ÆÀÏ·£µå
-27114#Solid#
-27115#Wise#
-27116#Dual Critical#
-27117#Reduce#
-27118#of Pierce#
-27119#of Turtle Shell#
+27114#ƒ\ƒŠƒbƒh#
+27115#ƒƒCƒY#
+27116#ƒfƒ…ƒAƒ‹ƒNƒŠƒeƒBƒJƒ‹#
+27117#Œ¸­#
+27118#‰Š‚Ì–~’n‚Æ”j–Å‚Ì‹F‚è#
+27119#‹T‚Ìb—…‚Ì#
 
 //Episode 16.2 ½Å±Ô Ä«µå Ãß°¡
-27147#Intensive#
-27148#Deft#
-27149#Sniper#
-27150#of High Level#
-27151#of Freezing#
-27152#Prompt#
+27147#‰Š‚Ì–~’n‚Æ”j–Å‚Ì‹F‚è#
+27148#‘f‘‚¢#
+27149#ƒXƒiƒCƒp[#
+27150#‚ƒŒƒxƒ‹‚Ì#
+27151#‰Š‚Ì–~’n‚Æ”j–Å‚Ì‹F‚è#
+27152#ƒvƒƒ“ƒvƒg#
 
 //2017³â 7¿ù ¾Ç¸ùÀÇ ÁöÅÍ¹÷
-27106#Musician's#
-27107#Dancing#
-27108#Singing#
-27109#of Jitterbug#
+27106#‰Š‚Ì–~’n‚Æ”j–Å‚Ì‹F‚è#
+27107#ƒ_ƒ“ƒVƒ“ƒO#
+27108#ƒVƒ“ƒMƒ“ƒO#
+27109#ƒWƒbƒ^[ƒoƒO‚Ì#
 
 //2017 9¿ù ¸ğ½ºÄÚºñ¾Æ Ä«µå
-27157#of Aqua Wood#
-27158#of Windiness#
-27159#Demon Hunter's#
-27160#Dodge#
-27161#Land Blast#
-27162#Soul Steal#
+27157#ƒAƒNƒAƒEƒbƒh‚Ì#
+27158#•—‚Ì#
+27159#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
+27160#‰ñ”ğ#
+27161#ƒ‰ƒ“ƒhƒuƒ‰ƒXƒg#
+27162#ƒ\ƒEƒ‹ƒXƒeƒB[ƒ‹#
 
 //2017³â 9¿ù ¿µ¿õÀÇÈçÀûp1Ä«µå
-27163#of Abranchia#
-27164#Koya#
-27165#of Albion#
-27166#Prio#
-27167#Glacial#
-27168#of Padre#
-27169#Infantry#
+27163#ƒAƒuƒ‰ƒ“ƒLƒA‚Ì#
+27164#ƒRƒ„#
+27165#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
+27166#ƒvƒŠƒI#
+27167#ƒOƒŒƒCƒVƒƒƒ‹#
+27168#ƒpƒhƒŒ‚Ì#
+27169#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
 
 //11¿ù »ç³É´ëÈ¸
-27196#Heine#
-27197#Lugenburg#
-27198#Wigner#
-27199#Nerius#
-27200#Nihil#
-27201#Agnes#
-27202#Jurgen#
-27203#Spica#
-27330#Kronecker's#
-27331#of Granz Heine#
-27332#Skia's#
-27333#of Shiny Nerius#
-300127#Wolf's#
-300128#of Wolf Lugenburg#
-300129#Poe's#
-300130#of Richard#
+27196#ƒnƒCƒl#
+27197#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
+27198#ƒEƒBƒOƒi[#
+27199#ƒlƒŠƒEƒX#
+27200#ƒjƒqƒ‹#
+27201#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
+27202#ƒ†ƒ‹ƒQƒ“#
+27203#ƒXƒsƒJ#
+27330#ƒNƒƒlƒbƒJ[‚Ì#
+27331#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
+27332#ƒXƒLƒA‚Ì#
+27333#ƒVƒƒƒCƒj[ƒlƒŠƒEƒX‚Ì#
+300127#ƒEƒ‹ƒt‚Ì#
+300128#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
+300129#ƒ|[‚Ì#
+300130#ƒŠƒ`ƒƒ[ƒh‚Ì#
 
 //2018³â 1¿ù ¿µ¿õÀÇÈçÀûp2,3Ä«µå
-27181#Bane Band#
-27182#Hammer Shooter#
-27183#Onslaught#
-27184#Salvation#
+27181#ƒxƒCƒ“ƒoƒ“ƒh#
+27182#ƒnƒ“ƒ}[ƒVƒ…[ƒ^[#
+27183#ƒIƒ“ƒXƒ[ƒg#
+27184#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
 
 //½Å±ÔÄ«µå28Á¾
-27170#of Dust#
-27171#of Sunset#
-27172#Sharp Sword#
-27173#Dusty#
-27174#Sunset#
-27175#Small Hunter#
-27176#of Dirty#
-27177#of Marsh#
-27178#of Zero Guard#
-27249#Airi#
-27179#of Wild Fang#
-27250#Anemos#
-27180#Power Brake#
-27251#Gangster#
-27252#Bully#
-27253#Shoplifter#
-27254#Faymont#
-27255#Ordre#
-27256#Haase#
-27257#Akuma#
-27258#Ifodes#
-27259#Licheniyes#
-27260#Odoric#
-27261#Ju#
-27262#Dwigh#
-27263#Kanavian#
-27264#of Evil Shadow#
-27265#Evil Fanatic#
+27170#ƒ_ƒXƒg‚Ì#
+27171#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
+27172#ƒVƒƒ[ƒvƒ\[ƒh#
+27173#ƒ_ƒXƒeƒB#
+27174#ƒTƒ“ƒZƒbƒg#
+27175#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
+27176#ƒ_[ƒeƒB‚Ì#
+27177#À‚Ì#
+27178#ƒ[ƒƒK[ƒh‚Ì#
+27249#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
+27179#ƒƒCƒ‹ƒhƒtƒ@ƒ“ƒO‚Ì#
+27250#ƒAƒlƒ‚ƒX#
+27180#ƒpƒ[ƒuƒŒƒCƒN#
+27251#ƒMƒƒƒ“ƒOƒXƒ^[#
+27252#ƒuƒŠ[#
+27253#ƒVƒ‡ƒbƒvƒŠƒtƒ^[#
+27254#ƒtƒFƒCƒ‚ƒ“ƒg#
+27255#ƒIƒ‹ƒhƒ‹#
+27256#ƒn[ƒZ#
+27257#ƒAƒNƒ}#
+27258#ƒCƒtƒHƒfƒX#
+27259#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
+27260#ƒIƒhƒŠƒbƒN#
+27261#ƒWƒ…#
+27262#ƒhƒEƒBƒO#
+27263#ƒJƒiƒrƒAƒ“#
+27264#×ˆ«‚ÈƒVƒƒƒhƒE‚Ì#
+27265#×ˆ«‚È‹¶MÒ#
 
 //ÀÏ·çÀü ¿Àºê Å×µğº£¾î
-27286#Romping#
-27287#of Liniment#
-27288#of Worker#
-27289#Proper#
-27290#of Obsidian#
+27286#”ò‚Ñ’µ‚Ë‚é#
+27287#ƒŠƒjƒƒ“ƒg‚Ì#
+27288#ƒ[ƒJ[‚Ì#
+27289#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
+27290#•—jÎ‚Ì#
 
 //´ë¸¸ ºÀÀÎµÈ º¸½ºÄ«µå
-27209#Half Scaraba#
-27210#Half Penetration#
-27211#Half Scythelike#
-27212#Half Reflect#
-27213#of Half Bragi#
-27214#of Half Magic Protection#
-27215#of Half Infiltration#
-27216#of Half Hydrochloric Acid#
-27217#of Half Gentleman#
-27218#of Half Grand Cross#
-27219#of Half Fortune#
-27220#Half Sword Master#
-27221#Half Educe#
-27222#Half Fear#
-27223#of Adventurer#
-27224#of Half Devilish#
-27225#Half Sage#
+27209#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
+27210#ƒn[ƒtƒyƒlƒgƒŒ[ƒVƒ‡ƒ“#
+27211#ƒn[ƒtƒTƒCƒXƒ‰ƒCƒN#
+27212#ƒn[ƒtƒŠƒtƒŒƒNƒg#
+27213#ƒƒŠ[ƒNƒŠƒXƒ}ƒXAƒ‰ƒN[ƒ“ƒt[ƒŒƒCƒ`[ƒ€I#
+27214#ƒn[ƒtƒ}ƒWƒbƒNƒvƒƒeƒNƒVƒ‡ƒ“‚Ì#
+27215#ƒn[ƒtƒCƒ“ƒtƒBƒ‹ƒgƒŒ[ƒVƒ‡ƒ“‚Ì#
+27216#ƒn[ƒtƒnƒCƒhƒƒNƒƒŠƒbƒNƒAƒVƒbƒh‚Ì#
+27217#‰Š‚Ì–~’n‚Æ”j–Å‚Ì‹F‚è#
+27218#ƒn[ƒtƒOƒ‰ƒ“ƒhƒNƒƒX‚Ì#
+27219#ƒn[ƒtƒtƒH[ƒ`ƒ…ƒ“‚Ì#
+27220#ƒn[ƒtƒ\[ƒhƒ}ƒXƒ^[#
+27221#ƒKƒXIƒKƒXI#
+27222#ƒn[ƒtƒtƒBƒA[#
+27223#–`Œ¯Ò‚Ì#
+27224#ƒn[ƒtƒfƒrƒŠƒbƒVƒ…‚Ì#
+27225#1“ú1‰ñƒpƒgƒ[ƒ‹#
 
-4492#Half Neutral#
-4498#Half Mana Pool#
-4484#of Half Gemstone#
-4499#Half Bloodlust#
-4500#Half Mirror#
-4501#Half Protection#
-4502#Half Holgren#
-4504#Half Bearer's#
-4481#Half Jack Frost#
+4492#ƒn[ƒtƒjƒ…[ƒgƒ‰ƒ‹#
+4498#ƒn[ƒtƒ}ƒiƒv[ƒ‹#
+4484#x‰‡•¨‘‚Ì­Õ#
+4499#ƒn[ƒtƒuƒ‰ƒbƒhƒ‰ƒXƒg#
+4500#ƒn[ƒtƒ~ƒ‰[#
+4501#ƒn[ƒtƒvƒƒeƒNƒVƒ‡ƒ“#
+4502#x‰‡•¨‘‚Ì­Õ - ƒQƒtƒFƒ“#
+4504#ƒn[ƒtƒxƒAƒ‰[‚Ì#
+4481#ƒn[ƒtƒWƒƒƒbƒNƒtƒƒXƒg#
 
 //ÀÏ·çÀü ¿Àºê ·ç¾È´Ù
-27291#Full Charging#
-27292#of Stalagtic#
-27293#Circular#
-27294#of Big Stone#
-27295#of Stone Shooter#
-27296#of Wootan Shooter#
-27297#Wootan Fist#
-27298#of Big Shield#
+27291#ƒtƒ‹ƒ`ƒƒ[ƒW#
+27292#ƒXƒ^ƒ‰ƒNƒ^ƒCƒg‚Ì#
+27293#‰~Œ`‚Ì#
+27294#x‰‡•¨‘‚Ì­Õ - ƒAƒ‹ƒxƒ‹ƒ^#
+27295#ƒXƒg[ƒ“ƒVƒ…[ƒ^[‚Ì#
+27296#ƒE[ƒ^ƒ“ƒVƒ…[ƒ^[‚Ì#
+27297#ƒE[ƒ^ƒ“ƒtƒBƒXƒg#
+27298#x‰‡•¨‘‚Ì­Õ - ƒAƒ‹ƒfƒoƒ‰ƒ“#
 
 //2018 ¿¡ÇÇ 17.1 Ä«µå
-27304#Healthy#
-27305#Hell Inferno#
-27306#Fire Dance#
-27307#Heavy Trip#
-27308#Sacred#
-27309#of Holy Power#
-27310#of Immortal#
-27311#Heavy Knuckle#
-27312#Evil Piercing#
-27313#Power Fist#
-27314#Animal Hunter#
-27315#Animal Magic Hunter#
-27316#Anti Poison#
-27317#Natural Piercing#
-27318#of Tiger Power#
-27319#Poison Break#
-27320#Enhanced Fire#
+27304#ƒwƒ‹ƒV[#
+27305#ƒwƒ‹ƒCƒ“ƒtƒFƒ‹ƒm#
+27306#ƒtƒ@ƒCƒAƒ_ƒ“ƒX#
+27307#ƒwƒr[ƒgƒŠƒbƒv#
+27308#ƒZƒCƒNƒŠƒbƒh#
+27309#ƒJƒ“ƒeƒBƒi‚ÌˆË—Š#
+27310#•s–Å‚Ì#
+27311#ƒwƒr[ƒiƒbƒNƒ‹#
+27312#×ˆ«‚ÈŠÑ’Ê#
+27313#ƒNƒ‹ƒ“ƒhƒD‚ÌˆË—Š#
+27314#ƒAƒjƒ}ƒ‹ƒnƒ“ƒ^[#
+27315#ƒAƒjƒ}ƒ‹ƒ}ƒWƒbƒNƒnƒ“ƒ^[#
+27316#ƒAƒ“ƒ`ƒ|ƒCƒYƒ“#
+27317#ƒAƒXƒJ[‚ÌˆË—Š#
+27318#ƒ^ƒCƒK[ƒpƒ[‚Ì#
+27319#ƒ|ƒCƒYƒ“ƒuƒŒƒCƒN#
+27320#ƒGƒ“ƒnƒ“ƒXƒhƒtƒ@ƒCƒA#
 
 //¿¡ÇÇ¼Òµå14.3 ¸ğ·ÎÅ©Ä«µå
-27321#of Demon#
-27322#Dominator's#
-27323#Coordinator's#
-27324#Brinarnea#
-27325#Muspelheim#
-27326#Destructive#
-27327#Reaper Ankou#
-27328#Corrupted Life's#
+27321#ˆ«–‚‚Ì#
+27322#ƒhƒ~ƒl[ƒ^[‚Ì#
+27323#ƒCƒYƒ‹[ƒh‚Å‰·‚à‚è‚ğ•ª‚©‚¿‡‚¨‚¤#
+27324#ƒuƒŠƒiƒŒƒA#
+27325#ƒ€ƒXƒyƒ‹ƒwƒCƒ€#
+27326#”j‰ó“I‚È#
+27327#ƒQƒtƒFƒ“‚Å‰·‚à‚è‚ğ•ª‚©‚¿‡‚¨‚¤#
+27328#‘Â—‚µ‚½¶–½‚Ì#
 
 //¿¡´Ù ±Û·¡½ºÆ®
-27329#of Schmidt#
+27329#ƒpƒˆƒ“‚Å‰·‚à‚è‚ğ•ª‚©‚¿‡‚¨‚¤#
 
 //ÀÏ·çÀü¿Àºê¶óºñ¸°½º Ä«µå
-27338#of Double Power#
-27339#Ghost#
-27340#of Angry Killer#
-27334#of Chaotic#
-27341#of Water Shell#
-27335#of Black Guard#
-27342#Metal Ground#
-27336#of Viper#
-27343#Holy Spell#
-27337#Hunting Breeze#
+27338#ƒ_ƒuƒ‹ƒpƒ[‚Ì#
+27339#ƒS[ƒXƒg#
+27340#ƒAƒ“ƒOƒŠ[ƒLƒ‰[‚Ì#
+27334#ƒJƒIƒeƒBƒbƒN‚Ì#
+27341#ƒEƒH[ƒ^[ƒVƒFƒ‹‚Ì#
+27335#ƒAƒ‹ƒxƒ‹ƒ^‚Å‰·‚à‚è‚ğ•ª‚©‚¿‡‚¨‚¤#
+27342#ƒƒ^ƒ‹ƒOƒ‰ƒEƒ“ƒh#
+27336#ƒoƒCƒp[‚Ì#
+27343#ƒz[ƒŠ[ƒXƒyƒ‹#
+27337#ƒAƒ‹ƒfƒoƒ‰ƒ“‚Å‰·‚à‚è‚ğ•ª‚©‚¿‡‚¨‚¤#
 
 //¾îºñ½º ¹× ³ë±× 3Ãş
-27346#of Howling#
-27347#Crack#
-27348#No wear#
-27349#of Flame Barrier#
-27350#of Dragon Spirit#
-27351#of Dragon Heart#
-27352#Slumber#
-27353#of Demonic Barrier#
-27354#of Deprave#
-27355#Depraved#
-27356#of Frozen Guard#
-27357#of Dirty Glove#
-27358#Breaking#
-27359#Cold Magic#
-27360#Fire Magic#
-27361#Heavy Blade#
-27362#of Queen Spider#
-27363#Doom#
+27346#ƒnƒEƒŠƒ“ƒO‚Ì#
+27347#‹T—ô#
+27348#ƒm[ƒEƒFƒA#
+27349#‰Š‚ÌƒoƒŠƒA‚Ì#
+27350#ƒhƒ‰ƒSƒ“ƒXƒsƒŠƒbƒg‚Ì#
+27351#¡“ú‚Ìƒ”ƒ@ƒ“EƒVƒ‡[ì‚è‚ÍI—¹‚µ‚Ü‚µ‚½#
+27352#ƒXƒ‰ƒ“ƒo[#
+27353#ˆ«–‚‚ÌƒoƒŠƒA‚Ì#
+27354#‘Â—‚Ì#
+27355#ƒGƒŒƒi‚Ì‚¨Šè‚¢#
+27356#ƒtƒ[ƒYƒ“ƒK[ƒh‚Ì#
+27357#ƒ_[ƒeƒBƒOƒ[ƒu‚Ì#
+27358#ƒuƒŒƒCƒLƒ“ƒO#
+27359#ƒqƒCƒ‰ƒM‚Ì}‚Ì‹L‰¯#
+27360#ƒtƒ@ƒCƒAƒ}ƒWƒbƒN#
+27361#ƒwƒr[ƒuƒŒ[ƒh#
+27362#ƒNƒC[ƒ“ƒXƒpƒCƒ_[‚Ì#
+27363#ƒNƒŠƒXƒ}ƒXƒŠ[ƒX‚ğì‚ë‚¤#
 //°í¼º µµÀü¸ğµå
-27381#of Fallen Angel#
-27382#of Creep#
-27383#of Relax#
-27384#Magical Knightage#
-27385#Magical Knightage#
-27386#Exorcist's#
-27387#Undead Slayer's#
-27388#Strong Recovery#
+27381#‘Â“Vg‚Ì#
+27382#ƒNƒŠ[ƒv‚Ì#
+27383#ƒXƒ|ƒbƒeƒB‚Æ”Ş—‚Ìw—Ö#
+27384#ƒ}ƒWƒJƒ‹ƒiƒCƒc#
+27385#ƒ}ƒWƒJƒ‹ƒiƒCƒc#
+27386#ƒGƒNƒ\ƒVƒXƒg‚Ì#
+27387#‰½‚©‚ğŒ©‚Â‚¯‚½#
+27388#‹­—Í‚È‰ñ•œ#
 // 200 Level Expansion Cards
-300001#High Invenom#
-300002#Body Armor#
-300003#of Wild Dogs#
-300004#of Iron Walls#
-300005#of High Walkers#
-300006#of Psychic#
-300007#Solid Brake#
-300008#Holly Twinkle#
-300009#Ghost Magical#
-300010#Wind Magical#
-300011#St Magical#
-300012#ObScreed#
-300013#Regin Lake#
-300014#Ingrid#
-300015#Remedy Low Level#
-300016#of Treasure#
-300017#High Halloween#
-300018#High Dam#
-300019#Dragon Slayer#
-300020#of the Poacher#
-300021#Dragon Killer#
+300001#ƒnƒCƒCƒ“ƒxƒiƒ€#
+300002#ƒXƒ|ƒbƒeƒBAƒ_ƒI#
+300003#ƒƒCƒ‹ƒhƒhƒbƒO‚Ì#
+300004#“S‚Ì•Ç‚Ì#
+300005#ƒnƒCƒEƒH[ƒJ[‚Ì#
+300006#ƒXƒ|ƒbƒeƒBAƒ_ƒI#
+300007#ƒ\ƒŠƒbƒhƒuƒŒ[ƒL#
+300008#ƒz[ƒŠ[ƒgƒDƒCƒ“ƒNƒ‹#
+300009#ƒS[ƒXƒgƒ}ƒWƒJƒ‹#
+300010#ƒXƒ|ƒbƒeƒBAƒ_ƒI#
+300011#Stƒ}ƒWƒJƒ‹#
+300012#ƒIƒuƒXƒNƒŠ[ƒh#
+300013#ƒŒƒWƒ“ƒŒƒCƒN#
+300014#ƒCƒ“ƒOƒŠƒbƒh#
+300015#ƒŒƒƒfƒBƒ[ƒŒƒxƒ‹#
+300016#ƒgƒŒƒWƒƒ[‚Ì#
+300017#ƒnƒCƒnƒƒEƒBƒ“#
+300018#ƒXƒ|ƒbƒeƒBAƒ_ƒI#
+300019#ƒhƒ‰ƒSƒ“ƒXƒŒƒCƒ„[#
+300020#ƒ|[ƒ`ƒƒ[‚Ì#
+300021#ƒhƒ‰ƒSƒ“ƒLƒ‰[#
 
 // Episode 17.2
-300076#of Royal Guard#
-300077#of Mechanic#
-300078#Mad Dance#
-300079#Middle Dry#
-300080#Dry#
-300081#of Magician#
-300082#Piercing#
-300083#of Ninja#
-300084#of Holy#
-300085#of Taekwon#
-300086#Heavy Attack#
-300087#of Shadow Cat#
-300088#Crossflower#
-300089#of Assault#
-300090#of Land Power#
-300091#of Gunman#
-300092#of Merchant#
-300093#of Acolite#
-300094#Mad Lethal#
-300095#of Keen#
-300096#Harmony#
-300097#of Thief#
-300098#Ninja#
-300099#of Minor Guard#
-300100#of Major Guard#
-300101#of Rune Knight#
-300102#of Genetic#
-300103#Mermaid#
-300104#of Sorcerer#
-300105#of Warlock#
-300106#Fire Magical#
-300107#Fruit#
-300108#of Shadow Chaser#
-300109#of Guillotine Cross#
-300110#of Kagerou#
-300111#of Oboro#
-300112#of Soul Reaper#
-300113#of Talent#
-300114#Immortal Magical#
-300115#of Arcbishop#
-300116#of Sura#
-300117#of Ranger#
-300118#of Star Master#
-300119#of Rebellion#
-300120#Shoal's#
-300121#Purified Water's#
-300122#Saint#
-300123#Formless'#
-300124#Water Magical#
-300125#of Summoner#
+300076#ƒƒCƒ„ƒ‹ƒK[ƒh‚Ì#
+300077#ƒƒJƒjƒbƒN‚Ì#
+300078#–²‚Ì‘‚ÌƒXƒ|ƒbƒeƒB#
+300079#ƒ~ƒhƒ‹ƒhƒ‰ƒC#
+300080#ƒhƒ‰ƒC#
+300081#ƒ}ƒWƒVƒƒƒ“#
+300082#ƒXƒ|ƒbƒeƒB‚ÌŒŠ#
+300083#”EÒ‚Ì#
+300084#¹‚Ì#
+300085#ƒeƒRƒ“‚Ì#
+300086#ƒXƒ|ƒbƒeƒB‚Ì•œQ#
+300087#ƒVƒƒƒhƒEƒLƒƒƒbƒg‚Ì#
+300088#ƒNƒƒXƒtƒ‰ƒ[#
+300089#ƒAƒTƒ‹ƒg‚Ì#
+300090#ŒŒ‚É‚ÍŒŒ‚ğ#
+300091#ƒKƒ“ƒ}ƒ“‚Ì#
+300092#ƒ}[ƒ`ƒƒƒ“ƒg#
+300093#ƒAƒRƒ‰ƒCƒg‚Ì#
+300094#ŠÃ‚¢—U˜f#
+300095#ƒL[ƒ“‚Ì#
+300096#’²˜a#
+300097#ƒV[ƒt#
+300098#”EÒ#
+300099#ƒ}ƒCƒi[ƒK[ƒh‚Ì#
+300100#ƒƒWƒƒ[ƒK[ƒh‚Ì#
+300101#ƒ‹[ƒ“ƒiƒCƒg‚Ì#
+300102#ˆ¤‚ç‚µ‚¢ƒLƒƒƒ“ƒfƒBƒoƒXƒPƒbƒg#
+300103#ƒ}[ƒƒCƒh#
+300104#ƒ\[ƒTƒ‰[‚Ì#
+300105#ƒEƒH[ƒƒbƒN‚Ì#
+300106#”é–§”C–±FƒLƒƒƒ“ƒfƒBƒoƒXƒPƒbƒg‚ğ–‚½‚»‚¤#
+300107#ƒtƒ‹[ƒc#
+300108#”­Œ@‚çƒ#
+300109#ƒMƒƒ`ƒ“ƒNƒƒX‚Ì#
+300110#ƒ‰ƒbƒL[ƒXƒC[ƒc#
+300111#O‚Ì#
+300112#ƒ\ƒEƒ‹ƒŠ[ƒp[‚Ì#
+300113#ƒ^ƒŒƒ“ƒg‚Ì#
+300114#ƒXƒC[ƒc‚Í‚à‚¤‚¢‚ç‚È‚¢#
+300115#ƒA[ƒNƒrƒVƒ‡ƒbƒv‚Ì#
+300116#C—…‚Ì#
+300117#ƒŒƒ“ƒWƒƒ[‚Ì#
+300118#??? ???#
+300119#ƒŠƒxƒŠƒIƒ“‚Ì#
+300120#ƒVƒ‡[ƒ‹ƒY#
+300121#ƒsƒ…ƒŠƒtƒ@ƒCƒhƒEƒH[ƒ^[ƒY#
+300122#?? ????#
+300123#ƒtƒH[ƒ€ƒŒƒX‚Ì#
+300124#ƒEƒH[ƒ^[ƒ}ƒWƒJƒ‹#
+300125#ƒTƒ‚ƒi[‚Ì#
 
 //Illusion of Under Water
-300140#Enhanced Thunder#
-300141#Mermaid#
-300142#Submarine#
-300143#of Anti-Insect#
-300144#Stabbing#
-300145#of Abyss Witch#
-300146#Fatal Fish#
-300147#Seabed#
-300148#Deep-Sea#
-300149#of Fish Killer#
-300150#of Sword Expert#
-300151#Sea Nightmare#
+300140#ƒGƒ“ƒnƒ“ƒXƒhƒTƒ“ƒ_[#
+300141#ƒ}[ƒƒCƒh#
+300142#???? ?? 1#
+300143#ƒAƒ“ƒ`ƒCƒ“ƒZƒNƒg‚Ì#
+300144#ƒXƒ^ƒbƒrƒ“ƒO#
+300145#ƒAƒrƒXƒEƒBƒbƒ`‚Ì#
+300146#???? ?? 2#
+300147#ƒV[ƒxƒbƒh#
+300148#ƒfƒB[ƒvƒV[#
+300149#ƒtƒBƒbƒVƒ…ƒLƒ‰[‚Ì#
+300150#???? ?? 3#
+300151#ƒV[ƒiƒCƒgƒƒA#
 
 // Geffen Night Arena
-300177#Arhi#
-300178#Anemos#
-300180#Gangster#
-300181#Bully#
-300179#Shoplifter#
-300182#Faymont#
-300183#Ordre#
-300184#Hase#
-300185#Akuma#
-300186#Ifodes#
-300188#Lycheniyes#
-300187#Odoric#
-300189#Ju#
-300191#Dwigh#
-300190#Kanavian#
+300177#???? ?? 4#
+300178#ƒAƒlƒ‚ƒX#
+300180#ƒMƒƒƒ“ƒOƒXƒ^[#
+300181#ƒuƒŠ[#
+300179#ƒVƒ‡ƒbƒvƒŠƒtƒ^[#
+300182#ƒtƒFƒCƒ‚ƒ“ƒg#
+300183#ƒIƒ‹ƒhƒ‹#
+300184#ƒnƒZ#
+300185#ƒAƒNƒ}#
+300186#ƒCƒtƒHƒfƒX#
+300188#ƒŠƒ`ƒFƒjƒGƒX#
+300187#ƒIƒhƒŠƒbƒN#
+300189#ƒWƒ…#
+300191#ƒhƒEƒBƒO#
+300190#ƒJƒiƒrƒAƒ“#
 
 //2020 Royal Hunting Competition
-27393#Kathryn's#
-27394#of Vituos Wigner#
-27395#Isaac's#
-27396#of Bright Wigner#
+27393#ƒLƒƒƒXƒŠƒ“ƒY#
+27394#ƒ”ƒBƒ‹ƒgƒDƒIƒXƒEƒBƒOƒi[‚Ì#
+27395#ƒAƒCƒUƒbƒNƒX#
+27396#???? ??-???#
 
 //Unfair Crash New Card
-300170#Rotten#
-300171#Digger#
-300172#Melting#
-300173#Annoying#
-300174#Denied#
-300175#Unknown#
-300176#of Undefine#
+300170#ƒƒbƒeƒ“#
+300171#??? ?? 2#
+300172#ƒƒ‹ƒeƒBƒ“ƒO#
+300173#ƒAƒmƒCƒ“ƒO#
+300174#ƒfƒiƒCƒh#
+300175#??? ?? 3#
+300176#ƒAƒ“ƒfƒBƒtƒ@ƒCƒ“‚Ì#
 
 //New Cards of Regret
-300192#Pisar#
-300193#Bobeta#
+300192#???? ?? 1#
+300193#ƒ{ƒxƒ^#
 
 //Episode 18
-300211#Magic Ground#
-300212#Anti Darkness#
-300213#Devil Catch#
-300214#Power Quarter#
-300215#Geothermal#
-300216#High Blast#
-300217#of Burning Fang#
-300218#High Immortal#
-300219#Dark Magical#
-300220#Wolf Scratch#
-300221#Intangible Exorcist#
-300222#High Wind#
-300223#Wolf Tackle#
-300227#Angel Killer#
-300228#Devil Killer#
+300211#???? ?? 2#
+300212#ƒAƒ“ƒ`ƒ_[ƒNƒlƒX#
+300213#ƒfƒrƒ‹ƒLƒƒƒbƒ`#
+300214#ƒpƒ[ƒNƒH[ƒ^[#
+300215#???? ?? 2#
+300216#ƒnƒCƒuƒ‰ƒXƒg#
+300217#ƒo[ƒjƒ“ƒOƒtƒ@ƒ“ƒO‚Ì#
+300218#ƒnƒCƒCƒ‚[ƒ^ƒ‹#
+300219#??? ?? 4#
+300220#ƒEƒ‹ƒtƒXƒNƒ‰ƒbƒ`#
+300221#ƒCƒ“ƒ^ƒ“ƒWƒuƒ‹ƒGƒNƒ\ƒVƒXƒg#
+300222#ƒnƒCƒEƒBƒ“ƒh#
+300223#?????? ??#
+300227#ƒGƒ“ƒWƒFƒ‹ƒLƒ‰[#
+300228#ƒfƒrƒ‹ƒLƒ‰[#
 
 //41 New Cards
-300240#Fatal Heavy#
-300241#Fatal Boned#
-300242#Shrewd#
-300243#Strong Patient#
-300244#of Spiral#
-300245#of Fast Heal#
-300246#of Gigantic Magic Immune#
-300247#of Ghost Killer#
-300248#of Death Witch#
-300249#Formless Destroyer's#
-300250#Demon Slayer's#
-300251#of High Immortal#
-300252#of High Holy Power#
-300253#Venomous#
-300254#of High Mars#
-300255#Gale#
-300256#Hellfire#
-300257#Torrent#
-300258#Deep Darkness#
-300259#Earthquake#
-300260#of High Intelligence#
-300261#of High Lucky#
-300262#Undead Dragon Hunter's#
-300263#Guardman#
-300264#High Guardman#
-300265#Magic Guardman#
-300266#of Unknown Swordsman#
-300267#of Speed Bolt#
-300268#of Power Bolt#
-300269#Eldest#
-300270#Emphatic#
-300271#Happy#
-300272#Pray#
-300273#Smile#
-300274#of Real Rage#
-300275#of Real Horror#
-300276#Wing Breaker#
-300277#of Real Resent#
-300278#of Void#
-300279#Dead Pension#
-300280#Corrupted Magic Swordsman's#
-300281#of Water Bug#
-300230#Yellow Spawn#
-300231#Royal Spawn#
-300232#Spawn#
-300233#Red Spawn#
-300234#Green Spawn#
-300235#Fray#
-300236#Stubborn#
-300237#Pierce#
-300238#Double Heal#
-300239#Distortion#
-4493#Half High Risk#
+300240#ƒtƒFƒCƒ^ƒ‹ƒwƒr[#
+300241#ƒtƒFƒCƒ^ƒ‹ƒ{[ƒ“#
+300242#ƒVƒ…ƒ‹[ƒh#
+300243#?????? ??#
+300244#ƒIƒuƒXƒpƒCƒ‰ƒ‹#
+300245#ƒIƒuƒtƒ@ƒXƒgƒq[ƒ‹#
+300246#ƒIƒuƒMƒKƒ“ƒeƒBƒbƒNƒ}ƒWƒbƒNƒCƒ~ƒ…[ƒ“#
+300247#??? ?? 5#
+300248#ƒIƒuƒfƒXƒEƒBƒbƒ`#
+300249#ƒtƒH[ƒ€ƒŒƒXƒfƒXƒgƒƒCƒ„[ƒY#
+300250#ƒfƒ‚ƒ“ƒXƒŒƒCƒ„[ƒY#
+300251#????? ?? 1#
+300252#ƒIƒuƒnƒCƒz[ƒŠ[ƒpƒ[#
+300253#ƒxƒmƒ}ƒX#
+300254#ƒIƒuƒnƒCƒ}[ƒY#
+300255#ƒQƒCƒ‹#
+300256#ƒwƒ‹ƒtƒ@ƒCƒA#
+300257#ƒgƒŒƒ“ƒg#
+300258#[•£#
+300259#’nk#
+300260#ƒIƒuƒnƒCƒCƒ“ƒeƒŠƒWƒFƒ“ƒX#
+300261#ƒIƒuƒnƒCƒ‰ƒbƒL[#
+300262#ƒAƒ“ƒfƒbƒhƒhƒ‰ƒSƒ“ƒnƒ“ƒ^[ƒY#
+300263#????? ?? 3#
+300264#ƒnƒCƒK[ƒhƒ}ƒ“#
+300265#ƒ}ƒWƒbƒNƒK[ƒhƒ}ƒ“#
+300266#ƒIƒuƒAƒ“ƒmƒEƒ“ƒ\[ƒhƒ}ƒ“#
+300267#????? ?? 4#
+300268#ƒIƒuƒpƒ[ƒ{ƒ‹ƒg#
+300269#ƒGƒ‹ƒfƒXƒg#
+300270#ƒGƒ“ƒpƒVƒbƒN#
+300271#ƒnƒbƒs[#
+300272#ƒvƒŒƒC#
+300273#ƒXƒ}ƒCƒ‹#
+300274#ƒIƒuƒŠƒAƒ‹ƒŒƒCƒW#
+300275#????? ?? 4#
+300276#ƒEƒBƒ“ƒOƒuƒŒƒCƒJ[#
+300277#ƒIƒuƒŠƒAƒ‹ƒŠƒZƒ“ƒg#
+300278#ƒIƒuƒ”ƒHƒCƒh#
+300279#??? ?? 6#
+300280#ƒRƒ‰ƒvƒeƒbƒhƒ}ƒWƒbƒNƒ\[ƒhƒ}ƒ“ƒY#
+300281#ƒIƒuƒEƒH[ƒ^[ƒoƒO#
+300230#ƒCƒGƒ[ƒXƒ|[ƒ“#
+300231#????? ????#
+300232#ƒ[ƒƒs#
+300233#ƒŒƒbƒhƒXƒ|[ƒ“#
+300234#ƒOƒŠ[ƒ“ƒXƒ|[ƒ“#
+300235#????? ?? 1#
+300236#ƒXƒ^ƒ{[ƒ“#
+300237#ƒsƒA[ƒX#
+300238#ƒ_ƒuƒ‹ƒq[ƒ‹#
+300239#????? ?? 1#
+4493#ƒn[ƒtƒnƒCƒŠƒXƒN#
 
 // Clock Tower Abyss
-300292#Devil Joker#
-300293#of Poison#
-300294#Poison Dead#
-300295#Animal Killer#
-300296#Mad Bug#
-300297#Senior Hunter's#
+300292#????? ?? 1#
+300293#ƒIƒuƒ|ƒCƒYƒ“#
+300294#ƒ|ƒCƒYƒ“ƒfƒbƒh#
+300295#ƒAƒjƒ}ƒ‹ƒLƒ‰[#
+300296#????? ?? 1#
+300297#ƒVƒjƒAƒnƒ“ƒ^[ƒY#
 //Royal Hunting Competition 2021
-300307#Meyer's#
-300308#of Meyer#
-300309#Helmut's#
-300310#of Lugenburg#
+300307#ƒƒCƒ„[ƒY#
+300308#????? ?? 2#
+300309#ƒwƒ‹ƒ€ƒbƒc#
+300310#ƒIƒuƒ‹[ƒQƒ“ƒuƒ‹ƒO#
 
 //Episode 19
-300359#of Snowflake#
-300360#of Seaweed#
-300361#of Straw#
-300362#of Ice-free#
-300363#of Limacina#
-300364#Sea Water#
-300365#Primitive#
-300366#Lowest#
-300367#of Primitive#
-300368#of Lowest#
-300369#of Dark Spell#
-300370#of Telekinetic Spell#
-300371#of Poison Spell#
-300372#of Telekinetic Power#
-300373#Insect-proof#
-300374#of Pesticide#
-300375#Higher Level#
-300376#Higher Level#
-300377#of Ultra Power#
-300378#of Sim#
-300379#Higher Level#
-300380#Higher Level#
-300381#of Heart Hunting#
-300382#Aquila#
+300359#ƒIƒuƒXƒm[ƒtƒŒ[ƒN#
+300360#ƒIƒuƒV[ƒEƒB[ƒh#
+300361#ƒIƒuƒXƒgƒ[#
+300362#????? ?? 2#
+300363#ƒIƒuƒŠƒ}ƒVƒi#
+300364#ƒV[ƒEƒH[ƒ^[#
+300365#ƒvƒŠƒ~ƒeƒBƒu#
+300366#????? ?? 2#
+300367#ƒIƒuƒvƒŠƒ~ƒeƒBƒu#
+300368#ƒIƒuƒƒEƒGƒXƒg#
+300369#ƒIƒuƒ_[ƒNƒXƒyƒ‹#
+300370#????? ?? 2#
+300371#ƒIƒuƒ|ƒCƒYƒ“ƒXƒyƒ‹#
+300372#ƒIƒuƒeƒŒƒLƒlƒeƒBƒbƒNƒpƒ[#
+300373#ƒCƒ“ƒZƒNƒgƒvƒ‹[ƒt#
+300374#????? ?? 2#
+300375#ƒnƒCƒA[ƒŒƒxƒ‹#
+300376#ƒnƒCƒA[ƒŒƒxƒ‹#
+300377#ƒIƒuƒEƒ‹ƒgƒ‰ƒpƒ[#
+300378#????? ?? 2#
+300379#ƒnƒCƒA[ƒŒƒxƒ‹#
+300380#ƒnƒCƒA[ƒŒƒxƒ‹#
+300381#ƒIƒuƒn[ƒgƒnƒ“ƒeƒBƒ“ƒO#
+300382#????? ?? 2#
 
 // Royal Hunting 2022
-300421#Catherine's#
-300422#of Gaebolg#
-300423#Friedrich's#
-300424#of Stolz Heine#
-300425#Crux's#
-300426#of Findel#
+300421#ƒLƒƒƒTƒŠƒ“ƒY#
+300422#????? ?? 2#
+300423#ƒtƒŠ[ƒhƒŠƒbƒqƒY#
+300424#ƒIƒuƒXƒgƒ‹ƒcƒnƒCƒl#
+300425#ƒNƒ‹ƒbƒNƒX#
+300426#??? ??? ? ??#
 
 // Level 260 Dungeons
-300441#Hell Burning#
-300442#Dead Plant#
-300443#of Titan#
-300444#Living Dead#
-300445#Mother Earth#
-300446#Punching#
-300447#Magic Bug#
-300448#of Saint#
-300449#Magic Tree#
-300450#Thunder#
+300441#ƒwƒ‹ƒo[ƒjƒ“ƒO#
+300442#??? ??? ? ??#
+300443#ƒIƒuƒ^ƒCƒ^ƒ“#
+300444#ƒŠƒrƒ“ƒOƒfƒbƒh#
+300445#ƒ}ƒU[ƒA[ƒX#
+300446#?? ???#
+300447#ƒ}ƒWƒbƒNƒoƒO#
+300448#ƒIƒuƒZƒCƒ“ƒg#
+300449#ƒ}ƒWƒbƒNƒcƒŠ[#
+300450#ƒTƒ“ƒ_[#
 // Sealed Boss Card Update
-300195#Half Pie#
-300201#of Wicked Queen Spider#
-300203#of Low Howling#
-300209#Mild Punishment#
+300195#ƒn[ƒtƒpƒC#
+300201#×ˆ«‚È—‰¤’wå‚Ì#
+300203#?? ???#
+300209#Œy‚¢”±#
 
 // Episode 20
-300455#Copo#
-300456#of Cool Egg#
-300457#of Gray Wind#
-300458#of White Wind#
-300459#of Rgan#
-300460#Spell Force#
-300461#Faker#
-300462#Sorceric#
-300463#Impure#
-300464#of Impure#
-300465#of Guardian#
-300466#Cleaning#
-300467#of Slug#
-300468#Snowing#
-300469#Melibe#
-300470#Ice Bear#
-300471#Fallen#
-300472#of Demigod#
-300473#of Angel Storm#
-300474#Chief#
+300455#??? ??? ?#
+300456#ƒN[ƒ‹ƒGƒbƒO‚Ì#
+300457#ŠDF‚Ì•—‚Ì#
+300458#”’‚¢•—‚Ì#
+300459#??? ??? ?#
+300460#ƒXƒyƒ‹ƒtƒH[ƒX#
+300461#ƒtƒFƒCƒJ[#
+300462#ƒ\[ƒTƒŠƒbƒN#
+300463#??? ??? ?#
+300464#•sƒ‚È#
+300465#ƒK[ƒfƒBƒAƒ“‚Ì#
+300466#ƒNƒŠ[ƒjƒ“ƒO#
+300467#??? ??? ?#
+300468#ƒXƒm[ƒCƒ“ƒO#
+300469#ƒƒŠƒx#
+300470#ƒAƒCƒXƒxƒA#
+300471#??? ??? ?#
+300472#”¼_‚Ì#
+300473#ƒGƒ“ƒWƒFƒ‹ƒXƒg[ƒ€‚Ì#
+300474#‘º’·#
 
 //2023 Royal Hunting Competition
-300486#Volkova#
-300487#Elena#
-300488#Rebellion Lookie#
-300489#Lookie#
-300490#Loveroy#
-300491#Est#
-300492#Rebellion Gony#
-300493#Gony#
-300494#Tes#
-300495#Fontes#
-300496#Ray#
-300497#Leizi#
+300486#ƒ”ƒHƒ‹ƒRƒ”ƒ@#
+300487#ƒGƒŒƒi#
+300488#??? ??? ? ??#
+300489#ƒ‹ƒL#
+300490#ƒ‰ƒo[ƒƒC#
+300491#ƒGƒXƒg#
+300492#??? ??? ? ??#
+300493#ƒSƒj#
+300494#ƒeƒX#
+300495#ƒtƒHƒ“ƒeƒX#
+300496#??? ??? ? ??#
+300497#ƒŒƒCƒW#
 
 //Episode 21 Cards
-300505#of Seawind#
-300506#Scalleg#
-300507#Velelling#
-300508#of Skipper#
-300509#of Letterster#
-300510#of Clio#
-300511#of Rockstriker#
-300512#of Seahorse#
-300513#of Icehorn#
-300514#of Cleaner#
-300515#of Fixer#
-300516#of Collector#
-300517#of Negotiator#
-300518#of Cooker#
-300519#Yormi#
-300520#Missionary#
-300521#of Invest#
-300522#of Judge#
-300523#Executor#
-300524#of Yoscopus#
-300525#Yoscopus#
-300526#Working#
-300527#Trading#
-300528#of Yortus#
-300529#Yortus#
-300530#of Arbiter#
-300531#of Bailiff#
-300532#Captain#
-300533#of Tan#
+300505#??? ??? ? ??#
+300506#ƒXƒPƒCƒŒƒbƒO#
+300507#ƒ”ƒFƒŒƒŠƒ“ƒO#
+300508#ƒXƒLƒbƒp[‚Ì#
+300509#??? ??? ? ??#
+300510#ƒNƒŠƒI‚Ì#
+300511#ƒƒbƒNƒXƒgƒ‰ƒCƒJ[‚Ì#
+300512#ƒV[ƒz[ƒX‚Ì#
+300513#??? ??? ? ??#
+300514#ƒNƒŠ[ƒi[‚Ì#
+300515#ƒtƒBƒNƒT[‚Ì#
+300516#ƒRƒŒƒNƒ^[‚Ì#
+300517#??? ??? ? ??#
+300518#ƒNƒbƒJ[‚Ì#
+300519#ƒˆƒ‹ƒ~#
+300520#ƒ~ƒbƒVƒ‡ƒiƒŠ[#
+300521#??? ??? ? ??#
+300522#ƒWƒƒƒbƒW‚Ì#
+300523#ƒGƒOƒ[ƒLƒ…[ƒ^[#
+300524#ƒˆƒXƒRƒvƒX‚Ì#
+300525#??? ??? ? ??#
+300526#ƒ[ƒLƒ“ƒO#
+300527#ƒgƒŒ[ƒfƒBƒ“ƒO#
+300528#ƒˆƒ‹ƒgƒDƒX‚Ì#
+300529#??? ??? ? ??#
+300530#ƒA[ƒrƒ^[‚Ì#
+300531#ƒxƒCƒŠƒt‚Ì#
+300532#ƒLƒƒƒvƒeƒ“#
+300533#??? ??#
 
 // 2024 Sesrumnir Ocean Week
-300549#of Ocean Week#
+300549#ƒI[ƒVƒƒƒ“ƒEƒB[ƒN‚Ì#
 
 // Level 275 Dungeons
-300555#of Violen#
-300556#of Spiding#
-300557#of Garling#
-300558#of Jackonette#
-300559#of Liamette#
-300560#of Double Caster#
-300561#of Medjed#
-300562#of Medjay#
-300563#of Ophois#
-300564#of Heka#
-300565#of Million Dead#
+300555#ƒ”ƒBƒIƒŒƒ“‚Ì#
+300556#ƒXƒsƒfƒBƒ“ƒO‚Ì#
+300557#??? ??#
+300558#ƒWƒƒƒbƒRƒlƒbƒg‚Ì#
+300559#ƒŠƒAƒƒbƒg‚Ì#
+300560#ƒ_ƒuƒ‹ƒLƒƒƒXƒ^[‚Ì#
+300561#’b–è‰®ƒuƒ‹[ƒX#
+300562#ƒƒWƒƒƒC‚Ì#
+300563#ƒIƒtƒHƒCƒX‚Ì#
+300564#ƒwƒJ‚Ì#
+300565#????? ??? ?#
 
 // 2024 Shiba Says Collaboration
-300547#Hungry#
-300550#Lazy#
-300551#Happy#
-300552#Lucky#
+300547#ƒnƒ“ƒOƒŠ[#
+300550#ƒŒƒCƒW[#
+300551#ƒnƒbƒs[#
+300552#K‰^#
 
 // Episode 21 Hard Mode
-300585#Tris#
-300586#Tan#
-300587#Wilhelm#
-300588#Reinhardt#
-300589#Ivan#
-300590#Lalaila#
-300591#Richard#
-300592#Laura#
-300593#Aurelie#
-300594#Ilse El#
-300595#Epesto#
-300596#Maristella#
-300597#Yohan#
-300598#Gunther#
-300599#Galaxia#
-300600#Iana#
-300601#Lee#
-300602#Na Doyo#
+300585#ƒgƒŠƒX#
+300586#ƒ^ƒ“#
+300587#ƒ”ƒBƒ‹ƒwƒ‹ƒ€#
+300588#????? ??? ?#
+300589#ƒCƒƒ“#
+300590#ƒ‰ƒ‰ƒCƒ‰#
+300591#ƒŠƒ`ƒƒ[ƒh#
+300592#ƒ‰ƒEƒ‰#
+300593#ƒI[ƒŒƒŠƒA#
+300594#ƒCƒ‹ƒZEƒGƒ‹#
+300595#ƒGƒyƒXƒg#
+300596#????? ??? ?#
+300597#ƒˆƒnƒ“#
+300598#ƒMƒ…ƒ“ƒ^[#
+300599#ƒMƒƒƒ‰ƒNƒVƒA#
+300600#????? ??? ?#
+300601#ƒŠ[#
+300602#ƒiEƒhƒˆ#
 // 2024 Hunting Competition
-300603#Dien#
-300604#Ridsh#
-300605#Cotness#
-300606#of Dien#
-300607#of Ridsh#
-300608#of Cotness#
+300603#ƒfƒB[ƒ“#
+300604#ƒŠƒhƒbƒVƒ…#
+300605#ƒRƒbƒgƒlƒX#
+300606#ƒfƒB[ƒ“‚Ì#
+300607#‘I‘ğó‚¯‚é‚½‚ß‚É#
+300608#ƒRƒbƒgƒlƒX‚Ì#
 // Unknown Blue Hole Cards
-300609#of Sirena#
-300610#Guerrero#
-300611#of Tatsi#
-300612#of Hanom#
-300613#of Peska#
-300614#of Diosa#
+300609#ƒVƒŒƒi‚Ì#
+300610#ƒQƒŒ[ƒ#
+300611#ƒ^ƒcƒB‚Ì#
+300612#ƒnƒmƒ€‚Ì#
+300613#ƒyƒXƒJ‚Ì#
+300614#‘I‘ğó‚¯‚é‚½‚ß‚É#
 // Kung Fu Panda
-300618#Kung Fu Panda#
+300618#ƒJƒ“ƒt[ƒpƒ“ƒ_#
 // Chapter 1
-300633#of Eggfruit#
-300634#Egriff#
-300635#of Charcoal#
-300636#of Bullying#
-300637#of Fire Loop#
-300638#Pyplasia#
-300639#of Volcanic Shell#
-300640#Fireflower#
-300641#of Piper#
-300642#Silkfrog#
-300643#of Silk Snail#
-300644#of Explorer#
-300645#Repairover#
-300646#of Dimik#
-300647#Nyaze#
-300648#of the Jeller#
-300649#of Tulips#
-300650#of Calendula#
-300651#of Sciviosa#
-300652#Lobelia#
-300653#Myosotis#
-300654#Anemone#
-300655#of the Uncanny#
-300656#Uncanny#
-300657#of Listener#
-300658#of Immortality#
-300659#Toxit#
-300660#Lunarina#
-300661#Bloody Slasher#
-300662#Shadyist#
-300663#Dreamlike#
-300664#Dreamy#
-300665#of Abyss Knight#
-300666#of the Buddha#
-300667#of Gluto#
-300715#Support#
-300716#Strategic#
-300717#Tatio#
-300718#Rekenber#
-300719#As#
-300720#Kaya Toss#
-300721#of Tatio#
-300722#of Rekenber#
+300633#‘I‘ğó‚¯‚é‚½‚ß‚É#
+300634#ƒGƒOƒŠƒt#
+300635#ƒ`ƒƒƒR[ƒ‹‚Ì#
+300636#ƒuƒŠ[‚Ì#
+300637#‘I‘ğó‚¯‚é‚½‚ß‚É#
+300638#ƒsƒvƒ‰ƒVƒA#
+300639#ƒ{ƒ‹ƒJƒjƒbƒNƒVƒFƒ‹‚Ì#
+300640#ƒtƒ@ƒCƒAƒtƒ‰ƒ[#
+300641#‘I‘ğó‚¯‚é‚½‚ß‚É#
+300642#ƒVƒ‹ƒNƒtƒƒbƒO#
+300643#ƒVƒ‹ƒNƒXƒlƒCƒ‹‚Ì#
+300644#ƒGƒNƒXƒvƒ[ƒ‰[‚Ì#
+300645#‘I‘ğó‚¯‚é‚½‚ß‚É#
+300646#ƒfƒBƒ~ƒbƒN‚Ì#
+300647#ƒjƒƒ[ƒY#
+300648#ƒWƒFƒ‰[‚Ì#
+300649#‘I‘ğó‚¯‚é‚½‚ß‚É#
+300650#ƒJƒŒƒ“ƒfƒ…ƒ‰‚Ì#
+300651#ƒVƒ”ƒBƒIƒT‚Ì#
+300652#ƒƒxƒŠƒA#
+300653#ƒ~ƒIƒ\ƒeƒBƒX#
+300654#ƒAƒlƒ‚ƒl#
+300655#ƒAƒ“ƒJƒj[‚Ì#
+300656#ƒAƒ“ƒJƒj[#
+300657#••ˆó‚³‚ê‚½ƒAƒOƒŠƒ}ƒ_#
+300658#ƒCƒ‚[ƒ^ƒŠƒeƒB‚Ì#
+300659#ƒgƒLƒVƒbƒg#
+300660#ƒ‹ƒiƒŠƒi#
+300661#ƒuƒ‰ƒbƒfƒBƒXƒ‰ƒbƒVƒƒ[#
+300662#ƒVƒFƒCƒfƒBƒXƒg#
+300663#ƒhƒŠ[ƒ€ƒ‰ƒCƒN#
+300664#ƒhƒŠ[ƒ~[#
+300665#••ˆó‚³‚ê‚½ƒAƒOƒŠƒ}ƒ_#
+300666#ƒuƒbƒ_‚Ì#
+300667#ƒOƒ‹[ƒg‚Ì#
+300715#ƒTƒ|[ƒg#
+300716#••ˆó‚³‚ê‚½ƒAƒOƒŠƒ}ƒ_#
+300717#ƒ^ƒeƒBƒI#
+300718#ƒŒƒbƒPƒ“ƒxƒ‹#
+300719#ƒAƒY#
+300720#ƒJƒ„EƒgƒX#
+300721#ƒ^ƒeƒBƒI‚Ì#
+300722#ƒŒƒbƒPƒ“ƒxƒ‹‚Ì#
 // Druid Items
-300683#Howell#
+300683#••ˆó‚³‚ê‚½ƒAƒOƒŠƒ}ƒ_#
 // Gatchaman Collaboration
-300732#Fly up!!#
-300733#I'll destroy you!!#
-300734#Firing!#
+300732#”ò‚×!!#
+300733#”j‰ó‚µ‚Ä‚â‚é!!#
+300734#••ˆó‚³‚ê‚½ƒAƒOƒŠƒ}ƒ_#
 
 // End of kRO Cards
-4495#of Half Protection#
-4496#of Half Infinity#
+4495#ƒn[ƒtƒvƒƒeƒNƒVƒ‡ƒ“‚Ì#
+4496#••ˆó‚³‚ê‚½ƒAƒOƒŠƒ}ƒ_#
 
-4536#Half Beast#
-4537#Half Perfect#
-4540#Half Crisis#
-4541#of Half Tempest#
-4542#of Half Magic Shelter#
-4543#Half Arctic#
-4544#Half Curse Lift#
-4547#Half Exceeding#
-4548#Half Nessus#
-4549#of Half True Sight#
-4550#Half Shaft#
+4536#ƒn[ƒtƒr[ƒXƒg#
+4537#ƒn[ƒtƒp[ƒtƒFƒNƒg#
+4540#••ˆó‚³‚ê‚½ƒAƒOƒŠƒ}ƒ_#
+4541#ƒn[ƒtƒeƒ“ƒyƒXƒg‚Ì#
+4542#ƒn[ƒtƒ}ƒWƒbƒNƒVƒFƒ‹ƒ^[‚Ì#
+4543#ƒn[ƒtƒA[ƒNƒeƒBƒbƒN#
+4544#••ˆó‚³‚ê‚½ƒAƒOƒŠƒ}ƒ_#
+4547#ƒn[ƒtƒGƒNƒV[ƒh#
+4548#ƒn[ƒtƒlƒbƒTƒX#
+4549#ƒn[ƒtƒgƒDƒ‹[ƒTƒCƒg‚Ì#
+4550#••ˆó‚³‚ê‚½ƒAƒOƒŠƒ}ƒ_#
 4551##
 
 4558##
@@ -1458,165 +1458,165 @@
 4620##
 4621##
 4622##
-4623#11th Anniversary#
+4623#••ˆó‚³‚ê‚½ƒAƒOƒŠƒ}ƒ_#
 
 25480##
 
-27000#of Sorrow#
-27001#of Hatred#
-27002#of Frustration#
-27003#of Chill#
-27004#of Wrath#
-27005#of Madness#
-27006#of Despair#
-27007#of Laugh#
-27008#Rogue#
-27009#Evil God#
-27010#Knight#
-27011#Knight's#
-27021#Brick King#
-27022#of Blaze Barrier#
-27023#Milk Master#
-27024#Rabbit#
+27000#ƒ\ƒ[‚Ì#
+27001#ƒwƒCƒgƒŒƒbƒh‚Ì#
+27002#ƒtƒ‰ƒXƒgƒŒ[ƒVƒ‡ƒ“‚Ì#
+27003#ƒ`ƒ‹‚Ì#
+27004#ƒ‰[ƒX‚Ì#
+27005#ƒ}ƒbƒhƒlƒX‚Ì#
+27006#ƒfƒBƒXƒyƒA‚Ì#
+27007#ƒ‰ƒt‚Ì#
+27008#ƒ[ƒO#
+27009#ƒCƒrƒ‹ƒSƒbƒh#
+27010#‹Rm#
+27011#ƒiƒCƒg‚Ì#
+27021#••ˆó‚³‚ê‚½ƒAƒOƒŠƒ}ƒ_#
+27022#ƒuƒŒƒCƒYƒoƒŠƒA‚Ì#
+27023#ƒ~ƒ‹ƒNƒ}ƒXƒ^[#
+27024#ƒ‰ƒrƒbƒg#
 
-27031#Extensive#
-27032#Astral#
-27033#Madman's#
-27034#Gust#
-27035#Twisted#
-27036#Sharp#
-27037#Queen Bird#
-27038#Spike#
-27039#of Big Runaway#
-27040#Brinicle#
-27041#High Tension#
-27042#of Interrupt#
-27043#of Mudd Candy#
-27044#of Mudd Sherbet#
-27045#of Soul Gathering#
-27050#Dual Mirage#
-27051#Dual Spiritual#
-27052#Dual Whale#
-27053#Dual Jungle#
-27054#Dual Genie#
-27055#of Sorcerer#
-27056#of Sura#
-27057#of Minstrel#
-27058#of Guillotine Cross#
-27059#of Arc Bishop#
-27060#of Ranger#
-27061#of Mechanic#
-27062#of Warlock#
-27063#of Rune Knight#
-27064#of Royal guard#
-27065#of Geneticist#
-27066#of Shadow Chaser#
-27067#of Wanderer#
-27068#Venom Pressure#
-27069#Judex#
-27070#Comet#
-27071#Cluster#
-27072#Magma#
-27073#Ignition#
-27074#Drive#
-27075#Crazy#
-27076#Cloud Kill#
-27077#Lion's#
-27078#Triangle#
-27079#Reverberation#
+27031#ƒGƒNƒXƒeƒ“ƒVƒu#
+27032#ƒAƒXƒgƒ‰ƒ‹#
+27033#ƒ}ƒbƒhƒ}ƒ“‚Ì#
+27034#“Ë•—#
+27035#ƒcƒCƒXƒeƒbƒh#
+27036#ƒVƒƒ[ƒv#
+27037#ƒNƒC[ƒ“ƒo[ƒh#
+27038#ƒXƒpƒCƒN#
+27039#ƒrƒbƒOƒ‰ƒ“ƒiƒEƒFƒC‚Ì#
+27040#ƒuƒ‰ƒCƒjƒNƒ‹#
+27041#ƒnƒCƒeƒ“ƒVƒ‡ƒ“#
+27042#ƒOƒŠƒ€‚³‚ê‚½ˆâ•¨#
+27043#ƒ}ƒbƒhƒLƒƒƒ“ƒfƒB‚Ì#
+27044#ƒ}ƒbƒhƒVƒƒ[ƒxƒbƒg‚Ì#
+27045#ƒ\ƒEƒ‹ƒMƒƒƒUƒŠƒ“ƒO‚Ì#
+27050#ƒOƒŠƒ€‚³‚ê‚½ˆâ•¨#
+27051#ƒfƒ…ƒAƒ‹ƒXƒsƒŠƒ`ƒ…ƒAƒ‹#
+27052#ƒfƒ…ƒAƒ‹ƒzƒG[ƒ‹#
+27053#ƒfƒ…ƒAƒ‹ƒWƒƒƒ“ƒOƒ‹#
+27054#ƒ~ƒhƒKƒ‹ƒh‚ğ‚½‚ß‚É#
+27055#ƒ\[ƒTƒ‰[‚Ì#
+27056#C—…‚Ì#
+27057#ƒ~ƒ“ƒXƒgƒŒƒ‹‚Ì#
+27058#ƒMƒƒ`ƒ“ƒNƒƒX‚Ì#
+27059#ƒA[ƒNƒrƒVƒ‡ƒbƒv‚Ì#
+27060#ƒŒƒ“ƒWƒƒ[‚Ì#
+27061#ƒƒJƒjƒbƒN‚Ì#
+27062#ƒEƒH[ƒƒbƒN‚Ì#
+27063#ƒ‹[ƒ“ƒiƒCƒg‚Ì#
+27064#ƒƒCƒ„ƒ‹ƒK[ƒh‚Ì#
+27065#ƒWƒFƒlƒeƒBƒbƒN‚Ì#
+27066#”­Œ@‚çƒ#
+27067#ƒƒ“ƒ_ƒ‰[‚Ì#
+27068#ƒxƒmƒ€ƒvƒŒƒbƒVƒƒ[#
+27069#ƒWƒ…ƒfƒbƒNƒX#
+27070#ƒRƒƒbƒg#
+27071#ƒNƒ‰ƒXƒ^[#
+27072#ƒ}ƒOƒ}#
+27073#ƒCƒOƒjƒbƒVƒ‡ƒ“#
+27074#ƒhƒ‰ƒCƒu#
+27075#ƒNƒŒƒCƒW[#
+27076#ƒNƒ‰ƒEƒhƒLƒ‹#
+27077#ƒ‰ƒCƒIƒ“ƒY#
+27078#‰¹–Í’á’n#
+27079#ƒŠƒo[ƒuƒŒ[ƒVƒ‡ƒ“#
 
-27089#System Boost#
-27090#of Mad Wizard#
-27091#of Mad Warrior#
-27092#Overclocking#
-27093#of Sniper#
-27094#of physical#
-27095#of Mad Biscuit#
-27096#of Expert#
-27097#of Angelman#
-27098#Punisher's#
-27099#Judge's#
-27100#of Clap#
+27089#ƒVƒXƒeƒ€ƒu[ƒXƒg#
+27090#ƒOƒŠƒ€‚³‚ê‚½ˆâ•¨#
+27091#ƒ}ƒbƒhƒEƒHƒŠƒA[‚Ì#
+27092#ƒI[ƒo[ƒNƒƒbƒN#
+27093#ƒXƒiƒCƒp[‚Ì#
+27094#ƒ~ƒhƒKƒ‹ƒh‚ğ‚½‚ß‚É#
+27095#ƒ}ƒbƒhƒrƒXƒPƒbƒg‚Ì#
+27096#ƒGƒLƒXƒp[ƒg‚Ì#
+27097#ƒGƒ“ƒWƒFƒ‹ƒ}ƒ“‚Ì#
+27098#ƒ~ƒhƒKƒ‹ƒh‚ğ‚½‚ß‚É#
+27099#ƒWƒƒƒbƒW‚Ì#
+27100#ƒNƒ‰ƒbƒv‚Ì#
 
-27127#of Abyss#
-27128#Ancient Blood#
-27129#Hundred#
-27130#Expansion#
-27131#Arrow Storm#
-27132#Cannon#
-27133#Rolling#
-27134#Adoramus#
-27135#Over Brand#
-27136#Diamond Dust#
-27137#Rainstorm#
-27138#Tornado#
-27139#Bomb#
-27140#of heaven and earth#
-27141#Volcanic#
-27142#Assault#
-27143#of Death Valley#
-27144#Elemental#
-27145#of Deep Impact#
-27146#Cutie#
+27127#The Sign#
+27128#ŒÃ‘ã‚ÌŒŒ#
+27129#ƒnƒ“ƒhƒŒƒbƒh#
+27130#ƒGƒNƒXƒpƒ“ƒVƒ‡ƒ“#
+27131#ƒAƒ[ƒXƒg[ƒ€#
+27132#ƒLƒƒƒmƒ“#
+27133#ƒ[ƒŠƒ“ƒO#
+27134#^CC3399ğŒFƒ}ƒOƒkƒXƒGƒNƒ\ƒVƒYƒ€ 1A#
+27135#ƒI[ƒo[ƒuƒ‰ƒ“ƒh#
+27136#ƒ_ƒCƒ„ƒ‚ƒ“ƒhƒ_ƒXƒg#
+27137#ƒŒƒCƒ“ƒXƒg[ƒ€#
+27138#ƒgƒ‹ƒl[ƒh#
+27139#The Sign#
+27140#“V’n‚Ì#
+27141#ƒ{ƒ‹ƒPƒjƒbƒN#
+27142#ƒAƒTƒ‹ƒg#
+27143#The Sign#
+27144#ƒGƒŒƒƒ“ƒ^ƒ‹#
+27145#ƒfƒB[ƒvƒCƒ“ƒpƒNƒg‚Ì#
+27146#ƒLƒ…[ƒeƒB#
 
-27185#Funnel#
-27186#of Bluff#
-27187#of frame#
-27188#Trigger Happy#
-27189#Speedster#
-27190#of Ice Barrier#
-27191#of Mist Guard#
-27192#Force of Mind#
+27185#ƒtƒ@ƒ“ƒlƒ‹#
+27186#ƒuƒ‰ƒt‚Ì#
+27187#ƒtƒŒ[ƒ€‚Ì#
+27188#–‚‰¤‚ÌƒXƒ‹ƒv#
+27189#ƒXƒs[ƒhƒXƒ^[#
+27190#•X‚ÌŒ‹ŠE‚Ì#
+27191#ƒ~ƒXƒgƒK[ƒh‚Ì#
+27192#ƒ^ƒ‹ ƒnƒCƒŠƒ‹Šw‰€‚Ö#
 
-27194#Magic Boost#
-27195#Power Boost#
+27194#ƒ}ƒWƒbƒNƒu[ƒXƒg#
+27195#ƒpƒ[ƒu[ƒXƒg#
 
-27226#of Will#
-27227#of Tough#
-27228#of Trinity#
-27229#Pretty#
-27230#Pure#
-27231#Honey#
-27232#Sugar#
-27233#Wake#
-27234#Silky#
-27235#Gust#
-27236#Blaze#
-27237#Transformation#
-27238#Unpetrified#
-27239#of Wind Barrier#
-27240#Habitation#
-27241#Jet#
-27242#of Elder#
-27243#of Soldier#
-27244#Sing#
-27245#Perform#
-27246#Fort#
-27247#Fortissimo#
-27248#Phantom#
+27226#ƒEƒBƒ‹‚Ì#
+27227#ƒ^ƒt‚Ì#
+27228#ƒgƒŠƒjƒeƒB‚Ì#
+27229#ƒvƒŠƒeƒB#
+27230#ƒsƒ…ƒA#
+27231#–I–¨#
+27232#ƒVƒ…ƒK[#
+27233#ƒEƒFƒCƒN#
+27234#ƒVƒ‹ƒL[#
+27235#“Ë•—#
+27236#ƒuƒŒƒCƒY#
+27237#ƒNƒbƒL[ŞW‚ß‚é 2#
+27238#ƒAƒ“ƒyƒgƒŠƒtƒ@ƒCƒh#
+27239#ƒEƒCƒ“ƒhƒoƒŠƒA‚Ì#
+27240#ƒnƒrƒe[ƒVƒ‡ƒ“#
+27241#ƒWƒFƒbƒg#
+27242#ƒGƒ‹ƒ_[‚Ì#
+27243#ƒ\ƒ‹ƒWƒƒ[‚Ì#
+27244#ƒVƒ“ƒO#
+27245#ƒNƒbƒL[ŞW‚ß‚é 1#
+27246#ƒtƒH[ƒg#
+27247#ƒtƒHƒ‹ƒeƒBƒbƒVƒ‚#
+27248#ƒtƒ@ƒ“ƒgƒ€#
 
-27301#of Berserk#
+27301#ƒo[ƒT[ƒN‚Ì#
 
-29230#Tainy Ale#
+29230#ƒ^ƒCƒj[ƒG[ƒ‹#
 
-29363#Burning Fire#
+29363#”R‚¦‚é‰Š#
 
-31000#of Toilet#
-31001#Morning Star#
-31002#Psychic#
-31003#Will#
-31004#Twister#
-31005#Sword Master#
-31006#of Praise Death Lord#
-31007#of Immortal Grudge#
-31008#Spirit Amulet#
-31009#of Wish Song#
-31010#Shubha~~~n!#
-31011#Kimakima Time#
-31012#Dragon Fear#
-31013#Mega Flare#
-31014#of Golden End#
-31015#of God of Fate#
+31000#ƒgƒCƒŒƒbƒg‚Ì#
+31001#ƒ‚[ƒjƒ“ƒOƒXƒ^[#
+31002#ƒTƒCƒLƒbƒN#
+31003#ƒEƒBƒ‹#
+31004#ƒcƒCƒXƒ^[#
+31005#ƒ\[ƒhƒ}ƒXƒ^[#
+31006#€‚Ì‰¤‚Ì#
+31007#•s–Å‚Ì‰…”O‚Ì#
+31008#ƒXƒsƒŠƒbƒgƒAƒ~ƒ…ƒŒƒbƒg#
+31009#ƒGƒ‹ƒŠ‚ÌƒNƒbƒL[#
+31010#ƒVƒ…ƒo~~~ƒ“I#
+31011#ƒLƒ}ƒLƒ}ƒ^ƒCƒ€#
+31012#ƒhƒ‰ƒSƒ“ƒtƒBƒA[#
+31013#ƒGƒ‹ƒŠ‚ÌƒNƒbƒL[#
+31014#ƒS[ƒ‹ƒfƒ“ƒGƒ“ƒh‚Ì#
+31015#‰^–½‚Ì_‚Ì#
 
 // jRO Enchantments (Not ordered by ID)
 4700#<Str+1>#
@@ -1828,169 +1828,169 @@
 //-------------------------------------------------
 29012#<High Level>#
 //-------------------------------------------------
-4970#<E-Fire>#
-4971#<E-Water>#
-4972#<E-Ground>#
-4973#<E-Wind>#
-4974#<R-Fire>#
-4975#<R-Water>#
-4976#<R-Ground>#
-4977#<R-Wind>#
-4978#<C-Life>#
-4979#<C-Soul>#
-4980#<C-HPR>#
-4981#<C-SPR>#
+4970#<E-‰Î>#
+4971#<E-…>#
+4972#<E-’n>#
+4973#<E-•—>#
+4974#<R-‰Î>#
+4975#<R-…>#
+4976#<R-’n>#
+4977#<R-•—>#
+4978#<C-¶–½>#
+4979#<C-°>#
+4980#<C-HP‰ñ•œ>#
+4981#<C-SP‰ñ•œ>#
 4982#<A-Str>#
 4983#<A-Int>#
 4984#<A-Def>#
-4985#<A-Avoid>#
+4985#<A-‰ñ”ğ>#
 4986#<A-Atk>#
 4987#<A-Matk>#
-4988#<A-MaxHP>#
-4989#<A-MaxSP>#
-4990#<A-Frozen>#
+4988#<A-Å‘åHP>#
+4989#<A-Å‘åSP>#
+4990#<A-“€Œ‹>#
 4991#<A-ASPD>#
 //-------------------------------------------------
-4933#<Neutral Resistance1>#
-4934#<Neutral Resistance2>#
-4935#<Neutral Resistance3>#
+4933#<–³‘®«‘Ï«1>#
+4934#<–³‘®«‘Ï«2>#
+4935#<–³‘®«‘Ï«3>#
 //-------------------------------------------------
-4942#<Parrying+3>#
-4943#<Parrying+4>#
-4944#<Parrying+5>#
-4945#<SP Consum-2%>#
-4946#<SP Consum-4%>#
-4947#<SP Consum-6%>#
-4949#<Skill Delay-4%>#
-4950#<Skill Delay-6%>#
+4942#<ƒpƒŠƒB+3>#
+4943#<ƒpƒŠƒB+4>#
+4944#<ƒpƒŠƒB+5>#
+4945#<SPÁ”ï-2%>#
+4946#<SPÁ”ï-4%>#
+4947#<SPÁ”ï-6%>#
+4949#<ƒXƒLƒ‹ƒfƒBƒŒƒC-4%>#
+4950#<ƒXƒLƒ‹ƒfƒBƒŒƒC-6%>#
 //-------------------------------------------------
-29058#<Dragon Fly Phantom Pearl>#
-29059#<Mannami Breath Whistle>#
-29060#<Universe Source>#
+29058#<ƒhƒ‰ƒSƒ“ƒtƒ‰ƒCŒ¶‰e^ì>#
+29059#<ƒ}ƒiƒ~ƒuƒŒƒXƒzƒCƒbƒXƒ‹>#
+29060#<‰F’ˆ‚ÌŒ¹>#
 //-------------------------------------------------
 4799#<HP+500>#
 //-------------------------------------------------
-29134#<Champion Thoughts>#
+29134#<ƒ`ƒƒƒ“ƒsƒIƒ“‚Ìv‘z>#
 //-------------------------------------------------
-29135#<Sharpness1>#
-29136#<Sharpness2>#
-29137#<Sharpness3>#
+29135#<‰s—˜1>#
+29136#<‰s—˜2>#
+29137#<‰s—˜3>#
 //-------------------------------------------------
-29042#<Guardian Dragon>#
-29043#<Valkyrie>#
-29044#<Gale>#
+29042#<çŒì—´>#
+29043#<ƒ”ƒ@ƒ‹ƒLƒŠ[>#
+29044#<¾•—>#
 //-------------------------------------------------
-29138#<Sharpness4>#
-29140#<Wrath of the Brave>#
-29141#<Devil's Roar>#
+29138#<‰s—˜4>#
+29140#<—EÒ‚ÌŒƒ“{>#
+29141#<ˆ«–‚‚Ì™ôšK>#
 //-------------------------------------------------
-29127#<Red Lotus>#
-29128#<Brass>#
-29129#<Silver>#
-29130#<Dusk>#
-29131#<Chaos>#
-29132#<Dawn>#
-29133#<Recovery>#
+29127#<g˜@>#
+29128#<^èJ>#
+29129#<‹â>#
+29130#<‰©¨>#
+29131#<¬“×>#
+29132#<‹Å>#
+29133#<‰ñ•œ>#
 //-------------------------------------------------
-29166#<A-Tolerance>#
+29166#<A-‘Ï«>#
 29167#<A-Hit>#
 29168#<A-Flee>#
 29169#<A-Mdef>#
 29170#<S-Atk>#
 29171#<S-Matk>#
-29172#<S-Avoid>#
-29173#<S-MaxHP>#
-29174#<S-Quick>#
+29172#<S-‰ñ”ğ>#
+29173#<S-Å‘åHP>#
+29174#<S-ƒNƒCƒbƒN>#
 29175#<S-Cri>#
 //-------------------------------------------------
-29177#<Dream Blessing1>#
-29178#<Dream Blessing2>#
-29179#<Dream Blessing3>#
-29180#<Dream Blessing4>#
-29181#<Dream Blessing5>#
+29177#<–²‚Ìj•Ÿ1>#
+29178#<–²‚Ìj•Ÿ2>#
+29179#<–²‚Ìj•Ÿ3>#
+29180#<–²‚Ìj•Ÿ4>#
+29181#<–²‚Ìj•Ÿ5>#
 //-------------------------------------------------
-29206#<Bullseye>#
-29207#<Life Drain>#
+29206#<ƒuƒ‹ƒYƒAƒC>#
+29207#<ƒ‰ƒCƒtƒhƒŒƒCƒ“>#
 //-------------------------------------------------
 4903#<Def+21>#
 4884#<Hit+1>#
 29212#<Hit+3>#
 29213#<Hit+6>#
-29214#<Burn>#
-29215#<Gale>#
-29216#<Flood>#
-29217#<Glay>#
-29218#<Grudge>#
-29219#<Ua>#
-29220#<Venom>#
-29221#<Desperia>#
-29222#<Sacred>#
+29214#<‰Î>#
+29215#<¾•—>#
+29216#<”Ã—”>#
+29217#<ƒOƒŒƒC>#
+29218#<‰…”O>#
+29219#<ƒEƒA>#
+29220#<ƒxƒmƒ€>#
+29221#<ƒfƒXƒyƒŠƒA>#
+29222#<_¹>#
 //-------------------------------------------------
-29231#<Dragon Hunter>#
-29232#<Robust>#
-29233#<Magic>#
-29234#<Fatal Blow>#
+29231#<ƒhƒ‰ƒSƒ“ƒnƒ“ƒ^[>#
+29232#<ƒƒoƒXƒg>#
+29233#<–‚–@>#
+29234#<’v–½>#
 //-------------------------------------------------
-29249#<Neev of Comfort(Vitality)>#
-29250#<Neev of Comfort(Spirit)>#
-29251#<Neev of Comfort(Life)>#
-29252#<Neev of Comfort(Intelligence)>#
-29253#<Neev of Eternal(Fire)>#
-29254#<Neev of Eternal(Water)>#
-29255#<Neev of Eternal(Wind)>#
-29256#<Neev of Eternal(Earth)>#
-29257#<Neev of Eternal(Shadow)>#
-29258#<Neev of Eternal(Ghost)>#
-29259#<Neev of Eternal(Poison)>#
-29260#<Neev of Wound(Formless)>#
-29261#<Neev of Wound(Undead)>#
-29262#<Neev of Wound(Brute)>#
-29263#<Neev of Wound(Plant)>#
-29264#<Neev of Wound(Insect)>#
-29265#<Neev of Wound(Fish)>#
-29266#<Neev of Wound(Demon)>#
-29267#<Neev of Wound(Demi-Human)>#
-29268#<Neev of Wound(Angel)>#
-29269#<Neev of Wound(Dragon)>#
-29270#<Neev of Blood(Strength)>#
-29271#<Neev of Blood(Speed)>#
-29272#<Neev of Blood(Vitality)>#
-29273#<Neev of Blood(Intelligence)>#
-29274#<Neev of Blood(Concentration)>#
-29275#<Neev of Blood(Fortune)>#
-29276#<Neev of Honor(Speed)>#
-29277#<Neev of Honor(Concentration)>#
-29278#<Neev of Honor(Skill)>#
-29279#<Neev of Death(Strength)>#
-29280#<Neev of Death(Intelligence)>#
-29281#<Neev of Death(Physical)>#
-29282#<Neev of Death(Magic)>#
+29249#<ƒj[ƒuƒIƒuƒRƒ“ƒtƒH[ƒg(‘Ì—Í)>#
+29250#<ƒj[ƒuƒIƒuƒRƒ“ƒtƒH[ƒg(¸_)>#
+29251#<ƒj[ƒuƒIƒuƒRƒ“ƒtƒH[ƒg(¶–½)>#
+29252#<ƒj[ƒuƒIƒuƒRƒ“ƒtƒH[ƒg(’m”\)>#
+29253#<ƒj[ƒuƒIƒuƒGƒ^[ƒiƒ‹(‰Î)>#
+29254#<ƒj[ƒuƒIƒuƒGƒ^[ƒiƒ‹(…)>#
+29255#<ƒj[ƒuƒIƒuƒGƒ^[ƒiƒ‹(•—)>#
+29256#<ƒj[ƒuƒIƒuƒGƒ^[ƒiƒ‹(’n)>#
+29257#<ƒj[ƒuƒIƒuƒGƒ^[ƒiƒ‹(‰e)>#
+29258#<ƒj[ƒuƒIƒuƒGƒ^[ƒiƒ‹(”O)>#
+29259#<ƒj[ƒuƒIƒuƒGƒ^[ƒiƒ‹(“Å)>#
+29260#<ƒj[ƒuƒIƒuƒE[ƒ“ƒh(–³Œ`)>#
+29261#<ƒj[ƒuƒIƒuƒE[ƒ“ƒh(•s€)>#
+29262#<‘n‚Ìƒj[ƒ”(“®•¨)>#
+29263#<‘n‚Ìƒj[ƒ”(A•¨)>#
+29264#<‘n‚Ìƒj[ƒ”(©’)>#
+29265#<‘n‚Ìƒj[ƒ”(‹›‰î)>#
+29266#<‘n‚Ìƒj[ƒ”(ˆ«–‚)>#
+29267#<‘n‚Ìƒj[ƒ”(lŠÔ)>#
+29268#<‘n‚Ìƒj[ƒ”(“Vg)>#
+29269#<‘n‚Ìƒj[ƒ”(—³‘°)>#
+29270#<‘NŒŒ‚Ìƒj[ƒ”(—Í)>#
+29271#<‘NŒŒ‚Ìƒj[ƒ”(‘¬‚³)>#
+29272#<‘NŒŒ‚Ìƒj[ƒ”(‘Ì—Í)>#
+29273#<‘NŒŒ‚Ìƒj[ƒ”(’m”\)>#
+29274#<‘NŒŒ‚Ìƒj[ƒ”(W’†)>#
+29275#<‘NŒŒ‚Ìƒj[ƒ”(K‰^)>#
+29276#<–¼—_‚Ìƒj[ƒ”(‘¬‚³)>#
+29277#<–¼—_‚Ìƒj[ƒ”(W’†)>#
+29278#<–¼—_‚Ìƒj[ƒ”(ƒXƒLƒ‹)>#
+29279#<€‚Ìƒj[ƒ”(—Í)>#
+29280#<€‚Ìƒj[ƒ”(’m”\)>#
+29281#<€‚Ìƒj[ƒ”(•¨—)>#
+29282#<€‚Ìƒj[ƒ”(–‚–@)>#
 //-------------------------------------------------
-29235#<Perfect Dodge+1>#
-29236#<Perfect Dodge+2>#
+29235#<Š®‘S‰ñ”ğ+1>#
+29236#<Š®‘S‰ñ”ğ+2>#
 29237#<Flee+5>#
 29238#<Flee+10>#
 29239#<Hit+5>#
 29240#<Hit+10>#
 29241#<Cri+10>#
-29242#<Indestructible(Armor)#
-29243#<Uninterruptable Cast>#
-29244#<Player Resistance1>#
-29245#<Player Resistance2>#
-29246#<Player Resistance3>#
-29247#<Player Resistance4>#
-29248#<Player Resistance5>#
+29242#<”j‘¹•s‰Â(ŠZ)#
+29243#<‰r¥–WŠQ•s‰Â>#
+29244#<ƒvƒŒƒCƒ„[‘Ï«1>#
+29245#<ƒvƒŒƒCƒ„[‘Ï«2>#
+29246#<ƒvƒŒƒCƒ„[‘Ï«3>#
+29247#<ƒvƒŒƒCƒ„[‘Ï«4>#
+29248#<ƒvƒŒƒCƒ„[‘Ï«5>#
 4901#<Mdef+7>#
 4902#<Def+18>#
 //-------------------------------------------------
-27046#<Virgo>#
-27047#<Virgo Fragment>#
-27048#<Leo>#
-27049#<Leo Fragment>#
+27046#<‰³—À>#
+27047#<‰³—À‚ÌŒ‡•Ğ>#
+27048#<‚qÀ>#
+27049#<‚qÀ‚ÌŒ‡•Ğ>#
 //-------------------------------------------------
-29300#<Prison>#
+29300#<ƒvƒŠƒYƒ“>#
 //-------------------------------------------------
-29139#<Sharpness5>#
+29139#<ƒVƒƒ[ƒvƒlƒX5>#
 4707#<Str+8>#
 4708#<Str+9>#
 4709#<Str+10>#
@@ -1998,34 +1998,34 @@
 4718#<Int+9>#
 4719#<Int+10>#
 //--------------------------------------------
-29371#<Liberation of Truth>#
-29372#<Fixed Casting Time-50%>#
-29373#<Skill Delay-15%>#
-29374#<SP Consum-15%>#
+29371#<^—‚Ì‰ğ•ú>#
+29372#<ŒÅ’è‰r¥ŠÔ-50%>#
+29373#<ƒXƒLƒ‹ƒfƒBƒŒƒC-15%>#
+29374#<SPÁ”ï-15%>#
 //--------------------------------------------
-29366#<Strong Blow1>#
-29367#<Strong Blow2>#
-29368#<Strong Blow3>#
-29375#<Player Resistance6>#
-29376#<Player Resistance7>#
-29377#<Player Resistance8>#
-29378#<Player Resistance9>#
-29379#<Player Resistance10>#
+29366#<‹­‘Å1>#
+29367#<‹­‘Å2>#
+29368#<‹­‘Å3>#
+29375#<ƒvƒŒƒCƒ„[‘Ï«6>#
+29376#<ƒvƒŒƒCƒ„[‘Ï«7>#
+29377#<ƒvƒŒƒCƒ„[‘Ï«8>#
+29378#<ƒvƒŒƒCƒ„[‘Ï«9>#
+29379#<ƒvƒŒƒCƒ„[‘Ï«10>#
 //--------------------------------------------
-29382#<Neev of Honor(Hit)>#
-29383#<Neev of Honor(Flee)>#
-29384#<Neev of Honor(Luk)>#
-29385#<Neev of Death(Dex)>#
-29386#<Neev of Death(Luk)>#
+29382#<–¼—_‚Ìƒj[ƒ”(Hit)>#
+29383#<–¼—_‚Ìƒj[ƒ”(Flee)>#
+29384#<–¼—_‚Ìƒj[ƒ”(Luk)>#
+29385#<€‚Ìƒj[ƒ”(Dex)>#
+29386#<€‚Ìƒj[ƒ”(Luk)>#
 //-------------------------------------------------
-27155#<Caner>#
-27156#<Taurus>#
+27155#<ŠIÀ>#
+27156#<‰²‹À>#
 //-------------------------------------------------
-29436#<Overlord>#
-29437#<Skill Delay-8%>#
+29436#<ƒI[ƒo[ƒ[ƒh>#
+29437#<ƒXƒLƒ‹ƒfƒBƒŒƒC-8%>#
 //-------------------------------------------------
-27204#<Gemini>#
-27205#<Sagittarius>#
+27204#<‘oqÀ>#
+27205#<ËèÀ>#
 29450#<Lv1>#
 29451#<Lv2>#
 29452#<Lv3>#
@@ -2037,30 +2037,30 @@
 29458#<Lv9>#
 29459#<Lv10>#
 //-------------------------------------------------
-29472#<Overclock>#
-29473#<Rigid Transcendent Arm>#
-29475#<Cursed Force>#
+29472#<ƒI[ƒo[ƒNƒƒbƒN>#
+29473#<„‹B’´‰z˜r>#
+29475#<ô—Í>#
 //-------------------------------------------------
-29474#<Rigid Arm>#
-29476#<Dragon Scale>#
+29474#<„‹B˜r>#
+29476#<—³—Ø>#
 //-------------------------------------------------
-29438#<Z-Knockback>#
-29439#<Z-Immortal>#
-29440#<Z-Killgain>#
-29441#<Z-Reincarnation>#
-29442#<Z-NoDispell>#
-29443#<Z-Clairvoyance>#
-29444#<Z-CastFixed>#
+29438#<Z-ƒmƒbƒNƒoƒbƒN>#
+29439#<Z-•s€>#
+29440#<Z-ƒLƒ‹ƒQƒCƒ“>#
+29441#<Z-“]¶>#
+29442#<Z-ƒfƒBƒXƒyƒ‹–³Œø>#
+29443#<Z-ç—¢Šá>#
+29444#<Z-ŒÅ’è‰r¥>#
 //-------------------------------------------------
-27299#<Surpentarius>#
-27300#<Aquarius>#
+27299#<Ög‚¢À>#
+27300#<…•rÀ>#
 //-------------------------------------------------
-29510#<Neeve of Wound(Player)>#
-29512#<Titan>#
+29510#<‘n‚Ìƒj[ƒ”(ƒvƒŒƒCƒ„[)>#
+29512#<ƒ^ƒCƒ^ƒ“>#
 //-------------------------------------------------
-29509#<Grand Master>#
+29509#<ƒOƒ‰ƒ“ƒhƒ}ƒXƒ^[>#
 //-------------------------------------------------
-29369#<Strong Blow4>#
+29369#<‹­‘Å4>#
 29370#<Strong Blow5>#
 29445#<Amplification1>#
 29446#<Amplification2>#
@@ -2077,7 +2077,7 @@
 29609#<Capricon>#
 29610#<Pisces>#
 //-------------------------------------------------
-29593#<Freeze Tolerance>#
+29593#<“€Œ‹‘Ï«>#
 //-------------------------------------------------
 29646#<Super-Dreadnought>#
 29649#<Ignore Def50%>#
@@ -2088,14 +2088,14 @@
 //-------------------------------------------------
 29449#<Amplification5>#
 //-------------------------------------------------
-29690#<Fire Element(Weapon)>#
-29691#<Water Element(Weapon)>#
-29692#<Wind Element(Weapon)>#
-29693#<Earth Element(Weapon)>#
-29694#<Holy Element(Weapon)>#
-29695#<Shadow Element(Weapon)>#
-29696#<Ghost Element(Weapon)>#
-29697#<Poison Element(Weapon)>#
+29690#<‰Î‘®«(•Ší)>#
+29691#<…‘®«(•Ší)>#
+29692#<•—‘®«(•Ší)>#
+29693#<’n‘®«(•Ší)>#
+29694#<¹‘®«(•Ší)>#
+29695#<ˆÅ‘®«(•Ší)>#
+29696#<”O‘®«(•Ší)>#
+29697#<“Å‘®«(•Ší)>#
 //-------------------------------------------------
 310012#<Death Drive>#
 //-------------------------------------------------
@@ -2162,11 +2162,11 @@
 //-------------------------------------------------
 310075#<Greed Casting-100%>#
 //-------------------------------------------------
-310196#<Ranged Physical Resistance+10%>#
+310196#<‰“‹——£•¨—‘Ï«+10%>#
 //-------------------------------------------------
-310192#<Extreme>#
+310192#<‹ÉŒÀ>#
 //-------------------------------------------------
-310269#<Petrifaction Tolerance>#
+310269#<Î‰»‘Ï«>#
 //-------------------------------------------------
 310270#<T-PowerBoost>#
 310271#<T-MagicBoost>#
@@ -2178,22 +2178,22 @@
 310312#<Latent Release(Sorcerer)>#
 310313#<Latent Release(Arch Bishop)>#
 310314#<Latent Release(Sura)>#
-310315#<Latent Release(Shadow Chaser)>#
-310316#<Latent Release(Mechanic)>#
-310317#<Latent Release(Genetic)>#
-310318#<Attack+25%>#
+310315#<öİŠoÁ(ƒVƒƒƒhƒEƒ`ƒFƒCƒT[)>#
+310316#<öİŠoÁ(ƒƒJƒjƒbƒN)>#
+310317#<öİŠoÁ(ƒWƒFƒlƒeƒBƒbƒN)>#
+310318#<UŒ‚+25%>#
 310319#<Hit+100>#
 //-------------------------------------------------
-29587#<Flash>#
-29588#<Power>#
-29589#<Celestial>#
-29590#<Divine Power>#
-29591#<Rigid Body>#
-29592#<Hundred Lucks>#
+29587#<ƒtƒ‰ƒbƒVƒ…>#
+29588#<—Í>#
+29589#<“VŠE>#
+29590#<_¹‚È‚é—Í>#
+29591#<„‘Ì>#
+29592#<•S‚ÌK‰^>#
 //-------------------------------------------------
-310193#<Knockback Tolerance>#
+310193#<ƒmƒbƒNƒoƒbƒN‘Ï«>#
 310194#<Def + 50>#
-310195#<MagnificatLv5>#
+310195#<ƒ}ƒOƒjƒtƒBƒJ[ƒgLv5>#
 //-------------------------------------------------
 4727#<Dex+8>#
 4728#<Dex+9>#
@@ -2208,86 +2208,86 @@
 4758#<Luk+9>#
 4759#<Luk+10>#
 //-------------------------------------------------
-29302#<Water Element(Armor)>#
-29303#<Wind Element(Armor)>#
-29304#<Earth Element(Armor)>#
-29305#<Fire Element(Armor)>#
-29306#<Shadow Element(Armor)>#
-29307#<Holy Element(Armor)>#
-29308#<Undead Element(Armor)>#
-29309#<Poison Element(Armor)>#
-310320#<Ghost Element(Armor)>#
+29302#<…‘®«(ŠZ)>#
+29303#<•—‘®«(ŠZ)>#
+29304#<’n‘®«(ŠZ)>#
+29305#<‰Î‘®«(ŠZ)>#
+29306#<ˆÅ‘®«(ŠZ)>#
+29307#<¹‘®«(ŠZ)>#
+29308#<•s€‘®«(ŠZ)>#
+29309#<“Å‘®«(ŠZ)>#
+310320#<”O‘®«(ŠZ)>#
 //-------------------------------------------------
-29041#<Twinkle Effect>#
-29161#<Pink Glow Effect>#
-29162#<Shadow Effect>#
-29224#<White Body Effect>#
+29041#<‚«‚ç‚ß‚«ƒGƒtƒFƒNƒg>#
+29161#<ƒsƒ“ƒN‚Ì‹P‚«ƒGƒtƒFƒNƒg>#
+29162#<ƒVƒƒƒhƒEƒGƒtƒFƒNƒg>#
+29224#<”’ƒ{ƒfƒBƒGƒtƒFƒNƒg>#
 //-------------------------------------------------
-310331#<Latent Release(Warlock)>#
-310332#<Latent Release(Guillotine Cross)>#
-310333#<Latent Release(Minstrel)>#
-310334#<Latent Release(Ranger)>#
-310335#<Latent Release(Wanderer)>#
+310331#<öİŠoÁ(ƒEƒH[ƒƒbƒN)>#
+310332#<öİŠoÁ(ƒMƒƒ`ƒ“ƒNƒƒX)>#
+310333#<öİŠoÁ(ƒ~ƒ“ƒXƒgƒŒƒ‹)>#
+310334#<öİŠoÁ(ƒŒƒ“ƒWƒƒ[)>#
+310335#<öİŠoÁ(ƒƒ“ƒ_ƒ‰[)>#
 //-------------------------------------------------
-29716#<Sun>#
-29717#<Moon>#
-29718#<Star>#
+29716#<‘¾—z>#
+29717#<Œ>#
+29718#<¯>#
 29719#<S>#
-29720#<Dead Spirit>#
-29721#<Soul>#
+29720#<€—ì>#
+29721#<°>#
 //-------------------------------------------------
-29722#<Curse>#
-29723#<Star>#
+29722#<ô‚¢>#
+29723#<¯>#
 //-------------------------------------------------
-310082#<Q-Normal>#
-310083#<Q-Boss>#
+310082#<Q-ˆê”Ê>#
+310083#<Q-ƒ{ƒX>#
 310084#<B-Vit>#
 310085#<B-Luk>#
 310086#<B-Str>#
 310087#<B-Agi>#
 310088#<B-Int>#
 310089#<B-Dex>#
-310090#<A-Reflect>#
-310091#<A-SPCost>#
-310092#<P-Petrifaction>#
-310093#<P-Curse>#
-310094#<P-Sleep>#
-310095#<P-Confuse>#
-310096#<P-Silence>#
-310097#<P-Fear>#
-310098#<P-Ignition>#
-310099#<R-Saint>#
-310100#<R-Undead>#
-310101#<R-Darkness>#
-310102#<R-Telekinesis>#
-310103#<E-Saint>#
-310104#<E-Undead>#
-310105#<E-Darkness>#
-310106#<E-Poison>#
-310107#<G-Guided>#
-310108#<G-Cri>#
-310121#<S-UnlimitVital>#
-310122#<S-SpellBuster>#
-310123#<S-FiringShot>#
-310124#<S-OverPower>#
-310125#<S-FatalFlash>#
-310126#<S-LuckyStrike>#
-310127#<L-Sight1>#
-310128#<L-Teleport1>#
-310129#<L-SpellBreaker1>#
-310130#<L-Steal1>#
-310131#<L-SnowFlip1>#
-310132#<L-PeonyMamy1>#
-310133#<L-Sadagui1>#
-310134#<L-SeuoiaDust1>#
-310135#<L-Hiding1>#
-310136#<L-Magnum3>#
-310137#<L-FireBall3>#
-310138#<L-Heal1>#
-310139#<L-Cure1>#
-310140#<L-Poison3>#
-310141#<L-Detoxify1>#
-310142#<L-ThrowStone1>#
+310090#<A-”½Ë>#
+310091#<A-SPÁ”ï>#
+310092#<P-Î‰»>#
+310093#<P-ô‚¢>#
+310094#<P-‡–°>#
+310095#<P-¬—>#
+310096#<P-’¾–Ù>#
+310097#<P-‹°•|>#
+310098#<P-”­‰Î>#
+310099#<R-¹>#
+310100#<R-•s€>#
+310101#<R-ˆÅ>#
+310102#<R-”O“®>#
+310103#<E-¹>#
+310104#<E-•s€>#
+310105#<E-ˆÅ>#
+310106#<E-“Å>#
+310107#<G-—U“±>#
+310108#<G-ƒNƒŠ>#
+310121#<S-–³ŒÀŠˆ—Í>#
+310122#<S-ƒXƒyƒ‹ƒoƒXƒ^[>#
+310123#<S-”­Ë>#
+310124#<S-ˆ³“|>#
+310125#<S-’v–½“I‘MŒõ>#
+310126#<S-K‰^‚ÌˆêŒ‚>#
+310127#<L-ƒTƒCƒg1>#
+310128#<L-ƒeƒŒƒ|[ƒg1>#
+310129#<L-ƒXƒyƒ‹ƒuƒŒƒCƒJ[1>#
+310130#<L-ƒXƒ`[ƒ‹1>#
+310131#<L-á“]‚Ñ1>#
+310132#<L-‰²’O•‘1>#
+310133#<L-¹‘É‹T1>#
+310134#<L-ƒZƒRƒCƒAƒ_ƒXƒg1>#
+310135#<L-ƒnƒCƒfƒBƒ“ƒO1>#
+310136#<L-ƒ}ƒOƒiƒ€3>#
+310137#<L-ƒtƒ@ƒCƒA[ƒ{[ƒ‹3>#
+310138#<L-ƒq[ƒ‹1>#
+310139#<L-ƒLƒ…ƒA1>#
+310140#<L-ƒ|ƒCƒYƒ“3>#
+310141#<L-‰ğ“Å1>#
+310142#<L-Î“Š‚°1>#
 310143#<L-AbsorbSpirits1>#
 310144#<L-Bash3>#
 310145#<L-Cloaking1>#
@@ -2313,44 +2313,44 @@
 310165#<L-MagicPower5>#
 310166#<L-Gloria1>#
 //-------------------------------------------------
-310336#<Site Lv1>#
-310337#<Perspective>#
+310336#<ƒTƒCƒg Lv1>#
+310337#<‹“_>#
 //-------------------------------------------------
-27397#<Nihitsu>#
-27398#<Perfect Dodge+25>#
-27399#<Divine Offering>#
-27400#<Ranged Physical Resistance+5%>#
-27401#<Seize Lv1>#
+27397#<“ñŒ‚>#
+27398#<Š®‘S‰ñ”ğ+25>#
+27399#<_¹‚È‹Ÿ•¨>#
+27400#<‰“‹——£•¨—‘Ï«+5%>#
+27401#<ƒTƒCƒY Lv1>#
 //-------------------------------------------------
-29724#<Murderous Grudge>#
+29724#<EˆÓ‚Ì‰…¦>#
 //-------------------------------------------------
-27402#<Latent Release(Summoner)>#
-27403#<Latent Release(Star Emperor)>#
-27404#<Latent Release(Soul Reaper)>#
-27405#<Latent Release(Kagerou)>#
-27406#<Latent Release(Oboro)>#
-27407#<Latent Release(Rebellion)>#
-27408#<Fire Immunity>#
-27409#<Water Immunity>#
-27410#<Wind Immunity>#
-27411#<Earth Immunity>#
-27412#<MaxHP+15%>#
+27402#<öİŠoÁ(ƒTƒ‚ƒi[)>#
+27403#<öİŠoÁ(¯’é)>#
+27404#<öİŠoÁ(ƒ\ƒEƒ‹ƒŠ[ƒp[)>#
+27405#<öİŠoÁ(‰e˜T)>#
+27406#<öİŠoÁ(O)>#
+27407#<öİŠoÁ(ƒŠƒxƒŠƒIƒ“)>#
+27408#<‰Î‘®«–³Œø>#
+27409#<…‘®«–³Œø>#
+27410#<•—‘®«–³Œø>#
+27411#<’n‘®«–³Œø>#
+27412#<Å‘åHP+15%>#
 //-------------------------------------------------
-300229#<Extra Str>#
-310648#<Extra Agi>#
-310649#<Extra Vit>#
-310650#<Extra Int>#
-310651#<Extra Dex>#
-310652#<Extra Luk>#
+300229#<’Ç‰ÁStr>#
+310648#<’Ç‰ÁAgi>#
+310649#<’Ç‰ÁVit>#
+310650#<’Ç‰ÁInt>#
+310651#<’Ç‰ÁDex>#
+310652#<’Ç‰ÁLuk>#
 //-------------------------------------------------
-310653#<Q-Range>#
+310653#<Q-Ë’ö>#
 //-------------------------------------------------
-310655#<Everything>#
+310655#<‚·‚×‚Ä>#
 //-------------------------------------------------
-310758#<Player Resistance13>#
+310758#<ƒvƒŒƒCƒ„[‘Ï«13>#
 //-------------------------------------------------
-310759#<Ares>#
-310760#<King's Divine Power>#
+310759#<ƒAƒŒƒX>#
+310760#<‰¤‚Ì_¹‚È‚é—Í>#
 //-------------------------------------------------
-310850#<Fireworks>#
+310850#<‰Ô‰Î>#
 //------------------------
